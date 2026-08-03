@@ -11,6 +11,10 @@ import { ES_SHARED } from './i18n/esShared';
 import { ES_ARTICLES } from './i18n/esArticles';
 import { AR_SHARED } from './i18n/arShared';
 import { AR_ARTICLES } from './i18n/arArticles';
+// 各语言 MD 管线产物（content/<lang>/*.md 编译而来）；缺失语言目录时生成为 {}，由手写 TS 兜底。
+import { GENERATED_ARTICLES_en } from './i18n/generatedArticles.gen.en';
+import { GENERATED_ARTICLES_es } from './i18n/generatedArticles.gen.es';
+import { GENERATED_ARTICLES_ar } from './i18n/generatedArticles.gen.ar';
 
 // 合并手动文章与 MD 管线生成文章：重叠板块采用「追加」而非「覆盖」，
 // 确保原有手动文章不丢失，同时生成文章也出现在对应栏目。
@@ -60,7 +64,9 @@ export const I18N: Record<Lang, Dict> = {
     ...ZH_SHARED,
     articles: mergeArticles(ZH_ARTICLES, GENERATED_ARTICLES) as Dict['articles'],
   },
-  en: { ...EN_SHARED, articles: EN_ARTICLES as Dict['articles'] },
-  es: { ...ES_SHARED, articles: ES_ARTICLES as Dict['articles'] },
-  ar: { ...AR_SHARED, articles: AR_ARTICLES as Dict['articles'] },
+  // 文章：手写 TS 作为基础层，MD 管线产物作为覆盖层（同 id 去重时 MD 优先），
+  // 实现「每语言独立 Markdown 源、按语言加载」且迁移期不丢失既有译文。
+  en: { ...EN_SHARED, articles: mergeArticles(EN_ARTICLES, GENERATED_ARTICLES_en) as Dict['articles'] },
+  es: { ...ES_SHARED, articles: mergeArticles(ES_ARTICLES, GENERATED_ARTICLES_es) as Dict['articles'] },
+  ar: { ...AR_SHARED, articles: mergeArticles(AR_ARTICLES, GENERATED_ARTICLES_ar) as Dict['articles'] },
 };

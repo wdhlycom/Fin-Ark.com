@@ -70,11 +70,11 @@ function parseBody(body) {
 // ---------- 3. 读取某语言目录下全部 .md ----------
 function buildLang(lang) {
   const dir = join(CONTENT_DIR, lang);
-  if (!existsSync(dir)) return null;
+  const grouped = {};
+  if (!existsSync(dir)) return grouped; // 语言目录尚未建立 → 返回空（仍会生成 {} 文件，保证导入可解析）
   const files = readdirSync(dir).filter(
     (f) => f.endsWith('.md') && !f.startsWith('_') && f !== 'README.md'
   );
-  const grouped = {};
   const usedIds = new Set();
   for (const f of files) {
     const raw = readFileSync(join(dir, f), 'utf8');
@@ -91,6 +91,10 @@ function buildLang(lang) {
     const order = data.order ? Number(data.order) : undefined;
     const article = {
       id,
+      // slug：URL 路径段，缺省回退 id；不同语言可设不同语义化 slug
+      slug: data.slug || undefined,
+      // translationKey：跨语言译文配对键，缺省回退 id
+      translationKey: data.translationKey || undefined,
       title: data.title || f.replace(/\.md$/, ''),
       subtitle: data.subtitle || '',
       date: data.date || '1970-01-01',
@@ -112,10 +116,6 @@ function buildLang(lang) {
 
 // ---------- 4. 写出 TS 文件 ----------
 function emit(lang, grouped) {
-  if (!grouped) {
-    console.log(`· ${lang}: 无 content/${lang}/ 目录，跳过`);
-    return;
-  }
   const suffix = lang === 'zh' ? '' : `.${lang}`;
   const objName = `GENERATED_ARTICLES${suffix ? '_' + lang : ''}`;
   // 输出文件名用 .gen 后缀，避免被 IDE 锁定的旧 generatedArticles.ts 占用导致写入失败
@@ -132,12 +132,8 @@ function emit(lang, grouped) {
 }
 
 // ---------- 5. 入口 ----------
+const ALL_LANGS = ['zh', 'en', 'es', 'ar'];
 const args = process.argv.slice(2);
-let targetLangs = args;
-if (!targetLangs.length) {
-  targetLangs = existsSync(CONTENT_DIR)
-    ? readdirSync(CONTENT_DIR).filter((d) => existsSync(join(CONTENT_DIR, d)))
-    : [];
-}
+const targetLangs = args.length ? args : ALL_LANGS;
 for (const lang of targetLangs) emit(lang, buildLang(lang));
 console.log('管线完成。\n');

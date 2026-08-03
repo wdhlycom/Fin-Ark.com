@@ -10,34 +10,19 @@ import { SECTION_HEADER } from '../sectionHeaderText';
 type CategoryMeta = {
   id: Extract<SectionId, 'trust' | 'gold' | 'emerging'>;
   icon: LucideIcon;
-  name: string;
   /** 矩阵标题色——与子板块独立块配色同源（来自 theme.accent） */
   accent: string;
-  desc: string;
 };
 
 const CATEGORIES: CategoryMeta[] = [
-  { id: 'trust', icon: Landmark, name: '信托家办', accent: getTheme('trust').accent, desc: '财富风险隔离与家族传承' },
-  { id: 'gold', icon: Coins, name: '黄金储备', accent: getTheme('gold').accent, desc: '绝对实物本位与最后避险资产' },
-  { id: 'emerging', icon: Binary, name: '新型资产', accent: getTheme('emerging').accent, desc: '对抗法币贬值的数字黄金' },
+  { id: 'trust', icon: Landmark, accent: getTheme('trust').accent },
+  { id: 'gold', icon: Coins, accent: getTheme('gold').accent },
+  { id: 'emerging', icon: Binary, accent: getTheme('emerging').accent },
 ];
 
-// 各子板块"查看全部"按钮文案（中文，与全站基调一致）
-const VIEW_ALL_LABEL: Record<string, string> = {
-  trust: '查看全部信托洞察',
-  gold: '查看全部黄金洞察',
-  emerging: '查看全部新型资产洞察',
-};
-
-// 编辑性参考维度（非投资建议）：横向对比三大资产类别的关键特征。
-const DIMENSIONS: { label: string; trust: string; gold: string; emerging: string }[] = [
-  { label: '风险等级', trust: '低', gold: '中低', emerging: '高' },
-  { label: '流动性', trust: '低 · 锁定期长', gold: '高', emerging: '高' },
-  { label: '起投门槛', trust: '高', gold: '低', emerging: '低' },
-  { label: '核心功能', trust: '传承隔离 · 债务防火墙', gold: '保值避险 · 实物本位', emerging: '增值对冲 · 数字黄金' },
-  { label: '与港险互补', trust: '高维补充 · 拉满传承', gold: '静态防守 · 攻守兼备', emerging: '动态对冲 · 落袋锁利' },
-  { label: '适合人群', trust: '高净值家族', gold: '所有家庭', emerging: '能承受波动者' },
-];
+// 矩阵维度渲染顺序（与 i18n 中 dimensions.labels/values 的键一一对应）
+const DIM_ORDER = ['risk', 'liquidity', 'threshold', 'function', 'complement', 'audience'] as const;
+type DimKey = (typeof DIM_ORDER)[number];
 
 export default function AssetMapPage({
   onConsult,
@@ -73,13 +58,14 @@ export default function AssetMapPage({
         {/* === 全景对比矩阵（三栏浮动卡片 · 无外框） === */}
         <div className="mt-12">
           <div className="text-xs tracking-[0.3em] uppercase" style={{ color: theme.accent }}>
-            全景对比矩阵 · Panorama Matrix
+            {t.assetmap.matrixTitle}
           </div>
 
           <div className="mt-5 grid grid-cols-1 md:grid-cols-3 gap-5">
             {CATEGORIES.map((c) => {
               const Icon = c.icon;
               const cTheme = getTheme(c.id);
+              const card = t.cards.items.find((x) => x.id === c.id);
               return (
                 <div
                   key={c.id}
@@ -94,7 +80,7 @@ export default function AssetMapPage({
 
                   <div className="flex items-center gap-2.5">
                     <span
-                      className="flex items-center justify-center w-9 h-9 rounded-lg border"
+                      className="flex items-center justify-center w-9 h-9 rounded-full border"
                       style={{ background: c.accent + '22', color: c.accent, borderColor: c.accent + '66' }}
                     >
                       <Icon className="w-5 h-5" strokeWidth={1.8} />
@@ -103,21 +89,23 @@ export default function AssetMapPage({
                       className="font-serif-display text-lg font-semibold"
                       style={{ color: c.accent, textShadow: `0 0 18px ${c.accent}55` }}
                     >
-                      {c.name}
+                      {t.nav[c.id]}
                     </span>
                   </div>
-                  <div className="mt-1.5 text-xs text-slate-400">{c.desc}</div>
+                  <div className="mt-1.5 text-xs text-slate-400">{card?.subtitle}</div>
 
                   <div className="mt-5">
-                    {DIMENSIONS.map((d, i) => (
+                    {DIM_ORDER.map((key, i) => (
                       <div
-                        key={d.label}
+                        key={key}
                         className="flex items-start justify-between gap-3 py-3"
                         style={i !== 0 ? { borderTop: '1px solid rgba(255,255,255,0.08)' } : undefined}
                       >
-                        <span className="text-xs text-slate-400 shrink-0 w-[84px]">{d.label}</span>
+                        <span className="text-xs text-slate-400 shrink-0 w-[84px]">
+                          {t.assetmap.dimensions.labels[key]}
+                        </span>
                         <span className="text-sm text-white/90 text-right font-medium leading-snug">
-                          {d[c.id]}
+                          {t.assetmap.dimensions.values[key][c.id]}
                         </span>
                       </div>
                     ))}
@@ -128,7 +116,7 @@ export default function AssetMapPage({
           </div>
 
           <p className="mt-4 text-xs text-slate-500 leading-relaxed">
-            以上为编辑性参考维度，用于横向理解三类资产的特征差异，不构成任何投资、税务或法律建议。
+            {t.assetmap.disclaimer}
           </p>
         </div>
 
@@ -172,7 +160,7 @@ export default function AssetMapPage({
                   className="flex items-center gap-3 group"
                 >
                   <div
-                    className="flex items-center justify-center w-12 h-12 rounded-xl border-2"
+                    className="flex items-center justify-center w-12 h-12 rounded-full border-2"
                     style={{
                       background: c.accent + '22',
                       color: c.accent,
@@ -194,7 +182,7 @@ export default function AssetMapPage({
                     className="hidden md:block text-[10px] tracking-[0.25em] uppercase px-3 py-1 rounded-full border"
                     style={{ color: c.accent, borderColor: c.accent + '88', background: c.accent + '14' }}
                   >
-                    {c.desc}
+                    {card?.subtitle}
                   </div>
                 </NavLink>
 
@@ -202,7 +190,7 @@ export default function AssetMapPage({
                   {displayed.map((article) => (
                     <NavLink
                       key={article.id}
-                      href={articleToPath(c.id, article.id)}
+                      href={articleToPath(c.id, article.slug || article.id)}
                       style={themeVars(cTheme)}
                       className={`theme-card group block w-full text-left p-5 ${cTheme.frameClass}`}
                     >
@@ -239,7 +227,7 @@ export default function AssetMapPage({
                     className="group inline-flex items-center gap-2 text-sm font-semibold hover:brightness-125 transition"
                     style={{ color: c.accent }}
                   >
-                    {VIEW_ALL_LABEL[c.id]} ({total})
+                    {t.assetmap.viewAll[c.id]} ({total})
                     <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                   </NavLink>
                 </div>

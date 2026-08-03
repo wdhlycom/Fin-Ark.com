@@ -26,7 +26,7 @@ export default function AboutPage({
 
         {/* 区块 A 品牌介绍 */}
         <div className="mt-8 flex items-center gap-3">
-          <div className="flex items-center justify-center w-12 h-12 rounded-xl bg-navy-800/80 border border-gold-500/30">
+          <div className="flex items-center justify-center w-12 h-12 rounded-full bg-navy-800/80 border border-gold-500/30">
             <Compass className="w-6 h-6 text-gold-500" strokeWidth={1.5} />
           </div>
           <h1 className="font-serif-display text-3xl md:text-4xl text-white leading-tight">
@@ -38,7 +38,7 @@ export default function AboutPage({
         </p>
 
         {/* 区块 B 服务流程 */}
-        <h2 className="mt-16 font-serif-display text-2xl md:text-3xl text-gold-200">服务流程</h2>
+        <h2 className="mt-16 font-serif-display text-2xl md:text-3xl text-gold-200">{t.about.processTitle}</h2>
         <div className="mt-8 grid sm:grid-cols-2 gap-4">
           {a.steps.map((s, i) => (
             <div
@@ -57,7 +57,7 @@ export default function AboutPage({
         </div>
 
         {/* 区块 C FAQ */}
-        <h2 className="mt-16 font-serif-display text-2xl md:text-3xl text-gold-200">常见问题</h2>
+        <h2 className="mt-16 font-serif-display text-2xl md:text-3xl text-gold-200">{t.about.faqTitle}</h2>
         <div className="mt-8 space-y-3">
           {a.faqs.map((f, i) => {
             const open = openFaq === i;

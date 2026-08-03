@@ -5,10 +5,12 @@
 // 分类可被 content/<lang>/*.md 的 frontmatter `category:` 显式覆盖；
 // 未指定时按文件名/标题语义关键词自动归类（deriveCategory）。
 
+import { type Lang } from './i18n/types';
+
 export type CategoryKey = 'mainland' | 'offshore' | 'macro' | 'qa';
 
 export const CATEGORY_THEME: Record<CategoryKey, {
-  label: string;
+  labels: Record<Lang, string>;
   border: string; // 左侧 accent 边框 + 圆点
   pillBg: string; // pill 徽章底色（半透明）
   pillText: string; // pill 文字色
@@ -16,7 +18,7 @@ export const CATEGORY_THEME: Record<CategoryKey, {
 }> = {
   // 内地信号塔：政策与本土确定性 —— 琥珀金/暖棕
   mainland: {
-    label: '内地信号塔',
+    labels: { zh: '内地信号塔', en: 'Mainland Beacon', es: 'Faro Continental', ar: 'منارة برية' },
     border: '#f59e0b',
     pillBg: 'rgba(245,158,11,0.15)',
     pillText: '#fcd34d',
@@ -24,7 +26,7 @@ export const CATEGORY_THEME: Record<CategoryKey, {
   },
   // 离岸罗盘：离岸与全球视野 —— 深海蓝/冰蓝
   offshore: {
-    label: '离岸罗盘',
+    labels: { zh: '离岸罗盘', en: 'Offshore Compass', es: 'Brújula Offshore', ar: 'بوصلة خارجية' },
     border: '#22d3ee',
     pillBg: 'rgba(34,211,238,0.15)',
     pillText: '#67e8f9',
@@ -32,7 +34,7 @@ export const CATEGORY_THEME: Record<CategoryKey, {
   },
   // 宏观望远镜：大周期与深远观察 —— 极光紫
   macro: {
-    label: '宏观望远镜',
+    labels: { zh: '宏观望远镜', en: 'Macro Lens', es: 'Lente Macroeconómica', ar: 'عدسة كلية' },
     border: '#a855f7',
     pillBg: 'rgba(168,85,247,0.15)',
     pillText: '#c4b5fd',
@@ -40,13 +42,18 @@ export const CATEGORY_THEME: Record<CategoryKey, {
   },
   // 方舟问答：轻量解答与互动 —— 薄荷绿/青灰
   qa: {
-    label: '方舟问答',
+    labels: { zh: '方舟问答', en: 'Ark Q&A', es: 'Ark Preguntas', ar: 'أسئلة آرك' },
     border: '#34d399',
     pillBg: 'rgba(52,211,153,0.15)',
     pillText: '#6ee7b7',
     hint: '轻量解答与互动',
   },
 };
+
+// 取当前语言的分类标签；缺失时回退中文。
+export function categoryLabel(key: CategoryKey, lang: Lang): string {
+  return CATEGORY_THEME[key].labels[lang] ?? CATEGORY_THEME[key].labels.zh;
+}
 
 // 仅这两个板块使用语义分类配色
 export const CATEGORIZED_SECTIONS = new Set(['insurance', 'arkPilot']);

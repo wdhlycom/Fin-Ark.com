@@ -63,7 +63,7 @@ export default function CoreCards({
 
                 <div className="flex items-start justify-between">
                   <div
-                    className="flex items-center justify-center w-12 h-12 rounded-xl border transition-colors"
+                    className="flex items-center justify-center w-12 h-12 rounded-full border transition-colors"
                     style={{ background: 'var(--accent-soft)', borderColor: 'var(--accent-soft)', color: 'var(--accent)' }}
                   >
                     <Icon className="w-6 h-6" strokeWidth={1.5} />

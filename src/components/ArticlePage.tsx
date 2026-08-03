@@ -7,7 +7,7 @@ import { type SectionId } from '../i18n';
 import { SECTION_HEADER } from '../sectionHeaderText';
 import { getTheme, themeVars } from '../sectionTheme';
 import { articleToPath, viewToPath } from '../nav';
-import { deriveCategory, CATEGORY_THEME, CATEGORIZED_SECTIONS } from '../articleCategory';
+import { deriveCategory, CATEGORY_THEME, categoryLabel, CATEGORIZED_SECTIONS } from '../articleCategory';
 import NavLink from './NavLink';
 import SectionHeader from './SectionHeader';
 
@@ -28,7 +28,10 @@ export default function ArticlePage({
   // 四大主板块页头统一文案（中文精确版，已剔除内部草稿词）；非中文回退到 i18n。
   const sh = lang === 'zh' ? SECTION_HEADER[section] : undefined;
 
-  const article = articleId ? articles.find((a) => a.id === articleId) : undefined;
+  const article = articleId
+    ? articles.find((a) => (a.slug ?? a.id) === articleId) ??
+      articles.find((a) => a.id === articleId)
+    : undefined;
 
   // Reader view（文章详情，支持深链 /a/<section>/<id>）
   if (article) {
@@ -109,7 +112,7 @@ export default function ArticlePage({
             return (
               <NavLink
                 key={article.id}
-                href={articleToPath(section, article.id)}
+                href={articleToPath(section, article.slug || article.id)}
                 style={{ ...vars, ...(cat ? { borderLeft: `4px solid ${cat.border}` } : null) }}
                 className={`theme-card group block w-full text-left p-6 ${theme.frameClass}`}
               >
@@ -119,7 +122,7 @@ export default function ArticlePage({
                     style={{ background: cat.pillBg, color: cat.pillText, borderColor: cat.border }}
                   >
                     <span className="w-1.5 h-1.5 rounded-full" style={{ background: cat.border }} />
-                    {cat.label}
+                    {categoryLabel(catKey!, lang)}
                   </span>
                 )}
                 <div className="flex items-center gap-2 text-xs text-slate-500">

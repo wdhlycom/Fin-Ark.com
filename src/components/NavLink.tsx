@@ -1,5 +1,6 @@
 import type { ReactNode, MouseEvent, CSSProperties, AnchorHTMLAttributes } from 'react';
-import { isModifiedClick } from '../nav';
+import { isModifiedClick, withLang } from '../nav';
+import { useLang } from '../LangContext';
 
 type Props = {
   href: string;
@@ -23,20 +24,24 @@ export default function NavLink({
   onClick: externalOnClick,
   ...rest
 }: Props) {
+  const { lang } = useLang();
+  // 裸路径（如 /s/insurance）自动补全当前语言前缀，得到独立且可抓取的 /<lang>/... URL；
+  // 已带语言前缀的 href 原样保留（兼容右键「在新标签页打开」得到正确语言版链接）。
+  const prefixed = withLang(lang, href);
   const handleClick = (e: MouseEvent<HTMLAnchorElement>) => {
     if (isModifiedClick(e)) return; // 交给浏览器：新标签页 / 中键
     e.preventDefault();
-    if (window.location.pathname === href) {
+    if (window.location.pathname === prefixed) {
       window.dispatchEvent(new PopStateEvent('popstate')); // 同视图：回顶部
     } else {
-      window.history.pushState({}, '', href);
+      window.history.pushState({}, '', prefixed);
       window.dispatchEvent(new PopStateEvent('popstate')); // 通知 App 同步视图
     }
     externalOnClick?.(e); // 额外处理（如关闭移动端菜单）
   };
 
   return (
-    <a href={href} onClick={handleClick} className={className} style={style} {...rest}>
+    <a href={prefixed} onClick={handleClick} className={className} style={style} {...rest}>
       {children}
     </a>
   );

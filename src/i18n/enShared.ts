@@ -239,6 +239,35 @@ export const EN_SHARED: Omit<Dict, 'articles'> = {
       'In an era of uncertainty, Hong Kong insurance is the universal asset base balancing liquidity, yield, and accessibility. Book a 45-minute private 1-on-1 architecture session—our founding architect will tailor your专属 plan.',
     funnelCta: 'Book 1-on-1 Diagnosis',
   },
+  assetmap: {
+    matrixTitle: 'Panorama Matrix',
+    disclaimer:
+      'The dimensions above are editorial reference points for understanding the characteristics of the three asset classes side by side. They do not constitute any investment, tax, or legal advice.',
+    viewAll: {
+      trust: 'View All Trust Insights',
+      gold: 'View All Gold Insights',
+      emerging: 'View All Emerging Asset Insights',
+    },
+    dimensions: {
+      labels: {
+        risk: 'Risk Level',
+        liquidity: 'Liquidity',
+        threshold: 'Minimum Entry',
+        function: 'Core Function',
+        complement: 'Complement to HK Insurance',
+        audience: 'Suitable For',
+      },
+      values: {
+        risk: { trust: 'Low', gold: 'Low–Medium', emerging: 'High' },
+        liquidity: { trust: 'Low · Long Lock-up', gold: 'High', emerging: 'High' },
+        threshold: { trust: 'High', gold: 'Low', emerging: 'Low' },
+        function: { trust: 'Inheritance Isolation · Debt Firewall', gold: 'Preservation & Safe-Haven · Physical Standard', emerging: 'Growth Hedge · Digital Gold' },
+        complement: { trust: 'Higher-Dimension Supplement · Full Inheritance', gold: 'Static Defense · Balanced Offense & Defense', emerging: 'Dynamic Hedge · Lock in Gains' },
+        audience: { trust: 'High-Net-Worth Families', gold: 'All Households', emerging: 'Volatility-Tolerant Investors' },
+      },
+    },
+  },
+
   about: {
     introTitle: 'About the Ark: Offshore Asset Standards for Families Who Plan Seriously',
     introBody:
@@ -258,6 +287,8 @@ export const EN_SHARED: Omit<Dict, 'articles'> = {
       { q: 'Do I need a family trust?', a: 'Not necessarily. Below US$5M, HK insurance "policy split + successor insured" already covers inheritance; formal trusts are recommended only when corporate equity or complex cross-border tax is involved.' },
       { q: 'How long does the process take?', a: 'From consultation to execution typically 2–4 weeks. We complete diagnosis and proposal first, proceed only after your confirmation, with full transparency throughout.' },
     ],
+    processTitle: 'Our Process',
+    faqTitle: 'FAQ',
     ctaTitle: 'Ready to build your family’s offshore asset standard?',
     ctaBody: 'Whatever your stage, the first step is an honest conversation. Book a 45-minute private architecture session with our founding architect.',
     ctaBtn: 'Book 1-on-1 Diagnosis',

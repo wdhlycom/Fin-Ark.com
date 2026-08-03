@@ -20,6 +20,10 @@ export const SECTIONS: SectionId[] = [
 
 export type Article = {
   id: string;
+  /** 当前语言的 URL slug；缺省回退到 id。不同语言可设不同语义化 slug，使各语言 URL 独立 */
+  slug?: string;
+  /** 跨语言译文配对键；缺省回退到 id。hreflang 与语言切换据此找到对应译文 */
+  translationKey?: string;
   title: string;
   subtitle: string;
   date: string;
@@ -45,6 +49,29 @@ export type Dict = {
     langLabel: string;
   };
   brand: { name: string; tagline: string };
+  assetmap: {
+    matrixTitle: string;
+    disclaimer: string;
+    viewAll: Record<'trust' | 'gold' | 'emerging', string>;
+    dimensions: {
+      labels: {
+        risk: string;
+        liquidity: string;
+        threshold: string;
+        function: string;
+        complement: string;
+        audience: string;
+      };
+      values: {
+        risk: Record<'trust' | 'gold' | 'emerging', string>;
+        liquidity: Record<'trust' | 'gold' | 'emerging', string>;
+        threshold: Record<'trust' | 'gold' | 'emerging', string>;
+        function: Record<'trust' | 'gold' | 'emerging', string>;
+        complement: Record<'trust' | 'gold' | 'emerging', string>;
+        audience: Record<'trust' | 'gold' | 'emerging', string>;
+      };
+    };
+  };
   hero: {
     eyebrow: string;
     title: string;
@@ -167,6 +194,8 @@ export type Dict = {
     introBody: string;
     steps: { t: string; d: string }[];
     faqs: { q: string; a: string }[];
+    processTitle: string;
+    faqTitle: string;
     ctaTitle: string;
     ctaBody: string;
     ctaBtn: string;

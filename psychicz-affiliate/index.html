@@ -1,0 +1,739 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PsychicOz Affiliates — 把你的灵性流量，变成稳定收入</title>
+  <meta name="description" content="加入 PsychicOz 联盟计划，每推荐一位消费满 $101 的新客户，即可获得 $175 佣金。180 天长效 Cookie、每月 PayPal 稳定结算、全球流量均可推广。" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* =========================================================
+       Design tokens (sourced from Figma: PsychicOz-Affiliate-Landing)
+       ========================================================= */
+    :root {
+      --bg-1: #0A0517;        /* page gradient top */
+      --bg-2: #170A2E;        /* page gradient bottom */
+      --purple: #8C5CF5;      /* primary CTA / glow */
+      --purple-light: #A78BFA;/* eyebrow / section labels */
+      --amber: #E8B84B;       /* stats numbers / accent icons */
+      --border-violet: #4D4073;
+      --text: #FFFFFF;
+      --nav-bg: rgba(5, 2, 15, 0.7);
+      --footer-bg: rgba(5, 2, 15, 0.9);
+      --stats-bg: rgba(255, 255, 255, 0.04);
+      --card-bg: rgba(255, 255, 255, 0.05);
+      --card-border: rgba(255, 255, 255, 0.12);
+      --ghost-bg: rgba(255, 255, 255, 0.06);
+      --ghost-border: rgba(255, 255, 255, 0.22);
+      --badge-bg: rgba(255, 255, 255, 0.08);
+      --badge-border: rgba(140, 92, 245, 0.5);
+      --shadow-card: 0 8px 24px rgba(0, 0, 0, 0.15);
+      --inset-top: inset 0 1px 2px rgba(255, 255, 255, 0.2);
+
+      --font: 'Inter', 'Noto Sans SC', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+      --maxw: 1440px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: var(--font);
+      color: var(--text);
+      background: linear-gradient(180deg, var(--bg-1) 0%, var(--bg-2) 100%);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      line-height: 1.5;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+    a { color: inherit; text-decoration: none; }
+    img, svg { display: block; }
+
+    /* =========================================================
+       Navigation
+       ========================================================= */
+    .nav {
+      background: var(--nav-bg);
+      border: 1px solid var(--border-violet);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .nav-inner {
+      max-width: var(--maxw);
+      margin: 0 auto;
+      padding: 0 48px;
+      height: 72px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .brand {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.2px;
+    }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 32px;
+    }
+    .nav-links a {
+      font-size: 15px;
+      font-weight: 400;
+      color: var(--text);
+      opacity: 0.95;
+      transition: opacity .2s;
+    }
+    .nav-links a:hover { opacity: 0.7; }
+    .nav-cta {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 12px 24px;
+      background: var(--purple);
+      color: #fff;
+      font-size: 15px;
+      font-weight: 600;
+      border-radius: 999px;
+      transition: filter .2s, transform .2s;
+    }
+    .nav-cta:hover { filter: brightness(1.08); }
+
+    /* =========================================================
+       Hero
+       ========================================================= */
+    .hero {
+      position: relative;
+      min-height: 343px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 28px;
+      padding: 4px 24px;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at center, rgba(140, 92, 245, 0.35) 0%, rgba(140, 92, 245, 0) 70%);
+      pointer-events: none;
+    }
+    .hero > * { position: relative; }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 8px 18px;
+      background: var(--badge-bg);
+      border: 1px solid var(--badge-border);
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--amber);
+    }
+    .hero-title {
+      margin: 0;
+      font-size: 62px;
+      font-weight: 700;
+      line-height: 68px;
+      text-align: center;
+      max-width: 960px;
+      letter-spacing: -0.5px;
+    }
+    .hero-sub {
+      margin: 0;
+      font-size: 19px;
+      font-weight: 400;
+      line-height: 30px;
+      text-align: center;
+      max-width: 740px;
+      opacity: 0.95;
+    }
+    .hero-ctas {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px 34px;
+      border-radius: 999px;
+      font-size: 17px;
+      font-weight: 600;
+      line-height: 21px;
+      transition: filter .2s, transform .15s, background .2s;
+      cursor: pointer;
+      border: 1px solid transparent;
+    }
+    .btn-primary {
+      background: var(--purple);
+      color: #fff;
+    }
+    .btn-primary:hover { filter: brightness(1.1); }
+    .btn-secondary {
+      background: var(--ghost-bg);
+      border-color: var(--ghost-border);
+      color: #fff;
+      font-weight: 500;
+    }
+    .btn-secondary:hover { background: rgba(255,255,255,0.10); }
+
+    .hero-trust {
+      font-size: 14px;
+      font-weight: 400;
+      text-align: center;
+      opacity: 0.95;
+    }
+
+    /* =========================================================
+       Stats strip
+       ========================================================= */
+    .stats {
+      background: var(--stats-bg);
+      border-top: 1px solid var(--border-violet);
+      border-bottom: 1px solid var(--border-violet);
+    }
+    .stats-inner {
+      max-width: var(--maxw);
+      margin: 0 auto;
+      padding: 44px 64px;
+      min-height: 159px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+    .stat {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      text-align: center;
+    }
+    .stat-num {
+      font-size: 40px;
+      font-weight: 700;
+      color: var(--amber);
+      line-height: 1.2;
+      letter-spacing: -0.5px;
+    }
+    .stat-label {
+      font-size: 14px;
+      font-weight: 400;
+      opacity: 0.95;
+    }
+
+    /* =========================================================
+       Selling / Audience shared
+       ========================================================= */
+    .selling, .audience, .final-cta {
+      padding: 0 24px;
+    }
+    .selling-inner, .audience-inner, .final-cta-inner {
+      max-width: var(--maxw);
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+      min-height: 351px;
+      justify-content: center;
+      padding: 40px 0;
+    }
+    .section-eyebrow {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--purple-light);
+      text-align: center;
+      letter-spacing: 0.4px;
+    }
+    .section-title {
+      margin: 0;
+      font-size: 38px;
+      font-weight: 700;
+      line-height: 46px;
+      text-align: center;
+      max-width: 820px;
+      letter-spacing: -0.3px;
+    }
+    .section-sub {
+      margin: 0;
+      font-size: 17px;
+      font-weight: 400;
+      line-height: 26px;
+      text-align: center;
+      max-width: 700px;
+      opacity: 0.9;
+    }
+
+    /* =========================================================
+       Selling cards
+       ========================================================= */
+    .sell-head {
+      width: 800px;
+      max-width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+    }
+    .sell-cards {
+      width: 100%;
+      display: flex;
+      gap: 24px;
+      justify-content: flex-start;
+    }
+    .feature-card {
+      width: 318px;
+      min-height: 198px;
+      padding: 28px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      box-shadow: var(--shadow-card), var(--inset-top);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      transition: transform .25s, border-color .25s, box-shadow .25s;
+    }
+    .feature-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(255,255,255,0.22);
+    }
+    .feature-icon {
+      width: 44px;
+      height: 44px;
+    }
+    .feature-title {
+      font-size: 20px;
+      font-weight: 600;
+      line-height: 24px;
+      color: #fff;
+    }
+    .feature-desc {
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 23px;
+      color: #fff;
+      opacity: 0.9;
+      margin: 0;
+    }
+
+    /* =========================================================
+       Audience cards
+       ========================================================= */
+    .aud-head {
+      width: 820px;
+      max-width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+    }
+    .aud-grid {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 24px;
+    }
+    .aud-card {
+      width: 432px;
+      padding: 24px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      transition: border-color .25s, background .25s;
+    }
+    .aud-card:hover {
+      border-color: rgba(255,255,255,0.22);
+      background: rgba(255,255,255,0.07);
+    }
+    .aud-icon {
+      width: 40px;
+      height: 40px;
+      flex: 0 0 40px;
+    }
+    .aud-text {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      min-width: 0;
+    }
+    .aud-title {
+      font-size: 17px;
+      font-weight: 600;
+      line-height: 21px;
+      color: #fff;
+    }
+    .aud-desc {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 21px;
+      color: #fff;
+      opacity: 0.9;
+      margin: 0;
+    }
+
+    /* =========================================================
+       Final CTA
+       ========================================================= */
+    .final-cta { position: relative; }
+    .final-cta-inner {
+      min-height: 407px;
+      gap: 24px;
+      overflow: hidden;
+      border-radius: 0;
+    }
+    .final-cta-inner::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at center, rgba(140, 92, 245, 0.40) 0%, rgba(140, 92, 245, 0) 70%);
+      pointer-events: none;
+    }
+    .final-cta-inner > * { position: relative; }
+    .final-title {
+      font-size: 44px;
+      font-weight: 700;
+      line-height: 52px;
+      text-align: center;
+      max-width: 800px;
+      margin: 0;
+      letter-spacing: -0.4px;
+    }
+    .final-sub {
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 28px;
+      text-align: center;
+      max-width: 680px;
+      margin: 0;
+      opacity: 0.92;
+    }
+    .btn-final {
+      padding: 18px 40px;
+      font-size: 18px;
+      font-weight: 600;
+    }
+    .final-trust {
+      font-size: 14px;
+      font-weight: 400;
+      text-align: center;
+      opacity: 0.92;
+    }
+
+    /* =========================================================
+       Footer
+       ========================================================= */
+    .footer {
+      background: var(--footer-bg);
+      border-top: 1px solid var(--border-violet);
+      padding: 0 24px;
+    }
+    .footer-inner {
+      max-width: var(--maxw);
+      margin: 0 auto;
+      min-height: 131px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      padding: 24px 0;
+    }
+    .footer-brand {
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 22px;
+    }
+    .footer-tag {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 17px;
+      opacity: 0.9;
+    }
+    .footer-links {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+    }
+    .footer-links a {
+      font-size: 14px;
+      font-weight: 400;
+      color: #fff;
+      opacity: 0.9;
+      transition: opacity .2s;
+    }
+    .footer-links a:hover { opacity: 0.6; }
+    .footer-copy {
+      font-size: 12px;
+      font-weight: 400;
+      opacity: 0.7;
+      text-align: center;
+    }
+
+    /* =========================================================
+       Responsive
+       ========================================================= */
+    @media (max-width: 1180px) {
+      .sell-cards { flex-wrap: wrap; justify-content: center; }
+      .feature-card { width: calc(50% - 12px); min-width: 280px; }
+      .aud-card { width: calc(50% - 12px); min-width: 320px; }
+    }
+    @media (max-width: 900px) {
+      .nav-inner { padding: 0 20px; height: 60px; }
+      .nav-links { display: none; }
+      .hero { min-height: 0; padding: 56px 20px; }
+      .hero-title { font-size: 40px; line-height: 48px; }
+      .hero-sub { font-size: 17px; line-height: 28px; }
+      .hero-ctas { flex-direction: column; width: 100%; }
+      .hero-ctas .btn { width: 100%; max-width: 320px; }
+      .stats-inner {
+        flex-wrap: wrap;
+        padding: 28px 20px;
+        gap: 24px 16px;
+        justify-content: center;
+      }
+      .stat { width: 45%; }
+      .section-title { font-size: 28px; line-height: 36px; }
+      .feature-card { width: 100%; }
+      .aud-card { width: 100%; }
+      .final-title { font-size: 30px; line-height: 38px; }
+      .footer-links { flex-wrap: wrap; justify-content: center; gap: 16px 24px; }
+    }
+    @media (max-width: 480px) {
+      .hero-title { font-size: 32px; line-height: 40px; }
+      .stat-num { font-size: 32px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- =================== Navigation =================== -->
+  <header class="nav">
+    <div class="nav-inner">
+      <a href="#" class="brand">PsychicOz Affiliates</a>
+      <nav class="nav-links" aria-label="primary">
+        <a href="#selling">计划亮点</a>
+        <a href="#audience">适合谁推广</a>
+        <a href="#selling">推广工具</a>
+        <a href="#faq">常见问题</a>
+      </nav>
+      <a href="#join" class="nav-cta">立即加入</a>
+    </div>
+  </header>
+
+  <!-- =================== Hero =================== -->
+  <section class="hero" aria-labelledby="hero-title">
+    <span class="hero-badge">联盟营销 · 灵性流量变现新机会</span>
+    <h1 id="hero-title" class="hero-title">把你的灵性流量，变成稳定收入</h1>
+    <p class="hero-sub">加入 PsychicOz 联盟计划，每推荐一位消费满 $101 的新客户，即可获得 $175 佣金。180 天长效 Cookie、每月 PayPal 稳定结算、全球流量均可推广。</p>
+    <div class="hero-ctas">
+      <a href="#join" class="btn btn-primary">免费注册成为联盟客</a>
+      <a href="#selling" class="btn btn-secondary">查看计划详情</a>
+    </div>
+    <p class="hero-trust">无需费用  ·  全球流量  ·  每月准时付款</p>
+  </section>
+
+  <!-- =================== Stats strip =================== -->
+  <section class="stats" aria-label="stats">
+    <div class="stats-inner">
+      <div class="stat">
+        <div class="stat-num">$175</div>
+        <div class="stat-label">每单固定佣金</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">$2.1B</div>
+        <div class="stat-label">行业年规模</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">180 天</div>
+        <div class="stat-label">Cookie 周期</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">24 / 7</div>
+        <div class="stat-label">通灵师在线</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =================== Selling =================== -->
+  <section class="selling" id="selling" aria-labelledby="sell-title">
+    <div class="selling-inner">
+      <div class="sell-head">
+        <div class="section-eyebrow">核心卖点</div>
+        <h2 id="sell-title" class="section-title">为什么推广 PsychicOz 值得</h2>
+        <p class="section-sub">高佣金、长周期、稳定结算，加上全套推广素材，让你轻松开启灵性联盟事业。</p>
+      </div>
+      <div class="sell-cards">
+        <!-- Card 1 -->
+        <article class="feature-card">
+          <svg class="feature-icon" viewBox="0 0 44 44" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="22" cy="22" r="14"/>
+            <path d="M22 12 v18"/>
+            <path d="M27 14 c0 -2 -2 -3 -5 -3 c-3 0 -5 1.5 -5 4 c0 2.5 2 3 5 3.5 c3 .5 5 1.5 5 4 c0 2.5 -2 4 -5 4 c-3 0 -5 -1 -5 -3"/>
+          </svg>
+          <h3 class="feature-title">高额固定佣金</h3>
+          <p class="feature-desc">每位消费满 $101 的新客户，你都能拿到 $175 佣金，单笔回报丰厚。</p>
+        </article>
+        <!-- Card 2 -->
+        <article class="feature-card">
+          <svg class="feature-icon" viewBox="0 0 44 44" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="22" cy="22" r="14"/>
+            <path d="M22 22 L16 16"/>
+            <circle cx="22" cy="22" r="1.2" fill="#A78BFA" stroke="none"/>
+          </svg>
+          <h3 class="feature-title">超长 Cookie 周期</h3>
+          <p class="feature-desc">180 天归因窗口，客户后续下单仍计入你的佣金，绝不漏单。</p>
+        </article>
+        <!-- Card 3 -->
+        <article class="feature-card">
+          <svg class="feature-icon" viewBox="0 0 44 44" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="6" y="11" width="32" height="22" rx="3"/>
+            <rect x="10" y="15" width="6" height="5" rx="1"/>
+            <line x1="20" y1="28" x2="34" y2="28"/>
+          </svg>
+          <h3 class="feature-title">每月稳定结算</h3>
+          <p class="feature-desc">每月初通过 PayPal 准时付款，全球流量均可参与，加入零门槛。</p>
+        </article>
+        <!-- Card 4 -->
+        <article class="feature-card">
+          <svg class="feature-icon" viewBox="0 0 44 44" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="8" y="8"  width="28" height="6" rx="2"/>
+            <rect x="8" y="18" width="28" height="18" rx="3"/>
+            <line x1="14" y1="26" x2="24" y2="26"/>
+          </svg>
+          <h3 class="feature-title">全套推广素材</h3>
+          <p class="feature-desc">后台提供多尺寸横幅、链接代码、转化落地页与 Postback 追踪。</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- =================== Audience =================== -->
+  <section class="audience" id="audience" aria-labelledby="aud-title">
+    <div class="audience-inner">
+      <div class="aud-head">
+        <div class="section-eyebrow">适合谁推广</div>
+        <h2 id="aud-title" class="section-title">哪些人最适合成为 PsychicOz 联盟客</h2>
+        <p class="section-sub">无论你的网站主题是什么，只要你有流量与信任，就能从中分一杯羹。</p>
+      </div>
+      <div class="aud-grid">
+        <article class="aud-card">
+          <svg class="aud-icon" viewBox="0 0 40 40" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="20" cy="20" r="13"/>
+            <path d="M20 9 l2.3 5.7 6.2 .6 -4.7 4.1 1.4 6.1 -5.2-3.2 -5.2 3.2 1.4-6.1 -4.7-4.1 6.2-.6 z"/>
+          </svg>
+          <div class="aud-text">
+            <h3 class="aud-title">塔罗 / 占星博主</h3>
+            <p class="aud-desc">你的读者本就在寻找指引，PsychicOz 是自然的延展。</p>
+          </div>
+        </article>
+        <article class="aud-card">
+          <svg class="aud-icon" viewBox="0 0 40 40" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="20" cy="20" r="13"/>
+            <path d="M20 28 C 14 24, 11 20, 13 17 C 15 14, 19 16, 20 19 C 21 16, 25 14, 27 17 C 29 20, 26 24, 20 28 Z"/>
+          </svg>
+          <div class="aud-text">
+            <h3 class="aud-title">情感 / 关系创作者</h3>
+            <p class="aud-desc">爱情、婚姻、人际议题的受众，与通灵咨询高度重合。</p>
+          </div>
+        </article>
+        <article class="aud-card">
+          <svg class="aud-icon" viewBox="0 0 40 40" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="20" cy="20" r="13"/>
+            <path d="M20 10 L21.6 18.4 30 20 21.6 21.6 20 30 18.4 21.6 10 20 18.4 18.4 Z"/>
+          </svg>
+          <div class="aud-text">
+            <h3 class="aud-title">生活方式 / 女性向</h3>
+            <p class="aud-desc">25–55 岁高知女性，正是 PsychicOz 的核心客群。</p>
+          </div>
+        </article>
+        <article class="aud-card">
+          <svg class="aud-icon" viewBox="0 0 40 40" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="20" cy="20" r="13"/>
+            <ellipse cx="20" cy="20" rx="13" ry="5"/>
+            <line x1="7" y1="20" x2="33" y2="20"/>
+          </svg>
+          <div class="aud-text">
+            <h3 class="aud-title">个人网站 / 流量主</h3>
+            <p class="aud-desc">任何主题站点都有对灵性好奇的访客，挂上链接即可变现。</p>
+          </div>
+        </article>
+        <article class="aud-card">
+          <svg class="aud-icon" viewBox="0 0 40 40" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="20" cy="20" r="13"/>
+            <circle cx="20" cy="20" r="6"/>
+            <circle cx="20" cy="20" r="1.2" fill="#E8B84B" stroke="none"/>
+          </svg>
+          <div class="aud-text">
+            <h3 class="aud-title">联盟营销老手</h3>
+            <p class="aud-desc">成熟的投放与优化经验，让你更快跑通高佣金转化。</p>
+          </div>
+        </article>
+        <article class="aud-card">
+          <svg class="aud-icon" viewBox="0 0 40 40" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="20" cy="20" r="13"/>
+            <path d="M20 12 C 17 18, 14 22, 14 26 C 14 29, 17 30, 20 30 C 23 30, 26 29, 26 26 C 26 22, 23 18, 20 12 Z"/>
+          </svg>
+          <div class="aud-text">
+            <h3 class="aud-title">身心灵社群运营</h3>
+            <p class="aud-desc">社群里的信任基础，是转化通灵咨询的天然土壤。</p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- =================== Final CTA =================== -->
+  <section class="final-cta" id="join" aria-labelledby="final-title">
+    <div class="final-cta-inner">
+      <h2 id="final-title" class="final-title">现在加入，开始赚取你的份额</h2>
+      <p class="final-sub">灵性行业年规模已达 $2.1B 且仍在增长。抢占先机，把你的流量变成每月稳定收入。</p>
+      <a href="#" class="btn btn-primary btn-final">免费注册成为联盟客</a>
+      <p class="final-trust">注册免费 · 无需审核费用 · 几分钟即可开始推广</p>
+    </div>
+  </section>
+
+  <!-- =================== Footer =================== -->
+  <footer class="footer" id="faq">
+    <div class="footer-inner">
+      <div class="footer-brand">PsychicOz Affiliates</div>
+      <div class="footer-tag">把灵性流量，变成稳定收入。</div>
+      <nav class="footer-links" aria-label="footer">
+        <a href="#selling">联盟计划</a>
+        <a href="#selling">计划亮点</a>
+        <a href="#selling">推广工具</a>
+        <a href="#faq">常见问题</a>
+      </nav>
+      <div class="footer-copy">Copyright 2026 PsychicOz Affiliates. 本页面为独立推广介绍，非 PsychicOz 官方页面。</div>
+    </div>
+  </footer>
+
+  <script>
+    // Smooth anchor offset & no-op CTA placeholder.
+    document.querySelectorAll('a[href^="#"]').forEach(a => {
+      a.addEventListener('click', (e) => {
+        const id = a.getAttribute('href');
+        if (id.length > 1 && document.querySelector(id)) {
+          e.preventDefault();
+          document.querySelector(id).scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

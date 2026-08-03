@@ -46,7 +46,7 @@ export default function Header({
           <NavLink href="/" className="flex items-center gap-3 group">
             <div className="relative">
               <div className="absolute inset-0 rounded-full bg-gold-500/30 blur-md group-hover:bg-gold-500/50 transition-all" />
-              <img src="/Finark.png" alt="Finark" width={28} height={28} className="relative w-7 h-7 object-contain" />
+              <img src="/Finark.png" alt="Finark" width={28} height={28} className="relative w-7 h-7 object-contain rounded-full" />
             </div>
             <div className="flex flex-col items-start leading-none">
               <span className="text-lg font-semibold tracking-[0.2em] text-white">

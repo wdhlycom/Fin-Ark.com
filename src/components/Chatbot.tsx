@@ -102,7 +102,7 @@ export default function Chatbot() {
             />
             <button
               type="submit"
-              className="flex items-center justify-center w-10 h-10 rounded-lg bg-gold-500 text-navy-950 hover:bg-gold-400 transition-colors"
+              className="flex items-center justify-center w-10 h-10 rounded-full bg-gold-500 text-navy-950 hover:bg-gold-400 transition-colors"
             >
               <Send className="w-4 h-4" />
             </button>

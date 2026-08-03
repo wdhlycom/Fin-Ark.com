@@ -281,6 +281,35 @@ export const ZH_SHARED: Omit<Dict, 'articles'> = {
       '在这个充满变数的时代，香港保险是兼顾流动性、收益率与投保门槛的最佳普适性资产垫。预约 45 分钟一对一私人架构会谈，由 Fin-Ark 架构师团队为您定制专属方案。',
     funnelCta: '预约 1 对 1 诊断',
   },
+  assetmap: {
+    matrixTitle: '全景对比矩阵',
+    disclaimer:
+      '以上为编辑性参考维度，用于横向理解三类资产的特征差异，不构成任何投资、税务或法律建议。',
+    viewAll: {
+      trust: '查看全部信托洞察',
+      gold: '查看全部黄金洞察',
+      emerging: '查看全部新型资产洞察',
+    },
+    dimensions: {
+      labels: {
+        risk: '风险等级',
+        liquidity: '流动性',
+        threshold: '起投门槛',
+        function: '核心功能',
+        complement: '与港险互补',
+        audience: '适合人群',
+      },
+      values: {
+        risk: { trust: '低', gold: '中低', emerging: '高' },
+        liquidity: { trust: '低 · 锁定期长', gold: '高', emerging: '高' },
+        threshold: { trust: '高', gold: '低', emerging: '低' },
+        function: { trust: '传承隔离 · 债务防火墙', gold: '保值避险 · 实物本位', emerging: '增值对冲 · 数字黄金' },
+        complement: { trust: '高维补充 · 拉满传承', gold: '静态防守 · 攻守兼备', emerging: '动态对冲 · 落袋锁利' },
+        audience: { trust: '高净值家族', gold: '所有家庭', emerging: '能承受波动者' },
+      },
+    },
+  },
+
   about: {
     introTitle: '关于方舟：为认真规划的家庭，构建离岸资产本位',
     introBody:
@@ -300,6 +329,8 @@ export const ZH_SHARED: Omit<Dict, 'articles'> = {
       { q: '一定要做家族信托吗？', a: '不一定。资产量 500 万美元以下，香港保单的"保单拆分 + 后继被保人"已足够覆盖传承；仅当涉及企业股权、跨境复杂税务时，才建议启动正式信托。' },
       { q: '整个流程要多久？', a: '从私人咨询到架构落地通常 2–4 周。我们会先完成诊断与方案，经您确认后再执行，全程透明可追溯。' },
     ],
+    processTitle: '服务流程',
+    faqTitle: '常见问题',
     ctaTitle: '准备好为家庭构建离岸资产本位了吗？',
     ctaBody: '无论您处在哪个阶段，第一步都是一次坦诚的对话。预约 45 分钟私人架构会谈，由架构师团队为您量身诊断。',
     ctaBtn: '预约 1 对 1 诊断',

@@ -17,7 +17,7 @@ export default function Footer({ onNavigate }: { onNavigate: (id: SectionId | 'h
                 alt="Finark"
                 width={32}
                 height={32}
-                className="w-8 h-8 object-contain"
+                className="w-8 h-8 object-contain rounded-full"
               />
               <div>
                 <div className="text-lg font-semibold tracking-[0.2em] text-white">
@@ -54,9 +54,9 @@ export default function Footer({ onNavigate }: { onNavigate: (id: SectionId | 'h
           </div>
         </div>
 
-        <div className="mt-12 pt-6 border-t border-slate-800/60 flex flex-col items-center gap-2 text-center">
-          <div className="text-xs text-slate-600">© {new Date().getFullYear()} fin-ark.com</div>
-          <div className="text-xs text-slate-500">{t.footer.rights}</div>
+        <div className="mt-12 pt-6 border-t border-slate-800/60 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-center text-xs">
+          <span className="text-slate-600">© {new Date().getFullYear()} fin-ark.com</span>
+          <span className="text-slate-500">{t.footer.rights}</span>
         </div>
       </div>
     </footer>

@@ -239,6 +239,35 @@ export const ES_SHARED: Omit<Dict, 'articles'> = {
       'En una era de incertidumbre, el seguro de Hong Kong es la base patrimonial universal que equilibra liquidez, rentabilidad y accesibilidad. Reserve una sesión privada de arquitectura 1-a-1 de 45 minutos—nuestro arquitecto fundador diseñará su plan exclusivo.',
     funnelCta: 'Reservar Diagnóstico 1-a-1',
   },
+  assetmap: {
+    matrixTitle: 'Matriz Panorámica',
+    disclaimer:
+      'Las dimensiones anteriores son referencias editoriales para comprender horizontalmente las características de las tres clases de activos. No constituyen ningún consejo de inversión, fiscal o legal.',
+    viewAll: {
+      trust: 'Ver todos los análisis de Trust',
+      gold: 'Ver todos los análisis de Oro',
+      emerging: 'Ver todos los análisis de Activos Emergentes',
+    },
+    dimensions: {
+      labels: {
+        risk: 'Nivel de Riesgo',
+        liquidity: 'Liquidez',
+        threshold: 'Umbral Mínimo',
+        function: 'Función Central',
+        complement: 'Complemento al Seguro HK',
+        audience: 'Adecuado Para',
+      },
+      values: {
+        risk: { trust: 'Bajo', gold: 'Medio-Bajo', emerging: 'Alto' },
+        liquidity: { trust: 'Baja · Período de bloqueo largo', gold: 'Alta', emerging: 'Alta' },
+        threshold: { trust: 'Alto', gold: 'Bajo', emerging: 'Bajo' },
+        function: { trust: 'Aislamiento patrimonial · Cortafuegos de deuda', gold: 'Preservación y refugio · Estándar físico', emerging: 'Cobertura de crecimiento · Oro digital' },
+        complement: { trust: 'Suplemento de mayor dimensión · Herencia completa', gold: 'Defensa estática · Equilibrio ofensivo-defensivo', emerging: 'Cobertura dinámica · Asegurar ganancias' },
+        audience: { trust: 'Familias de alto patrimonio', gold: 'Todos los hogares', emerging: 'Inversores tolerantes a la volatilidad' },
+      },
+    },
+  },
+
   about: {
     introTitle: 'Acerca del Arca: Estándares de Activos Offshore para Familias que Planifican en Serio',
     introBody:
@@ -258,6 +287,8 @@ export const ES_SHARED: Omit<Dict, 'articles'> = {
       { q: '¿Necesito un fideicomiso familiar?', a: 'No necesariamente. Por debajo de US$5M, el "división de póliza + asegurado sucesor" de HK ya cubre la herencia; los fideicomisos formales se recomiendan solo con acciones corporativas o fiscalidad compleja.' },
       { q: '¿Cuánto dura el proceso?', a: 'De consulta a ejecución, típicamente 2–4 semanas. Completamos diagnóstico y propuesta primero, avanzamos tras su confirmación, con transparencia total.' },
     ],
+    processTitle: 'Proceso de Servicio',
+    faqTitle: 'Preguntas Frecuentes',
     ctaTitle: '¿Listo para construir el estándar de activos offshore de su familia?',
     ctaBody: 'Cualquiera que sea su etapa, el primer paso es una conversación honesta. Reserve una sesión privada de 45 minutos con nuestro arquitecto fundador.',
     ctaBtn: 'Reservar Diagnóstico 1-a-1',
