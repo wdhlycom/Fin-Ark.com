@@ -72,6 +72,14 @@ function App({ serverUrl }: { serverUrl?: string } = {}) {
     updateSeoHead(window.location.pathname);
   }, [lang, view, articleSlug]);
 
+  // 同步 <html> 的 lang 与 dir（阿拉伯语 RTL）：覆盖 SSR 预渲染后客户端切换语言的情况。
+  // 直链打开 /ar/ 已由 prerender 注入 dir="rtl"；此处补上 SPA 跳转时的缺口，避免阿语以 LTR 渲染。
+  useEffect(() => {
+    const el = document.documentElement;
+    el.lang = lang;
+    el.dir = lang === 'ar' ? 'rtl' : 'ltr';
+  }, [lang]);
+
   // 浏览器前进/后退、手动改路径、跨页深链统一走这一条
   useEffect(() => {
     const onPop = () => {

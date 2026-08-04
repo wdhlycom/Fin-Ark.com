@@ -47,7 +47,7 @@ html[lang="ar"] h6 {
 
 /* === Typography system === */
 .font-serif-display {
-  font-family: 'Noto Serif SC', Georgia, serif !important;
+  font-family: 'Noto Serif SC', 'Noto Naskh Arabic', Georgia, serif !important;
   letter-spacing: 0.02em !important;
   line-height: 1.4 !important;
 }
