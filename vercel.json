@@ -7,13 +7,13 @@
     { "source": "/s/insurance", "destination": "/zh/insurance", "permanent": true },
     { "source": "/s/guardian", "destination": "/zh/guardian", "permanent": true },
     { "source": "/s/arkPilot", "destination": "/zh/arkPilot", "permanent": true },
-    { "source": "/s/(.*)", "destination": "/zh/s/:splat", "permanent": true },
-    { "source": "/a/(.*)", "destination": "/zh/a/:splat", "permanent": true },
+    { "source": "/s/(.*)", "destination": "/zh/s/$1", "permanent": true },
+    { "source": "/a/(.*)", "destination": "/zh/a/$1", "permanent": true },
     { "source": "/assetmap", "destination": "/zh/assetmap", "permanent": true },
     { "source": "/about", "destination": "/zh/about", "permanent": true },
     { "source": "/cases", "destination": "/zh/cases", "permanent": true }
   ],
   "rewrites": [
-    { "source": "/((?!.*\\.).*)", "destination": "/index.html" }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
