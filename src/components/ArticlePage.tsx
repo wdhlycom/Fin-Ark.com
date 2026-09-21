@@ -10,6 +10,10 @@ import { articleToPath, viewToPath } from '../nav';
 import { deriveCategory, CATEGORY_THEME, categoryLabel, CATEGORIZED_SECTIONS } from '../articleCategory';
 import NavLink from './NavLink';
 import SectionHeader from './SectionHeader';
+import FunnelCTA from './FunnelCTA';
+import GuardianSeriesPage from './GuardianSeriesPage';
+import { AUTHOR, authorCopy } from '../author';
+import { SERIES_ORDER, formatSeriesNum, seriesCopy } from '../data/guardianSeries';
 
 export default function ArticlePage({
   section,
@@ -33,8 +37,16 @@ export default function ArticlePage({
       articles.find((a) => a.id === articleId)
     : undefined;
 
+  // 守护者觉醒系列：列表视图升级为系列聚合页（hub：导读 + 四辑聚类 + CollectionPage JSON-LD）
+  if (section === 'guardian' && !article) {
+    return <GuardianSeriesPage onConsult={onConsult} />;
+  }
+
   // Reader view（文章详情，支持深链 /a/<section>/<id>）
   if (article) {
+    const c = authorCopy(lang);
+    const isSeriesMember = section === 'guardian' && SERIES_ORDER.some((e) => e.id === article.id);
+
     return (
       <div className="relative min-h-screen pt-28 pb-24" style={{ background: theme.pageBg }}>
         <div className="absolute inset-0 bg-grid opacity-20 pointer-events-none" />
@@ -63,6 +75,23 @@ export default function ArticlePage({
             {article.subtitle}
           </div>
 
+          {/* 作者 byline（E-E-A-T 可见署名） */}
+          <div className="mt-8 flex items-center gap-3">
+            <img
+              src={AUTHOR.photo}
+              alt={lang === 'zh' ? `${c.name}形象照` : `Portrait of ${c.name}`}
+              className="w-11 h-11 rounded-full object-cover ring-1 ring-white/15"
+              loading="lazy"
+            />
+            <div>
+              <div className="text-sm text-slate-100">
+                {c.name}
+                <span className="text-slate-400"> · {c.jobTitle}</span>
+              </div>
+              <div className="text-xs text-slate-500">{c.org}</div>
+            </div>
+          </div>
+
           <div className="mt-10 h-px hairline" />
 
           <article className="mt-10 space-y-8">
@@ -75,6 +104,34 @@ export default function ArticlePage({
               </section>
             ))}
           </article>
+
+          {/* 作者卡 + 合规披露（E-E-A-T） */}
+          <aside className="mt-14 p-6 rounded-2xl border border-gold-500/20 bg-navy-900/60 backdrop-blur-md">
+            <div className="flex items-start gap-4">
+              <img
+                src={AUTHOR.photo}
+                alt={lang === 'zh' ? `${c.name}形象照` : `Portrait of ${c.name}`}
+                className="w-16 h-16 rounded-full object-cover ring-1 ring-white/15 shrink-0"
+                loading="lazy"
+              />
+              <div>
+                <div className="font-serif-display text-lg text-white">
+                  {c.name}
+                  <span className="ml-2 text-xs tracking-[0.15em] uppercase font-sans" style={{ color: theme.accent }}>
+                    {c.jobTitle}
+                  </span>
+                </div>
+                <div className="text-xs text-slate-500">{c.org}</div>
+                <p className="mt-2.5 text-sm text-slate-400 leading-relaxed">{c.bio}</p>
+              </div>
+            </div>
+            <p className="mt-4 pt-4 border-t border-white/10 text-xs text-slate-500 leading-relaxed">
+              {c.disclosure}
+            </p>
+          </aside>
+
+          {/* 系列篇间导航（守护者觉醒 36 篇） */}
+          {isSeriesMember && <SeriesPrevNext section={section} currentId={article.id} />}
 
           <FunnelCTA t={t} onConsult={onConsult} />
         </div>
@@ -113,8 +170,17 @@ export default function ArticlePage({
               <NavLink
                 key={article.id}
                 href={articleToPath(section, article.slug || article.id)}
-                style={{ ...vars, ...(cat ? { borderLeft: `4px solid ${cat.border}` } : null) }}
-                className={`theme-card group block w-full text-left p-6 ${theme.frameClass}`}
+                style={{
+                  ...vars,
+                  // 分类卡片：四边描边采用该分类的语义色（淡化版），hover 时提亮到实色
+                  ...(cat
+                    ? {
+                        ['--cat-border' as string]: cat.borderSoft,
+                        ['--cat-hover' as string]: cat.border,
+                      }
+                    : null),
+                }}
+                className={`theme-card group block w-full text-left p-6 ${theme.frameClass}${cat ? ' cat-frame' : ''}`}
               >
                 {cat && (
                   <span
@@ -151,28 +217,68 @@ export default function ArticlePage({
   );
 }
 
-function FunnelCTA({
-  t,
-  onConsult,
-}: {
-  t: ReturnType<typeof useLang>['t'];
-  onConsult: () => void;
-}) {
+/** 守护者觉醒系列篇间导航：按系列全集顺序（01→30 + 番外 01–06）渲染上一篇/下一篇。 */
+function SeriesPrevNext({ section, currentId }: { section: SectionId; currentId: string }) {
+  const { t, lang } = useLang();
+  const s = seriesCopy(lang);
+  const theme = getTheme(section);
+  const vars = themeVars(theme);
+  const articles = t.articles[section];
+
+  const idx = SERIES_ORDER.findIndex((e) => e.id === currentId);
+  if (idx < 0) return null;
+
+  const resolve = (entry?: (typeof SERIES_ORDER)[number]) => {
+    if (!entry) return null;
+    const a = articles.find((x) => x.id === entry.id);
+    return a ? { entry, a } : null;
+  };
+  const prev = resolve(SERIES_ORDER[idx - 1]);
+  const next = resolve(SERIES_ORDER[idx + 1]);
+  if (!prev && !next) return null;
+
+  const cardClass =
+    'theme-card group block p-4 hover:border-gold-500/40 transition-colors min-w-0';
+  const labelClass = 'flex items-center gap-1.5 text-xs text-slate-500';
+
   return (
-    <div className="mt-14 p-7 rounded-2xl border border-gold-500/30 bg-navy-900/60 text-center backdrop-blur-md">
-      <h3 className="font-serif-display text-xl md:text-2xl text-gold-200">
-        {t.articlePage.funnelTitle}
-      </h3>
-      <p className="mt-3 text-slate-300 text-sm md:text-base leading-relaxed max-w-2xl mx-auto">
-        {t.articlePage.funnelBody}
-      </p>
-      <button
-        onClick={onConsult}
-        className="mt-6 inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-gradient-to-r from-gold-500 to-gold-600 text-navy-950 font-semibold hover:shadow-gold-glow transition-all"
-      >
-        {t.articlePage.funnelCta}
-        <ArrowRight className="w-4 h-4" />
-      </button>
-    </div>
+    <nav className="mt-8 grid gap-3 sm:grid-cols-2" aria-label={s.name}>
+      {prev ? (
+        <NavLink
+          href={articleToPath(section, prev.a.slug || prev.a.id)}
+          style={vars}
+          className={cardClass}
+        >
+          <span className={labelClass}>
+            <ArrowLeft className="w-3.5 h-3.5" />
+            {s.prevLabel}
+            <span className="text-slate-600">·</span>
+            {formatSeriesNum(prev.entry, lang)}
+          </span>
+          <div className="mt-2 text-sm text-slate-200 leading-snug line-clamp-2">
+            {prev.a.title}
+          </div>
+        </NavLink>
+      ) : (
+        <span />
+      )}
+      {next && (
+        <NavLink
+          href={articleToPath(section, next.a.slug || next.a.id)}
+          style={vars}
+          className={`${cardClass} sm:text-right`}
+        >
+          <span className={`${labelClass} sm:justify-end`}>
+            {formatSeriesNum(next.entry, lang)}
+            <span className="text-slate-600">·</span>
+            {s.nextLabel}
+            <ArrowRight className="w-3.5 h-3.5" />
+          </span>
+          <div className="mt-2 text-sm text-slate-200 leading-snug line-clamp-2">
+            {next.a.title}
+          </div>
+        </NavLink>
+      )}
+    </nav>
   );
 }

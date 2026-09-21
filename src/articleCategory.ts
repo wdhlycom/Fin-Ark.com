@@ -11,7 +11,8 @@ export type CategoryKey = 'mainland' | 'offshore' | 'macro' | 'qa';
 
 export const CATEGORY_THEME: Record<CategoryKey, {
   labels: Record<Lang, string>;
-  border: string; // 左侧 accent 边框 + 圆点
+  border: string; // 分类实色：pill 圆点/边框、卡片 hover 提亮
+  borderSoft: string; // 卡片四边描边（该分类色的淡化版）
   pillBg: string; // pill 徽章底色（半透明）
   pillText: string; // pill 文字色
   hint: string; // 语义说明（调试/未来用）
@@ -20,6 +21,7 @@ export const CATEGORY_THEME: Record<CategoryKey, {
   mainland: {
     labels: { zh: '内地信号塔', en: 'Mainland Beacon', es: 'Faro Continental', ar: 'منارة برية' },
     border: '#f59e0b',
+    borderSoft: 'rgba(245,158,11,0.38)',
     pillBg: 'rgba(245,158,11,0.15)',
     pillText: '#fcd34d',
     hint: '政策与本土确定性',
@@ -28,6 +30,7 @@ export const CATEGORY_THEME: Record<CategoryKey, {
   offshore: {
     labels: { zh: '离岸罗盘', en: 'Offshore Compass', es: 'Brújula Offshore', ar: 'بوصلة خارجية' },
     border: '#22d3ee',
+    borderSoft: 'rgba(34,211,238,0.38)',
     pillBg: 'rgba(34,211,238,0.15)',
     pillText: '#67e8f9',
     hint: '离岸与全球视野',
@@ -36,6 +39,7 @@ export const CATEGORY_THEME: Record<CategoryKey, {
   macro: {
     labels: { zh: '宏观望远镜', en: 'Macro Lens', es: 'Lente Macroeconómica', ar: 'عدسة كلية' },
     border: '#a855f7',
+    borderSoft: 'rgba(168,85,247,0.38)',
     pillBg: 'rgba(168,85,247,0.15)',
     pillText: '#c4b5fd',
     hint: '大周期与深远观察',
@@ -44,6 +48,7 @@ export const CATEGORY_THEME: Record<CategoryKey, {
   qa: {
     labels: { zh: '方舟问答', en: 'Ark Q&A', es: 'Ark Preguntas', ar: 'أسئلة آرك' },
     border: '#34d399',
+    borderSoft: 'rgba(52,211,153,0.38)',
     pillBg: 'rgba(52,211,153,0.15)',
     pillText: '#6ee7b7',
     hint: '轻量解答与互动',

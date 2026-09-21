@@ -3,19 +3,6 @@ import type { Article } from './types';
 export const EN_ARTICLES: Record<string, Article[]> = {
   insurance: [
     {
-      id: 'hk-dividend-sell-property',
-      title: 'Why High-Net-Worth Families Buy Hong Kong Savings Insurance First After Selling Domestic Property',
-      subtitle: 'HK Insurance · Multi-Currency Switch · Long-Cycle Compounding',
-      date: '2026-07-15',
-      body: [
-        { h: '1. Property Liquidity Freeze and Offshore Standard Migration', p: 'Since 2024, second-hand property listings in tier-1 Chinese cities have climbed steadily, with transaction cycles stretching to 12–18 months. The narrative of property as a "high-liquidity asset" is collapsing. After liquidating property, high-net-worth families face a core question: not "what grows fastest," but "where can this money avoid dilution, freezing, and succession gridlock." Hong Kong dividend savings insurance—denominated in USD and seven currencies with underlying assets across USD investment-grade bonds and global equities—precisely captures this wave of offshore capital migrating from domestic property.' },
-        { h: '2. Multi-Currency Switch: A Built-In Hedge Against Single Fiat', p: 'The core differentiator of HK savings insurance is "multi-currency conversion"—the policyholder can freely switch the policy currency among USD, HKD, GBP, CAD, AUD, SGD, and RMB. When a fiat enters a devaluation cycle, policy value can actively migrate to stronger currencies rather than passively absorbing FX erosion. No domestic financial product offers this—domestic policies are RMB-only, leaving holders with zero hedge against fiat devaluation.' },
-        { h: '3. Long-Cycle Compounding: Time Is the Best Leverage', p: 'The HK dividend insurance mechanism centers on long-term compounding. For a 5-year payment term, guaranteed cash value plus non-guaranteed dividends typically reach 2.5–3.5× paid premiums by year 20, and 4–6× by year 30 (depending on dividend realization rates). Top insurers have sustained 95%–102% dividend realization over 20 years, with underlying assets primarily in USD investment-grade bonds plus modest equity allocation—forming a cross-cycle compounding engine. This "time-for-space" compounding effect is unmatched by property or domestic short-term wealth management.' },
-        { h: '4. Why "First Stop" Rather Than "Final Destination"', p: 'HK savings insurance is the "first stop" after property liquidation because it simultaneously satisfies three rigid needs: USD-standard fiat hedge, policy-architecture cross-generational transfer, and high liquidity for emergency withdrawal. But it is not the only allocation—on top of the HK insurance "asset base," families can layer physical gold (defense), family trusts (isolation), and even modest Web3 (asymmetric returns). HK insurance is the foundation; other pillars are the superstructure.' },
-        { h: '5. Fin-Ark Practical Recommendations', p: 'Fin-Ark recommends allocating 50%–70% of property-liquidation proceeds to HK savings insurance as the offshore standard base, with the remainder distributed across gold, trusts, and alternatives per family risk preference. A 5-year payment term preserves flexibility during the payment period, avoiding full liquidity lock of a single premium. All architecture executes within compliance frameworks (KYC/AML), with Fin-Ark coordinating cross-border tax counsel to ensure compliance across owner and beneficiary jurisdictions.' },
-      ],
-    },
-    {
       id: 'hk-policy-split-inheritance',
       title: 'Deep Dive: HK Insurance Policy Split and Cross-Generational Inheritance',
       subtitle: 'Policy Split · Successor Insured · Fee-Free Inheritance',
@@ -54,19 +41,6 @@ export const EN_ARTICLES: Record<string, Article[]> = {
         { h: '3. 13U Flexibility and Higher Thresholds', p: '13U is more flexible—allowing family holding companies as fund entities, with practical minimums of US$50M+ to demonstrate substance. 13U suits larger families with global investment strategies, but thresholds remain far beyond the emerging-affluent range.' },
         { h: '4. Trust Thresholds Highlight HK Insurance Universality', p: 'Singapore VCC and family office setup thresholds run US$15M–50M, with annual maintenance costs of US$30–80K. For families with US$500K–2M, trust and family office thresholds are too high and maintenance costs uneconomical. HK savings insurance\'s "policy split + successor insured" function is essentially a fee-free "poor man\'s family trust"—directed distribution, cross-generational inheritance—making it the optimal inheritance solution for this range.' },
         { h: '5. Fin-Ark Tiered Architecture Recommendation', p: 'Fin-Ark recommends tiering by asset scale: US$500K–2M centered on HK insurance policy inheritance; US$5M–15M using HK insurance + simple trust combinations; US$15M+ activating VCC and family office architecture. Each tier has corresponding compliance architecture and cost-benefit analysis, ensuring families achieve optimal inheritance efficacy at optimal cost.' },
-      ],
-    },
-    {
-      id: 'when-trust-needed',
-      title: 'At What Asset Level Do You Truly Need a Family Trust?',
-      subtitle: 'Family Trust · Threshold Scale · HK Insurance Alternative',
-      date: '2026-06-20',
-      body: [
-        { h: '1. The True Value of Trusts: Legal Isolation, Not Investment Returns', p: 'The core value of a family trust lies not in investment returns but in legal isolation—separating legal ownership from beneficial ownership to shield against the settlor\'s future debts, litigation, and bankruptcy. This isolation效力 depends entirely on the jurisdiction\'s legal stability. But setup thresholds and maintenance costs mean trusts are not every family\'s best choice.' },
-        { h: '2. Below US$5M: HK Insurance Policy Inheritance Is Superior', p: 'For families with under US$5M in assets, trust setup fees (US$50–150K) and annual management fees (US$10–30K) represent too high a proportion of assets—uneconomical. HK savings insurance\'s "policy split + successor insured" function achieves directed distribution and cross-generational inheritance with zero management fees, making it the superior solution for this range.' },
-        { h: '3. US$5M–15M: HK Insurance + Simple Trust Combination', p: 'As assets enter the US$5M–15M range, families begin involving corporate equity, cross-border assets, and complex taxation—simple trusts (e.g., BVI discretionary trusts) become cost-effective. Fin-Ark recommends HK insurance as the "light inheritance layer" paired with a simple trust as the "asset isolation layer" for this range.' },
-        { h: '4. US$15M+: Formal Trusts and Family Office Architecture', p: 'Above US$15M, with multi-jurisdictional assets, corporate equity succession, and cross-border tax planning, formal trusts (e.g., Singapore VCC + BVI trust hybrid) are irreplaceable. Here the isolation, tax optimization, and inheritance flexibility of trusts far exceed policy inheritance, justifying setup and maintenance costs.' },
-        { h: '5. Fin-Ark Scale Diagnosis', p: 'Before recommending architecture, Fin-Ark conducts a "scale diagnosis"—assessing total family assets, asset composition, jurisdictions, and inheritance goals to determine whether HK insurance policy inheritance suffices or formal trusts are needed. For the vast majority of emerging-affluent families, the diagnosis is: HK insurance policy inheritance suffices; no need to bear trust high thresholds and maintenance costs.' },
       ],
     },
   ],

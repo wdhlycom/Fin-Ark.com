@@ -11,8 +11,11 @@
       gtag('config', 'G-N1415W54RG');
     </script>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="icon" type="image/png" href="/Finark.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- 页面 title 与 meta description 由 scripts/prerender.mjs 按路由注入（每页唯一），此处不再写死，
+         避免 200+ 个页面共用同一句标题与描述。构建产物中每页均含独立 title/description。 -->
+    <!-- 注意：本文件内注释不要书写带尖括号的 title/meta 字面量，否则会被 prerender 的剥除正则误匹配。 -->
     <title>FIN-ARK · Financial Ark | 金融方舟 — Private Wealth Architecture</title>
     <meta name="description" content="FIN-ARK (金融方舟) — A private wealth architecture platform for high-net-worth families. Offshore insurance, sovereign trusts, family offices, gold reserves, alternative assets, and compliant offshore capital landing." />
   </head>

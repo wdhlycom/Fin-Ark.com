@@ -14,7 +14,7 @@ import AssetMapPage from './components/AssetMapPage';
 import AboutPage from './components/AboutPage';
 import CasesPage from './components/CasesPage';
 import { I18N, SECTIONS, type Lang, type SectionId } from './i18n';
-import { seoLinkDescriptors } from './seo';
+import { seoHeadNodes, seoMeta } from './seo';
 import {
   parsePath,
   viewToPath,
@@ -34,18 +34,23 @@ function articleExistsInLang(lang: Lang, section: SectionId, id: string): boolea
   return (I18N[lang].articles[section] ?? []).some((a) => a.id === id);
 }
 
-/** 维护 <head> 中的 canonical 与 hreflang 交替链接（多语言 SEO 核心）。
- *  逻辑统一由 seo.ts 的 seoLinkDescriptors 提供，客户端与服务端预渲染共用同一套规则。 */
+/** 维护 <head> 中的 title / description / canonical / hreflang / Open Graph / JSON-LD。
+ *  逻辑统一由 seo.ts 的 seoMeta + seoHeadNodes 提供：客户端与服务端预渲染共用同一套规则，
+ *  保证 SPA 路由切换后 head 与静态 HTML 完全一致（首屏由预渲染写死，切换时由此处重建）。 */
 function updateSeoHead(url: string) {
+  const origin = window.location.origin;
   const head = document.head;
-  head.querySelectorAll('link[data-seo]').forEach((n) => n.remove());
-  for (const l of seoLinkDescriptors(url, window.location.origin)) {
-    const a = document.createElement('link');
-    a.setAttribute('data-seo', '');
-    a.rel = l.rel;
-    if (l.hreflang) a.setAttribute('hreflang', l.hreflang);
-    a.href = l.href;
-    head.appendChild(a);
+  // 先清除上一轮注入（含首屏由预渲染写入）的 data-seo 标签，避免路由切换后标签堆积
+  head.querySelectorAll('[data-seo]').forEach((n) => n.remove());
+
+  document.title = seoMeta(url, origin).title;
+
+  for (const node of seoHeadNodes(url, origin)) {
+    const el = document.createElement(node.tag);
+    for (const [k, v] of Object.entries(node.attrs)) el.setAttribute(k, v);
+    if (node.tag === 'script') el.textContent = node.text;
+    el.setAttribute('data-seo', '');
+    head.appendChild(el);
   }
 }
 

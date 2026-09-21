@@ -3,19 +3,6 @@ import type { Article } from './types';
 export const ES_ARTICLES: Record<string, Article[]> = {
   insurance: [
     {
-      id: 'hk-dividend-sell-property',
-      title: '¿Por qué las familias de alto patrimonio compran seguro de ahorro de Hong Kong tras vender propiedades domésticas?',
-      subtitle: 'Seguro HK · Conmutación Multimoneda · Interés Compuesto de Largo Ciclo',
-      date: '2026-07-15',
-      body: [
-        { h: '1. Congelación de liquidez inmobiliaria y migración al estándar offshore', p: 'Desde 2024, las listas de propiedades de segunda mano en ciudades de primera línea chinas han escalado continuamente, con ciclos de transacción de 12–18 meses. La narrativa de la propiedad como "activo de alta liquidez" se desmorona. Tras liquidar propiedades, las familias de alto patrimonio se enfrentan a la pregunta central: no "qué sube más rápido", sino "dónde poner este dinero sin que se diluya, congele o atasque la sucesión". El seguro de ahorro con dividendos de Hong Kong—denominado en USD y siete monedas con activos subyacentes en bonos de grado de inversión en USD y mercados de renta variable globales—capta precisamente esta ola de capital offshore que migra de la propiedad doméstica.' },
-        { h: '2. Conmutación multimoneda: cobertura integrada contra fiat único', p: 'El diferenciador central del seguro de ahorro de HK es la "conversión multimoneda"—el titular puede cambiar libremente la moneda de la póliza entre USD, HKD, GBP, CAD, AUD, SGD y RMB. Cuando una moneda fiat entra en ciclo de devaluación, el valor de la póliza puede migrar activamente a monedas fuertes en lugar de absorber pasivamente la erosión cambiaria. Ningún producto financiero doméstico ofrece esto—las pólizas domésticas son solo en RMB, sin herramienta de cobertura contra la devaluación fiat.' },
-        { h: '3. Interés compuesto de largo ciclo: el tiempo es el mejor apalancamiento', p: 'El mecanismo de dividendos del seguro de HK se centra en el interés compuesto a largo plazo. Para un plazo de pago de 5 años, el valor en efectivo garantizado más dividendos no garantizados típicamente alcanza 2.5–3.5× las primas pagadas al año 20, y 4–6× al año 30 (según la tasa de realización de dividendos). Las principales aseguradoras han mantenido realizaciones de 95%–102% durante 20 años, con activos subyacentes principalmente en bonos de grado de inversión en USD más modestas asignaciones de renta variable—formando un motor de interés compuesto estable a través de los ciclos.' },
-        { h: '4. ¿Por qué "primera parada" y no "destino final"?', p: 'El seguro de ahorro de HK es la "primera parada" tras liquidar propiedades porque satisface simultáneamente tres necesidades rígidas: cobertura fiat en USD, transferencia transgeneracional mediante arquitectura de póliza, y alta liquidez para retiros de emergencia. Pero no es la única asignación—sobre la "base patrimonial" del seguro de HK, las familias pueden superponer oro físico (defensa), fideicomisos familiares (aislamiento) e incluso modestos activos Web3 (rentabilidad asimétrica). El seguro de HK es los cimientos; los demás pilares son la superestructura.' },
-        { h: '5. Recomendaciones prácticas de Fin-Ark', p: 'Fin-Ark recomienda asignar 50%–70% de los fondos de liquidación de propiedades al seguro de ahorro de HK como base estándar offshore, con el resto distribuido entre oro, fideicomisos y alternativos según la preferencia de riesgo familiar. Un plazo de pago de 5 años preserva flexibilidad durante el período de pago, evitando el bloqueo total de liquidez de una prima única. Toda la arquitectura se ejecuta dentro de marcos de cumplimiento (KYC/AML).' },
-      ],
-    },
-    {
       id: 'hk-policy-split-inheritance',
       title: 'Análisis Profundo: División de Póliza de Seguro de HK y Herencia Transgeneracional',
       subtitle: 'División de Póliza · Asegurado Sucesor · Herencia Sin Honorarios',
@@ -54,19 +41,6 @@ export const ES_ARTICLES: Record<string, Article[]> = {
         { h: '3. Flexibilidad del 13U y umbrales más altos', p: '13U es más flexible—permite holdings familiares como entidad de fondo, con mínimos prácticos de US$50M+ para demostrar sustancia. 13U conviene a familias más grandes con estrategias globales, pero los umbrales siguen muy por encima del rango emergente.' },
         { h: '4. Umbrales de fideicomiso resaltan la universalidad del seguro de HK', p: 'Los umbrales de constitución de VCC y family office de Singapur son de US$15M–50M, con costes de mantenimiento anuales de US$30–80K. Para familias con US$500K–2M, los umbrales son demasiado altos y los costes no rentables. La función "división de póliza + asegurado sucesor" del seguro de HK es esencialmente un "fideicomiso familiar sin honorarios"—distribución dirigida, herencia transgeneracional—siendo la solución óptima para este rango.' },
         { h: '5. Recomendación de arquitectura por tramos de Fin-Ark', p: 'Fin-Ark recomienda estratificar por escala: US$500K–2M centrada en herencia por póliza de HK; US$5M–15M con combinación seguro HK + fideicomiso simple; US$15M+ activando arquitectura VCC y family office. Cada tramo tiene su análisis de cumplimiento y coste-beneficio.' },
-      ],
-    },
-    {
-      id: 'when-trust-needed',
-      title: '¿En qué nivel patrimonial se necesita realmente un fideicomiso familiar?',
-      subtitle: 'Fideicomiso Familiar · Escala de Umbral · Alternativa de Seguro HK',
-      date: '2026-06-20',
-      body: [
-        { h: '1. El verdadero valor de los fideicomisos: aislamiento legal, no rentabilidad', p: 'El valor central del fideicomiso familiar no radica en rentabilidad sino en aislamiento legal—separar la propiedad legal de la beneficiaria para aislar futuras deudas, litigios y quiebras del fideicomitente. Esta eficacia depende de la estabilidad legal de la jurisdicción. Pero los umbrales y costes de mantenimiento hacen que los fideicomisos no sean la mejor opción para todas las familias.' },
-        { h: '2. Bajo US$5M: la herencia por póliza de HK es superior', p: 'Para familias con menos de US$5M, los honorarios de constitución (US$50–150K) y gestión anual (US$10–30K) representan una proporción demasiado alta—no rentable. La función "división de póliza + asegurado sucesor" del seguro de HK logra distribución dirigida y herencia transgeneracional sin honorarios de gestión, siendo la solución superior para este rango.' },
-        { h: '3. US$5M–15M: Combinación seguro HK + fideicomiso simple', p: 'Al entrar en US$5M–15M, las familias comienzan a involucrar acciones corporativas, activos transfronterizos y fiscalidad compleja—fideicomisos simples (p. ej., discrecional BVI) se vuelven rentables. Fin-Ark recomienda el seguro de HK como "capa hereditaria ligera" más un fideicomiso simple como "capa de aislamiento".' },
-        { h: '4. US$15M+: Fideicomisos formales y arquitectura de family office', p: 'Sobre US$15M, con activos multijurisdiccionales, sucesión de acciones y planificación fiscal transfronteriza, los fideicomisos formales (p. ej., VCC Singapur + fideicomiso BVI) son insustituibles. Aquí el aislamiento, la optimización fiscal y la flexibilidad hereditaria justifican los costes.' },
-        { h: '5. Diagnóstico de escala por Fin-Ark', p: 'Antes de recomendar arquitectura, Fin-Ark realiza un "diagnóstico de escala"—evaluando activos totales, composición, jurisdicciones y objetivos hereditarios. Para la mayoría de familias emergentes, el diagnóstico es: la herencia por póliza de HK basta; no es necesario asumir los altos umbrales y costes del fideicomiso.' },
       ],
     },
   ],

@@ -1,7 +1,8 @@
 import { renderToString } from 'react-dom/server';
 import App from './App';
-import { seoLinkTags } from './seo';
-import { I18N, SECTIONS, type SectionId, type View } from './i18n';
+import { seoHeadTags } from './seo';
+import { I18N, SECTIONS, type SectionId } from './i18n';
+import { SERIES_ORDER } from './data/guardianSeries';
 import {
   LANGS,
   DEFAULT_LANG,
@@ -9,14 +10,17 @@ import {
   viewToPath,
   articleToPath,
   parsePath,
+  type View,
 } from './nav';
 
 /** 预渲染时写入的绝对站点 origin（可通过环境变量覆盖，默认生产域名）。 */
 const BASE_ORIGIN = process.env.SITE_ORIGIN ?? 'https://fin-ark.com';
 
 /**
- * 服务端子渲染：渲染指定 URL 对应的完整 HTML 片段，并生成该页的 SEO <head> 标签。
- * 供 scripts/prerender.mjs 在构建期为每条路由产出静态 HTML（真预渲染 / SSG）。
+ * 服务端子渲染：渲染指定 URL 对应的完整 HTML 片段，并生成该页的 SEO <head>。
+ * SEO head 现由 seo.ts 的 seoHeadTags 统一产出（title / description / canonical /
+ * hreflang / Open Graph / Twitter / JSON-LD），供 scripts/prerender.mjs 在构建期
+ * 为每条路由产出静态 HTML（真预渲染 / SSG）。
  */
 export function render(url: string): {
   appHtml: string;
@@ -25,7 +29,7 @@ export function render(url: string): {
   dir: string;
 } {
   const appHtml = renderToString(<App serverUrl={url} />);
-  const seoHead = seoLinkTags(url, BASE_ORIGIN);
+  const seoHead = seoHeadTags(url, BASE_ORIGIN);
   const { lang } = parsePath(url);
   const safeLang = lang ?? DEFAULT_LANG;
   return { appHtml, seoHead, lang: safeLang, dir: safeLang === 'ar' ? 'rtl' : 'ltr' };
@@ -34,6 +38,9 @@ export function render(url: string): {
 /** 枚举所有需要预渲染的路由（zh/en 含文章全量；es/ar 暂无内容，仅 home + 栏目着陆页）。 */
 export function collectRoutes(): string[] {
   const routes: string[] = [];
+  // 根路径 '/'：构建期无法做语言检测，单独产出（渲染默认语言正文，canonical 指向默认语言 URL），
+  // 避免线上根路径回退到无正文的空壳 index.html。
+  routes.push('/');
   for (const lang of LANGS) {
     const articles = I18N[lang].articles;
     const hasContent = Object.values(articles).some((list) => list.length > 0);
@@ -46,8 +53,82 @@ export function collectRoutes(): string[] {
         }
       }
     }
-    // 资产地图（独立视图，非 SECTIONS 成员，单独纳入预渲染）
-    routes.push(withLang(lang, viewToPath('assetmap' as View)));
+    // 独立视图（非 SECTIONS 成员）：资产地图 / 关于 / 案例，均需纳入预渲染。
+    // 此前只预渲染 assetmap，导致 sitemap 中收录的 /<lang>/about、/<lang>/cases 实为死链
+    // （无对应静态文件，线上会回退到根 index.html，被判定为与首页重复）。
+    for (const v of ['assetmap', 'about', 'cases'] as View[]) {
+      routes.push(withLang(lang, viewToPath(v)));
+    }
   }
   return routes;
+}
+
+export type SitemapEntry = {
+  /** 站点内绝对路径（不含 origin），如 /zh/a/insurance/xxx */
+  path: string;
+  /** 跨语言配对键：同一篇内容的不同语言共享同一 group，用于生成 hreflang 互链 */
+  group: string;
+  /** 最后修改时间（文章取发布日期）；缺省由 sitemap 生成器回退为当天 */
+  lastmod?: string;
+  priority: string;
+  changefreq: string;
+};
+
+/**
+ * 生成 sitemap 全量条目。
+ *
+ * 关键点：与 prerender 共用同一份数据源（I18N 合并后的手写 TS + MD 管线文章）。
+ * 此前 gen-sitemap.mjs 只读 content/<lang>/*.md，导致手写 TS 文章虽已上线却不在 sitemap 中
+ * （实测 41 个页面缺漏），且 sitemap 的 hreflang 配对逻辑与页面内 hreflang 不一致。
+ */
+export function collectSitemapEntries(): SitemapEntry[] {
+  const entries: SitemapEntry[] = [];
+
+  const staticViews: { view: View; priority: string; changefreq: string }[] = [
+    { view: 'home', priority: '1.0', changefreq: 'weekly' },
+    ...SECTIONS.map((s) => ({
+      view: s as View,
+      priority: '0.8',
+      changefreq: 'weekly',
+    })),
+    { view: 'assetmap', priority: '0.6', changefreq: 'monthly' },
+    { view: 'about', priority: '0.6', changefreq: 'monthly' },
+    { view: 'cases', priority: '0.6', changefreq: 'monthly' },
+  ];
+
+  for (const lang of LANGS) {
+    const articles = I18N[lang].articles;
+    for (const s of staticViews) {
+      // 板块页：该语言无实质内容（薄着陆页）不进 sitemap（与 noindex 一致）。
+      // guardian 特殊：聚合页只渲染命中 SERIES_ORDER 的文章（es/ar 为独立翻译 id，聚合页为空壳）。
+      const isSection = (SECTIONS as string[]).includes(s.view);
+      const secList = isSection ? articles[s.view as SectionId] ?? [] : [];
+      if (isSection && secList.length === 0) continue;
+      if (s.view === 'guardian' && !secList.some((a) => SERIES_ORDER.some((e) => e.id === a.id))) {
+        continue;
+      }
+      const path = viewToPath(s.view);
+      entries.push({
+        path: withLang(lang, path),
+        group: `static:${path}`,
+        priority: s.priority,
+        changefreq: s.changefreq,
+      });
+    }
+
+    for (const sec of SECTIONS) {
+      for (const a of articles[sec] ?? []) {
+        entries.push({
+          path: withLang(lang, articleToPath(sec, a.slug ?? a.id)),
+          // 与页内 hreflang 保持同一配对键（文章 id）
+          group: `article:${a.id}`,
+          lastmod: a.date,
+          priority: '0.7',
+          changefreq: 'monthly',
+        });
+      }
+    }
+  }
+
+  return entries;
 }

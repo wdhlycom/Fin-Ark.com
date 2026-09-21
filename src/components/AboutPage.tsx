@@ -2,15 +2,17 @@ import { useState } from 'react';
 import { ArrowLeft, ArrowRight, ChevronDown, Compass } from 'lucide-react';
 import { useLang } from '../LangContext';
 import NavLink from './NavLink';
+import { AUTHOR, authorCopy } from '../author';
 
 export default function AboutPage({
   onConsult,
 }: {
   onConsult: () => void;
 }) {
-  const { t } = useLang();
+  const { t, lang } = useLang();
   const [openFaq, setOpenFaq] = useState<number | null>(0);
   const a = t.about;
+  const author = authorCopy(lang);
 
   return (
     <div className="relative min-h-screen bg-radial-navy pt-28 pb-24">
@@ -36,6 +38,30 @@ export default function AboutPage({
         <p className="mt-6 text-slate-300 text-base md:text-lg leading-[1.9] max-w-3xl">
           {a.introBody}
         </p>
+
+        {/* 区块 A2 主理人（作者实体，E-E-A-T 可见锚点） */}
+        <div className="mt-10 p-6 md:p-7 rounded-2xl border border-gold-500/25 bg-navy-900/50 backdrop-blur-md">
+          <div className="flex flex-col sm:flex-row items-start gap-5">
+            <img
+              src={AUTHOR.photo}
+              alt={lang === 'zh' ? `${author.name}形象照` : `Portrait of ${author.name}`}
+              className="w-20 h-20 rounded-full object-cover ring-1 ring-gold-500/30 shrink-0"
+              loading="lazy"
+            />
+            <div>
+              <div className="font-serif-display text-xl text-white">
+                {author.name}
+                <span className="ml-3 text-xs tracking-[0.15em] uppercase font-sans text-gold-300">
+                  {author.jobTitle}
+                </span>
+              </div>
+              <div className="mt-0.5 text-sm text-slate-500">{author.org}</div>
+              <p className="mt-3 text-sm md:text-[15px] text-slate-300 leading-[1.85]">
+                {author.bio}
+              </p>
+            </div>
+          </div>
+        </div>
 
         {/* 区块 B 服务流程 */}
         <h2 className="mt-16 font-serif-display text-2xl md:text-3xl text-gold-200">{t.about.processTitle}</h2>
