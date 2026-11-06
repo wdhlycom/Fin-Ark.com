@@ -17,6 +17,10 @@ export const AUTHOR = {
   aboutPath: '/about',
   /** 十余年从业的量化口径 */
   years: '10+',
+  /** 跨平台身份（sameAs）：用于 E-E-A-T 实体关联，把作者在社媒的可信身份与站内 Person 打通 */
+  sameAs: [
+    'https://www.xiaohongshu.com/user/profile/753326111',
+  ] as string[],
 } as const;
 
 export type AuthorCopy = {
@@ -81,6 +85,7 @@ export function authorPersonNode(origin: string, lang: Lang): Record<string, unk
     description: c.bio,
     image: origin + AUTHOR.photo,
     url: origin + withLangPath(lang, AUTHOR.aboutPath),
+    sameAs: AUTHOR.sameAs,
   };
 }
 

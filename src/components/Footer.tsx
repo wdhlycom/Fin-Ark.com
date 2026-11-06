@@ -13,11 +13,11 @@ export default function Footer({ onNavigate }: { onNavigate: (id: SectionId | 'h
           <div className="md:col-span-5">
             <NavLink href="/" className="flex items-center gap-3">
               <img
-                src="/Finark.png"
+                src="/logo.png"
                 alt="Finark"
                 width={32}
                 height={32}
-                className="w-8 h-8 object-contain rounded-full"
+                className="w-8 h-8 object-contain"
               />
               <div>
                 <div className="text-lg font-semibold tracking-[0.2em] text-white">

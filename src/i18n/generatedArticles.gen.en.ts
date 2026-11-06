@@ -1289,6 +1289,36 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       ]
     },
     {
+      "id": "ark-hk-resilience",
+      "title": "Break and Rebirth: Hong Kong's Extreme Resilience Through a Century of Cycles",
+      "subtitle": "Ark Insights · The Macro Telescope",
+      "date": "2026-08-10",
+      "summary": "Is Hong Kong declining, or undergoing a profound rebirth? The answer lies in its century-old DNA — a wealth safe harbor that squeezes out bubbles and upgrades itself with every external shock.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Old money exits, new money steps on stage",
+          "p": "What propped up Hong Kong's high property prices in the past was a high-leverage model. On the way up it amplified wealth; on the way down it amplified debt. The traditional property families being forced to deleverage is the elimination of an old model — not a shake in the financial foundation.\n\nAt the same time, family offices are growing explosively in Hong Kong. Backed by independent, safe politics and law, high-net-worth assets from both global and Chinese sources are flowing back; Grade-A office rents in Central have begun to stabilize and recover. New capital and high-quality talent connect seamlessly — more than a hundred thousand Mainland professionals have arrived, and consumer giants like JD and Luckin have moved in heavily. The demographic structure and business ecology are being rapidly refreshed.\n\n**Hong Kong has never survived on a single industry. It survives on its ability to \"catch new money.\"**"
+        },
+        {
+          "h": "2. The financial base is, in fact, more stable",
+          "p": "Look at a few hard numbers. In global financial center rankings, Hong Kong sits firmly in the top three, right behind New York and London; IPO fundraising has climbed back to number one globally; cross-border wealth management scale has surpassed Switzerland.\n\nOffshore RMB clearing volume exceeded 50 trillion in a single month, overtaking the Hong Kong dollar and US dollar combined. As RMB internationalizes, Hong Kong is evolving from a \"reservoir\" of offshore RMB into an \"engine\" of global clearing.\n\n**As long as China needs to connect to global capital, Hong Kong's \"institutional arbitrage\" value is irreplaceable.**"
+        },
+        {
+          "h": "3. A century of proof: every leap begins in a storm",
+          "p": "Looking back a hundred years, Hong Kong never grew in calm water — every industrial restructuring came with a huge external shock. Every leap began in a storm.\n\n- **1940s–50s**: war and population inflow; absorbed Shanghai capital and evolved into a \"manufacturing base\"\n- **1970s–80s**: rising costs; seized reform and opening-up and evolved into a \"re-export trade and financial center\"\n- **1997/2003**: the Asian financial storm and SARS; opened free travel and evolved into a \"consumption and tourism capital\"\n- **Today**: geopolitical restructuring and old-to-new transition; gathered global family offices and offshore RMB, evolving into a \"high-net-worth asset management hub\"\n\nHistory proves it again and again: Hong Kong's resilience lies in its gene of \"upgrading through every storm.\""
+        },
+        {
+          "h": "4. What it means for family assets: is Hong Kong still worth allocating?",
+          "p": "Some ask — what does this macro narrative have to do with family assets? A lot. The rule of law and free capital movement are Hong Kong's hardest bottom lines — no exchange controls, a simple tax system, and free capital in and out.\n\nHong Kong policies are naturally multi-currency, flexibly converting between USD, HKD, and RMB; long-term compounding and inheritance isolation hedge the cyclical risk of a single market. Leaning on the Greater Bay Area and RMB internationalization, allocating assets in Hong Kong lets you share the growth of China's top companies while withstanding the volatility of a single region.\n\n**Understand Hong Kong's underlying logic, and you can do your own asset planning through the storms.**\n\nThe tide of the era rises and falls, and the towers of Central keep welcoming new glory. Those who see only the short-term pain often miss the long-term historical dividend; those who see a century of resilience have already laid their plans in the storm. In the end, time will stand on the side of those who believe in Hong Kong's future."
+        }
+      ]
+    },
+    {
       "id": "offshore-fx-volatility",
       "title": "The RMB Is Back at 7.3: How Much of Your Assets Are \\\"Pure USD\\\"?",
       "subtitle": "Ark Insights · Onshore Signal Tower",
@@ -1633,6 +1663,154 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
         {
           "h": "5. In closing",
           "p": "Keeping 5% physical gold isn't predicting doomsday, but acknowledging that \"uncertainty is the norm.\" It's low-cost, high in psychological value, the plainest seatbelt in a family's assets. Buckle this seatbelt, then let Hong Kong insurance's compounding engine carry you forward."
+        }
+      ]
+    },
+    {
+      "id": "hk-vs-shuibei-gold",
+      "title": "Hong Kong Becomes a Gold Reserve Center — What Does Shenzhen Shuibei Do? Two Ends of One Supply Chain",
+      "subtitle": "Asset Map · Gold · On-Chain or On-Exchange, Don't Mix Them Up",
+      "date": "2026-11-24",
+      "summary": "Hong Kong moves up to the financial infrastructure layer; Shuibei stays in the industrial and consumer layer. It's a division of labor, not competition.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Hong Kong doesn't want a \"bigger jewelry market\"",
+          "p": "Hong Kong is moving toward a **global gold reserve, clearing, and pricing center** — not restarting a jewelry wholesale business. From the policy address and the Financial Services and Treasury Bureau's and HKMA's statements, the keywords are:\n\n- **Reserve hub**: raise gold storage capacity to over 2,000 tonnes within three years\n- **Central clearing**: the gold central clearing and settlement system began trial operation in 2026, formal launch Q1 2027\n- **RMB pricing**: promote RMB-denominated, physically settled gold futures and develop offshore RMB gold products\n- **Exchange Fund accumulation**: the HKMA is studying a modest increase in the Exchange Fund's gold holdings and transferring existing stocks to designated warehouses\n\nIn short, Hong Kong isn't competing for Shuibei's business — it's targeting **London, New York, and Singapore's positions in gold reserve, clearing, and offshore pricing.**"
+        },
+        {
+          "h": "2. Hong Kong and Shuibei: a division of labor, not a clean break",
+          "p": "Shuibei's strengths are processing, wholesale, retail, design, and supply chain — it remains China's largest gold jewelry distribution hub. But over recent years it has shown some problems: \"pre-pricing,\" \"gold borrowing,\" and \"deferred settlement\" were twisted into high-leverage speculation; material supplier redemption risks emerged in early 2026; and its retail price advantage shrank after the 2025 tax reform.\n\nSo the division of labor between the two places is becoming clearer:\n\n- **Shenzhen Shuibei**: refining, processing, jewelry supply chain (industrial and consumer layer)\n- **Hong Kong**: clearing, storage, pricing, offshore trading (financial infrastructure layer)\n\nThe two cooperate through the Shenzhen-Hong Kong cooperation memorandum, processing trade, and storage connectivity. **Hong Kong will deliberately keep its distance from private leverage and gray-market trading**, because it needs the credibility image of an international reserve center."
+        },
+        {
+          "h": "3. Why Hong Kong suits a reserve center better",
+          "p": "It has several things Shuibei lacks:\n\n- **Free port**: duty-free gold import/export, convenient capital flow\n- **Common law system**: asset ownership, contract enforcement, and cross-border dispute resolution trusted by international institutions\n- **Central clearing system**: reduces counterparty risk in bilateral clearing\n- **Airport warehousing and bank custody**: suited for central banks, asset managers, and family offices\n- **Offshore RMB advantage**: can issue RMB-denominated gold, filling the offshore RMB safe-haven gap"
+        },
+        {
+          "h": "4. On-chain or on-exchange? These are two parallel tracks",
+          "p": "A common misconception is \"the on-chain token is then securitized onto the exchange.\" The reality is **one underlying asset, two parallel tracks** — listed shares and tokenized shares issued in parallel.\n\nTake the Huaxia Digital Gold ETF (3418) as an example:\n\n- **Listed class (3418/9418/83418)**: traded on the HKEX, like buying a stock, T+2 settlement\n- **Tokenized non-listed class**: issued on Ethereum, subscribed/redeemed through a licensed VATP platform (e.g. OSL)\n\nThe Hang Seng Gold ETF works the same way: 3170 is listed on the HKEX, while HSGLD is its tokenized non-listed class distributed through HashKey."
+        },
+        {
+          "h": "5. Buying gold tokens on-chain isn't worth it right now",
+          "p": "As of October 2026, the SFC has only opened secondary market trading for **tokenized money market funds**; the tokenized shares of gold ETFs **still have no secondary market** — you can only subscribe and redeem, not buy and sell freely like a stock.\n\nThe comparison:\n\n- On-chain fees are higher (about 1.05%–1.2%/year, versus about 0.40%–0.65%/year for listed shares)\n- On-chain KYC is stricter (additional VATP KYC + a virtual-asset knowledge test)\n- On-chain liquidity is worse (no secondary market)\n\nThe on-chain advantages — 7×24 trading, T+0 settlement, programmable composition — are still stuck at the \"architecture is ready, waiting for regulators to open up\" stage."
+        },
+        {
+          "h": "6. Closing",
+          "p": "If you just want gold exposure, buying the listed ETF (e.g. 3418 or 3170) is the more practical choice today. The on-chain channel suits investors already using HashKey or OSL who want to manage crypto and traditional assets on one platform.\n\nThe real turning point is the moment **tokenized gold shares are approved for VATP secondary market trading** — only then will the on-chain channel show the practical value of round-the-clock, real-time settlement. Until then, don't mythologize \"going on-chain.\""
+        }
+      ]
+    },
+    {
+      "id": "hk-tokenized-gold-market",
+      "title": "Can Retail Investors Buy Hong Kong's Tokenized Gold Yet? Primary, Secondary, and Liquidity Explained",
+      "subtitle": "Asset Map · Gold · Don't Confuse a Settlement Pilot with a Trading Platform",
+      "date": "2026-11-17",
+      "summary": "Right now this is an interbank wholesale settlement pilot, not a secondary market retail investors can freely trade.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. The conclusion first: retail investors can't buy it today",
+          "p": "Hong Kong's \"tokenized gold\" is currently an **interbank pilot**, not a secondary market where retail investors can freely buy and sell. It is a different thing from a \"gold trading platform.\""
+        },
+        {
+          "h": "2. How primary and secondary break down",
+          "p": "| Tier | What it is now | What it means for ordinary people |\n| --- | --- | --- |\n| Primary issuance | Zhaojin Mining issues, CCB (Asia) custodies; one gToken maps to one standard bar | Currently open only to banks and licensed institutions |\n| Secondary market | Banks settle tokenized gold/deposits via EnsembleTX | Not a retail trading platform for the public |\n| Retail secondary | Existing tokenized funds, gold ETF tokenized shares | Traded via licensed platforms or the HKEX |\n\nThe \"first transaction\" that landed in November is essentially a **settlement trial in the interbank wholesale market**: gold sits in bank custody, the chain only synchronizes ownership records, and funds settle via tokenized deposits through the HKD RTGS system."
+        },
+        {
+          "h": "3. \"Full rollout next year\" is a misunderstanding",
+          "p": "The public timeline is:\n\n- **By end of 2026**: Hong Kong plans to submit its virtual asset services regulatory bill\n- **Q1 2027**: the gold central clearing and settlement system targets formal launch\n- **2027**: RMB-denominated, physically settled gold futures are planned\n- **A retail secondary market for tokenized gold**: whether and when it opens is **not yet announced**\n\nSo the more accurate statement is — **clearing, settlement, and regulatory infrastructure are improving, but that doesn't mean retail investors can soon buy and sell gold tokens as freely as stocks.**"
+        },
+        {
+          "h": "4. The liquidity bottleneck is real",
+          "p": "If tokenized gold only circulates between banks, liquidity is constrained by: few participants, no public order book, high standardization thresholds for large bars, and no direct retail trading entry point.\n\nHong Kong's regulators themselves list \"secondary market trading and liquidity\" as the next priority, even mentioning **tokenized ETFs as a possible next pilot**. But liquidity ultimately depends on enough buyers, sellers, market makers, and licensed platforms connecting in."
+        },
+        {
+          "h": "5. Mainland readers should stay especially calm",
+          "p": "Even if Hong Kong later opens retail trading, Mainland investors must first confirm whether they meet **compliance eligibility**. Mainland regulators have always imposed strict limits on RWA and virtual-asset-related investments — don't participate through unlicensed channels."
+        },
+        {
+          "h": "6. Three signals worth tracking",
+          "p": "Before conditions mature, this looks more like \"an interbank settlement upgrade.\" Three things are worth watching:\n\n- Whether Hong Kong's gold central clearing system launches on schedule in 2027\n- Whether tokenized gold connects to licensed retail platforms\n- Whether clear market-maker arrangements and public secondary quotes emerge\n\nUntil those three things appear, don't treat it as a \"gold token trading platform.\""
+        }
+      ]
+    },
+    {
+      "id": "hk-tokenized-gold-what",
+      "title": "What Is Hong Kong's \\\"Tokenized Gold\\\": How a Gold Bar Becomes an On-Chain Token",
+      "subtitle": "Asset Map · Gold · New Settlement Infrastructure",
+      "date": "2026-11-10",
+      "summary": "It isn't buying gold and walking away — it's adding a traceable on-chain record to gold already held in bank custody.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. First, be clear: what this \"tokenized gold\" actually does",
+          "p": "On November 2, 2026, at Hong Kong FinTech Week, a \"tokenized gold × tokenized deposits\" cross-bank transaction landed, widely reported as \"Hong Kong's first.\" Many people assumed this means ordinary people can now buy gold tokens — **it doesn't.**\n\nThe real nature of this event: **an institutional settlement infrastructure test**, not a retail product for individuals.\n\nThe parties involved:\n\n- **Gold issuer**: Zhaojin Mining (a Mainland miner, 01818.HK)\n- **Custodian**: China Construction Bank (Asia)\n- **Receiving bank**: Bank of East Asia\n- **Technology**: Ant Group's tokenization platform Anvita TaaS"
+        },
+        {
+          "h": "2. Breaking down the mechanism: not \"buy gold and hold it yourself\"",
+          "p": "Here's a key clarification — tokenized gold does **not** mean the user buys the gold and takes it away.\n\nThe reality: the gold still sits in a bank vault under custody. The \"token\" is an **on-chain digital certificate (gToken)** that corresponds to one **400-ounce standard gold bar**.\n\n- One token corresponds 1:1 to one physical gold bar stored in a Hong Kong vault\n- Pricing references the Hong Kong gold benchmark price (HAU)\n- In essence, it adds an **on-chain record** on top of the existing bank gold account system, making ownership transfer traceable and auditable\n\nSo it does **not replace physical gold custody** — it adds a more transparent ledger on top of traditional custody."
+        },
+        {
+          "h": "3. What problem it solves: settlement efficiency",
+          "p": "Traditional settlement for large gold trades takes T+N (several working days). After tokenization:\n\n- Settlement time has been cut to **T+5 minutes**, with a target of **T+0 real-time settlement**\n- Through the HKMA's Ensemble project, tokenized deposits settle via the HKD Real-Time Gross Settlement (RTGS) system\n- Smart contracts complete trades automatically when conditions are met, breaking geographic and business-hour limits\n\nIn one sentence: **this is a speed upgrade for \"delivery versus payment,\" not an opening of \"gold for everyone.\"**"
+        },
+        {
+          "h": "4. The most important risk warning",
+          "p": "Your sense of security depends entirely on the **custodian bank's creditworthiness and audit transparency**. You don't directly hold physical gold — and however transparent the on-chain certificate is, it can't eliminate the layer of \"off-chain asset authenticity + custodian moral hazard.\"\n\nThis pilot is custodied by licensed banks under regulation, far more standardized than purely on-chain projects, but **the fundamental \"trusted intermediary\" problem has not disappeared.**\n\n> More importantly: the Shenzhen bureau of the China Securities Regulatory Commission made clear in June 2026 that **RWA tokenization activities are strictly prohibited in the Mainland**. This Hong Kong event is a regulated institutional test, completely different from retail RWA investment products. Do not confuse the two."
+        },
+        {
+          "h": "5. Closing",
+          "p": "Hong Kong's tokenized gold is, for now, a case of \"the technology works, regulation is catching up, but individuals aren't there yet.\" Worth following, but don't rush to treat it as a channel you can participate in. The opportunity that actually belongs to you is getting this **clear** first."
+        }
+      ]
+    },
+    {
+      "id": "hk-gold-hub-strategy",
+      "title": "Why Hong Kong Is Building an International Gold Reserve Hub: The Strategy Behind Its First Five-Year Plan",
+      "subtitle": "Asset Map · Gold · Hong Kong's Role in De-Dollarization",
+      "date": "2026-11-03",
+      "summary": "Hong Kong putting gold into its first five-year plan isn't about jewelry — it's about filling a gap in offshore RMB safe-haven assets amid global de-dollarization.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. First, get the positioning straight: what game is Hong Kong playing?",
+          "p": "In September 2026, Hong Kong published its first Economic and Social Development Five-Year Plan (2026–2030). Gold sits near the front of that plan — **\"develop a commodity trading ecosystem with gold as an entry point.\"**\n\nHong Kong has talked about gold before, but writing it into a formal five-year plan and making it the \"entry point\" is new. The signal is clear: Hong Kong wants to move from being a \"transit station for gold\" to a \"reserve, clearing, and pricing center.\""
+        },
+        {
+          "h": "2. What the five-year plan actually says about gold",
+          "p": "The key moves in the plan's text:\n\n- **Reserve expansion**: substantially increase gold storage capacity, moving toward 2,000 tonnes within three years\n- **Central clearing**: the gold central clearing and settlement system began trial operation in 2026, with formal launch targeted for Q1 2027\n- **RMB pricing**: explore an RMB-denominated gold market and launch RMB-denominated, physically settled gold futures\n- **Interconnection**: deepen cooperation with the Mainland gold market, including the Shanghai Gold Exchange and Shanghai Futures Exchange\n- **Institutional ecosystem**: attract banks, bullion dealers, refiners, insurers, warehouses, ETFs, and tokenization products\n\nIn one sentence: Hong Kong wants a full stack of infrastructure for **storing, clearing, pricing, financing, and risk-managing gold** — not jewelry wholesaling."
+        },
+        {
+          "h": "3. Why now: the de-dollarization backdrop",
+          "p": "This move only makes sense against a larger backdrop.\n\nOver the past few years, a clear trend has emerged: non-US countries have grown increasingly worried about the \"safety margin of dollar assets.\" The freezing of Russia's central bank assets made many sovereign states realize something uncomfortable — **assets parked inside the Western system are not unconditionally safe.**\n\nSo \"de-dollarization\" has moved from slogan to action: central banks across the world keep buying gold, moving it out of London and New York toward home or toward more neutral locations. Gold has become, once again, a \"trust anchor\" at the sovereign level.\n\nHong Kong's role in this trend: it is China's offshore window, yet it retains the underlying conditions international capital trusts — a free port, common law, free capital movement. **It is a combination of \"China's backing\" and an \"offshore firewall.\"**"
+        },
+        {
+          "h": "4. Hong Kong's unique chips: no other city can offer this",
+          "p": "Why Hong Kong, not some other city? Because it holds a few scarce conditions:\n\n- **Free port**: duty-free gold import/export, convenient capital flow\n- **Common law system**: asset ownership, contract enforcement, and cross-border dispute resolution are trusted by international institutions\n- **Central clearing system**: reduces counterparty risk in bilateral settlement\n- **Airport warehousing and bank custody**: suited for central banks, asset managers, and family offices storing gold\n- **Offshore RMB advantage**: can issue RMB-denominated gold, filling the gap in offshore RMB safe-haven assets\n\nVery few places on earth satisfy all five at once. London has history and credibility but no RMB link; Singapore has financial infrastructure but limited scale and hinterland. Hong Kong is the only place that can bind \"offshore RMB\" to \"gold\" while still commanding international trust."
+        },
+        {
+          "h": "5. How far should the de-dollarization framing go?",
+          "p": "This needs to be stated carefully, to avoid overreach:\n\n- Hong Kong's gold strategy **objectively** serves RMB internationalization and de-dollarization — RMB-denominated gold is an alternative for investors who don't want to go all-in on the dollar.\n- But it is **not** a declaration that \"China will replace the dollar with gold.\" The more accurate framing is: **in a cycle where dollar credibility is showing cracks, Hong Kong is preparing one more offshore channel for global capital — gold-backed and RMB-denominated.**\n\nThis is a *complementary* path, not a *subversive* one. Understanding this keeps you from misreading Hong Kong's move as \"challenging dollar hegemony.\""
+        },
+        {
+          "h": "6. What it means for ordinary people and investors",
+          "p": "For most people, Hong Kong's thousands of tonnes of gold and its central clearing system won't turn into immediate gains in your pocket. But the signal is worth noting:\n\n- It confirms gold is shifting back from \"commodity\" to \"strategic asset\"\n- It means offshore RMB assets will gain a \"gold-anchored\" category\n- It adds another layer of certainty to Hong Kong's standing as an asset storage location\n\nWhat actually reaches the personal level is what the next few articles cover: what tokenized gold is, whether retail investors can participate today, and how it differs from physical gold and gold ETFs. Get the big picture first, then the details — that way nobody can mislead you with the \"Hong Kong gold hub\" hype."
         }
       ]
     }

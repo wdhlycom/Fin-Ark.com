@@ -15,6 +15,20 @@ import { SERIES_ORDER, seriesCopy } from './data/guardianSeries';
 /** 视图是否为内容板块（用于判定文章页的 section 归属） */
 const isSectionView = (v: View): v is SectionId => (SECTIONS as string[]).includes(v);
 
+/**
+ * 各板块的权威数据来源（citation 背书，E-E-A-T）。
+ * 文章页 JSON-LD 挂 citation 指向这些官方机构，让搜索引擎知道内容有据可依。
+ * 只列公开、稳定、非商业的监管/官方来源，不写具体公司名（与作者卡合规口径一致）。
+ */
+const SECTION_CITATIONS: Partial<Record<SectionId, { name: string; url: string }[]>> = {
+  insurance: [{ name: '香港保险业监管局', url: 'https://www.ia.org.hk/' }],
+  trust: [{ name: '香港金融管理局', url: 'https://www.hkma.gov.hk/' }],
+  gold: [{ name: '香港金融管理局', url: 'https://www.hkma.gov.hk/' }],
+  emerging: [{ name: '香港证监会', url: 'https://www.sfc.hk/' }],
+  arkPilot: [{ name: '香港金融管理局', url: 'https://www.hkma.gov.hk/' }],
+  guardian: [{ name: '香港保险业监管局', url: 'https://www.ia.org.hk/' }],
+};
+
 export type SeoLink = { rel: string; hreflang?: string; href: string };
 
 /**
@@ -92,8 +106,8 @@ export function seoLinkTags(url: string, origin: string): string {
  * 预渲染（scripts/prerender.mjs）共用同一套规则，避免两处逻辑漂移。
  * ------------------------------------------------------------------ */
 
-/** 站点默认社交分享图。当前沿用站内方舟主视觉（550×509）；建议后续替换为 1200×630 专用图。 */
-export const DEFAULT_OG_IMAGE = '/Finark.png';
+/** 站点默认社交分享图（品牌 Logo）。当前为 720×720 透明背景方舟标记；建议后续另出 1200×630 分享图。 */
+export const DEFAULT_OG_IMAGE = '/logo.png';
 
 const OG_LOCALES: Record<Lang, string> = {
   zh: 'zh_CN',
@@ -186,7 +200,7 @@ export function seoMeta(url: string, origin: string): SeoMeta {
             headline: art.title,
             description,
             datePublished: art.date,
-            dateModified: art.date,
+            dateModified: art.updated ?? art.date,
             inLanguage: safeLang,
             articleSection: sectionLabel,
             mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
@@ -194,6 +208,12 @@ export function seoMeta(url: string, origin: string): SeoMeta {
             author: authorPersonNode(origin, safeLang),
             publisher,
             image: [image],
+            // 数据来源背书（citation 指向板块对应的官方监管机构）
+            citation: (SECTION_CITATIONS[view] ?? []).map((s) => ({
+              '@type': 'WebPage',
+              name: s.name,
+              url: s.url,
+            })),
             ...(series
               ? {
                   isPartOf: {
@@ -281,12 +301,31 @@ export function seoMeta(url: string, origin: string): SeoMeta {
     const label = d.nav[view];
     const name = card?.title ?? label;
     const heading = card?.subtitle ? `${name}｜${card.subtitle}` : name;
+    // 该板块的文章列表（供 CollectionPage + ItemList，让搜索引擎识别「这是文章集合」）
+    const sectionArticles = d.articles[view] ?? [];
+    const hasPart = sectionArticles.map((a) => ({
+      '@type': 'Article',
+      url: origin + articleToPath(view, a.slug ?? a.id),
+      name: a.title,
+      datePublished: a.date,
+      author: { '@type': 'Person', name: AUTHOR.nameZh, alternateName: AUTHOR.nameEn },
+    }));
     return {
       title: `${heading} | ${brand}`,
       description: clip(card?.summary ?? `${name} · ${d.brand.tagline}`),
       ogType: 'website',
       image,
       jsonLd: [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: heading,
+          description: clip(card?.summary ?? ''),
+          url: canonical,
+          inLanguage: safeLang,
+          publisher,
+          hasPart,
+        },
         breadcrumbNode(origin, safeLang, [
           { name: d.nav.home, path: '/' },
           { name: label, path: viewToPath(view) },

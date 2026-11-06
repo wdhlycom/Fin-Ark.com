@@ -1,7 +1,7 @@
 import { renderToString } from 'react-dom/server';
 import App from './App';
 import { seoHeadTags } from './seo';
-import { I18N, SECTIONS, type SectionId } from './i18n';
+import { I18N, SECTIONS, type Lang, type SectionId } from './i18n';
 import { SERIES_ORDER } from './data/guardianSeries';
 import {
   LANGS,
@@ -131,4 +131,91 @@ export function collectSitemapEntries(): SitemapEntry[] {
   }
 
   return entries;
+}
+
+/* ------------------------------------------------------------------ *
+ * llms.txt 数据源（面向 AI 搜索 / 大模型抓取）
+ *
+ * 与 sitemap 共用同一份合并后的内容（手写 TS 文章 + content/<lang> 的 MD），
+ * 保证「AI 看到的清单」与「搜索引擎看到的清单」不会漂移。
+ * ------------------------------------------------------------------ */
+
+export type LlmsSection = {
+  id: string;
+  label: string;
+  /** 站点内绝对路径（不含 origin） */
+  path: string;
+  /** 该栏目收录的文章数；0 表示非文章型页面（资产地图/关于/案例） */
+  count: number;
+};
+
+export type LlmsEntry = {
+  path: string;
+  title: string;
+  summary: string;
+  sectionId: string;
+  sectionLabel: string;
+  lang: string;
+  date?: string;
+};
+
+/** 讲某语言的栏目清单（含资产地图/关于/案例三个独立页）。 */
+export function collectLlmsSections(lang: Lang = DEFAULT_LANG as Lang): LlmsSection[] {
+  const d = I18N[lang];
+  const out: LlmsSection[] = [];
+  for (const sec of SECTIONS) {
+    const list = d.articles[sec] ?? [];
+    // guardian 聚合页只渲染命中系列顺序的文章（与 sitemap / noindex 规则一致）
+    const count =
+      sec === 'guardian'
+        ? list.filter((a) => SERIES_ORDER.some((e) => e.id === a.id)).length
+        : list.length;
+    if (count === 0) continue;
+    out.push({ id: sec, label: d.nav[sec], path: withLang(lang, viewToPath(sec)), count });
+  }
+  out.push({
+    id: 'assetmap',
+    label: d.nav.assetmap,
+    path: withLang(lang, viewToPath('assetmap' as View)),
+    count: 0,
+  });
+  out.push({
+    id: 'about',
+    label: d.nav.about,
+    path: withLang(lang, viewToPath('about' as View)),
+    count: 0,
+  });
+  out.push({
+    id: 'cases',
+    label: d.cases.title,
+    path: withLang(lang, viewToPath('cases' as View)),
+    count: 0,
+  });
+  return out;
+}
+
+/** 讲某语言的文章条目（标题 + 摘要），供 llms.txt 逐条列出。 */
+export function collectLlmsEntries(lang: Lang = DEFAULT_LANG as Lang): LlmsEntry[] {
+  const d = I18N[lang];
+  const out: LlmsEntry[] = [];
+  for (const sec of SECTIONS) {
+    const list = d.articles[sec] ?? [];
+    const filtered =
+      sec === 'guardian' ? list.filter((a) => SERIES_ORDER.some((e) => e.id === a.id)) : list;
+    for (const a of filtered) {
+      const summary = String(a.summary || a.subtitle || '')
+        .replace(/\s+/g, ' ')
+        .trim();
+      out.push({
+        path: withLang(lang, articleToPath(sec, a.slug ?? a.id)),
+        title: a.title,
+        summary: summary.length > 110 ? summary.slice(0, 110) + '…' : summary,
+        sectionId: sec,
+        sectionLabel: d.nav[sec],
+        lang,
+        date: a.date,
+      });
+    }
+  }
+  return out;
 }

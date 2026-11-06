@@ -27,6 +27,8 @@ export type Article = {
   title: string;
   subtitle: string;
   date: string;
+  /** 最近更新时间（YYYY-MM-DD）。缺省回退到 date，供 dateModified 使用，避免全站文章看起来从未更新。 */
+  updated?: string;
   summary?: string;
   pin?: boolean;
   order?: number;

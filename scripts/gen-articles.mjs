@@ -98,6 +98,7 @@ function buildLang(lang) {
       title: data.title || f.replace(/\.md$/, ''),
       subtitle: data.subtitle || '',
       date: data.date || '1970-01-01',
+      updated: data.updated || undefined,
       summary: data.summary || '',
       pin,
       order,
