@@ -1,6 +1,6 @@
 ---
 id: "offshore-mindset-primer"
-title: "06 Offshore Thinking Primer: Why Do Top Tycoons Decouple 'Identity' from 'Assets'?"
+title: "Offshore Thinking Primer: Why Do Top Tycoons Decouple 'Identity' from 'Assets'?"
 subtitle: "Guardian's Awakening · Offshore Thinking"
 date: 2026-08-06
 section: guardian

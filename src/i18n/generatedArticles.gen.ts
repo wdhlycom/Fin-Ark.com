@@ -6,7 +6,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
   "guardian": [
     {
       "id": "duan-yongping-big-elephant",
-      "title": "番外06 段永平的幕后垂帘与大笨象投资学",
+      "title": "段永平的幕后垂帘与大笨象投资学",
       "subtitle": "守护觉醒 · 番外",
       "date": "2026-09-06",
       "summary": "他不露面，不站台，不融资。",
@@ -20,7 +20,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "chen-tianqiao-brain-science",
-      "title": "番外05 陈天桥的激流勇退与脑科学修行",
+      "title": "陈天桥的激流勇退与脑科学修行",
       "subtitle": "守护觉醒 · 番外",
       "date": "2026-09-05",
       "summary": "三十岁问鼎首富，却在最巅峰急流勇退。",
@@ -38,7 +38,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "zhang-yiming-borderless-architecture",
-      "title": "番外04 张一鸣的无国界架构与全球化生存",
+      "title": "张一鸣的无国界架构与全球化生存",
       "subtitle": "守护觉醒 · 番外",
       "date": "2026-09-04",
       "summary": "他不爱抽烟，不喝酒，没有显赫背景，极少公开露面。",
@@ -60,7 +60,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "li-ka-shing-wealth-migration",
-      "title": "番外03 李嘉诚的藏木于林财富迁徙",
+      "title": "李嘉诚的藏木于林财富迁徙",
       "subtitle": "守护觉醒 · 番外",
       "date": "2026-09-03",
       "summary": "十几年前，简中互联网上有篇刷屏文章，叫《别让李嘉诚跑了》。",
@@ -74,7 +74,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "justin-sun-survival-tactics",
-      "title": "番外02 孙宇晨的数字泥鳅生存学",
+      "title": "孙宇晨的数字泥鳅生存学",
       "subtitle": "守护觉醒 · 番外",
       "date": "2026-09-02",
       "summary": "孙宇晨教会我们一件事：不要把肉身，放在财富的射程之内。",
@@ -100,7 +100,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "cz-zhao-wealth-freedom",
-      "title": "番外01 CZ赵长鹏的财富自由真相",
+      "title": "CZ赵长鹏的财富自由真相",
       "subtitle": "守护觉醒 · 番外",
       "date": "2026-09-01",
       "summary": "当全球最大主权国家，把枪口对准一个人的数字帝国——CZ 的故事，比任何商业教材都精彩。",
@@ -122,7 +122,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "next-decade-wealth-guard",
-      "title": "30 未来十年：我们如何守护财富",
+      "title": "未来十年：我们如何守护财富",
       "subtitle": "守护觉醒 · 十年守护",
       "date": "2026-08-30",
       "summary": "这三十年写下来，我不是要吓唬谁，也不是贩卖焦虑。",
@@ -156,7 +156,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "fellow-travelers-expert-branding",
-      "title": "29 致同路人：建立专业人设",
+      "title": "致同路人：建立专业人设",
       "subtitle": "守护觉醒 · 专业人设",
       "date": "2026-08-29",
       "summary": "财富的守护，远比财富的创造更难。",
@@ -170,7 +170,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "asset-checkup-ten-metrics",
-      "title": "28 资产体检十指标自测",
+      "title": "资产体检十指标自测",
       "subtitle": "守护觉醒 · 资产体检",
       "date": "2026-08-28",
       "summary": "财富防御不是纸上谈兵。",
@@ -188,7 +188,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "cross-generational-firewall",
-      "title": "27 跨境资产的代际防火墙与跨代传承",
+      "title": "跨境资产的代际防火墙与跨代传承",
       "subtitle": "守护觉醒 · 代际传承",
       "date": "2026-08-27",
       "summary": "把钱一把丢给孩子，是最糟糕的传承。",
@@ -210,7 +210,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "fx-dividend-cross-hedge",
-      "title": "26 汇率红利与跨币种对冲套利",
+      "title": "汇率红利与跨币种对冲套利",
       "subtitle": "守护觉醒 · 汇率对冲",
       "date": "2026-08-26",
       "summary": "全球配置里最大的变量，往往不是收益率，而是很多人压根没意识到的币种对冲。",
@@ -240,7 +240,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "offshore-account-lifecycle",
-      "title": "25 离岸账户的生命线管理",
+      "title": "离岸账户的生命线管理",
       "subtitle": "守护觉醒 · 账户生命线",
       "date": "2026-08-25",
       "summary": "费尽周折开了境外账户，却因为一笔不合规的转账被永久销户。",
@@ -266,7 +266,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "antifragile-portfolio-blueprint",
-      "title": "24 反脆弱投资组合：实战配置单",
+      "title": "反脆弱投资组合：实战配置单",
       "subtitle": "守护觉醒 · 配置单",
       "date": "2026-08-24",
       "summary": "前面几篇，聊了单一标的的风险、基金的坑、周期的位置、信托与保单的护甲、账户与身份的作用。",
@@ -308,7 +308,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "talent-visa-asset-strategy",
-      "title": "23 高才优才身份与资产：身份是手段",
+      "title": "高才优才身份与资产：身份是手段",
       "subtitle": "守护觉醒 · 身份资产",
       "date": "2026-08-23",
       "summary": "香港推出\"高才通\"和\"优才\"计划后，数十万内地精英申请了香港居民身份。",
@@ -346,7 +346,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "usd-policy-legal-shield",
-      "title": "22 美金保单深度拆解：法律属性的盾牌",
+      "title": "美金保单深度拆解：法律属性的盾牌",
       "subtitle": "守护觉醒 · 美金保单",
       "date": "2026-08-22",
       "summary": "很多人一提保险，脑子里就蹦出四个字：出事才赔。",
@@ -396,7 +396,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "hongkong-bank-account-pass",
-      "title": "21 香港银行开户逻辑：全球投资入场券",
+      "title": "香港银行开户逻辑：全球投资入场券",
       "subtitle": "守护觉醒 · 银行开户",
       "date": "2026-08-21",
       "summary": "很多内地朋友把\"去香港开户\"简单理解为：多一张能刷卡、能存外币的银行卡。",
@@ -414,7 +414,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "wealth-inheritance-trust-solution",
-      "title": "20 财富传承的陷阱：香港信托解法",
+      "title": "财富传承的陷阱：香港信托解法",
       "subtitle": "守护觉醒 · 信托传承",
       "date": "2026-08-20",
       "summary": "\"富不过三代\"常被当成一句感叹。",
@@ -432,7 +432,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "cyclical-investing-iron-rule",
-      "title": "19 周期性投资的铁律：我们身处周期的何处",
+      "title": "周期性投资的铁律：我们身处周期的何处",
       "subtitle": "守护觉醒 · 周期铁律",
       "date": "2026-08-19",
       "summary": "橡树资本创始人霍华德·马克斯在《周期》里写过一句被反复引用的话：\"我们或许不知道未来的确切去向，但…",
@@ -446,7 +446,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "fund-industry-harvest-trap",
-      "title": "18 基金行业的收割潜规则：理财产品为何不赚钱",
+      "title": "基金行业的收割潜规则：理财产品为何不赚钱",
       "subtitle": "守护觉醒 · 基金收割",
       "date": "2026-08-18",
       "summary": "有人买了好几年的公募基金、知名私募、银行理财，年底翻出账单，发现一件荒唐事：基金公司年年发喜报，自…",
@@ -476,7 +476,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "single-asset-death-trap",
-      "title": "17 金融市场的悲剧美学：单一标的死亡陷阱",
+      "title": "金融市场的悲剧美学：单一标的死亡陷阱",
       "subtitle": "守护觉醒 · 单一标的",
       "date": "2026-08-17",
       "summary": "金融市场里最残忍的美学，是把人捧上神坛，再当着他的面把神坛抽走。",
@@ -502,7 +502,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "certain-arbitrage-rate-spread",
-      "title": "16 确定性套利：有钱人如何利用两地利差进行稳赢操作",
+      "title": "确定性套利：有钱人如何利用两地利差进行稳赢操作",
       "subtitle": "守护觉醒 · 确定性套利",
       "date": "2026-08-16",
       "summary": "真正的有钱人不赌预测。",
@@ -516,7 +516,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "tax-planning-crs-era",
-      "title": "15 税务筹划与透明化时代：在CRS背景下，香港资产配置的新逻辑",
+      "title": "税务筹划与透明化时代：在CRS背景下，香港资产配置的新逻辑",
       "subtitle": "守护觉醒 · CRS时代",
       "date": "2026-08-15",
       "summary": "那个靠隐匿和瞒报藏钱的旧离岸时代，已经死了。",
@@ -534,7 +534,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "family-office-core-logic",
-      "title": "14 家族办公室底层逻辑：如何像顶级家族一样管理传家宝",
+      "title": "家族办公室底层逻辑：如何像顶级家族一样管理传家宝",
       "subtitle": "守护觉醒 · 家族办公室",
       "date": "2026-08-14",
       "summary": "顶级家族从不买理财产品。",
@@ -548,7 +548,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "buy-borrow-die-policy-financing",
-      "title": "13 Buy,Borrow,Die：富人如何通过保单融资实现低成本",
+      "title": "Buy,Borrow,Die：富人如何通过保单融资实现低成本",
       "subtitle": "守护觉醒 · 保单融资",
       "date": "2026-08-13",
       "summary": "顶级富豪的财富密码，其实只有三个字：买、借、死。",
@@ -566,7 +566,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "uk-gilt-safety-illusion",
-      "title": "12 从英国国债看资产安全：为什么即便最稳的债也会爆雷",
+      "title": "从英国国债看资产安全：为什么即便最稳的债也会爆雷",
       "subtitle": "守护觉醒 · 安全幻觉",
       "date": "2026-08-12",
       "summary": "国债，是不少人心里\"最安全\"的代名词。",
@@ -588,7 +588,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "credit-money-endgame-gold-dollar",
-      "title": "11 信用货币的终局：为什么在不确定性时代，黄金与美金资产是最后的底色",
+      "title": "信用货币的终局：为什么在不确定性时代，黄金与美金资产是最后的底色",
       "subtitle": "守护觉醒 · 货币终局",
       "date": "2026-08-11",
       "summary": "当全球主权债务冲向历史顶点，那张资产清单里，有没有哪怕一项，是真正的硬通货？",
@@ -614,7 +614,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "hk-linked-rate-stability",
-      "title": "10 联系汇率制的奥秘：为什么香港美金资产是内地财富的终极稳定器",
+      "title": "联系汇率制的奥秘：为什么香港美金资产是内地财富的终极稳定器",
       "subtitle": "守护觉醒 · 联系汇率",
       "date": "2026-08-10",
       "summary": "港币不是一张欠条，而是一张美金资产的提货收据。",
@@ -636,7 +636,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "rmb-rate-hidden-erosion",
-      "title": "09 一口气讲透人民币汇率：为什么以为稳稳的资产，可能只是在\"缩水\"",
+      "title": "一口气讲透人民币汇率：为什么以为稳稳的资产，可能只是在\"缩水\"",
       "subtitle": "守护觉醒 · 汇率真相",
       "date": "2026-08-09",
       "summary": "有人觉得，人民币存着没少，就是安全。",
@@ -658,7 +658,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "hongkong-antifragile-first-stop",
-      "title": "08 反脆弱的实践：为什么香港是中国人对抗不确定性的第一站？",
+      "title": "反脆弱的实践：为什么香港是中国人对抗不确定性的第一站？",
       "subtitle": "守护觉醒 · 香港第一站",
       "date": "2026-08-08",
       "summary": "风能吹灭蜡烛，也能让火越烧越旺。",
@@ -680,7 +680,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "low-trust-defense-strategy",
-      "title": "07 解析\"低信任式防御\"：为什么越是聪明的人，越在构建\"不依赖人的财富结构\"",
+      "title": "解析\"低信任式防御\"：为什么越是聪明的人，越在构建\"不依赖人的财富结构\"",
       "subtitle": "守护觉醒 · 低信任防御",
       "date": "2026-08-07",
       "summary": "越是聪明的富人，越在搭一张不依赖任何人、也不依赖任何单一体系的资产网络。",
@@ -702,7 +702,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "offshore-mindset-primer",
-      "title": "06 离岸思维入门：为什么顶级大佬都在做\"身份\"与\"资产\"的解耦？",
+      "title": "离岸思维入门：为什么顶级大佬都在做\"身份\"与\"资产\"的解耦？",
       "subtitle": "守护觉醒 · 离岸思维",
       "date": "2026-08-06",
       "summary": "普通人追求拥有更多，顶级富豪追求的，是把所有东西解开——这是两种完全不同的财富认知。",
@@ -744,7 +744,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "civilization-bull-bear-cycle",
-      "title": "05 文明的牛熊周期：地理位置不再决定命运，但决定财富安全",
+      "title": "文明的牛熊周期：地理位置不再决定命运，但决定财富安全",
       "subtitle": "守护觉醒 · 文明周期",
       "date": "2026-08-05",
       "summary": "地理位置不再决定命运的走向，却正在悄悄决定财富安全的边界。",
@@ -778,7 +778,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "banality-evil-wealth-shrink",
-      "title": "04 平庸的恶与财富缩水：为什么\"听向\"的人，正在输掉这一代人的财富",
+      "title": "平庸的恶与财富缩水：为什么\"听向\"的人，正在输掉这一代人的财富",
       "subtitle": "守护觉醒 · 认知陷阱",
       "date": "2026-08-04",
       "summary": "最可怕的财富缩水，不是暴跌，而是温水煮青蛙般的慢性吞噬。",
@@ -820,7 +820,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "wealth-foundation-is-force",
-      "title": "03 财富的底层是\"武力\"：为什么法治环境才是资产配置的终极\"保险\"",
+      "title": "财富的底层是\"武力\"：为什么法治环境才是资产配置的终极\"保险\"",
       "subtitle": "守护觉醒 · 武力与法治",
       "date": "2026-08-03",
       "summary": "财富的底层从来不是勤奋，也不是眼光。",
@@ -858,7 +858,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "mass-extinction-survival-guide",
-      "title": "02 大灭绝时代的生存指南",
+      "title": "大灭绝时代的生存指南",
       "subtitle": "守护觉醒 · 反脆弱启蒙",
       "date": "2026-08-02",
       "summary": "过去几十年那套\"闭眼买房、拼命扩张\"的逻辑，造富了一代人。",
@@ -900,7 +900,7 @@ export const GENERATED_ARTICLES: Record<string, Article[]> = {
     },
     {
       "id": "wealth-ark-uncertain-era",
-      "title": "01 不确定性时代的财富方舟",
+      "title": "不确定性时代的财富方舟",
       "subtitle": "守护觉醒 · 系列序言",
       "date": "2026-08-01",
       "summary": "当潮水退去，那些曾经造富一代人的规则正在崩塌。",

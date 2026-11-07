@@ -1,6 +1,6 @@
 ---
 id: "rmb-rate-hidden-erosion"
-title: "09 The RMB Exchange Rate, Fully Explained: Why Assets You Thought Were Stable May Just Be 'Shrinking'"
+title: "The RMB Exchange Rate, Fully Explained: Why Assets You Thought Were Stable May Just Be 'Shrinking'"
 subtitle: "Guardian's Awakening · Exchange-Rate Truth"
 date: 2026-08-09
 section: guardian

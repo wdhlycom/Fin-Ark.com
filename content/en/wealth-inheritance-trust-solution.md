@@ -1,6 +1,6 @@
 ---
 id: "wealth-inheritance-trust-solution"
-title: "20 The Trap of Wealth Succession: The Hong Kong Trust Solution"
+title: "The Trap of Wealth Succession: The Hong Kong Trust Solution"
 subtitle: "Guardian's Awakening · Trust-Based Inheritance"
 date: 2026-08-20
 section: guardian

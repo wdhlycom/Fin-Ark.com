@@ -1,6 +1,6 @@
 ---
 id: "cross-generational-firewall"
-title: "27 跨境资产的代际防火墙与跨代传承"
+title: "跨境资产的代际防火墙与跨代传承"
 subtitle: "守护觉醒 · 代际传承"
 date: 2026-08-27
 section: guardian

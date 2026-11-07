@@ -2,6 +2,8 @@
 
 > 用途：用 AI 写多语言文章时遵守此规范，可避免"文章写好却静默消失 / 不显示 / 不被预渲染"的坑。
 > 解析器：`scripts/gen-articles.mjs`（`parseFrontmatter` 只支持扁平 `key: value` 的 YAML frontmatter）。
+>
+> **配套内容质量准则**：本文件讲「格式怎么不报错」，`_EEAT_WRITING_GUIDE.md` 讲「内容怎么写才可信（E-E-A-T / GEO）」。写新文章两份都读。
 
 ---
 

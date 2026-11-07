@@ -10,6 +10,7 @@ import Consultation from './components/Consultation';
 import Chatbot from './components/Chatbot';
 import Footer from './components/Footer';
 import ArticlePage from './components/ArticlePage';
+import TopicPage from './components/TopicPage';
 import AssetMapPage from './components/AssetMapPage';
 import AboutPage from './components/AboutPage';
 import CasesPage from './components/CasesPage';
@@ -198,6 +199,10 @@ function App({ serverUrl }: { serverUrl?: string } = {}) {
         ) : view === 'cases' ? (
           <main key={view} className="animate-page-in">
             <CasesPage />
+          </main>
+        ) : view === 'topic' ? (
+          <main key={view} className="animate-page-in">
+            <TopicPage topicId={articleSlug ?? ''} onConsult={goConsult} />
           </main>
         ) : (
           <main key={view} className="animate-page-in">

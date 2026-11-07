@@ -1,6 +1,6 @@
 ---
 id: "fx-dividend-cross-hedge"
-title: "26 汇率红利与跨币种对冲套利"
+title: "汇率红利与跨币种对冲套利"
 subtitle: "守护觉醒 · 汇率对冲"
 date: 2026-08-26
 section: guardian

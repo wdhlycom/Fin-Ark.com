@@ -1,6 +1,6 @@
 ---
 id: "li-ka-shing-wealth-migration"
-title: "番外03 李嘉诚的藏木于林财富迁徙"
+title: "李嘉诚的藏木于林财富迁徙"
 subtitle: "守护觉醒 · 番外"
 date: 2026-09-03
 section: guardian

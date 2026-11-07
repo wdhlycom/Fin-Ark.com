@@ -1,6 +1,6 @@
 ---
 id: "justin-sun-survival-tactics"
-title: "Side Story 02 Justin Sun: The Survival Tactics of a Digital Loach"
+title: "Justin Sun: The Survival Tactics of a Digital Loach"
 subtitle: "Guardian's Awakening · Side Story"
 date: 2026-09-02
 section: guardian

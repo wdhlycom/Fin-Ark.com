@@ -1,6 +1,6 @@
 ---
 id: "banality-evil-wealth-shrink"
-title: "04 平庸的恶与财富缩水：为什么"听向"的人，正在输掉这一代人的财富"
+title: "平庸的恶与财富缩水：为什么"听向"的人，正在输掉这一代人的财富"
 subtitle: "守护觉醒 · 认知陷阱"
 date: 2026-08-04
 section: guardian

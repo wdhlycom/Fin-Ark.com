@@ -1,6 +1,6 @@
 ---
 id: "single-asset-death-trap"
-title: "17 金融市场的悲剧美学：单一标的死亡陷阱"
+title: "金融市场的悲剧美学：单一标的死亡陷阱"
 subtitle: "守护觉醒 · 单一标的"
 date: 2026-08-17
 section: guardian

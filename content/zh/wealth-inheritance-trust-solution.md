@@ -1,6 +1,6 @@
 ---
 id: "wealth-inheritance-trust-solution"
-title: "20 财富传承的陷阱：香港信托解法"
+title: "财富传承的陷阱：香港信托解法"
 subtitle: "守护觉醒 · 信托传承"
 date: 2026-08-20
 section: guardian

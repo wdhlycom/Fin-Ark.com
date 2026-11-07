@@ -1,6 +1,6 @@
 ---
 id: "cross-generational-firewall"
-title: "27 The Cross-Generational Firewall and Multi-Generational Succession of Cross-Border Assets"
+title: "The Cross-Generational Firewall and Multi-Generational Succession of Cross-Border Assets"
 subtitle: "Guardian's Awakening · Cross-Generational Succession"
 date: 2026-08-27
 section: guardian

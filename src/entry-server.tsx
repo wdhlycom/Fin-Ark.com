@@ -3,6 +3,7 @@ import App from './App';
 import { seoHeadTags } from './seo';
 import { I18N, SECTIONS, type Lang, type SectionId } from './i18n';
 import { SERIES_ORDER } from './data/guardianSeries';
+import { TOPIC_PAGES, topicToPath, topicCopy } from './data/topicPages';
 import {
   LANGS,
   DEFAULT_LANG,
@@ -14,7 +15,7 @@ import {
 } from './nav';
 
 /** 预渲染时写入的绝对站点 origin（可通过环境变量覆盖，默认生产域名）。 */
-const BASE_ORIGIN = process.env.SITE_ORIGIN ?? 'https://fin-ark.com';
+const BASE_ORIGIN = process.env.SITE_ORIGIN ?? 'https://www.fin-ark.com';
 
 /**
  * 服务端子渲染：渲染指定 URL 对应的完整 HTML 片段，并生成该页的 SEO <head>。
@@ -58,6 +59,10 @@ export function collectRoutes(): string[] {
     // （无对应静态文件，线上会回退到根 index.html，被判定为与首页重复）。
     for (const v of ['assetmap', 'about', 'cases'] as View[]) {
       routes.push(withLang(lang, viewToPath(v)));
+    }
+    // 主题聚合页（/gold-storage 等）：按语言纳入预渲染
+    for (const tp of TOPIC_PAGES) {
+      routes.push(withLang(lang, topicToPath(tp.id)));
     }
   }
   return routes;
@@ -128,6 +133,16 @@ export function collectSitemapEntries(): SitemapEntry[] {
         });
       }
     }
+
+    // 主题聚合页：纳入 sitemap（优先级略高于普通文章，低于板块页）
+    for (const tp of TOPIC_PAGES) {
+      entries.push({
+        path: withLang(lang, topicToPath(tp.id)),
+        group: `topic:${tp.id}`,
+        priority: '0.75',
+        changefreq: 'weekly',
+      });
+    }
   }
 
   return entries;
@@ -191,6 +206,15 @@ export function collectLlmsSections(lang: Lang = DEFAULT_LANG as Lang): LlmsSect
     path: withLang(lang, viewToPath('cases' as View)),
     count: 0,
   });
+  // 主题聚合页：作为独立入口列出，方便 AI 直接定位到主题集群
+  for (const tp of TOPIC_PAGES) {
+    out.push({
+      id: `topic:${tp.id}`,
+      label: topicCopy(tp.id, lang).nav,
+      path: withLang(lang, topicToPath(tp.id)),
+      count: tp.articleIds.length,
+    });
+  }
   return out;
 }
 

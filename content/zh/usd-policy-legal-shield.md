@@ -1,6 +1,6 @@
 ---
 id: "usd-policy-legal-shield"
-title: "22 美金保单深度拆解：法律属性的盾牌"
+title: "美金保单深度拆解：法律属性的盾牌"
 subtitle: "守护觉醒 · 美金保单"
 date: 2026-08-22
 section: guardian

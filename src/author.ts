@@ -20,6 +20,17 @@ export const AUTHOR = {
   /** 跨平台身份（sameAs）：用于 E-E-A-T 实体关联，把作者在社媒的可信身份与站内 Person 打通 */
   sameAs: [
     'https://www.xiaohongshu.com/user/profile/753326111',
+    'https://x.com/FinanceArk',
+    'https://www.lumcog.com',
+  ] as string[],
+  /**
+   * 站点本体（Organization 实体）的 sameAs。
+   * 微信公众号（Fin-Ark）与 X（FinanceArk）是「网站」这个主体的对外账号，
+   * lumcog.com 是关联站点；作者个人账号只挂在 Person.sameAs 上，避免实体混同。
+   */
+  orgSameAs: [
+    'https://x.com/FinanceArk',
+    'https://www.lumcog.com',
   ] as string[],
 } as const;
 

@@ -1,6 +1,6 @@
 ---
 id: "duan-yongping-big-elephant"
-title: "Side Story 06 Duan Yongping: The Puppeteer in the Shadows and the 'Big Elephant' School of Investing"
+title: "Duan Yongping: The Puppeteer in the Shadows and the 'Big Elephant' School of Investing"
 subtitle: "Guardian's Awakening · Side Story"
 date: 2026-09-06
 section: guardian

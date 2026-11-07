@@ -1,6 +1,6 @@
 ---
 id: "antifragile-portfolio-blueprint"
-title: "24 The Antifragile Portfolio: A Practical Allocation Blueprint"
+title: "The Antifragile Portfolio: A Practical Allocation Blueprint"
 subtitle: "Guardian's Awakening · Allocation Blueprint"
 date: 2026-08-24
 section: guardian

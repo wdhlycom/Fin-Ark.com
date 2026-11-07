@@ -1,6 +1,6 @@
 ---
 id: "civilization-bull-bear-cycle"
-title: "05 The Bull-Bear Cycles of Civilization: Geography No Longer Decides Destiny, but It Decides Wealth Safety"
+title: "The Bull-Bear Cycles of Civilization: Geography No Longer Decides Destiny, but It Decides Wealth Safety"
 subtitle: "Guardian's Awakening · Civilizational Cycles"
 date: 2026-08-05
 section: guardian

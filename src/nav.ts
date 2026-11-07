@@ -1,6 +1,7 @@
 import type { SectionId } from './i18n';
+import { TOPIC_PAGES } from './data/topicPages';
 
-export type View = 'home' | SectionId | 'assetmap' | 'about' | 'cases';
+export type View = 'home' | SectionId | 'assetmap' | 'about' | 'cases' | 'topic';
 
 /**
  * 顶层板块（URL 不含 /s/ 冗余层级，路径即 /<lang>/<section>）。
@@ -71,7 +72,7 @@ export type ParsedPath = {
   /** 语言前缀；null 表示旧链接 / 根路径（未带语言），需由 App 重定向补全 */
   lang: LangCode | null;
   view: View;
-  /** 文章 URL slug（= 自定义 slug 或 id），用于匹配对应语言文档 */
+  /** 文章 URL slug（= 自定义 slug 或 id），用于匹配对应语言文档；topic 页复用承载主题 id */
   articleSlug?: string;
 };
 
@@ -88,6 +89,10 @@ export const parsePath = (raw: string): ParsedPath => {
   if (h === '/cases') return { lang, view: 'cases' };
   const section = h.match(/^\/s\/([\w-]+)$/);
   if (section) return { lang, view: section[1] as SectionId };
+  // 主题聚合页：/gold-storage 等（优先级高于板块简洁 URL，避免被误判为未知视图）
+  const topic = h.match(/^\/([\w-]+)$/);
+  if (topic && TOPIC_PAGES.some((t) => t.id === topic[1]))
+    return { lang, view: 'topic', articleSlug: topic[1] };
   // 顶层板块的简洁 URL：/<section>（无 /s/），如 /insurance、/guardian、/arkPilot
   const cleanSection = h.match(/^\/([\w-]+)$/);
   if (cleanSection && CLEAN_SECTIONS.has(cleanSection[1] as SectionId))

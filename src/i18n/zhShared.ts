@@ -280,6 +280,8 @@ export const ZH_SHARED: Omit<Dict, 'articles'> = {
     funnelBody:
       '在这个充满变数的时代，香港保险是兼顾流动性、收益率与投保门槛的最佳普适性资产垫。预约 45 分钟一对一私人架构会谈，由 Fin-Ark 架构师团队为您定制专属方案。',
     funnelCta: '预约 1 对 1 诊断',
+    sourcesTitle: '资料来源',
+    sourcesHint: '本文数据与监管口径参考以下官方来源，供进一步核查。',
   },
   assetmap: {
     matrixTitle: '全景对比矩阵',

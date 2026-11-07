@@ -1,6 +1,6 @@
 ---
 id: "offshore-mindset-primer"
-title: "06 离岸思维入门：为什么顶级大佬都在做"身份"与"资产"的解耦？"
+title: "离岸思维入门：为什么顶级大佬都在做"身份"与"资产"的解耦？"
 subtitle: "守护觉醒 · 离岸思维"
 date: 2026-08-06
 section: guardian

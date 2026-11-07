@@ -1,6 +1,6 @@
 ---
 id: "wealth-ark-uncertain-era"
-title: "01 不确定性时代的财富方舟"
+title: "不确定性时代的财富方舟"
 subtitle: "守护觉醒 · 系列序言"
 date: 2026-08-01
 section: guardian

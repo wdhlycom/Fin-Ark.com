@@ -1,6 +1,6 @@
 ---
 id: "fx-dividend-cross-hedge"
-title: "26 FX Dividends and Cross-Currency Hedge Arbitrage"
+title: "FX Dividends and Cross-Currency Hedge Arbitrage"
 subtitle: "Guardian's Awakening · FX Hedging"
 date: 2026-08-26
 section: guardian

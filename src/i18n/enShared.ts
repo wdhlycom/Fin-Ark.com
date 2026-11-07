@@ -238,6 +238,8 @@ export const EN_SHARED: Omit<Dict, 'articles'> = {
     funnelBody:
       'In an era of uncertainty, Hong Kong insurance is the universal asset base balancing liquidity, yield, and accessibility. Book a 45-minute private 1-on-1 architecture session—our founding architect will tailor your专属 plan.',
     funnelCta: 'Book 1-on-1 Diagnosis',
+    sourcesTitle: 'Sources',
+    sourcesHint: 'Figures and regulatory references in this article draw on the following official sources for further verification.',
   },
   assetmap: {
     matrixTitle: 'Panorama Matrix',

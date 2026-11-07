@@ -1,6 +1,6 @@
 ---
 id: "hk-linked-rate-stability"
-title: "10 联系汇率制的奥秘：为什么香港美金资产是内地财富的终极稳定器"
+title: "联系汇率制的奥秘：为什么香港美金资产是内地财富的终极稳定器"
 subtitle: "守护觉醒 · 联系汇率"
 date: 2026-08-10
 section: guardian

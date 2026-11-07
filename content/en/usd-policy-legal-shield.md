@@ -1,6 +1,6 @@
 ---
 id: "usd-policy-legal-shield"
-title: "22 The USD Policy, Taken Apart: The Shield of Its Legal Attributes"
+title: "The USD Policy, Taken Apart: The Shield of Its Legal Attributes"
 subtitle: "Guardian's Awakening · The USD Policy"
 date: 2026-08-22
 section: guardian

@@ -1,6 +1,6 @@
 ---
 id: "cyclical-investing-iron-rule"
-title: "19 周期性投资的铁律：我们身处周期的何处"
+title: "周期性投资的铁律：我们身处周期的何处"
 subtitle: "守护觉醒 · 周期铁律"
 date: 2026-08-19
 section: guardian

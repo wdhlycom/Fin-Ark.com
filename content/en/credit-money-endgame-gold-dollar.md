@@ -1,6 +1,6 @@
 ---
 id: "credit-money-endgame-gold-dollar"
-title: "11 The Endgame of Fiat Money: Why Gold and USD Assets Are the Final Backdrop in an Age of Uncertainty"
+title: "The Endgame of Fiat Money: Why Gold and USD Assets Are the Final Backdrop in an Age of Uncertainty"
 subtitle: "Guardian's Awakening · The End of Money"
 date: 2026-08-11
 section: guardian

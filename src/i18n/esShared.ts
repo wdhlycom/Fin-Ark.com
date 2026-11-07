@@ -238,6 +238,8 @@ export const ES_SHARED: Omit<Dict, 'articles'> = {
     funnelBody:
       'En una era de incertidumbre, el seguro de Hong Kong es la base patrimonial universal que equilibra liquidez, rentabilidad y accesibilidad. Reserve una sesión privada de arquitectura 1-a-1 de 45 minutos—nuestro arquitecto fundador diseñará su plan exclusivo.',
     funnelCta: 'Reservar Diagnóstico 1-a-1',
+    sourcesTitle: 'Fuentes',
+    sourcesHint: 'Los datos y referencias regulatorias de este artículo se basan en las siguientes fuentes oficiales para su verificación.',
   },
   assetmap: {
     matrixTitle: 'Matriz Panorámica',

@@ -1,6 +1,6 @@
 ---
 id: "low-trust-defense-strategy"
-title: "07 Decoding 'Low-Trust Defense': Why the Smarter the Person, the More They Build a 'Wealth Structure That Depends on No One'"
+title: "Decoding 'Low-Trust Defense': Why the Smarter the Person, the More They Build a 'Wealth Structure That Depends on No One'"
 subtitle: "Guardian's Awakening · Low-Trust Defense"
 date: 2026-08-07
 section: guardian

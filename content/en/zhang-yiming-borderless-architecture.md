@@ -1,6 +1,6 @@
 ---
 id: "zhang-yiming-borderless-architecture"
-title: "Side Story 04 Zhang Yiming: The Borderless Architecture and Global Survival"
+title: "Zhang Yiming: The Borderless Architecture and Global Survival"
 subtitle: "Guardian's Awakening · Side Story"
 date: 2026-09-04
 section: guardian

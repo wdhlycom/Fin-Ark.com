@@ -1,6 +1,6 @@
 ---
 id: "banality-evil-wealth-shrink"
-title: "04 The Banality of Evil and Wealth Shrinkage: Why Those Who Simply Follow Are Losing This Generation's Wealth"
+title: "The Banality of Evil and Wealth Shrinkage: Why Those Who Simply Follow Are Losing This Generation's Wealth"
 subtitle: "Guardian's Awakening · Cognitive Traps"
 date: 2026-08-04
 section: guardian

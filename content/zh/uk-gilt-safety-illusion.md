@@ -1,6 +1,6 @@
 ---
 id: "uk-gilt-safety-illusion"
-title: "12 从英国国债看资产安全：为什么即便最稳的债也会爆雷"
+title: "从英国国债看资产安全：为什么即便最稳的债也会爆雷"
 subtitle: "守护觉醒 · 安全幻觉"
 date: 2026-08-12
 section: guardian

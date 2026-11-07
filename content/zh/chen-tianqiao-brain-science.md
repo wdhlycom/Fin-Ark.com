@@ -1,6 +1,6 @@
 ---
 id: "chen-tianqiao-brain-science"
-title: "番外05 陈天桥的激流勇退与脑科学修行"
+title: "陈天桥的激流勇退与脑科学修行"
 subtitle: "守护觉醒 · 番外"
 date: 2026-09-05
 section: guardian

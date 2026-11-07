@@ -1,6 +1,6 @@
 ---
 id: "antifragile-portfolio-blueprint"
-title: "24 反脆弱投资组合：实战配置单"
+title: "反脆弱投资组合：实战配置单"
 subtitle: "守护觉醒 · 配置单"
 date: 2026-08-24
 section: guardian

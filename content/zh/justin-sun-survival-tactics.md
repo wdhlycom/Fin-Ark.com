@@ -1,6 +1,6 @@
 ---
 id: "justin-sun-survival-tactics"
-title: "番外02 孙宇晨的数字泥鳅生存学"
+title: "孙宇晨的数字泥鳅生存学"
 subtitle: "守护觉醒 · 番外"
 date: 2026-09-02
 section: guardian

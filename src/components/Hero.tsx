@@ -12,28 +12,28 @@ export default function Hero({
   const { t } = useLang();
 
   return (
-    <section className="relative min-h-[88vh] bg-radial-navy overflow-hidden pt-20">
+    <section className="relative bg-radial-navy overflow-hidden pt-20">
       <div className="absolute inset-0 bg-grid opacity-40 pointer-events-none" />
       <div className="absolute -top-40 -right-40 w-[600px] h-[600px] rounded-full bg-gold-500/10 blur-[120px] pointer-events-none" />
       <div className="absolute -bottom-40 -left-40 w-[500px] h-[500px] rounded-full bg-navy-600/30 blur-[120px] pointer-events-none" />
 
-      <div className="relative max-w-[1400px] mx-auto px-6 lg:px-10 pt-16 lg:pt-24 pb-6 grid lg:grid-cols-5 gap-12 items-center">
+      <div className="relative max-w-[1400px] mx-auto px-6 lg:px-10 pt-10 lg:pt-14 pb-16 lg:pb-24 grid lg:grid-cols-5 gap-10 items-center">
         <div className="lg:col-span-3 animate-fade-up">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-gold-500/30 bg-gold-500/5 text-xs tracking-[0.2em] text-gold-300 uppercase">
             <span className="w-1.5 h-1.5 rounded-full bg-gold-500 animate-pulse" />
             {t.hero.eyebrow}
           </div>
 
-          <h1 className="mt-8 mb-6 font-serif-display text-4xl md:text-5xl lg:text-6xl leading-[1.4] text-white text-balance">
+          <h1 className="mt-6 mb-5 font-serif-display text-3xl md:text-4xl lg:text-5xl leading-[1.4] text-white text-balance">
             {t.hero.title}{' '}
             <span className="gold-gradient-text italic">{t.hero.titleAccent}</span>
           </h1>
 
-          <p className="mt-8 max-w-2xl text-base md:text-lg text-slate-300 leading-relaxed">
+          <p className="mt-6 max-w-2xl text-sm md:text-base text-slate-300 leading-relaxed">
             {t.hero.subtitle}
           </p>
 
-          <div className="mt-10 flex flex-wrap gap-4">
+          <div className="mt-8 flex flex-wrap gap-4">
             <button
               onClick={onConsult}
               className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-lg bg-gradient-to-r from-gold-500 to-gold-600 text-navy-950 font-semibold hover:shadow-gold-glow transition-all"
@@ -50,7 +50,7 @@ export default function Hero({
             </button>
           </div>
 
-          <div className="mt-14 grid grid-cols-3 gap-6 max-w-2xl">
+          <div className="mt-10 grid grid-cols-3 gap-6 max-w-2xl">
             {[
               { label: t.hero.stat1Label, value: t.hero.stat1Value },
               { label: t.hero.stat2Label, value: t.hero.stat2Value },

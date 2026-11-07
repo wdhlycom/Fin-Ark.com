@@ -1,6 +1,6 @@
 ---
 id: "fellow-travelers-expert-branding"
-title: "To Fellow Travelers 29: Building a Professional Persona"
+title: "To Fellow Travelers: Building a Professional Persona"
 subtitle: "Guardian's Awakening · Professional Persona"
 date: 2026-08-29
 section: guardian

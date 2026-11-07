@@ -1,6 +1,6 @@
 ---
 id: "credit-money-endgame-gold-dollar"
-title: "11 信用货币的终局：为什么在不确定性时代，黄金与美金资产是最后的底色"
+title: "信用货币的终局：为什么在不确定性时代，黄金与美金资产是最后的底色"
 subtitle: "守护觉醒 · 货币终局"
 date: 2026-08-11
 section: guardian

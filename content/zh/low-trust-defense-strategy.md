@@ -1,6 +1,6 @@
 ---
 id: "low-trust-defense-strategy"
-title: "07 解析"低信任式防御"：为什么越是聪明的人，越在构建"不依赖人的财富结构""
+title: "解析"低信任式防御"：为什么越是聪明的人，越在构建"不依赖人的财富结构""
 subtitle: "守护觉醒 · 低信任防御"
 date: 2026-08-07
 section: guardian

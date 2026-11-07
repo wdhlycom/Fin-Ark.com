@@ -1,6 +1,6 @@
 ---
 id: "li-ka-shing-wealth-migration"
-title: "Side Story 03 Li Ka-shing's Wealth Migration: Hiding the Tree in the Forest"
+title: "Li Ka-shing's Wealth Migration: Hiding the Tree in the Forest"
 subtitle: "Guardian's Awakening · Side Story"
 date: 2026-09-03
 section: guardian

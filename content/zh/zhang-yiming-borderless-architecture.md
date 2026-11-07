@@ -1,6 +1,6 @@
 ---
 id: "zhang-yiming-borderless-architecture"
-title: "番外04 张一鸣的无国界架构与全球化生存"
+title: "张一鸣的无国界架构与全球化生存"
 subtitle: "守护觉醒 · 番外"
 date: 2026-09-04
 section: guardian

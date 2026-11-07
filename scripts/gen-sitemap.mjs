@@ -21,7 +21,7 @@ import { join, resolve, dirname } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const BASE = 'https://fin-ark.com'; // 与 robots.txt 中的 Sitemap 地址保持一致
+const BASE = 'https://www.fin-ark.com'; // 与 robots.txt 中的 Sitemap 地址保持一致（www 为最终落点）
 const SERVER_DIR = join(ROOT, 'dist-server');
 const OUT = join(ROOT, 'dist', 'sitemap.xml');
 const DEFAULT_LANG = 'zh';

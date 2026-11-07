@@ -1,6 +1,6 @@
 ---
 id: "tax-planning-crs-era"
-title: "15 Tax Planning in the Transparency Era: The New Logic of Hong Kong Asset Allocation Under CRS"
+title: "Tax Planning in the Transparency Era: The New Logic of Hong Kong Asset Allocation Under CRS"
 subtitle: "Guardian's Awakening · The CRS Era"
 date: 2026-08-15
 section: guardian

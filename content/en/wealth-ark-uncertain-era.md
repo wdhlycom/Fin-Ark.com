@@ -1,6 +1,6 @@
 ---
 id: "wealth-ark-uncertain-era"
-title: "01 The Wealth Ark of an Age of Uncertainty"
+title: "The Wealth Ark of an Age of Uncertainty"
 subtitle: "Guardian's Awakening · Series Prologue"
 date: 2026-08-01
 section: guardian

@@ -11,16 +11,18 @@ import {
 import { I18N, SECTIONS, type Article, type Lang, type SectionId } from './i18n';
 import { AUTHOR, authorPersonNode } from './author';
 import { SERIES_ORDER, seriesCopy } from './data/guardianSeries';
+import { TOPIC_PAGES, getTopicPage, topicCopy, topicToPath } from './data/topicPages';
 
 /** 视图是否为内容板块（用于判定文章页的 section 归属） */
 const isSectionView = (v: View): v is SectionId => (SECTIONS as string[]).includes(v);
 
 /**
  * 各板块的权威数据来源（citation 背书，E-E-A-T）。
- * 文章页 JSON-LD 挂 citation 指向这些官方机构，让搜索引擎知道内容有据可依。
+ * 文章页 JSON-LD 挂 citation 指向这些官方机构，让搜索引擎知道内容有据可依；
+ * 同时文章正文文末也渲染「资料来源」小节（ArticlePage 复用本导出）。
  * 只列公开、稳定、非商业的监管/官方来源，不写具体公司名（与作者卡合规口径一致）。
  */
-const SECTION_CITATIONS: Partial<Record<SectionId, { name: string; url: string }[]>> = {
+export const SECTION_CITATIONS: Partial<Record<SectionId, { name: string; url: string }[]>> = {
   insurance: [{ name: '香港保险业监管局', url: 'https://www.ia.org.hk/' }],
   trust: [{ name: '香港金融管理局', url: 'https://www.hkma.gov.hk/' }],
   gold: [{ name: '香港金融管理局', url: 'https://www.hkma.gov.hk/' }],
@@ -176,7 +178,61 @@ export function seoMeta(url: string, origin: string): SeoMeta {
     name: brand,
     url: origin,
     logo: { '@type': 'ImageObject', url: image },
+    // 站点本体跨平台身份（sameAs）：打通 Organization 实体与对外账号，E-E-A-T 权威信号
+    sameAs: AUTHOR.orgSameAs,
   };
+
+  // ── 主题聚合页（topic hub，如 /gold-storage）─────────────────────
+  if (view === 'topic' && articleSlug) {
+    const topic = getTopicPage(articleSlug);
+    if (topic) {
+      const copy = topicCopy(topic.id, safeLang);
+      // 聚合该主题命中的文章（跨语言同一 id 配对；文章可能分布在多个板块）
+      const hasPart = topic.articleIds.flatMap((id) => {
+        const found: { section: SectionId; a: (typeof d.articles)[SectionId][number] } | null =
+          (() => {
+            for (const sec of SECTIONS) {
+              const a = (d.articles[sec] ?? []).find((x) => x.id === id);
+              if (a) return { section: sec, a };
+            }
+            return null;
+          })();
+        if (!found) return [];
+        return [
+          {
+            '@type': 'Article',
+            url: origin + articleToPath(found.section, found.a.slug ?? found.a.id),
+            name: found.a.title,
+            datePublished: found.a.date,
+            author: { '@type': 'Person', name: AUTHOR.nameZh, alternateName: AUTHOR.nameEn },
+          },
+        ];
+      });
+      return {
+        title: `${copy.title} | ${brand}`,
+        description: copy.description,
+        ogType: 'website',
+        image,
+        jsonLd: [
+          {
+            '@context': 'https://schema.org',
+            '@type': 'CollectionPage',
+            name: copy.title,
+            description: copy.description,
+            url: canonical,
+            inLanguage: safeLang,
+            author: authorPersonNode(origin, safeLang),
+            publisher,
+            hasPart,
+          },
+          breadcrumbNode(origin, safeLang, [
+            { name: d.nav.home, path: '/' },
+            { name: copy.nav, path: topicToPath(topic.id) },
+          ]),
+        ],
+      };
+    }
+  }
 
   // ── 文章页 ────────────────────────────────────────────────────────
   if (articleSlug && isSectionView(view)) {
@@ -408,6 +464,7 @@ export function seoMeta(url: string, origin: string): SeoMeta {
         url: origin,
         logo: { '@type': 'ImageObject', url: image },
         description: clip(d.hero.subtitle, 200),
+        sameAs: AUTHOR.orgSameAs,
       },
       {
         '@context': 'https://schema.org',
@@ -415,7 +472,7 @@ export function seoMeta(url: string, origin: string): SeoMeta {
         name: brand,
         url: origin,
         inLanguage: [...LANGS],
-        publisher: { '@type': 'Organization', name: brand },
+        publisher: { '@type': 'Organization', name: brand, sameAs: AUTHOR.orgSameAs },
       },
     ],
   };

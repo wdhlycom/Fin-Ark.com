@@ -1,6 +1,6 @@
 ---
 id: "civilization-bull-bear-cycle"
-title: "05 文明的牛熊周期：地理位置不再决定命运，但决定财富安全"
+title: "文明的牛熊周期：地理位置不再决定命运，但决定财富安全"
 subtitle: "守护觉醒 · 文明周期"
 date: 2026-08-05
 section: guardian

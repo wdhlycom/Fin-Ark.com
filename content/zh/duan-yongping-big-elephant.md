@@ -1,6 +1,6 @@
 ---
 id: "duan-yongping-big-elephant"
-title: "番外06 段永平的幕后垂帘与大笨象投资学"
+title: "段永平的幕后垂帘与大笨象投资学"
 subtitle: "守护觉醒 · 番外"
 date: 2026-09-06
 section: guardian

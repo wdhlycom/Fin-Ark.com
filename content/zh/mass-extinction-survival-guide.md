@@ -1,6 +1,6 @@
 ---
 id: "mass-extinction-survival-guide"
-title: "02 大灭绝时代的生存指南"
+title: "大灭绝时代的生存指南"
 subtitle: "守护觉醒 · 反脆弱启蒙"
 date: 2026-08-02
 section: guardian

@@ -1,6 +1,6 @@
 ---
 id: "mass-extinction-survival-guide"
-title: "02 Survival Guide for the Mass-Extinction Era"
+title: "Survival Guide for the Mass-Extinction Era"
 subtitle: "Guardian's Awakening · Antifragile Enlightenment"
 date: 2026-08-02
 section: guardian

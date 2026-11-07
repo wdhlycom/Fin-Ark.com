@@ -6,7 +6,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
   "guardian": [
     {
       "id": "duan-yongping-big-elephant",
-      "title": "Side Story 06 Duan Yongping: The Puppeteer in the Shadows and the 'Big Elephant' School of Investing",
+      "title": "Duan Yongping: The Puppeteer in the Shadows and the 'Big Elephant' School of Investing",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-06",
       "summary": "He never shows his face, never takes the stage, never raises capital.",
@@ -20,7 +20,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "chen-tianqiao-brain-science",
-      "title": "Side Story 05 Chen Tianqiao: His Swift Retreat at the Peak and His Pilgrimage into Brain Science",
+      "title": "Chen Tianqiao: His Swift Retreat at the Peak and His Pilgrimage into Brain Science",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-05",
       "summary": "Crowned the richest man at thirty, yet he stepped away swiftly at his very peak.",
@@ -38,7 +38,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "zhang-yiming-borderless-architecture",
-      "title": "Side Story 04 Zhang Yiming: The Borderless Architecture and Global Survival",
+      "title": "Zhang Yiming: The Borderless Architecture and Global Survival",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-04",
       "summary": "He doesn't smoke, doesn't drink, has no illustrious background, and rarely appears in public.",
@@ -60,7 +60,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "li-ka-shing-wealth-migration",
-      "title": "Side Story 03 Li Ka-shing's Wealth Migration: Hiding the Tree in the Forest",
+      "title": "Li Ka-shing's Wealth Migration: Hiding the Tree in the Forest",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-03",
       "summary": "Over a decade ago, a viral piece on the simplified-Chinese internet was titled 'Don't Let Li Ka-shing Run.'",
@@ -74,7 +74,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "justin-sun-survival-tactics",
-      "title": "Side Story 02 Justin Sun: The Survival Tactics of a Digital Loach",
+      "title": "Justin Sun: The Survival Tactics of a Digital Loach",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-02",
       "summary": "Justin Sun taught us one thing: never place your physical self within the firing range of your wealth.",
@@ -100,7 +100,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "cz-zhao-wealth-freedom",
-      "title": "Side Story 01 CZ (Zhao Changpeng): The Truth About Wealth Freedom",
+      "title": "CZ (Zhao Changpeng): The Truth About Wealth Freedom",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-01",
       "summary": "When the world's largest sovereign state aims its gun at one man's digital empire — CZ's story is more thrilling than any business textbook.",
@@ -122,7 +122,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "next-decade-wealth-guard",
-      "title": "30 The Next Decade: How We Guard Wealth",
+      "title": "The Next Decade: How We Guard Wealth",
       "subtitle": "Guardian's Awakening · Decade-Long Guardianship",
       "date": "2026-08-30",
       "summary": "Writing these thirty pieces, I'm not trying to scare anyone, nor to sell anxiety.",
@@ -156,7 +156,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "fellow-travelers-expert-branding",
-      "title": "To Fellow Travelers 29: Building a Professional Persona",
+      "title": "To Fellow Travelers: Building a Professional Persona",
       "subtitle": "Guardian's Awakening · Professional Persona",
       "date": "2026-08-29",
       "summary": "Guarding wealth is far harder than creating it.",
@@ -170,7 +170,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "asset-checkup-ten-metrics",
-      "title": "28 Asset Checkup: The Ten-Metric Self-Test",
+      "title": "Asset Checkup: The Ten-Metric Self-Test",
       "subtitle": "Guardian's Awakening · Asset Checkup",
       "date": "2026-08-28",
       "summary": "Wealth defense isn't theoretical.",
@@ -188,7 +188,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "cross-generational-firewall",
-      "title": "27 The Cross-Generational Firewall and Multi-Generational Succession of Cross-Border Assets",
+      "title": "The Cross-Generational Firewall and Multi-Generational Succession of Cross-Border Assets",
       "subtitle": "Guardian's Awakening · Cross-Generational Succession",
       "date": "2026-08-27",
       "summary": "Dumping money on your children all at once is the worst kind of succession.",
@@ -210,7 +210,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "fx-dividend-cross-hedge",
-      "title": "26 FX Dividends and Cross-Currency Hedge Arbitrage",
+      "title": "FX Dividends and Cross-Currency Hedge Arbitrage",
       "subtitle": "Guardian's Awakening · FX Hedging",
       "date": "2026-08-26",
       "summary": "In global allocation, the biggest variable often isn't the return rate, but the currency hedging most people never even realize exists.",
@@ -240,7 +240,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "offshore-account-lifecycle",
-      "title": "25 Lifeline Management of Offshore Accounts",
+      "title": "Lifeline Management of Offshore Accounts",
       "subtitle": "Guardian's Awakening · Account Lifeline",
       "date": "2026-08-25",
       "summary": "After great trouble opening an offshore account, it gets permanently closed over one non-compliant transfer.",
@@ -266,7 +266,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "antifragile-portfolio-blueprint",
-      "title": "24 The Antifragile Portfolio: A Practical Allocation Blueprint",
+      "title": "The Antifragile Portfolio: A Practical Allocation Blueprint",
       "subtitle": "Guardian's Awakening · Allocation Blueprint",
       "date": "2026-08-24",
       "summary": "Earlier pieces covered single-asset risk, fund traps, where we stand in the cycle, the armor of trusts and policies, and the role of accounts and residency. This one puts the theory into a concrete number.",
@@ -308,7 +308,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "talent-visa-asset-strategy",
-      "title": "23 Top Talent / Quality Migrant Status and Assets: Identity Is a Means",
+      "title": "Top Talent / Quality Migrant Status and Assets: Identity Is a Means",
       "subtitle": "Guardian's Awakening · Identity Assets",
       "date": "2026-08-23",
       "summary": "After Hong Kong launched the 'High Talent Pass' and 'Quality Migrant' schemes, hundreds of thousands of mainland elites applied for Hong Kong resident status.",
@@ -346,7 +346,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "usd-policy-legal-shield",
-      "title": "22 The USD Policy, Taken Apart: The Shield of Its Legal Attributes",
+      "title": "The USD Policy, Taken Apart: The Shield of Its Legal Attributes",
       "subtitle": "Guardian's Awakening · The USD Policy",
       "date": "2026-08-22",
       "summary": "Mention insurance, and most people's minds jump to four words: paid only if something happens.",
@@ -414,7 +414,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "wealth-inheritance-trust-solution",
-      "title": "20 The Trap of Wealth Succession: The Hong Kong Trust Solution",
+      "title": "The Trap of Wealth Succession: The Hong Kong Trust Solution",
       "subtitle": "Guardian's Awakening · Trust-Based Inheritance",
       "date": "2026-08-20",
       "summary": "'Wealth never survives three generations' is often treated as a sigh.",
@@ -432,7 +432,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "cyclical-investing-iron-rule",
-      "title": "19 The Iron Rule of Cyclical Investing: Where in the Cycle Are We?",
+      "title": "The Iron Rule of Cyclical Investing: Where in the Cycle Are We?",
       "subtitle": "Guardian's Awakening · Cyclical Iron Rules",
       "date": "2026-08-19",
       "summary": "Howard Marks, founder of Oaktree, wrote a much-quoted line in \\\"The Cycle\\\": \\\"We may not know exactly where the future is headed, but...\\\"",
@@ -476,7 +476,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "single-asset-death-trap",
-      "title": "17 The Tragic Aesthetics of Financial Markets: The Single-Instrument Death Trap",
+      "title": "The Tragic Aesthetics of Financial Markets: The Single-Instrument Death Trap",
       "subtitle": "Guardian's Awakening · Single Instrument",
       "date": "2026-08-17",
       "summary": "The cruelest aesthetics in financial markets is to lift a person onto a pedestal, then pull the pedestal away before their eyes.",
@@ -502,7 +502,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "certain-arbitrage-rate-spread",
-      "title": "16 Certainty Arbitrage: How the Rich Use the Two-Market Rate Spread for a Sure Win",
+      "title": "Certainty Arbitrage: How the Rich Use the Two-Market Rate Spread for a Sure Win",
       "subtitle": "Guardian's Awakening · Certainty Arbitrage",
       "date": "2026-08-16",
       "summary": "The truly rich don't bet on predictions.",
@@ -516,7 +516,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "tax-planning-crs-era",
-      "title": "15 Tax Planning in the Transparency Era: The New Logic of Hong Kong Asset Allocation Under CRS",
+      "title": "Tax Planning in the Transparency Era: The New Logic of Hong Kong Asset Allocation Under CRS",
       "subtitle": "Guardian's Awakening · The CRS Era",
       "date": "2026-08-15",
       "summary": "The old offshore era of hiding and concealing money is dead.",
@@ -548,7 +548,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "buy-borrow-die-policy-financing",
-      "title": "13 Buy, Borrow, Die: How the Rich Use Policy Financing for Low-Cost Leverage",
+      "title": "Buy, Borrow, Die: How the Rich Use Policy Financing for Low-Cost Leverage",
       "subtitle": "Guardian's Awakening · Policy Financing",
       "date": "2026-08-13",
       "summary": "The wealth code of the ultra-rich is really just three words: buy, borrow, die.",
@@ -566,7 +566,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "uk-gilt-safety-illusion",
-      "title": "12 Asset Safety Through UK Gilts: Why Even the Safest Debt Can Blow Up",
+      "title": "Asset Safety Through UK Gilts: Why Even the Safest Debt Can Blow Up",
       "subtitle": "Guardian's Awakening · The Safety Illusion",
       "date": "2026-08-12",
       "summary": "Gilts are, in many minds, the very symbol of 'safe.'",
@@ -588,7 +588,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "credit-money-endgame-gold-dollar",
-      "title": "11 The Endgame of Fiat Money: Why Gold and USD Assets Are the Final Backdrop in an Age of Uncertainty",
+      "title": "The Endgame of Fiat Money: Why Gold and USD Assets Are the Final Backdrop in an Age of Uncertainty",
       "subtitle": "Guardian's Awakening · The End of Money",
       "date": "2026-08-11",
       "summary": "As global sovereign debt rushes toward a historic peak, is there even one item in that asset list that is true hard currency?",
@@ -636,7 +636,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "rmb-rate-hidden-erosion",
-      "title": "09 The RMB Exchange Rate, Fully Explained: Why Assets You Thought Were Stable May Just Be 'Shrinking'",
+      "title": "The RMB Exchange Rate, Fully Explained: Why Assets You Thought Were Stable May Just Be 'Shrinking'",
       "subtitle": "Guardian's Awakening · Exchange-Rate Truth",
       "date": "2026-08-09",
       "summary": "Some feel, as long as the RMB sits there undiminished, it's safe.",
@@ -680,7 +680,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "low-trust-defense-strategy",
-      "title": "07 Decoding 'Low-Trust Defense': Why the Smarter the Person, the More They Build a 'Wealth Structure That Depends on No One'",
+      "title": "Decoding 'Low-Trust Defense': Why the Smarter the Person, the More They Build a 'Wealth Structure That Depends on No One'",
       "subtitle": "Guardian's Awakening · Low-Trust Defense",
       "date": "2026-08-07",
       "summary": "The smarter the rich, the more they build an asset network that depends on no one and no single system.",
@@ -702,7 +702,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "offshore-mindset-primer",
-      "title": "06 Offshore Thinking Primer: Why Do Top Tycoons Decouple 'Identity' from 'Assets'?",
+      "title": "Offshore Thinking Primer: Why Do Top Tycoons Decouple 'Identity' from 'Assets'?",
       "subtitle": "Guardian's Awakening · Offshore Thinking",
       "date": "2026-08-06",
       "summary": "Ordinary people pursue owning more; top tycoons pursue unbundling everything — two completely different wealth cognitions.",
@@ -744,7 +744,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "civilization-bull-bear-cycle",
-      "title": "05 The Bull-Bear Cycles of Civilization: Geography No Longer Decides Destiny, but It Decides Wealth Safety",
+      "title": "The Bull-Bear Cycles of Civilization: Geography No Longer Decides Destiny, but It Decides Wealth Safety",
       "subtitle": "Guardian's Awakening · Civilizational Cycles",
       "date": "2026-08-05",
       "summary": "Geography no longer decides the direction of destiny, yet is quietly deciding the boundary of wealth safety.",
@@ -778,7 +778,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "banality-evil-wealth-shrink",
-      "title": "04 The Banality of Evil and Wealth Shrinkage: Why Those Who Simply Follow Are Losing This Generation's Wealth",
+      "title": "The Banality of Evil and Wealth Shrinkage: Why Those Who Simply Follow Are Losing This Generation's Wealth",
       "subtitle": "Guardian's Awakening · Cognitive Traps",
       "date": "2026-08-04",
       "summary": "The most terrifying wealth shrinkage isn't a crash — it's the slow boil of a frog in warm water.",
@@ -820,7 +820,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "wealth-foundation-is-force",
-      "title": "03 The Foundation of Wealth Is 'Force': Why the Rule of Law Is the Ultimate 'Insurance' for Asset Allocation",
+      "title": "The Foundation of Wealth Is 'Force': Why the Rule of Law Is the Ultimate 'Insurance' for Asset Allocation",
       "subtitle": "Guardian's Awakening · Force and the Rule of Law",
       "date": "2026-08-03",
       "summary": "The foundation of wealth was never diligence, nor vision.",
@@ -858,7 +858,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "mass-extinction-survival-guide",
-      "title": "02 Survival Guide for the Mass-Extinction Era",
+      "title": "Survival Guide for the Mass-Extinction Era",
       "subtitle": "Guardian's Awakening · Antifragile Enlightenment",
       "date": "2026-08-02",
       "summary": "The logic of 'buy property blind, expand frantically' enriched a generation over the past decades.",
@@ -900,7 +900,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "wealth-ark-uncertain-era",
-      "title": "01 The Wealth Ark of an Age of Uncertainty",
+      "title": "The Wealth Ark of an Age of Uncertainty",
       "subtitle": "Guardian's Awakening · Series Prologue",
       "date": "2026-08-01",
       "summary": "As the tide recedes, the rules that once made a generation rich are crumbling.",

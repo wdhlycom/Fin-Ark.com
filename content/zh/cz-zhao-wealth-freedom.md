@@ -1,6 +1,6 @@
 ---
 id: "cz-zhao-wealth-freedom"
-title: "番外01 CZ赵长鹏的财富自由真相"
+title: "CZ赵长鹏的财富自由真相"
 subtitle: "守护觉醒 · 番外"
 date: 2026-09-01
 section: guardian

@@ -210,6 +210,9 @@ export type Dict = {
     funnelTitle: string;
     funnelBody: string;
     funnelCta: string;
+    /** 文末「资料来源」小节标题 */
+    sourcesTitle: string;
+    sourcesHint: string;
   };
   articles: Record<SectionId, Article[]>;
 };

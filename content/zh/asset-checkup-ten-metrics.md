@@ -1,6 +1,6 @@
 ---
 id: "asset-checkup-ten-metrics"
-title: "28 资产体检十指标自测"
+title: "资产体检十指标自测"
 subtitle: "守护觉醒 · 资产体检"
 date: 2026-08-28
 section: guardian

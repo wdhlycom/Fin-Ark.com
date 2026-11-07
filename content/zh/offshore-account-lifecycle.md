@@ -1,6 +1,6 @@
 ---
 id: "offshore-account-lifecycle"
-title: "25 离岸账户的生命线管理"
+title: "离岸账户的生命线管理"
 subtitle: "守护觉醒 · 账户生命线"
 date: 2026-08-25
 section: guardian

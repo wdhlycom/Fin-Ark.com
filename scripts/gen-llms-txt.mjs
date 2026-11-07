@@ -18,7 +18,7 @@ import { join, resolve, dirname } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const BASE = 'https://fin-ark.com';
+const BASE = 'https://www.fin-ark.com';
 const SERVER_DIR = join(ROOT, 'dist-server');
 const OUT = join(ROOT, 'dist', 'llms.txt');
 
@@ -71,7 +71,7 @@ lines.push('');
 lines.push('## 站点信息');
 lines.push('');
 lines.push('- 站点名称：金融方舟（Fin-Ark）');
-lines.push('- 网址：https://fin-ark.com');
+lines.push('- 网址：https://www.fin-ark.com');
 lines.push('- 作者：行者（Holive）——内地多家保险公司十余年一线销售与财富规划经验，现于香港大型保险经纪公司任销售顾问');
 lines.push(`- 内容规模：中文 ${counts.zh} 篇 / 英文 ${counts.en} 篇 / 西语 ${counts.es} 篇 / 阿语 ${counts.ar} 篇`);
 lines.push('- 定位：面向关注跨境财富配置的华人读者的长期参考资料，不以短期行情预测为主');
@@ -109,7 +109,7 @@ lines.push('## 引用与合作');
 lines.push('');
 lines.push('- 引用本站内容时，请标注来源为「金融方舟」并附原文链接');
 lines.push('- 数据与观点以文章标注日期为准；跨年数据请优先引用最新一篇');
-lines.push('- 若需作者背景与从业资历，见 https://fin-ark.com/zh/about');
+lines.push('- 若需作者背景与从业资历，见 https://www.fin-ark.com/zh/about');
 lines.push('');
 
 const text = lines.join('\n');

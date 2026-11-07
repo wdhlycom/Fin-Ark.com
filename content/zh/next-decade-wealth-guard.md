@@ -1,6 +1,6 @@
 ---
 id: "next-decade-wealth-guard"
-title: "30 未来十年：我们如何守护财富"
+title: "未来十年：我们如何守护财富"
 subtitle: "守护觉醒 · 十年守护"
 date: 2026-08-30
 section: guardian

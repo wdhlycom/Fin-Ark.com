@@ -1,6 +1,6 @@
 ---
 id: "next-decade-wealth-guard"
-title: "30 The Next Decade: How We Guard Wealth"
+title: "The Next Decade: How We Guard Wealth"
 subtitle: "Guardian's Awakening · Decade-Long Guardianship"
 date: 2026-08-30
 section: guardian

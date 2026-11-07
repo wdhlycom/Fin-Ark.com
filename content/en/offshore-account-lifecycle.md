@@ -1,6 +1,6 @@
 ---
 id: "offshore-account-lifecycle"
-title: "25 Lifeline Management of Offshore Accounts"
+title: "Lifeline Management of Offshore Accounts"
 subtitle: "Guardian's Awakening · Account Lifeline"
 date: 2026-08-25
 section: guardian
