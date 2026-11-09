@@ -1,10 +1,10 @@
 ---
 id: "us-iul-premium-financing"
-title: "US Insurance Premium Financing: How Does It Work?"
+title: "US Insurance Premium Financing"
 subtitle: "HK Insurance Academy · A Mirror to US Leverage"
 date: 2026-10-17
 section: insurance
-summary: "The lure of leverage is 'making money with other people's money'; the trap is 'losing money with other people's money' too."
+summary: "US premium financing is more common than in Hong Kong: you fund part of the premium and a bank lends the rest. This piece runs the numbers on self-funding versus borrowing, shows what breaks when the rate gap closes, and what it reveals about Hong Kong policies."
 lang: en
 ---
 

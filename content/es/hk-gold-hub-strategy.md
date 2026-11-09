@@ -1,6 +1,6 @@
 ---
 id: "hk-gold-hub-strategy"
-title: "Por qué Hong Kong construye un centro internacional de reserva de oro"
+title: "¿Por qué Hong Kong quiere ser centro del oro?"
 subtitle: "Mapa de Activos · Oro · El papel de Hong Kong en la desdolarización"
 date: 2026-11-03
 section: gold

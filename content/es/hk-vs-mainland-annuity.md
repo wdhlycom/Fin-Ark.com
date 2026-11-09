@@ -1,10 +1,10 @@
 ---
 id: "hk-vs-mainland-annuity"
-title: "Seguro de Hong Kong vs anualidad del continente: ¿en qué se diferencian a 30 años vista?"
+title: "Seguro de Hong Kong vs anualidad del"
 subtitle: "Academia de Seguros de Hong Kong · La distancia que crea el tiempo"
 date: 2026-10-03
 section: insurance
-summary: "Herramientas que a corto plazo no muestran diferencia suelen terminar en mundos opuestos al llegar al año 30."
+summary: "A 30 años vista, el seguro de Hong Kong y la anualidad del continente divergen sobre todo por moneda, mecanismo de dividendos y parte garantizada, no por la primera línea de una ilustración. Este artículo compara las dos curvas de valor en efectivo y los supuestos que explican la diferencia."
 lang: es
 ---
 

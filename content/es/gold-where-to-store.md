@@ -1,10 +1,10 @@
 ---
 id: "gold-where-to-store"
-title: "Bóveda de puerto libre de Singapur vs caja bancaria de Hong Kong: ¿dónde está más seguro el oro físico?"
+title: "Bóveda de puerto libre de Singapur vs caja"
 subtitle: "Mapa de Activos · Oro · Diversificación geográfica"
 date: 2027-01-25
 section: gold
-summary: "Si guardas un activo refugio en un centro de riesgo, es como atar el bote salvavidas a un barco que hace agua."
+summary: "Dónde guardar el oro físico importa tanto como cuánto comprar. Esta guía compara dos opciones offshore de custodia con la conservación doméstica, revisa seguros y límites de acceso, y plantea la pregunta que más se olvida: si en una crisis podrás disponer realmente del metal."
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: "deposit-rate-cut"
-title: "Where Do Deposit Rates Finally Bottom Out? A Less-than-Optimistic Read"
+title: "Where Do Deposit Rates Finally Bottom Out?"
 subtitle: "Ark Insights · Onshore Signal Tower"
 date: 2026-08-11
 section: arkPilot

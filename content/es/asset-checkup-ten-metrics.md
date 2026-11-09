@@ -4,7 +4,7 @@ title: "Chequeo de activos"
 subtitle: "El Despertar del Guardián · Chequeo de Activos"
 date: 2026-08-28
 section: guardian
-summary: "La defensa de la riqueza no es teórica."
+summary: "Diez indicadores que puedes revisar por tu cuenta: concentración, mezcla de monedas, liquidez, apalancamiento, designación de beneficiarios y más. La idea central es que la prevención real se hace mientras los mercados están en calma, no cuando llega la tensión."
 lang: es
 ---
 

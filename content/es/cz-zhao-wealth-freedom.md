@@ -1,6 +1,6 @@
 ---
 id: "cz-zhao-wealth-freedom"
-title: "CZ (Zhao Changpeng): la verdad sobre la libertad financiera"
+title: "CZ (Zhao Changpeng): la verdad sobre la"
 subtitle: "El Despertar del Guardián · Historia Paralela"
 date: 2026-09-01
 section: guardian

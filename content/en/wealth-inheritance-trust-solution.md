@@ -4,7 +4,7 @@ title: "The Trap of Wealth Succession"
 subtitle: "Guardian's Awakening · Trust-Based Inheritance"
 date: 2026-08-20
 section: guardian
-summary: "'Wealth never survives three generations' is often treated as a sigh."
+summary: "The common trap in succession is assuming that writing down your wishes completes the arrangement. This piece separates three trust functions - control, distribution conditions and beneficiary protection - and which parts a policy can replace and which need a formal structure."
 lang: en
 ---
 

@@ -1,10 +1,10 @@
 ---
 id: "hk-vs-mainland-wholelife"
-title: "Vida entera creciente del continente vs seguro de ahorro de Hong Kong"
+title: "Vida entera creciente del continente vs seguro"
 subtitle: "Academia de Seguros de Hong Kong · Misma cáscara, distinto núcleo"
 date: 2026-08-29
 section: insurance
-summary: "Que dos cosas se parezcan no significa que resuelvan el mismo problema."
+summary: "La vida entera creciente del continente y el seguro de ahorro de Hong Kong se parecen en el nombre, pero no resuelven lo mismo. Este artículo separa valor garantizado y no garantizado, moneda y liquidez, y propone combinarlos por uso en lugar de elegir uno solo."
 lang: es
 ---
 

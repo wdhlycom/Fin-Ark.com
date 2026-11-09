@@ -1,10 +1,10 @@
 ---
 id: "hk-market-landscape"
-title: "The Full Landscape of Hong Kong's Insurance Market"
+title: "The Full Landscape of Hong Kong's Insurance"
 subtitle: "HK Insurance Academy · Market Structure and Purchase Rules"
 date: 2026-11-14
 section: insurance
-summary: "Hong Kong insurance isn't selling a policy, but providing the lowest-cost entry point into global asset allocation."
+summary: "Who can buy Hong Kong insurance, who do you buy from, and what should you buy? This guide gives one framework: why the market ranks first-tier globally, how licensed insurers and channels divide the work, which product types suit whom, and the rules mainland applicants follow."
 pin: true
 order: 1
 lang: en

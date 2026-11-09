@@ -1,10 +1,10 @@
 ---
 id: "cross-generational-firewall"
-title: "The Cross-Generational Firewall and Multi-Generational Succession of Cross-Border Assets"
+title: "The Cross-Generational Firewall"
 subtitle: "Guardian's Awakening · Cross-Generational Succession"
 date: 2026-08-27
 section: guardian
-summary: "Dumping money on your children all at once is the worst kind of succession."
+summary: "Handing everything to children at once is often the weakest form of succession. This piece unpacks two policy mechanisms that partly substitute for a trust - unlimited insured replacement and death-benefit payment options - and the family structures each suits."
 lang: en
 ---
 

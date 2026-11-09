@@ -4,7 +4,7 @@ title: "The Wealth Ark of an Age of Uncertainty"
 subtitle: "Guardian's Awakening · Series Prologue"
 date: 2026-08-01
 section: guardian
-summary: "As the tide recedes, the rules that once made a generation rich are crumbling."
+summary: "A wealth ark in an uncertain decade is a structure that does not depend on one market, one currency or one institution. This piece sets out its three supports: a liquidity buffer, dispersed legal jurisdictions, and succession arrangements that still execute under stress."
 lang: en
 ---
 

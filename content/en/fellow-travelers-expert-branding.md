@@ -4,7 +4,7 @@ title: "To Fellow Travelers"
 subtitle: "Guardian's Awakening · Professional Persona"
 date: 2026-08-29
 section: guardian
-summary: "Guarding wealth is far harder than creating it."
+summary: "A note to fellow travelers: defending wealth is harder than creating it because it earns no applause and is rarely verified in the moment. This piece sets out why we name no providers, promise no returns, and treat explaining complex structures plainly as the work itself."
 lang: en
 ---
 

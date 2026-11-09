@@ -1,6 +1,6 @@
 ---
 id: "ark-hk-data-2026h1"
-title: "Leyendo los datos de seguros de Hong Kong del primer semestre de 2026: ¿por qué los clientes onshore siguen comprando más?"
+title: "Leyendo los datos de seguros de Hong Kong del"
 subtitle: "Visión del Arca · La Brújula Offshore"
 date: 2026-08-21
 section: arkPilot

@@ -1,10 +1,10 @@
 ---
 id: "hk-crs-tax"
-title: "In the CRS Era, What Exactly Are the Tax-Reporting Obligations for Hong Kong Insurance?"
+title: "What Are CRS Reporting Duties for HK Policies?"
 subtitle: "HK Insurance Academy · The Truth About Compliance Anxiety"
 date: 2026-09-19
 section: insurance
-summary: "Compliance isn't about hiding yourself, but about knowing the rules and walking in the sunlight."
+summary: "Under CRS, is a Hong Kong policy reported, and does reporting mean back taxes? This piece explains what information is exchanged, in what capacity a policy is reported, separates reporting from tax liability, and gives three principles for compliant applications."
 lang: en
 ---
 

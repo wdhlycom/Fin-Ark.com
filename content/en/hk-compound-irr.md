@@ -1,10 +1,10 @@
 ---
 id: "hk-compound-irr"
-title: "Hong Kong Savings Insurance: Is a 6%–7% IRR Real?"
+title: "Hong Kong Savings Insurance"
 subtitle: "HK Insurance Academy · The Magic and Limits of Compounding"
 date: 2026-08-22
 section: insurance
-summary: "Compounding is the eighth wonder of the world, but its premise is — you're willing to wait, and able to wait."
+summary: "The 6%-7% figure quoted for Hong Kong savings policies is a long-horizon illustrated IRR, not a guaranteed annual return. This piece explains where the number comes from, why mainland products differ, and why early surrender is the real enemy of compounding."
 lang: en
 ---
 

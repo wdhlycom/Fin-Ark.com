@@ -1,10 +1,10 @@
 ---
 id: "hk-claims-speed"
-title: "Is Hong Kong Insurance Claims Fast? — A Question Repeatedly Misunderstood"
+title: "Is Hong Kong Insurance Claims Fast?"
 subtitle: "HK Insurance Academy · Breaking the 'Overseas Claims Are Hard' Bias"
 date: 2026-09-05
 section: insurance
-summary: "The bottleneck of claims was never distance, but whether you read the terms clearly at the start."
+summary: "Claims speed depends on product type: savings policies rarely involve a claim at all, while critical illness and medical cover do. This piece separates the two, clarifies what the quoted timelines actually measure, and points to one clause that practitioners check first."
 lang: en
 ---
 

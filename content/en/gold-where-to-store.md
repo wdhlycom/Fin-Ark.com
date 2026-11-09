@@ -4,7 +4,7 @@ title: "Where Is Physical Gold Safest?"
 subtitle: "Asset Map · Gold · Geographic Diversification"
 date: 2027-01-25
 section: gold
-summary: "If you store a safe-haven asset in a risk center, it's like tying the lifeboat to a leaking ship."
+summary: "Where you keep physical gold matters as much as how much you buy. This guide compares two mainstream offshore vault options with home storage, covers insurance and access limits, and asks the question most often missed: can you actually take delivery in a crisis."
 lang: en
 ---
 

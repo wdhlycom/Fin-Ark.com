@@ -1,10 +1,11 @@
 ---
 id: es-gold-5-percent
-title: "Por qué las familias latinoamericanas también deberían reservar un 5 % en oro físico"
+title: "¿Por qué reservar un 5 % en oro físico?"
 subtitle: "Mapa de Activos · Oro"
 date: 2026-08-04
 section: gold
 lang: es
+summary: "¿Por qué una familia latinoamericana debería reservar también un 5 % en oro físico? Este artículo parte de la experiencia regional de devaluación para explicar el oro como ancla que no depende de un emisor, por qué el porcentaje es una reserva y no una apuesta, y cómo combinarlo con activos que generan flujo."
 ---
 
 > El oro no habla, pero ha acompañado a la humanidad durante cinco milenios. Está presente allí donde la moneda de cada imperio cayó a cero.

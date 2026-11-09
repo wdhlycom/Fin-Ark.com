@@ -1,10 +1,10 @@
 ---
 id: "gold-paper-vs-physical"
-title: "Paper Gold vs Physical Bullion: What's the Difference?"
+title: "Paper Gold vs Physical Bullion"
 subtitle: "Asset Map · Gold · Do You Hold Gold or Paper?"
 date: 2027-01-11
 section: gold
-summary: "True safe-haven is something you can literally touch when the crisis hits."
+summary: "Paper gold and allocated bars carry different risks: one is a claim on an issuer, the other is physical possession. This piece sets out counterparty risk, storage and realisation costs, and why the practical answer is not either-or but holding each for a different purpose."
 lang: en
 ---
 

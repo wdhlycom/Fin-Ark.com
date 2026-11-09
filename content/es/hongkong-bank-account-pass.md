@@ -1,6 +1,6 @@
 ---
 id: "hongkong-bank-account-pass"
-title: "La lógica de abrir una cuenta bancaria en Hong Kong"
+title: "La lógica de abrir una cuenta bancaria en Hong"
 subtitle: "El Despertar del Guardián · Apertura de Cuenta Bancaria"
 date: 2026-08-21
 section: guardian

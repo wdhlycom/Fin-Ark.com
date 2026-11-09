@@ -1,6 +1,6 @@
 ---
 id: "hk-tokenized-gold-market"
-title: "Can Retail Investors Buy Hong Kong's Tokenized Gold Yet?"
+title: "Can Retail Investors Buy Tokenized Gold?"
 subtitle: "Asset Map · Gold · Don't Confuse a Settlement Pilot with a Trading Platform"
 date: 2026-11-17
 section: gold

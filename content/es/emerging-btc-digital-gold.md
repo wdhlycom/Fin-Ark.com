@@ -1,6 +1,6 @@
 ---
 id: "emerging-btc-digital-gold"
-title: "Por qué Bitcoin entró en las carteras institucionales como «oro digital»"
+title: "¿Por qué Bitcoin entró en las carteras?"
 subtitle: "Mapa de Activos · Emergente · Por qué compran las instituciones"
 date: 2027-02-22
 section: emerging

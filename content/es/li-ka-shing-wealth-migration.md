@@ -1,6 +1,6 @@
 ---
 id: "li-ka-shing-wealth-migration"
-title: "La migración de riqueza de Li Ka-shing: esconder el árbol en el bosque"
+title: "La migración de riqueza de Li Ka-shing"
 subtitle: "El Despertar del Guardián · Historia Paralela"
 date: 2026-09-03
 section: guardian

@@ -1,6 +1,6 @@
 ---
 id: "offshore-fx-volatility"
-title: "The RMB Is Back at 7.3: How Much of Your Assets Are \"Pure USD\"?"
+title: "The RMB Is Back at 7.3"
 subtitle: "Ark Insights · Onshore Signal Tower"
 date: 2026-08-01
 section: arkPilot

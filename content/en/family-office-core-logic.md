@@ -4,7 +4,7 @@ title: "The Underlying Logic of Family Offices"
 subtitle: "Guardian's Awakening · Family Office"
 date: 2026-08-14
 section: guardian
-summary: "Top families never buy wealth-management products."
+summary: "A family office is not a team of managers hired to beat the market. Its real job is pulling investment, tax, legal and succession decisions onto one table. This piece explains the coordination cost it removes and the lighter ways to achieve the same below its threshold."
 lang: en
 ---
 

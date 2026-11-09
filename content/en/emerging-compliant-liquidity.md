@@ -1,10 +1,10 @@
 ---
 id: "emerging-compliant-liquidity"
-title: "Under a Compliance Framework, How Should Offshore Assets View Web3's Liquidity Value?"
+title: "Under a Compliance Framework"
 subtitle: "Asset Map · Emerging · The Boundary Between Fast and Slow Money"
 date: 2027-03-01
 section: emerging
-summary: "Web3 is fast money; Hong Kong insurance is slow money."
+summary: "What does Web3 liquidity mean, and does it belong in a family balance sheet? This piece defines the term, sets out three compliance boundaries, shows when the liquidity is genuinely usable, and explains why stablecoins are treated as the bridge between two systems."
 lang: en
 ---
 

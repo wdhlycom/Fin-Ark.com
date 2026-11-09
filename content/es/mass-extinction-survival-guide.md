@@ -1,6 +1,6 @@
 ---
 id: "mass-extinction-survival-guide"
-title: "Guía de supervivencia para la era de la extinción masiva"
+title: "Guía de supervivencia para la era de la"
 subtitle: "El Despertar del Guardián · Ilustración Antifrágil"
 date: 2026-08-02
 section: guardian

@@ -1,6 +1,6 @@
 ---
 id: "emerging-blockchain-basics"
-title: "Blockchain, Crypto, Web3 — What They Actually Are (Explained Over Dinner)"
+title: "Blockchain, Crypto, Web3"
 subtitle: "Asset Map · Emerging · The Underlying Logic"
 date: 2027-02-01
 section: emerging

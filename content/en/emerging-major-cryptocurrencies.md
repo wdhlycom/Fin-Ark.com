@@ -1,6 +1,6 @@
 ---
 id: "emerging-major-cryptocurrencies"
-title: "Bitcoin, Ethereum, and the Coins Dismissed as 'Scams' — They Weren't Born to Rip You Off"
+title: "Bitcoin, Ethereum, and the Coins Dismissed as"
 subtitle: "Asset Map · Emerging · The Truth About Major Coins"
 date: 2027-02-15
 section: emerging

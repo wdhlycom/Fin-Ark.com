@@ -4,7 +4,7 @@ title: "IUL: Is It Right for You?"
 subtitle: "HK Insurance Academy · The High Bar of US Insurance"
 date: 2026-10-10
 section: insurance
-summary: "Every tool has its best user."
+summary: "Is an indexed universal life policy right for you? This piece explains the index link, caps and floors, why the entry threshold is high, how it differs from Hong Kong participating policies on leverage and guarantees, and why we still include it in comparisons."
 lang: en
 ---
 

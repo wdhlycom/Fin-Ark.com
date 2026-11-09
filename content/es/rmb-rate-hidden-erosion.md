@@ -4,7 +4,7 @@ title: "El tipo de cambio del RMB, explicado a fondo"
 subtitle: "El Despertar del Guardián · La Verdad del Tipo de Cambio"
 date: 2026-08-09
 section: guardian
-summary: "Algunos sienten que, mientras el RMB siga ahí sin menguar, están a salvo."
+summary: "La erosión cambiaria rara vez aparece en el saldo de la cuenta: aparece en el poder de compra real. Este artículo separa la riqueza nominal de lo que efectivamente se puede adquirir y explica por qué mirar solo la cifra principal subestima un riesgo lento y prolongado."
 lang: es
 ---
 

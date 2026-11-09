@@ -1,6 +1,6 @@
 ---
 id: "chen-tianqiao-brain-science"
-title: "Chen Tianqiao: His Swift Retreat at the Peak and His Pilgrimage into Brain Science"
+title: "Chen Tianqiao: His Swift Retreat at the Peak"
 subtitle: "Guardian's Awakening · Side Story"
 date: 2026-09-05
 section: guardian

@@ -1,10 +1,10 @@
 ---
 id: "cross-generational-firewall"
-title: "El cortafuegos intergeneracional y la sucesión multigeneracional de activos transfronterizos"
+title: "El cortafuegos intergeneracional y la sucesión"
 subtitle: "El Despertar del Guardián · Sucesión Intergeneracional"
 date: 2026-08-27
 section: guardian
-summary: "Volcar el dinero de golpe a los hijos es la peor forma de sucesión."
+summary: "Entregarlo todo de una vez a los hijos suele ser la peor forma de sucesión. Este artículo desglosa dos mecanismos de las pólizas que sustituyen parcialmente a un fideicomiso —la sustitución ilimitada de asegurado y las opciones de pago de la prestación por fallecimiento— y para qué estructuras familiares sirve cada uno."
 lang: es
 ---
 

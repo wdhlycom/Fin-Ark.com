@@ -4,7 +4,7 @@ title: "Trust VS Insurance VS Will"
 subtitle: "Asset Map · Trust · Choosing Among the Three"
 date: 2026-12-14
 section: trust
-summary: "Good succession planning isn't about picking the most expensive tool, but placing the right tool in the right spot."
+summary: "A trust, an insurance policy and a will handle different parts of succession: control, cash flow and the expression of intent. This piece compares setup cost, execution speed and amendability in one table, then offers a combination rather than a single winner."
 lang: en
 ---
 

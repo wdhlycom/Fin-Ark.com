@@ -1,6 +1,6 @@
 ---
 id: "ark-japan-lost-30"
-title: "What Does Japan's Lost 30 Years Teach China's Middle Class?"
+title: "What Can China Learn From Japan's Lost 30 Years?"
 subtitle: "Ark Insights · The Macro Telescope"
 date: 2026-09-10
 section: arkPilot

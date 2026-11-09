@@ -1,10 +1,10 @@
 ---
 id: "hongkong-antifragile-first-stop"
-title: "Why Is Hong Kong the First Stop for Antifragility?"
+title: "Why Is Hong Kong the First Stop?"
 subtitle: "Guardian's Awakening · Hong Kong, First Stop"
 date: 2026-08-08
 section: guardian
-summary: "Wind extinguishes a candle, yet feeds a fire."
+summary: "Why call Hong Kong the first stop for antifragility? This piece works by negative confirmation - ruling out alternatives one by one - and argues the remaining advantage is not yield but asymmetric choice across legal systems and currencies, with the limits of that claim."
 lang: en
 ---
 

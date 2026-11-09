@@ -1,10 +1,10 @@
 ---
 id: "trust-threshold"
-title: "At What Asset Level Do You Actually Need a Family Trust?"
+title: "When Do You Actually Need a Family Trust?"
 subtitle: "Asset Map · Trust · An Honest Framework for the Call"
 date: 2026-11-30
 section: trust
-summary: "A trust is an heirloom, but not every family needs one."
+summary: "At what asset level does a family trust become worth it? This piece sets out the real threshold made up of setup fees, annual administration and governance cost, offers a rough decision framework, and identifies the problems insurance cannot solve."
 lang: en
 ---
 

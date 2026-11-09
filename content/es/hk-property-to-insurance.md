@@ -1,6 +1,6 @@
 ---
 id: "hk-property-to-insurance"
-title: "¿Por qué las familias de alto patrimonio, tras vender su inmueble, hacen del seguro de ahorro de Hong Kong su primera parada?"
+title: "¿Por qué vender vivienda y contratar un seguro?"
 subtitle: "Academia de Seguros de Hong Kong · El relevo de activos cuando baja la marea inmobiliaria"
 date: 2026-08-01
 section: insurance

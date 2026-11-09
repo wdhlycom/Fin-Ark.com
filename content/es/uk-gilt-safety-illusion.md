@@ -4,7 +4,7 @@ title: "La seguridad a través de los gilts británicos"
 subtitle: "El Despertar del Guardián · La Ilusión de Seguridad"
 date: 2026-08-12
 section: guardian
-summary: "Los gilts son, en la mente de muchos, el mismísimo símbolo de lo «seguro»."
+summary: "Los gilts británicos se consideraron durante años el activo más seguro, pero una corrida de crédito suele empezar por la pérdida de confianza en cómo se fijan los tipos, no por la quiebra de un Estado. Este artículo usa ese episodio para mostrar los supuestos detrás de cualquier activo «seguro»."
 lang: es
 ---
 

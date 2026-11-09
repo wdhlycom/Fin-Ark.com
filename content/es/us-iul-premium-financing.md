@@ -1,10 +1,10 @@
 ---
 id: "us-iul-premium-financing"
-title: "Financiación de primas de EE.UU.: pagar tú mismo o que pague el banco, ¿cuál es la diferencia?"
+title: "Financiación de primas de EE.UU."
 subtitle: "Academia de Seguros de Hong Kong · Un espejo del apalancamiento estadounidense"
 date: 2026-10-17
 section: insurance
-summary: "El atractivo del apalancamiento es «ganar con dinero ajeno»; la trampa es también «perder con dinero ajeno»."
+summary: "La financiación de primas es más habitual en EE.UU. que en Hong Kong: aportas una parte y el banco presta el resto. Este artículo compara números entre pagar tú mismo y que pague el banco, muestra qué falla cuando se cierra el diferencial y qué revela sobre las pólizas de Hong Kong."
 lang: es
 ---
 

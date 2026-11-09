@@ -1,10 +1,10 @@
 ---
 id: "trust-china-family-office"
-title: "El auge y el punto incómodo de las family offices de China"
+title: "El auge y el punto incómodo de las family"
 subtitle: "Mapa de Activos · Fideicomiso · Los límites de una family office local"
 date: 2026-12-28
 section: trust
-summary: "Una family office no es una oficina. Es un sistema para que el dinero sobreviva a través de las generaciones."
+summary: "¿Por qué las family offices chinas acaban siempre mirando al offshore? Este artículo parte de la demanda real detrás del auge, expone dónde se traba una oficina local por modelo de honorarios y oferta de herramientas, y qué pueden hacer antes las familias de menor tamaño."
 lang: es
 ---
 

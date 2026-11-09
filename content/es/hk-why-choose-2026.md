@@ -1,10 +1,10 @@
 ---
 id: "hk-why-choose-2026"
-title: "En el incierto 2026, por qué más familias del continente eligen el seguro de ahorro de Hong Kong"
+title: "En el incierto 2026, por qué más familias del"
 subtitle: "Academia de Seguros de Hong Kong · Activos de certeza en una era incierta"
 date: 2026-11-21
 section: insurance
-summary: "Mientras todos miran las rentabilidades, los verdaderamente listos se preguntan: ¿puede este activo sobrevivir al próximo invierno?"
+summary: "Las familias del continente que miran el seguro de ahorro de Hong Kong en 2026 deberían pesar tres cosas: moneda de la póliza, tasa de cumplimiento de dividendos y liquidez transfronteriza. Esta guía usa definiciones regulatorias públicas para diferenciarlo del seguro local y explica el supuesto de permanencia."
 pin: true
 order: 2
 lang: es

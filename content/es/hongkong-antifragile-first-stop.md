@@ -4,7 +4,7 @@ title: "Practicar la antifragilidad"
 subtitle: "El Despertar del Guardián · Hong Kong, Primera Escala"
 date: 2026-08-08
 section: guardian
-summary: "El viento apaga la vela, pero aviva el fuego."
+summary: "¿Por qué llamar a Hong Kong la primera parada de la antifragilidad? Este artículo procede por confirmación negativa, descartando alternativas una a una, y sostiene que la ventaja restante no es la rentabilidad sino la elección asimétrica entre sistemas legales y monedas, con sus límites."
 lang: es
 ---
 

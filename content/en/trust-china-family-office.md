@@ -1,10 +1,10 @@
 ---
 id: "trust-china-family-office"
-title: "Why Is Going Offshore Unavoidable for China's Family Offices?"
+title: "Why Do China's Family Offices Go Offshore?"
 subtitle: "Asset Map · Trust · The Limits of a Local Family Office"
 date: 2026-12-28
 section: trust
-summary: "A family office isn't an office. It's a system for how money survives across generations."
+summary: "Why do Chinese family offices keep ending up offshore? This piece starts from the real demand behind the boom, sets out where local family offices are constrained on fee model and tool supply, and what smaller households can do before reaching that scale."
 lang: en
 ---
 

@@ -1,10 +1,10 @@
 ---
 id: "hk-crs-tax"
-title: "En la era CRS, ¿cuáles son exactamente las obligaciones de información fiscal del seguro de Hong Kong?"
+title: "En la era CRS, ¿cuáles son exactamente las"
 subtitle: "Academia de Seguros de Hong Kong · La verdad sobre la ansiedad de cumplimiento"
 date: 2026-09-19
 section: insurance
-summary: "Cumplir no es esconderte, sino conocer las reglas y caminar a plena luz."
+summary: "Bajo CRS, ¿se informa una póliza de Hong Kong y supone eso pagar impuestos atrasados? Este artículo explica qué información se intercambia, en qué condición se reporta la póliza, separa la obligación de informar de la deuda tributaria y da tres principios para contratar cumpliendo la norma."
 lang: es
 ---
 

@@ -4,7 +4,7 @@ title: "The Foundation of Wealth Is 'Force'"
 subtitle: "Guardian's Awakening · Force and the Rule of Law"
 date: 2026-08-03
 section: guardian
-summary: "The foundation of wealth was never diligence, nor vision."
+summary: "What defines who wealth belongs to is not effort but an enforceable rule that stands behind it. This piece starts from ownership and legal authority to explain why constraining force through law is the lowest layer of any family asset structure."
 lang: en
 ---
 

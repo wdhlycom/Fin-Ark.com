@@ -1,6 +1,6 @@
 ---
 id: "fx-dividend-cross-hedge"
-title: "Dividendos de divisas y arbitraje de cobertura entre monedas"
+title: "Dividendos de divisas y arbitraje de cobertura"
 subtitle: "El Despertar del Guardián · Cobertura de Divisas"
 date: 2026-08-26
 section: guardian

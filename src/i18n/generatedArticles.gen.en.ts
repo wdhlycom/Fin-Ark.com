@@ -6,21 +6,21 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
   "guardian": [
     {
       "id": "duan-yongping-big-elephant",
-      "title": "Duan Yongping: The Puppeteer in the Shadows and the 'Big Elephant' School of Investing",
+      "title": "Duan Yongping and the Big Elephant School",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-06",
-      "summary": "He never shows his face, never takes the stage, never raises capital.",
+      "summary": "Duan Yongping rarely appears in public, takes no stage and raises no outside money. This piece looks at the slow, heavy big elephant style of concentrating only on understandable odds, why it is hard to copy, and which part an ordinary household can borrow.",
       "pin": false,
       "body": [
         {
           "h": "",
-          "p": "> He never shows his face, never takes the stage, never raises capital.\r\n>\r\n> Yet this is the man who, with a handful of \"big elephant stocks,\" earned the reverence of countless smart people. His name is Duan Yongping.\r\n\r\n🔑 **1. The fifth path: in California, pulling strings from behind the curtain**\r\n\r\nIn the earlier pieces we looked at Li Ka-shing, Xu Jiayin, Zhang Yiming, Chen Tianqiao. No matter how they ended up, each of them, at the peak of their wealth, had a physical body bearing enormous geopolitical or social pressure.\r\n\r\nDuan Yongping took the fifth path. At 38, right at his mainland prime, he handed over management of BBK and moved to the US. For the past two decades, based in California, he has barely touched day-to-day operations — yet through two underlying moves he achieved exponential wealth growth and absolute personal freedom:\r\n\r\n- Using a special \"mentor-disciple culture\" to keep control over core domestic assets — OPPO, VIVO, Imoo (Xiaotiancai), and Pinduoduo.\r\n- Allocating to the world's top-tier \"big elephant stocks\" — Apple, Berkshire, Tencent, NVIDIA — completing the offshore deployment and appreciation of high-net-worth assets.\r\n\r\n<center>✦ ✦ ✦</center>\r\n\r\n🏛️ **2. Skimming from the top: chairman only, never CEO**\r\n\r\nHis first core move: \"be chairman only, never CEO; invest only, never control.\"\r\n\r\nWhen he left BBK, he split the business among three disciples: Chen Mingyong took OPPO, Shen Wei took VIVO, Jin Zhijiang took BBK Education Electronics. Later he invested in his disciple Huang Zheng's Pinduoduo.\r\n\r\nIn equity design, Duan gave up absolute control. He distributed most shares to management and employees, keeping only core voting rights or a small minority stake.\r\n\r\nThe benefit is concrete: he doesn't have to stay on the mainland dealing with complex administrative approvals, daily management, and compliance scrutiny.\r\n\r\nThe effect is even better: his identity shifted from \"core responsible person\" to \"behind-the-scenes investor.\" The companies charge on the front line, bearing high-frequency market risk; he, through the steady dividends of several firms, receives extremely clean cash flow.\r\n\r\n<center>✦ ✦ ✦</center>\r\n\r\n🌏 **3. The big-elephant allocation: hiding wealth inside global leaders**\r\n\r\nAfter moving to the US, how do you safely and durably deploy, worldwide, the huge sums \"skimmed\" from domestic enterprises?\r\n\r\nHis approach is extremely simple — the often-mentioned \"buy big elephant companies\": only buy super-giants with extremely deep moats, hard-to-disrupt models, and stable cash generation. His public portfolio roughly looks like this:\r\n\r\n- **Apple:** the largest heavy position, about 60% of his US stock portfolio. He values its unique culture and strong user stickiness. As of early 2026, one position he bought 14 years ago has returned over 16x. Recently he felt Apple \"isn't cheap anymore\" and trimmed about 7% at the end of 2025.\r\n- **Berkshire (BRK):** a \"constant asset\" replacing cash. Idle funds that would otherwise sit in banks earning low interest are swapped for Buffett's stock, hedging inflation. He kept adding heavily through 2025.\r\n- **Tencent, Pinduoduo:** offshore USD and HKD allocations to core Chinese assets, earning certain profits from familiarity with the local market. Held long-term, locking in underlying returns through Tencent's dividends and buybacks.\r\n- **NVIDIA:** a phased bet on high-growth productivity tools. He added over 6 million shares at the end of 2025.\r\n\r\nThe essence of this system is \"jurisdictional heterogeneity of assets.\" The foundation of his wealth isn't domestic real estate, nor high-volatility trusts, but equity in global technology and capital leaders. Under common-law protection, this equity is extremely standard, extremely liquid private property — single administrative shocks can hardly pierce or confiscate it.\r\n\r\n<center>✦ ✦ ✦</center>\r\n\r\n💡 **4. Three accounting lessons for ordinary families**\r\n\r\nDuan used the screen name \"The Formless Dao, Yet I Take Shape\" — a twist on the old saying that the great way is formless — on investing platforms. For mainland wealth-preservers holding tens or hundreds of millions, his approach offers three unexaggerated reference points:\r\n\r\n- **Separate \"running the business\" from \"living assets.\"** You don't need to move to California like him, but while the business is still safe and clean, siphon off part of the after-tax profit as dividends. Don't reinvest that money into high-risk entities or expansion; move it out of the business's creditor range.\r\n- **Find your own \"big-elephant constant.\"** Ordinary families lack his stock-picking skill and capital scale; directly day-trading US stocks is extremely risky. The most compliant, simplest substitute is offshore USD assets via Hong Kong — e.g., a multinational insurer's savings-dividend policy. Such assets are managed at the base by hundreds of actuaries and legal teams, likewise invested in global infrastructure, core blue chips, and big-elephant firms. You're not buying a policy — you're having a multinational giant, at the base, complete a Duan-Yongping-style global big-elephant portfolio for the ordinary family.\r\n- **Abandon fantasies of windfall profits; pursue redundancy in the \"cost of capital.\"** Talking about Apple at the end of 2025, Duan said: \"If you leave money in the bank earning a bit over one percent, you'd honestly be better off buying Apple; but if you can find opportunities earning ten-plus percent a year, there's no need to buy it.\" In a cycle of local-currency rate cuts and scarce high-yield assets, the first task of wealth preservation is to lock in a certain long-term constant, not to gamble on a high-risk windfall variable.\r\n\r\n<center>✦ ✦ ✦</center>\r\n\r\n📌 **5. The highest efficiency of wealth is not fussing**\r\n\r\nDuan proved over two decades of retirement: true safety is clarity of rules and decoupling of assets.\r\n\r\nHe left complex daily management to front-line disciples, entrusted asset safety to the world's hardest commercial firms, and won absolute control over his life and time.\r\n\r\nThe era of frenzy is over. Not fussing, and building walls where the rules are hardest — that is the highest rationality of the new cycle.\r\n\r\n<center>—— The Financial Ark · Safe Harbor in Turbulent Times ——</center>"
+          "p": "> He never shows his face, never takes the stage, never raises capital.\n>\n> Yet this is the man who, with a handful of \"big elephant stocks,\" earned the reverence of countless smart people. His name is Duan Yongping.\n\n🔑 **1. The fifth path: in California, pulling strings from behind the curtain**\n\nIn the earlier pieces we looked at Li Ka-shing, Xu Jiayin, Zhang Yiming, Chen Tianqiao. No matter how they ended up, each of them, at the peak of their wealth, had a physical body bearing enormous geopolitical or social pressure.\n\nDuan Yongping took the fifth path. At 38, right at his mainland prime, he handed over management of BBK and moved to the US. For the past two decades, based in California, he has barely touched day-to-day operations — yet through two underlying moves he achieved exponential wealth growth and absolute personal freedom:\n\n- Using a special \"mentor-disciple culture\" to keep control over core domestic assets — OPPO, VIVO, Imoo (Xiaotiancai), and Pinduoduo.\n- Allocating to the world's top-tier \"big elephant stocks\" — Apple, Berkshire, Tencent, NVIDIA — completing the offshore deployment and appreciation of high-net-worth assets.\n\n<center>✦ ✦ ✦</center>\n\n🏛️ **2. Skimming from the top: chairman only, never CEO**\n\nHis first core move: \"be chairman only, never CEO; invest only, never control.\"\n\nWhen he left BBK, he split the business among three disciples: Chen Mingyong took OPPO, Shen Wei took VIVO, Jin Zhijiang took BBK Education Electronics. Later he invested in his disciple Huang Zheng's Pinduoduo.\n\nIn equity design, Duan gave up absolute control. He distributed most shares to management and employees, keeping only core voting rights or a small minority stake.\n\nThe benefit is concrete: he doesn't have to stay on the mainland dealing with complex administrative approvals, daily management, and compliance scrutiny.\n\nThe effect is even better: his identity shifted from \"core responsible person\" to \"behind-the-scenes investor.\" The companies charge on the front line, bearing high-frequency market risk; he, through the steady dividends of several firms, receives extremely clean cash flow.\n\n<center>✦ ✦ ✦</center>\n\n🌏 **3. The big-elephant allocation: hiding wealth inside global leaders**\n\nAfter moving to the US, how do you safely and durably deploy, worldwide, the huge sums \"skimmed\" from domestic enterprises?\n\nHis approach is extremely simple — the often-mentioned \"buy big elephant companies\": only buy super-giants with extremely deep moats, hard-to-disrupt models, and stable cash generation. His public portfolio roughly looks like this:\n\n- **Apple:** the largest heavy position, about 60% of his US stock portfolio. He values its unique culture and strong user stickiness. As of early 2026, one position he bought 14 years ago has returned over 16x. Recently he felt Apple \"isn't cheap anymore\" and trimmed about 7% at the end of 2025.\n- **Berkshire (BRK):** a \"constant asset\" replacing cash. Idle funds that would otherwise sit in banks earning low interest are swapped for Buffett's stock, hedging inflation. He kept adding heavily through 2025.\n- **Tencent, Pinduoduo:** offshore USD and HKD allocations to core Chinese assets, earning certain profits from familiarity with the local market. Held long-term, locking in underlying returns through Tencent's dividends and buybacks.\n- **NVIDIA:** a phased bet on high-growth productivity tools. He added over 6 million shares at the end of 2025.\n\nThe essence of this system is \"jurisdictional heterogeneity of assets.\" The foundation of his wealth isn't domestic real estate, nor high-volatility trusts, but equity in global technology and capital leaders. Under common-law protection, this equity is extremely standard, extremely liquid private property — single administrative shocks can hardly pierce or confiscate it.\n\n<center>✦ ✦ ✦</center>\n\n💡 **4. Three accounting lessons for ordinary families**\n\nDuan used the screen name \"The Formless Dao, Yet I Take Shape\" — a twist on the old saying that the great way is formless — on investing platforms. For mainland wealth-preservers holding tens or hundreds of millions, his approach offers three unexaggerated reference points:\n\n- **Separate \"running the business\" from \"living assets.\"** You don't need to move to California like him, but while the business is still safe and clean, siphon off part of the after-tax profit as dividends. Don't reinvest that money into high-risk entities or expansion; move it out of the business's creditor range.\n- **Find your own \"big-elephant constant.\"** Ordinary families lack his stock-picking skill and capital scale; directly day-trading US stocks is extremely risky. The most compliant, simplest substitute is offshore USD assets via Hong Kong — e.g., a multinational insurer's savings-dividend policy. Such assets are managed at the base by hundreds of actuaries and legal teams, likewise invested in global infrastructure, core blue chips, and big-elephant firms. You're not buying a policy — you're having a multinational giant, at the base, complete a Duan-Yongping-style global big-elephant portfolio for the ordinary family.\n- **Abandon fantasies of windfall profits; pursue redundancy in the \"cost of capital.\"** Talking about Apple at the end of 2025, Duan said: \"If you leave money in the bank earning a bit over one percent, you'd honestly be better off buying Apple; but if you can find opportunities earning ten-plus percent a year, there's no need to buy it.\" In a cycle of local-currency rate cuts and scarce high-yield assets, the first task of wealth preservation is to lock in a certain long-term constant, not to gamble on a high-risk windfall variable.\n\n<center>✦ ✦ ✦</center>\n\n📌 **5. The highest efficiency of wealth is not fussing**\n\nDuan proved over two decades of retirement: true safety is clarity of rules and decoupling of assets.\n\nHe left complex daily management to front-line disciples, entrusted asset safety to the world's hardest commercial firms, and won absolute control over his life and time.\n\nThe era of frenzy is over. Not fussing, and building walls where the rules are hardest — that is the highest rationality of the new cycle.\n\n<center>—— The Financial Ark · Safe Harbor in Turbulent Times ——</center>"
         }
       ]
     },
     {
       "id": "chen-tianqiao-brain-science",
-      "title": "Chen Tianqiao: His Swift Retreat at the Peak and His Pilgrimage into Brain Science",
+      "title": "Chen Tianqiao: His Swift Retreat at the Peak",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-05",
       "summary": "Crowned the richest man at thirty, yet he stepped away swiftly at his very peak.",
@@ -38,7 +38,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "zhang-yiming-borderless-architecture",
-      "title": "Zhang Yiming: The Borderless Architecture and Global Survival",
+      "title": "Zhang Yiming's Borderless Architecture",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-04",
       "summary": "He doesn't smoke, doesn't drink, has no illustrious background, and rarely appears in public.",
@@ -60,7 +60,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "li-ka-shing-wealth-migration",
-      "title": "Li Ka-shing's Wealth Migration: Hiding the Tree in the Forest",
+      "title": "Li Ka-shing's Wealth Migration",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-03",
       "summary": "Over a decade ago, a viral piece on the simplified-Chinese internet was titled 'Don't Let Li Ka-shing Run.'",
@@ -74,7 +74,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "justin-sun-survival-tactics",
-      "title": "Justin Sun: The Survival Tactics of a Digital Loach",
+      "title": "Justin Sun: The Survival Tactics of a Digital",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-02",
       "summary": "Justin Sun taught us one thing: never place your physical self within the firing range of your wealth.",
@@ -100,7 +100,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "cz-zhao-wealth-freedom",
-      "title": "CZ (Zhao Changpeng): The Truth About Wealth Freedom",
+      "title": "CZ (Zhao Changpeng): The Truth About Wealth",
       "subtitle": "Guardian's Awakening · Side Story",
       "date": "2026-09-01",
       "summary": "When the world's largest sovereign state aims its gun at one man's digital empire — CZ's story is more thrilling than any business textbook.",
@@ -159,7 +159,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "To Fellow Travelers",
       "subtitle": "Guardian's Awakening · Professional Persona",
       "date": "2026-08-29",
-      "summary": "Guarding wealth is far harder than creating it.",
+      "summary": "A note to fellow travelers: defending wealth is harder than creating it because it earns no applause and is rarely verified in the moment. This piece sets out why we name no providers, promise no returns, and treat explaining complex structures plainly as the work itself.",
       "pin": false,
       "body": [
         {
@@ -173,7 +173,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Asset Checkup",
       "subtitle": "Guardian's Awakening · Asset Checkup",
       "date": "2026-08-28",
-      "summary": "Wealth defense isn't theoretical.",
+      "summary": "Ten metrics you can check yourself: concentration, currency mix, liquidity, leverage, beneficiary arrangements and more. The point is that real risk avoidance has to happen while markets are still calm, not after the stress arrives.",
       "pin": false,
       "body": [
         {
@@ -188,23 +188,23 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "cross-generational-firewall",
-      "title": "The Cross-Generational Firewall and Multi-Generational Succession of Cross-Border Assets",
+      "title": "The Cross-Generational Firewall",
       "subtitle": "Guardian's Awakening · Cross-Generational Succession",
       "date": "2026-08-27",
-      "summary": "Dumping money on your children all at once is the worst kind of succession.",
+      "summary": "Handing everything to children at once is often the weakest form of succession. This piece unpacks two policy mechanisms that partly substitute for a trust - unlimited insured replacement and death-benefit payment options - and the family structures each suits.",
       "pin": false,
       "body": [
         {
           "h": "",
-          "p": "> Dumping money on your children all at once is the worst kind of succession. A real firewall lets money flow slowly, along a designed path.\r\n\r\nAn old friend recently sighed to me. He worked hard all his life for his money; by his simple thinking, isn't it done once he leaves it all to the kids after he's gone?\r\n\r\nTwenty years in finance, I've seen too many families in chaos at the very moment of wealth handover. I must say something cold: before modern law and a complex social environment, transferring large cash or equity to the next generation at once is often not love, but disaster.\r\n\r\nThe reason the rich can pass wealth past three generations isn't that the second generation is smarter. It's that they know how to build a precise **cross-generational firewall** between wealth and human nature.\r\n\r\n🔑 **1. Before the second generation loom three wealth-devouring beasts**\r\n\r\nLarge wealth crashing unprotected into the next generation's hands usually hits three systemic risks.\r\n\r\n- Marriage change. If you wire thirty million cash straight into the child's account, once the child divorces, this money is highly likely deemed marital joint property, split legally in half. A life's hard work gets divided with a \"stranger\" with no blood tie.\r\n- Entrepreneurial impulse and squandering. What the second generation fears most isn't lying flat, but \"starting a business with grand ambition.\" Young people lacking life's hard lessons, given huge capital, often become quality leeks for high-risk projects. Tens of millions can be lost in just two or three years.\r\n- Inter-generational property fights. In multi-child families facing large inheritance, if the law hasn't cut off human greed, it often evolves into a family tragedy of lawsuits.\r\n\r\n<center>✦ ✦ ✦</center>\r\n\r\n🌏 **2. Traditional tools: the defense line gets pierced**\r\n\r\nSomeone might think, just write a will, no?\r\n\r\nA will can designate who gets what, but can't control \"how it's spent.\" The moment the will executes, assets still transfer to the children at once. The marriage, startup, and squandering risks above — it guards against none.\r\n\r\nWhat about onshore civil agreements? Easily intervened by humanitarian rulings; facing debt claims, the isolation function is minimal.\r\n\r\n<center>✦ ✦ ✦</center>\r\n\r\n⚖️ **3. Advanced wealth guarding: the two valves of a Hong Kong policy**\r\n\r\nDuan Yongping used \"mentor-disciple culture\" to constrain disciples. For ordinary guardians of tens-of-millions-level assets, a more replicable approach is to use the underlying trust architecture and cross-generational functions of a Hong Kong savings-dividend policy.\r\n\r\nModern Hong Kong high-net-worth policies have, technically, two extremely hard-core \"valve designs.\""
+          "p": "> Dumping money on your children all at once is the worst kind of succession. A real firewall lets money flow slowly, along a designed path.\n\nAn old friend recently sighed to me. He worked hard all his life for his money; by his simple thinking, isn't it done once he leaves it all to the kids after he's gone?\n\nTwenty years in finance, I've seen too many families in chaos at the very moment of wealth handover. I must say something cold: before modern law and a complex social environment, transferring large cash or equity to the next generation at once is often not love, but disaster.\n\nThe reason the rich can pass wealth past three generations isn't that the second generation is smarter. It's that they know how to build a precise **cross-generational firewall** between wealth and human nature.\n\n🔑 **1. Before the second generation loom three wealth-devouring beasts**\n\nLarge wealth crashing unprotected into the next generation's hands usually hits three systemic risks.\n\n- Marriage change. If you wire thirty million cash straight into the child's account, once the child divorces, this money is highly likely deemed marital joint property, split legally in half. A life's hard work gets divided with a \"stranger\" with no blood tie.\n- Entrepreneurial impulse and squandering. What the second generation fears most isn't lying flat, but \"starting a business with grand ambition.\" Young people lacking life's hard lessons, given huge capital, often become quality leeks for high-risk projects. Tens of millions can be lost in just two or three years.\n- Inter-generational property fights. In multi-child families facing large inheritance, if the law hasn't cut off human greed, it often evolves into a family tragedy of lawsuits.\n\n<center>✦ ✦ ✦</center>\n\n🌏 **2. Traditional tools: the defense line gets pierced**\n\nSomeone might think, just write a will, no?\n\nA will can designate who gets what, but can't control \"how it's spent.\" The moment the will executes, assets still transfer to the children at once. The marriage, startup, and squandering risks above — it guards against none.\n\nWhat about onshore civil agreements? Easily intervened by humanitarian rulings; facing debt claims, the isolation function is minimal.\n\n<center>✦ ✦ ✦</center>\n\n⚖️ **3. Advanced wealth guarding: the two valves of a Hong Kong policy**\n\nDuan Yongping used \"mentor-disciple culture\" to constrain disciples. For ordinary guardians of tens-of-millions-level assets, a more replicable approach is to use the underlying trust architecture and cross-generational functions of a Hong Kong savings-dividend policy.\n\nModern Hong Kong high-net-worth policies have, technically, two extremely hard-core \"valve designs.\""
         },
         {
           "h": "Mechanism 1: unlimited insured replacement.",
-          "p": "Traditional insurance: the insured dies, the policy ends, the insurer pays the beneficiary at once. Modern Hong Kong policies allow unlimited changes of the insured.\r\n\r\nFather is the policyholder and also the first insured. When the son comes of age, change the insured to the son; when the son ages, change to the grandson. As long as the underlying cash value keeps compounding, this policy's life can span a century. Assets always stay inside the insurer's \"hard-rule shell,\" needing no frequent transfer, inheritance, or notarization — naturally no estate-tax or succession-fight institutional erosion.\r\n\r\nFather (1st insured) ── change insured ──> Son (2nd gen) ── change insured ──> Grandson (3rd gen)\r\nUnderlying assets keep compounding, spanning a century."
+          "p": "Traditional insurance: the insured dies, the policy ends, the insurer pays the beneficiary at once. Modern Hong Kong policies allow unlimited changes of the insured.\n\nFather is the policyholder and also the first insured. When the son comes of age, change the insured to the son; when the son ages, change to the grandson. As long as the underlying cash value keeps compounding, this policy's life can span a century. Assets always stay inside the insurer's \"hard-rule shell,\" needing no frequent transfer, inheritance, or notarization — naturally no estate-tax or succession-fight institutional erosion.\n\nFather (1st insured) ── change insured ──> Son (2nd gen) ── change insured ──> Grandson (3rd gen)\nUnderlying assets keep compounding, spanning a century."
         },
         {
           "h": "Mechanism 2: death-benefit payment options.",
-          "p": "The policy can explicitly state: the day I'm gone, don't give this tens of millions to the child at once.\r\n\r\nFor example, first give 10% for emergencies, the remaining 90% distributed monthly — a fixed $50,000 USD living allowance each month, paid until he turns sixty.\r\n\r\nBefore this money is paid out, ownership belongs to the multinational insurer's asset pool. The child's creditors can't go to court to freeze unpaid policy assets. If the child divorces, the monthly allowance can be precisely defined as \"elder-directed personal gift,\" extremely hard for a spouse to split. It also cuts off the possibility of blindly starting a business or blowing it all in one night.\r\n\r\n<center>✦ ✦ ✦</center>\r\n\r\n🏛️ **4. The three-step isolation for tens-of-millions families**\r\n\r\nTo build such an antifragile firewall for the family, land it in three standard steps.\r\n\r\n- Hold the policyholder's absolute control. Before the child turns thirty or matures, you serve as policyholder. The powers to withdraw, surrender, change beneficiary — all in the policyholder's hands. The child is only insured or beneficiary: can see, can't touch.\r\n- Use policy splitting for fair multi-child distribution. Most Hong Kong policies come with a split function; years later, losslessly split one large policy into several, each with its own beneficiary and payout rules, thoroughly avoiding succession fights.\r\n- Earmark funds, close the chain. Deeply bind the monthly distribution amount to the child's real life cycle — college, marriage, childbirth, retirement. Replace preaching with institutions; write the love and the rationality toward wealth into cold but safe contract clauses.\r\n\r\nLi Ka-shing said: **if a person lacks the ability to build institutions, leaving descendants more wealth only fattens a sheep for others.**\r\n\r\nThe highest realm of wealth succession isn't pursuing maximum efficiency, immediate transfer. It's pursuing the extension of control boundaries. In sunny times, lock wealth into an architecture with constraints, valves, and firewalls — that is the clearest protection for the next generation.\r\n\r\n<center>—— The Financial Ark · Safe Harbor in Turbulent Times ——</center>\r\n\r\n*Next, a self-test sheet: the ten-metric asset checkup. Ten minutes to see clearly whether your wealth is healthy.*"
+          "p": "The policy can explicitly state: the day I'm gone, don't give this tens of millions to the child at once.\n\nFor example, first give 10% for emergencies, the remaining 90% distributed monthly — a fixed $50,000 USD living allowance each month, paid until he turns sixty.\n\nBefore this money is paid out, ownership belongs to the multinational insurer's asset pool. The child's creditors can't go to court to freeze unpaid policy assets. If the child divorces, the monthly allowance can be precisely defined as \"elder-directed personal gift,\" extremely hard for a spouse to split. It also cuts off the possibility of blindly starting a business or blowing it all in one night.\n\n<center>✦ ✦ ✦</center>\n\n🏛️ **4. The three-step isolation for tens-of-millions families**\n\nTo build such an antifragile firewall for the family, land it in three standard steps.\n\n- Hold the policyholder's absolute control. Before the child turns thirty or matures, you serve as policyholder. The powers to withdraw, surrender, change beneficiary — all in the policyholder's hands. The child is only insured or beneficiary: can see, can't touch.\n- Use policy splitting for fair multi-child distribution. Most Hong Kong policies come with a split function; years later, losslessly split one large policy into several, each with its own beneficiary and payout rules, thoroughly avoiding succession fights.\n- Earmark funds, close the chain. Deeply bind the monthly distribution amount to the child's real life cycle — college, marriage, childbirth, retirement. Replace preaching with institutions; write the love and the rationality toward wealth into cold but safe contract clauses.\n\nLi Ka-shing said: **if a person lacks the ability to build institutions, leaving descendants more wealth only fattens a sheep for others.**\n\nThe highest realm of wealth succession isn't pursuing maximum efficiency, immediate transfer. It's pursuing the extension of control boundaries. In sunny times, lock wealth into an architecture with constraints, valves, and firewalls — that is the clearest protection for the next generation.\n\n<center>—— The Financial Ark · Safe Harbor in Turbulent Times ——</center>\n\n*Next, a self-test sheet: the ten-metric asset checkup. Ten minutes to see clearly whether your wealth is healthy.*"
         }
       ]
     },
@@ -417,7 +417,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "The Trap of Wealth Succession",
       "subtitle": "Guardian's Awakening · Trust-Based Inheritance",
       "date": "2026-08-20",
-      "summary": "'Wealth never survives three generations' is often treated as a sigh.",
+      "summary": "The common trap in succession is assuming that writing down your wishes completes the arrangement. This piece separates three trust functions - control, distribution conditions and beneficiary protection - and which parts a policy can replace and which need a formal structure.",
       "pin": false,
       "body": [
         {
@@ -435,7 +435,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "The Iron Rule of Cyclical Investing",
       "subtitle": "Guardian's Awakening · Cyclical Iron Rules",
       "date": "2026-08-19",
-      "summary": "Howard Marks, founder of Oaktree, wrote a much-quoted line in \\\"The Cycle\\\": \\\"We may not know exactly where the future is headed, but...\\\"",
+      "summary": "Howard Marks, founder of Oaktree, wrote a much-quoted line in \"The Cycle\": \"We may not know exactly where the future is headed, but...\"",
       "pin": false,
       "body": [
         {
@@ -505,7 +505,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Certainty Arbitrage",
       "subtitle": "Guardian's Awakening · Certainty Arbitrage",
       "date": "2026-08-16",
-      "summary": "The truly rich don't bet on predictions.",
+      "summary": "Certainty arbitrage does not bet on direction; it earns a measurable gap between two rates or two regimes. This piece explains where the spread comes from, what has to hold for it to work, and the funding, FX and maturity risks behind an apparently certain return.",
       "pin": false,
       "body": [
         {
@@ -516,10 +516,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "tax-planning-crs-era",
-      "title": "The New Logic of Hong Kong Asset Allocation Under CRS",
+      "title": "The New Logic of Hong Kong Asset Allocation",
       "subtitle": "Guardian's Awakening · The CRS Era",
       "date": "2026-08-15",
-      "summary": "The old offshore era of hiding and concealing money is dead.",
+      "summary": "Tax planning under CRS is not about hiding assets but changing their legal attributes and the jurisdiction that governs them. This piece explains which old approaches stopped working once information exchange began, and what policies and trusts can still legitimately do.",
       "pin": false,
       "body": [
         {
@@ -537,7 +537,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "The Underlying Logic of Family Offices",
       "subtitle": "Guardian's Awakening · Family Office",
       "date": "2026-08-14",
-      "summary": "Top families never buy wealth-management products.",
+      "summary": "A family office is not a team of managers hired to beat the market. Its real job is pulling investment, tax, legal and succession decisions onto one table. This piece explains the coordination cost it removes and the lighter ways to achieve the same below its threshold.",
       "pin": false,
       "body": [
         {
@@ -551,7 +551,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Buy, Borrow, Die",
       "subtitle": "Guardian's Awakening · Policy Financing",
       "date": "2026-08-13",
-      "summary": "The wealth code of the ultra-rich is really just three words: buy, borrow, die.",
+      "summary": "Buy, Borrow, Die describes paying part of a premium, borrowing the rest against the policy, and settling the loan from the death benefit. This piece walks through the 20-30% down-payment structure, its assumptions, costs, and who should avoid it.",
       "pin": false,
       "body": [
         {
@@ -569,7 +569,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Asset Safety Through UK Gilts",
       "subtitle": "Guardian's Awakening · The Safety Illusion",
       "date": "2026-08-12",
-      "summary": "Gilts are, in many minds, the very symbol of 'safe.'",
+      "summary": "UK gilts were long treated as the safest asset, but a run on credit usually starts with lost confidence in how rates are priced, not with a state going bankrupt. This piece uses that episode to show the assumptions behind any safe asset.",
       "pin": false,
       "body": [
         {
@@ -617,7 +617,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "The Mystery of the Linked Exchange Rate",
       "subtitle": "Guardian's Awakening · The Linked Exchange Rate",
       "date": "2026-08-10",
-      "summary": "The Hong Kong dollar isn't an IOU, but a delivery receipt for USD assets.",
+      "summary": "The linked exchange rate is not a fixed number but an automatic adjustment mechanism. This piece explains how fund flows pull the rate back into its band, why that makes Hong Kong a regional stabiliser, and what the term regulatory arbitrage actually refers to.",
       "pin": false,
       "body": [
         {
@@ -639,7 +639,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Are Your \"Stable\" Assets Actually Shrinking?",
       "subtitle": "Guardian's Awakening · Exchange-Rate Truth",
       "date": "2026-08-09",
-      "summary": "Some feel, as long as the RMB sits there undiminished, it's safe.",
+      "summary": "Currency erosion rarely shows up in the account balance; it shows up in real purchasing power. This piece separates nominal wealth from what it actually buys, and explains why watching only the headline number understates a slow, long-term risk.",
       "pin": false,
       "body": [
         {
@@ -658,10 +658,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hongkong-antifragile-first-stop",
-      "title": "Why Is Hong Kong the First Stop for Antifragility?",
+      "title": "Why Is Hong Kong the First Stop?",
       "subtitle": "Guardian's Awakening · Hong Kong, First Stop",
       "date": "2026-08-08",
-      "summary": "Wind extinguishes a candle, yet feeds a fire.",
+      "summary": "Why call Hong Kong the first stop for antifragility? This piece works by negative confirmation - ruling out alternatives one by one - and argues the remaining advantage is not yield but asymmetric choice across legal systems and currencies, with the limits of that claim.",
       "pin": false,
       "body": [
         {
@@ -680,7 +680,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "low-trust-defense-strategy",
-      "title": "What Are Smart People Building with 'Low-Trust Defense'?",
+      "title": "What Is a Low-Trust Defense Strategy?",
       "subtitle": "Guardian's Awakening · Low-Trust Defense",
       "date": "2026-08-07",
       "summary": "The smarter the rich, the more they build an asset network that depends on no one and no single system.",
@@ -823,7 +823,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "The Foundation of Wealth Is 'Force'",
       "subtitle": "Guardian's Awakening · Force and the Rule of Law",
       "date": "2026-08-03",
-      "summary": "The foundation of wealth was never diligence, nor vision.",
+      "summary": "What defines who wealth belongs to is not effort but an enforceable rule that stands behind it. This piece starts from ownership and legal authority to explain why constraining force through law is the lowest layer of any family asset structure.",
       "pin": false,
       "body": [
         {
@@ -903,7 +903,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "The Wealth Ark of an Age of Uncertainty",
       "subtitle": "Guardian's Awakening · Series Prologue",
       "date": "2026-08-01",
-      "summary": "As the tide recedes, the rules that once made a generation rich are crumbling.",
+      "summary": "A wealth ark in an uncertain decade is a structure that does not depend on one market, one currency or one institution. This piece sets out its three supports: a liquidity buffer, dispersed legal jurisdictions, and succession arrangements that still execute under stress.",
       "pin": false,
       "body": [
         {
@@ -950,10 +950,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-config-framework-2026",
-      "title": "Beyond the \\\"Blind-Buy\\\" Era: The Basic Framework for Asset Allocation in 2026",
+      "title": "Beyond the \"Blind-Buy\" Era",
       "subtitle": "Ark Insights · The Macro Telescope",
       "date": "2026-11-09",
-      "summary": "The deciding factor in allocation was never \\\"calling the next trend\\\" — it's \\\"having a foundation no matter where the trend goes.\\\"",
+      "summary": "The deciding factor in allocation was never \"calling the next trend\" — it’s \"having a foundation no matter where the trend goes.\"",
       "pin": false,
       "body": [
         {
@@ -984,7 +984,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-family-office-cn",
-      "title": "Family Offices in China: A Grand Ideal, a Sober Reality",
+      "title": "Family Offices in China: A Grand Ideal",
       "subtitle": "Ark Insights · Ark Q&A",
       "date": "2026-10-30",
       "summary": "The family-office dream can be huge, but the first real step is usually very concrete.",
@@ -1018,10 +1018,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-dividend-rate",
-      "title": "How Are Hong Kong Insurance Dividend Fulfillment Ratios Calculated?",
+      "title": "How Are Dividend Fulfilment Ratios Calculated?",
       "subtitle": "Ark Insights · The Offshore Compass",
       "date": "2026-10-20",
-      "summary": "The real risk isn't an ugly number — it's never having looked at the number seriously.",
+      "summary": "Hong Kong dividend fulfilment ratios compare dividends actually paid with those illustrated at sale. This guide sets out the calculation, three common misreadings, and how to use the ratio when comparing policies, following the Hong Kong Insurance Authority's public definitions.",
       "pin": false,
       "body": [
         {
@@ -1055,7 +1055,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Trusts Aren't Mysterious",
       "subtitle": "Ark Insights · Ark Q&A",
       "date": "2026-10-10",
-      "summary": "No tool is inherently superior — only more or less suited.",
+      "summary": "A trust is a tool, not a status symbol. This guide uses one decision diagram to show when a trust is actually needed, why most households stop at the first question of asset size, and where the phrase poor man's family trust holds up and where it does not.",
       "pin": false,
       "body": [
         {
@@ -1086,10 +1086,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-gold-high",
-      "title": "Gold Just Hit a Record High — Is It Too Late to Buy?",
+      "title": "Gold Just Hit a Record High",
       "subtitle": "Ark Insights · The Macro Telescope",
       "date": "2026-09-30",
-      "summary": "Gold tells you \\\"don't lose it all\\\"; a policy tells you \\\"you can still grow.\\\"",
+      "summary": "After a record high, the question is what role gold plays rather than whether to chase the price. This piece treats 5% as a reserve anchor rather than a forecast, explains why it needs a cash-flow-producing partner, and flags two common mistakes after new highs.",
       "pin": false,
       "body": [
         {
@@ -1154,7 +1154,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-japan-lost-30",
-      "title": "What Does Japan's Lost 30 Years Teach China's Middle Class?",
+      "title": "What Can China Learn From Japan's Lost 30 Years?",
       "subtitle": "Ark Insights · The Macro Telescope",
       "date": "2026-09-10",
       "summary": "The real risk isn't what assets you hold — it's that all your assets hang on one single rope.",
@@ -1188,7 +1188,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "property-tax-trend",
-      "title": "Property-Tax Rumors Are Stirring Again: The Shift in Asset Form from \\\"Bricks\\\" to \\\"Policies\\\"",
+      "title": "Property-Tax Rumors Are Stirring Again",
       "subtitle": "Ark Insights · Onshore Signal Tower",
       "date": "2026-08-31",
       "summary": "A shift in asset form isn't fundamentally swapping one container for another — it's admitting that no single asset can forever bear all your risks.",
@@ -1222,7 +1222,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-hk-data-2026h1",
-      "title": "Why Do Onshore Clients Keep Buying More Hong Kong Insurance?",
+      "title": "Why Do Onshore Clients Keep Buying HK Insurance?",
       "subtitle": "Ark Insights · The Offshore Compass",
       "date": "2026-08-21",
       "summary": "The more emotional the debate around a field, the more we need a structural eye to take it apart — not slogans to pick a side.",
@@ -1256,7 +1256,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "deposit-rate-cut",
-      "title": "Where Do Deposit Rates Finally Bottom Out? A Less-than-Optimistic Read",
+      "title": "Where Do Deposit Rates Finally Bottom Out?",
       "subtitle": "Ark Insights · Onshore Signal Tower",
       "date": "2026-08-11",
       "summary": "When short-term risk-free yield goes to zero, real safety comes from long-cycle allocation discipline — not from chasing a fleeting high interest rate.",
@@ -1290,7 +1290,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-hk-resilience",
-      "title": "Break and Rebirth: Hong Kong's Extreme Resilience",
+      "title": "Break and Rebirth: Hong Kong's Extreme",
       "subtitle": "Ark Insights · The Macro Telescope",
       "date": "2026-08-10",
       "summary": "Is Hong Kong declining, or undergoing a profound rebirth? The answer lies in its century-old DNA — a wealth safe harbor that squeezes out bubbles and upgrades itself with every external shock.",
@@ -1320,7 +1320,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "offshore-fx-volatility",
-      "title": "The RMB Is Back at 7.3: How Much of Your Assets Are \\\"Pure USD\\\"?",
+      "title": "The RMB Is Back at 7.3",
       "subtitle": "Ark Insights · Onshore Signal Tower",
       "date": "2026-08-01",
       "summary": "Over the next two decades, will my family still have a foundation not held hostage by a single currency?",
@@ -1356,10 +1356,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
   "emerging": [
     {
       "id": "emerging-compliant-liquidity",
-      "title": "Under a Compliance Framework, How Should Offshore Assets View Web3's Liquidity Value?",
+      "title": "Under a Compliance Framework",
       "subtitle": "Asset Map · Emerging · The Boundary Between Fast and Slow Money",
       "date": "2027-03-01",
-      "summary": "Web3 is fast money; Hong Kong insurance is slow money.",
+      "summary": "What does Web3 liquidity mean, and does it belong in a family balance sheet? This piece defines the term, sets out three compliance boundaries, shows when the liquidity is genuinely usable, and explains why stablecoins are treated as the bridge between two systems.",
       "pin": false,
       "body": [
         {
@@ -1390,7 +1390,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "emerging-btc-digital-gold",
-      "title": "Why Bitcoin Entered Mainstream Institutional Portfolios as 'Digital Gold'",
+      "title": "Why Are Institutions Buying Bitcoin?",
       "subtitle": "Asset Map · Emerging · Why Institutions Are Buying",
       "date": "2027-02-22",
       "summary": "When institutions start putting Bitcoin on their allocation sheets, they're not buying a 'get-rich-quick dream' — they're buying 'scarcity that depends on no one.'",
@@ -1424,7 +1424,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "emerging-major-cryptocurrencies",
-      "title": "Bitcoin, Ethereum, and the Coins Dismissed as 'Scams' — They Weren't Born to Rip You Off",
+      "title": "Bitcoin, Ethereum, and the Coins Dismissed as",
       "subtitle": "Asset Map · Emerging · The Truth About Major Coins",
       "date": "2027-02-15",
       "summary": "Every major cryptocurrency was born to solve a real problem — they aren't scams, they're answers.",
@@ -1454,7 +1454,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "emerging-cbdc-vs-crypto",
-      "title": "The Digital Yuan and Bitcoin — What's the Relationship? A Coordinate System to Map the World of Digital Assets",
+      "title": "The Digital Yuan and Bitcoin",
       "subtitle": "Asset Map · Emerging · A Coordinate System for Digital Assets",
       "date": "2027-02-08",
       "summary": "The difference between the digital yuan and Bitcoin isn't which is better — it's whether you want efficiency or freedom.",
@@ -1484,7 +1484,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "emerging-blockchain-basics",
-      "title": "Blockchain, Crypto, Web3 — What They Actually Are (Explained Over Dinner)",
+      "title": "Blockchain, Crypto, Web3",
       "subtitle": "Asset Map · Emerging · The Underlying Logic",
       "date": "2027-02-01",
       "summary": "Blockchain was never meant for speculating on coins — it's a whole new answer to the ancient problem of 'trust'.",
@@ -1523,7 +1523,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Where Is Physical Gold Safest?",
       "subtitle": "Asset Map · Gold · Geographic Diversification",
       "date": "2027-01-25",
-      "summary": "If you store a safe-haven asset in a risk center, it's like tying the lifeboat to a leaking ship.",
+      "summary": "Where you keep physical gold matters as much as how much you buy. This guide compares two mainstream offshore vault options with home storage, covers insurance and access limits, and asks the question most often missed: can you actually take delivery in a crisis.",
       "pin": false,
       "body": [
         {
@@ -1596,10 +1596,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "gold-paper-vs-physical",
-      "title": "Paper Gold vs Physical Bullion: What's the Difference?",
+      "title": "Paper Gold vs Physical Bullion",
       "subtitle": "Asset Map · Gold · Do You Hold Gold or Paper?",
       "date": "2027-01-11",
-      "summary": "True safe-haven is something you can literally touch when the crisis hits.",
+      "summary": "Paper gold and allocated bars carry different risks: one is a claim on an issuer, the other is physical possession. This piece sets out counterparty risk, storage and realisation costs, and why the practical answer is not either-or but holding each for a different purpose.",
       "pin": false,
       "body": [
         {
@@ -1634,7 +1634,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "gold-5-percent",
-      "title": "In 2026, as the Fiat System Loosens, Why Must a Family Keep 5% in Physical Gold?",
+      "title": "In 2026, as the Fiat System Loosens",
       "subtitle": "Asset Map · Gold · Hold the Bottom Line",
       "date": "2027-01-04",
       "summary": "When all paper assets bet on 'the future will be better,' gold bets on 'if worse comes, I'm still here.'",
@@ -1668,7 +1668,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-vs-shuibei-gold",
-      "title": "Hong Kong Is Becoming a Gold Reserve Center — So What Does Shuibei Do?",
+      "title": "Hong Kong Is Becoming a Gold Reserve Center",
       "subtitle": "Asset Map · Gold · On-Chain or On-Exchange, Don't Mix Them Up",
       "date": "2026-11-24",
       "summary": "Hong Kong moves up to the financial infrastructure layer; Shuibei stays in the industrial and consumer layer. It's a division of labor, not competition.",
@@ -1706,7 +1706,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-tokenized-gold-market",
-      "title": "Can Retail Investors Buy Hong Kong's Tokenized Gold Yet?",
+      "title": "Can Retail Investors Buy Tokenized Gold?",
       "subtitle": "Asset Map · Gold · Don't Confuse a Settlement Pilot with a Trading Platform",
       "date": "2026-11-17",
       "summary": "Right now this is an interbank wholesale settlement pilot, not a secondary market retail investors can freely trade.",
@@ -1744,7 +1744,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-tokenized-gold-what",
-      "title": "What Is Hong Kong's \\\"Tokenized Gold\\\"?",
+      "title": "What Is Hong Kong’s \"Tokenized Gold\"?",
       "subtitle": "Asset Map · Gold · New Settlement Infrastructure",
       "date": "2026-11-10",
       "summary": "It isn't buying gold and walking away — it's adding a traceable on-chain record to gold already held in bank custody.",
@@ -1778,7 +1778,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-gold-hub-strategy",
-      "title": "Why Is Hong Kong Building an International Gold Reserve Hub?",
+      "title": "Why Is Hong Kong Building a Gold Hub?",
       "subtitle": "Asset Map · Gold · Hong Kong's Role in De-Dollarization",
       "date": "2026-11-03",
       "summary": "Hong Kong putting gold into its first five-year plan isn't about jewelry — it's about filling a gap in offshore RMB safe-haven assets amid global de-dollarization.",
@@ -1818,10 +1818,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
   "insurance": [
     {
       "id": "hk-why-choose-2026",
-      "title": "In the Uncertain 2026, Why More Mainland Families Choose Hong Kong Savings Insurance",
+      "title": "In the Uncertain 2026",
       "subtitle": "HK Insurance Academy · Certainty Assets in an Uncertain Age",
       "date": "2026-11-21",
-      "summary": "While everyone stares at yields, the truly smart ask — can this asset survive the next winter?",
+      "summary": "Mainland families looking at Hong Kong savings insurance in 2026 should weigh three things: policy currency, dividend fulfilment ratios and cross-border liquidity. This guide uses public regulatory definitions to separate it from mainland insurance and states the holding-period assumption.",
       "pin": true,
       "order": 2,
       "body": [
@@ -1849,10 +1849,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-market-landscape",
-      "title": "The Full Landscape of Hong Kong's Insurance Market",
+      "title": "The Full Landscape of Hong Kong's Insurance",
       "subtitle": "HK Insurance Academy · Market Structure and Purchase Rules",
       "date": "2026-11-14",
-      "summary": "Hong Kong insurance isn't selling a policy, but providing the lowest-cost entry point into global asset allocation.",
+      "summary": "Who can buy Hong Kong insurance, who do you buy from, and what should you buy? This guide gives one framework: why the market ranks first-tier globally, how licensed insurers and channels divide the work, which product types suit whom, and the rules mainland applicants follow.",
       "pin": true,
       "order": 1,
       "body": [
@@ -1880,7 +1880,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "sg-us-hk-insurance-compare",
-      "title": "Singapore IUL vs US IUL vs Hong Kong Dividend Insurance",
+      "title": "Singapore IUL vs US IUL vs Hong Kong Dividend",
       "subtitle": "HK Insurance Academy · One Chart to See the Three Markets' Positioning",
       "date": "2026-11-07",
       "summary": "Understanding the differences among the three markets matters far more than blindly believing any one market's promotion.",
@@ -1914,10 +1914,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "sg-insurance-overview",
-      "title": "Singapore Insurance: Why Is the Threshold Rising?",
+      "title": "Singapore Insurance: Why Is the Threshold",
       "subtitle": "HK Insurance Academy · Singapore Market's True Positioning",
       "date": "2026-10-31",
-      "summary": "Singapore insurance isn't 'a better Hong Kong,' but 'a Hong Kong with a different positioning.'",
+      "summary": "Singapore insurance thresholds have risen around residency, source of funds and minimum premiums. This piece explains why the market is favoured, the core features of its products, exactly where the bar moved, and how it divides the work with Hong Kong policies.",
       "pin": false,
       "body": [
         {
@@ -1955,7 +1955,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Insuring in the US vs Hong Kong: How to Choose?",
       "subtitle": "HK Insurance Academy · The Ledger of Two Offshore Routes",
       "date": "2026-10-24",
-      "summary": "Choosing a market isn't about picking the best — it's about picking the one that matches your current state.",
+      "summary": "Buying cover in the US versus Hong Kong differs on three costs: time, ongoing holding and exit. This piece compares in-person requirements, maintenance expenses and surrender flexibility, then gives a framework based on life stage and asset scale.",
       "pin": false,
       "body": [
         {
@@ -1994,10 +1994,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "us-iul-premium-financing",
-      "title": "US Insurance Premium Financing: How Does It Work?",
+      "title": "US Insurance Premium Financing",
       "subtitle": "HK Insurance Academy · A Mirror to US Leverage",
       "date": "2026-10-17",
-      "summary": "The lure of leverage is 'making money with other people's money'; the trap is 'losing money with other people's money' too.",
+      "summary": "US premium financing is more common than in Hong Kong: you fund part of the premium and a bank lends the rest. This piece runs the numbers on self-funding versus borrowing, shows what breaks when the rate gap closes, and what it reveals about Hong Kong policies.",
       "pin": false,
       "body": [
         {
@@ -2031,7 +2031,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "IUL: Is It Right for You?",
       "subtitle": "HK Insurance Academy · The High Bar of US Insurance",
       "date": "2026-10-10",
-      "summary": "Every tool has its best user.",
+      "summary": "Is an indexed universal life policy right for you? This piece explains the index link, caps and floors, why the entry threshold is high, how it differs from Hong Kong participating policies on leverage and guarantees, and why we still include it in comparisons.",
       "pin": false,
       "body": [
         {
@@ -2066,10 +2066,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-vs-mainland-annuity",
-      "title": "Hong Kong Insurance vs Mainland Annuity: Where Do They Differ in 30 Years?",
+      "title": "Hong Kong Insurance vs Mainland Annuity",
       "subtitle": "HK Insurance Academy · The Distance Time Creates",
       "date": "2026-10-03",
-      "summary": "Tools showing no gap short-term often end worlds apart at the 30-year mark.",
+      "summary": "Over 30 years, Hong Kong savings policies and mainland annuities diverge mainly on currency, dividend mechanism and guaranteed portion - not the first line of an illustration. This piece compares two cash-value curves and the assumptions behind the gap.",
       "pin": false,
       "body": [
         {
@@ -2104,10 +2104,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-application-process",
-      "title": "From Application to Activation: How Many Days Does a Hong Kong Insurance Policy Take?",
+      "title": "From Application to Activation",
       "subtitle": "HK Insurance Academy · Laying the Process Open for You",
       "date": "2026-09-26",
-      "summary": "It's the unknown that makes people afraid.",
+      "summary": "How long does a Hong Kong savings policy take from application to activation? This guide gives a standard timeline, marks the steps that require the applicant in person, and lists the three points where files most often stall, with the documents to prepare in advance.",
       "pin": false,
       "body": [
         {
@@ -2142,10 +2142,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-crs-tax",
-      "title": "In the CRS Era, What Exactly Are the Tax-Reporting Obligations for Hong Kong Insurance?",
+      "title": "What Are CRS Reporting Duties for HK Policies?",
       "subtitle": "HK Insurance Academy · The Truth About Compliance Anxiety",
       "date": "2026-09-19",
-      "summary": "Compliance isn't about hiding yourself, but about knowing the rules and walking in the sunlight.",
+      "summary": "Under CRS, is a Hong Kong policy reported, and does reporting mean back taxes? This piece explains what information is exchanged, in what capacity a policy is reported, separates reporting from tax liability, and gives three principles for compliant applications.",
       "pin": false,
       "body": [
         {
@@ -2180,10 +2180,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-premium-financing",
-      "title": "Premium Financing: Using the Bank's Money to Leverage Bigger Coverage — How It Works",
+      "title": "How Does Premium Financing Work?",
       "subtitle": "HK Insurance Academy · The Leverage Play for High-Net-Worth Clients",
       "date": "2026-09-12",
-      "summary": "Leverage amplifies returns, and costs.",
+      "summary": "Premium financing means paying part of the premium yourself and borrowing the rest from a bank, trading a rate gap for leverage. This piece gives a simplified calculation, says who it suits and who it does not, and sets out three risks: rising rates, margin calls and FX mismatch.",
       "pin": false,
       "body": [
         {
@@ -2218,10 +2218,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-claims-speed",
-      "title": "Is Hong Kong Insurance Claims Fast? — A Question Repeatedly Misunderstood",
+      "title": "Is Hong Kong Insurance Claims Fast?",
       "subtitle": "HK Insurance Academy · Breaking the 'Overseas Claims Are Hard' Bias",
       "date": "2026-09-05",
-      "summary": "The bottleneck of claims was never distance, but whether you read the terms clearly at the start.",
+      "summary": "Claims speed depends on product type: savings policies rarely involve a claim at all, while critical illness and medical cover do. This piece separates the two, clarifies what the quoted timelines actually measure, and points to one clause that practitioners check first.",
       "pin": false,
       "body": [
         {
@@ -2256,10 +2256,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-vs-mainland-wholelife",
-      "title": "Mainland Whole-Life vs Hong Kong Savings Insurance: What's the Difference?",
+      "title": "Mainland Whole-Life vs Hong Kong Savings",
       "subtitle": "HK Insurance Academy · Same Shell, Different Core",
       "date": "2026-08-29",
-      "summary": "Two things looking alike doesn't mean they solve the same problem.",
+      "summary": "Mainland increasing whole-life and Hong Kong savings insurance sound similar but solve different problems. This piece separates guaranteed versus non-guaranteed value, currency and liquidity, then offers a use-based combination instead of a forced either-or choice.",
       "pin": false,
       "body": [
         {
@@ -2294,10 +2294,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-compound-irr",
-      "title": "Hong Kong Savings Insurance: Is a 6%–7% IRR Real?",
+      "title": "Hong Kong Savings Insurance",
       "subtitle": "HK Insurance Academy · The Magic and Limits of Compounding",
       "date": "2026-08-22",
-      "summary": "Compounding is the eighth wonder of the world, but its premise is — you're willing to wait, and able to wait.",
+      "summary": "The 6%-7% figure quoted for Hong Kong savings policies is a long-horizon illustrated IRR, not a guaranteed annual return. This piece explains where the number comes from, why mainland products differ, and why early surrender is the real enemy of compounding.",
       "pin": false,
       "body": [
         {
@@ -2332,10 +2332,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-multi-currency-account",
-      "title": "The Multi-Currency Account of Hong Kong Insurance",
+      "title": "The Multi-Currency Account of Hong Kong",
       "subtitle": "HK Insurance Academy · A Policy with a Built-In FX Moat",
       "date": "2026-08-15",
-      "summary": "The real risk isn't volatility, but that all your eggs sit in the same priced basket.",
+      "summary": "A multi-currency account addresses the hidden risk of holding every asset in one currency. This piece explains what multi-currency means inside a policy, which currencies can be switched, how that differs from ordinary FX conversion, and which households genuinely need it.",
       "pin": false,
       "body": [
         {
@@ -2370,10 +2370,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-policy-split-inheritance",
-      "title": "Deconstructing Hong Kong Savings Insurance's 'Policy Split' and 'Cross-Generational Inheritance' Functions",
+      "title": "Deconstructing Hong Kong Savings Insurance's",
       "subtitle": "HK Insurance Academy · How One Policy Becomes a Family Trust",
       "date": "2026-08-08",
-      "summary": "The real inheritance tool isn't the most expensive one, but the one you can actually use.",
+      "summary": "The hard part of succession is often division, not money. This guide unpacks four mechanisms in Hong Kong savings policies - policy split, unlimited insured replacement, second policyholder and backup owner - where each fits, and how they differ from a real trust.",
       "pin": false,
       "body": [
         {
@@ -2408,7 +2408,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-property-to-insurance",
-      "title": "Why Do High-Net-Worth Families, After Selling Domestic Property, Make Hong Kong Savings Insurance Their First Stop?",
+      "title": "Why Do Wealthy Families Buy HK Insurance?",
       "subtitle": "HK Insurance Academy · The Asset Relay After the Property Tide Recedes",
       "date": "2026-08-01",
       "summary": "A house turning from 'income-generating asset' to 'trapped liability' is often just one liquidity crisis away.",
@@ -2444,10 +2444,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
   "trust": [
     {
       "id": "trust-china-family-office",
-      "title": "Why Is Going Offshore Unavoidable for China's Family Offices?",
+      "title": "Why Do China's Family Offices Go Offshore?",
       "subtitle": "Asset Map · Trust · The Limits of a Local Family Office",
       "date": "2026-12-28",
-      "summary": "A family office isn't an office. It's a system for how money survives across generations.",
+      "summary": "Why do Chinese family offices keep ending up offshore? This piece starts from the real demand behind the boom, sets out where local family offices are constrained on fee model and tool supply, and what smaller households can do before reaching that scale.",
       "pin": false,
       "body": [
         {
@@ -2478,10 +2478,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "trust-poor-man-version",
-      "title": "Why Is a Hong Kong Policy Called the 'Poor Man's Family Trust'?",
+      "title": "Why Call an HK Policy a Poor Man's Trust?",
       "subtitle": "Asset Map · Trust · A Policy's Trust-Like Powers",
       "date": "2026-12-21",
-      "summary": "Not every inheritance needs the shell of a trust.",
+      "summary": "A Hong Kong policy is called the poor man's family trust because it delivers several succession functions at far lower cost. This piece checks three of them against a real trust, shows the gap, and explains why the cost comparison is the decisive part.",
       "pin": false,
       "body": [
         {
@@ -2515,7 +2515,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "Trust VS Insurance VS Will",
       "subtitle": "Asset Map · Trust · Choosing Among the Three",
       "date": "2026-12-14",
-      "summary": "Good succession planning isn't about picking the most expensive tool, but placing the right tool in the right spot.",
+      "summary": "A trust, an insurance policy and a will handle different parts of succession: control, cash flow and the expression of intent. This piece compares setup cost, execution speed and amendability in one table, then offers a combination rather than a single winner.",
       "pin": false,
       "body": [
         {
@@ -2549,7 +2549,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
       "title": "How Much Does a Singapore VCC Really Cost?",
       "subtitle": "Asset Map · Trust · Counting the Real Cost",
       "date": "2026-12-07",
-      "summary": "Whether a structure is good isn't about how glamorous it looks, but how much it takes from your pocket every year.",
+      "summary": "The cost of a Singapore VCC is not just the setup invoice but the recurring annual bill. This piece separates establishment thresholds from ongoing costs, lists the items to verify, explains which scale it suits, and compares the total against a Hong Kong policy.",
       "pin": false,
       "body": [
         {
@@ -2580,10 +2580,10 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "trust-threshold",
-      "title": "At What Asset Level Do You Actually Need a Family Trust?",
+      "title": "When Do You Actually Need a Family Trust?",
       "subtitle": "Asset Map · Trust · An Honest Framework for the Call",
       "date": "2026-11-30",
-      "summary": "A trust is an heirloom, but not every family needs one.",
+      "summary": "At what asset level does a family trust become worth it? This piece sets out the real threshold made up of setup fees, annual administration and governance cost, offers a rough decision framework, and identifies the problems insurance cannot solve.",
       "pin": false,
       "body": [
         {

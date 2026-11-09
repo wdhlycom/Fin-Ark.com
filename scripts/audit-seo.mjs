@@ -33,6 +33,21 @@ const firstMatch = (html, re) => {
   return m ? m[1].trim() : null;
 };
 
+/**
+ * 还原 HTML 实体后再做长度 / 唯一性统计。
+ * 一个引号在属性里写作 &quot;（6 个字符），直接数字符串会把 54 字的标题误判成 64 字，
+ * 也会让「是否会被搜索结果截断」的结论失真。&amp; 必须最后还原，避免二次解码。
+ */
+const decodeEntities = (s) =>
+  (s ?? '')
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;|&#39;|&rsquo;|&lsquo;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&amp;/g, '&');
+
 const files = collectHtml(dist).sort();
 const pages = files.map((file) => {
   const html = readFileSync(file, 'utf8');
@@ -59,15 +74,15 @@ const pages = files.map((file) => {
   }
   return {
     file: relative(dist, file).replace(/\\/g, '/'),
-    title: firstMatch(html, /<title>([\s\S]*?)<\/title>/),
-    description: firstMatch(html, /<meta\s+name="description"\s+content="([^"]*)"/),
+    title: decodeEntities(firstMatch(html, /<title>([\s\S]*?)<\/title>/)),
+    description: decodeEntities(firstMatch(html, /<meta\s+name="description"\s+content="([^"]*)"/)),
     canonical: firstMatch(html, /<link\s+rel="canonical"\s+href="([^"]*)"/),
     hreflang: (html.match(/hreflang="/g) || []).length,
     noindex: /<meta\s+name="robots"\s+content="noindex/.test(html),
     ldTypes,
     brokenLd,
     bodyChars,
-    ogTitle: firstMatch(html, /<meta\s+property="og:title"\s+content="([^"]*)"/),
+    ogTitle: decodeEntities(firstMatch(html, /<meta\s+property="og:title"\s+content="([^"]*)"/)),
   };
 });
 
@@ -133,8 +148,27 @@ const titleLens = lens('title');
 const descLens = lens('description');
 out.push(line('title 中位 / 最长', `${median(titleLens)} / ${titleLens[titleLens.length - 1]}`));
 out.push(line('description 中位 / 最长', `${median(descLens)} / ${descLens[descLens.length - 1]}`));
-out.push(line('title 超 60 字符页数', pages.filter((p) => (p.title || '').length > 60).length));
-out.push(line('description 超 160 字符页数', pages.filter((p) => (p.description || '').length > 160).length));
+const longTitles = pages.filter((p) => (p.title || '').length > 60);
+const shortDescs = pages.filter((p) => (p.description || '').length < 80);
+const longDescs = pages.filter((p) => (p.description || '').length > 160);
+out.push(line('title 超 60 字符页数', longTitles.length));
+out.push(line('description 短于 80 字符页数', shortDescs.length));
+out.push(line('description 超 160 字符页数', longDescs.length));
+
+// 只报数量没用，得能直接看到是哪个文件要改
+if (longTitles.length || shortDescs.length || longDescs.length) {
+  out.push('');
+  out.push('--- 长度异常明细 ---');
+  for (const [label, rows, key] of [
+    ['title > 60', longTitles, 'title'],
+    ['description < 80', shortDescs, 'description'],
+    ['description > 160', longDescs, 'description'],
+  ]) {
+    if (!rows.length) continue;
+    out.push(`[${label}] ${rows.length} 页`);
+    for (const p of rows) out.push(`  ${(p[key] || '').length}\t${p.file}\t${(p[key] || '').slice(0, 70)}`);
+  }
+}
 
 const rootPage = pages.find((p) => p.file === 'index.html');
 if (rootPage) {
@@ -176,15 +210,27 @@ if (aSample) {
 try {
   const xml = readFileSync(join(dist, 'sitemap.xml'), 'utf8');
   const locs = [...xml.matchAll(/<loc>([^<]*)<\/loc>/g)].map((m) => m[1]);
-  const locSet = new Set(locs);
-  const ORIGIN = 'https://fin-ark.com/';
-  const pageToUrl = (file) =>
-    file === 'index.html' ? ORIGIN : ORIGIN + file.replace(/\/index\.html$/, '');
-  const missingFromSitemap = indexable.filter((p) => !locSet.has(pageToUrl(p.file)));
+  // 用 URL 解析取路径，不写死域名：站点曾从裸域迁到 www，写死 origin 会让全部条目误判。
+  const locPath = (loc) => {
+    try {
+      const p = new URL(loc).pathname;
+      return p === '/' ? '' : p.replace(/^\//, '');
+    } catch {
+      return null;
+    }
+  };
+  const locPaths = new Set(locs.map(locPath).filter((p) => p !== null));
+  // 预渲染是目录形式（xxx/index.html），sitemap 是无尾斜杠的干净路径；此处统一到同一形态。
+  const pagePath = (file) =>
+    file === 'index.html' ? '' : file.replace(/\/index\.html$/, '').replace(/\.html$/, '');
+  const filePaths = new Set(pages.map((p) => pagePath(p.file)));
+  // 根路径渲染默认语言正文，规范地址归到 /zh，故不进 sitemap，属预期豁免。
+  const missingFromSitemap = indexable.filter(
+    (p) => pagePath(p.file) !== '' && !locPaths.has(pagePath(p.file))
+  );
   const deadLocs = locs.filter((loc) => {
-    const rel = loc.startsWith(ORIGIN) ? loc.slice(ORIGIN.length) : loc;
-    if (rel === '') return !pages.some((p) => p.file === 'index.html');
-    return !pages.some((p) => p.file === rel + '/index.html');
+    const rel = locPath(loc);
+    return rel !== null && !filePaths.has(rel);
   });
 
   out.push('');

@@ -1,6 +1,6 @@
 ---
 id: "wealth-ark-uncertain-era"
-title: "El Arca de la Riqueza de una Era de Incertidumbre"
+title: "El Arca de la Riqueza de una Era de"
 subtitle: "El Despertar del Guardián · Prólogo de la Serie"
 date: 2026-08-01
 section: guardian

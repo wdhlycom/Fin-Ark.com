@@ -4,7 +4,7 @@ title: "How Much Does a Singapore VCC Really Cost?"
 subtitle: "Asset Map · Trust · Counting the Real Cost"
 date: 2026-12-07
 section: trust
-summary: "Whether a structure is good isn't about how glamorous it looks, but how much it takes from your pocket every year."
+summary: "The cost of a Singapore VCC is not just the setup invoice but the recurring annual bill. This piece separates establishment thresholds from ongoing costs, lists the items to verify, explains which scale it suits, and compares the total against a Hong Kong policy."
 lang: en
 ---
 

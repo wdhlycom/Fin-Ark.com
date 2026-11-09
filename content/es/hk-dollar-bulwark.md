@@ -1,10 +1,11 @@
 ---
 id: es-hk-dollar-bulwark
-title: "Por qué las familias latinoamericanas usan las pólizas en dólares como rompeolas"
+title: "Pólizas en dólares como rompeolas"
 subtitle: "Academia de Seguros HK"
 date: 2026-08-04
 section: insurance
 lang: es
+summary: "Las familias latinoamericanas usan pólizas en dólares como rompeolas frente a la devaluación de su moneda local. Este artículo explica qué protege realmente ese dólar, qué costes y plazos implica mantener la póliza, y por qué no sustituye a una distribución más amplia de divisas."
 ---
 
 > Cuando la moneda local pierde decenas de por ciento en un año, la acumulación de varias generaciones se escapa en silencio. No es una profecía: es la realidad que viven hoy muchas familias en Latinoamérica.

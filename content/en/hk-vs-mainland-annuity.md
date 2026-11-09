@@ -1,10 +1,10 @@
 ---
 id: "hk-vs-mainland-annuity"
-title: "Hong Kong Insurance vs Mainland Annuity: Where Do They Differ in 30 Years?"
+title: "Hong Kong Insurance vs Mainland Annuity"
 subtitle: "HK Insurance Academy · The Distance Time Creates"
 date: 2026-10-03
 section: insurance
-summary: "Tools showing no gap short-term often end worlds apart at the 30-year mark."
+summary: "Over 30 years, Hong Kong savings policies and mainland annuities diverge mainly on currency, dividend mechanism and guaranteed portion - not the first line of an illustration. This piece compares two cash-value curves and the assumptions behind the gap."
 lang: en
 ---
 

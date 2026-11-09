@@ -4,7 +4,7 @@ title: "Fideicomiso vs seguro vs testamento"
 subtitle: "Mapa de Activos · Fideicomiso · Elegir entre las tres"
 date: 2026-12-14
 section: trust
-summary: "Una buena planificación sucesoria no es elegir la herramienta más cara, sino colocar la herramienta correcta en el lugar correcto."
+summary: "Un fideicomiso, un seguro y un testamento atienden partes distintas de la sucesión: control, flujo de caja y expresión de la voluntad. Este artículo compara coste de constitución, velocidad de ejecución y facilidad de modificación en una tabla, y propone una combinación antes que un ganador único."
 lang: es
 ---
 

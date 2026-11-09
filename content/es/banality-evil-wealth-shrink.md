@@ -1,6 +1,6 @@
 ---
 id: "banality-evil-wealth-shrink"
-title: "La banalidad del mal y el encogimiento de la riqueza"
+title: "La banalidad del mal y el encogimiento de la"
 subtitle: "El Despertar del Guardián · Trampas Cognitivas"
 date: 2026-08-04
 section: guardian

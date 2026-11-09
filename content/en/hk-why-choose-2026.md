@@ -1,10 +1,10 @@
 ---
 id: "hk-why-choose-2026"
-title: "In the Uncertain 2026, Why More Mainland Families Choose Hong Kong Savings Insurance"
+title: "In the Uncertain 2026"
 subtitle: "HK Insurance Academy · Certainty Assets in an Uncertain Age"
 date: 2026-11-21
 section: insurance
-summary: "While everyone stares at yields, the truly smart ask — can this asset survive the next winter?"
+summary: "Mainland families looking at Hong Kong savings insurance in 2026 should weigh three things: policy currency, dividend fulfilment ratios and cross-border liquidity. This guide uses public regulatory definitions to separate it from mainland insurance and states the holding-period assumption."
 pin: true
 order: 2
 lang: en

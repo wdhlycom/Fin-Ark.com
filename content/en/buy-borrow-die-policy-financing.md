@@ -4,7 +4,7 @@ title: "Buy, Borrow, Die"
 subtitle: "Guardian's Awakening · Policy Financing"
 date: 2026-08-13
 section: guardian
-summary: "The wealth code of the ultra-rich is really just three words: buy, borrow, die."
+summary: "Buy, Borrow, Die describes paying part of a premium, borrowing the rest against the policy, and settling the loan from the death benefit. This piece walks through the 20-30% down-payment structure, its assumptions, costs, and who should avoid it."
 lang: en
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: "emerging-cbdc-vs-crypto"
-title: "The Digital Yuan and Bitcoin — What's the Relationship? A Coordinate System to Map the World of Digital Assets"
+title: "The Digital Yuan and Bitcoin"
 subtitle: "Asset Map · Emerging · A Coordinate System for Digital Assets"
 date: 2027-02-08
 section: emerging

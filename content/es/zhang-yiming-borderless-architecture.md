@@ -1,10 +1,10 @@
 ---
 id: "zhang-yiming-borderless-architecture"
-title: "Zhang Yiming: la arquitectura sin fronteras y la supervivencia global"
+title: "Zhang Yiming: la arquitectura sin fronteras y"
 subtitle: "El Despertar del Guardián · Historia Paralela"
 date: 2026-09-04
 section: guardian
-summary: "No fuma, no bebe, no tiene un pasado ilustre y rara vez aparece en público."
+summary: "Una empresa rara vez obtiene a la vez la confianza plena del sistema continental, la aceptación plena de Occidente y su propia globalización. Este artículo usa la arquitectura de Zhang Yiming para llevar ese «triángulo imposible» al terreno familiar: reglas de defensa definidas antes de la tormenta."
 lang: es
 ---
 

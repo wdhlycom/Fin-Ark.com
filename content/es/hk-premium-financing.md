@@ -4,7 +4,7 @@ title: "Financiación de primas"
 subtitle: "Academia de Seguros de Hong Kong · La jugada de apalancamiento para clientes de alto patrimonio"
 date: 2026-09-12
 section: insurance
-summary: "El apalancamiento amplifica las rentabilidades, y también los costes."
+summary: "La financiación de primas consiste en aportar una parte y pedir el resto al banco, cambiando un diferencial de tipos por apalancamiento. Este artículo da un ejemplo simplificado, dice a quién conviene y a quién no, y detalla tres riesgos: subida de tipos, requerimientos de garantía y descalce de divisas."
 lang: es
 ---
 

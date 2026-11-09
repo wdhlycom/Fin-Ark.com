@@ -4,7 +4,7 @@ title: "Asset Safety Through UK Gilts"
 subtitle: "Guardian's Awakening · The Safety Illusion"
 date: 2026-08-12
 section: guardian
-summary: "Gilts are, in many minds, the very symbol of 'safe.'"
+summary: "UK gilts were long treated as the safest asset, but a run on credit usually starts with lost confidence in how rates are priced, not with a state going bankrupt. This piece uses that episode to show the assumptions behind any safe asset."
 lang: en
 ---
 

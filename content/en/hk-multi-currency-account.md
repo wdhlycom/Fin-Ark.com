@@ -1,10 +1,10 @@
 ---
 id: "hk-multi-currency-account"
-title: "The Multi-Currency Account of Hong Kong Insurance"
+title: "The Multi-Currency Account of Hong Kong"
 subtitle: "HK Insurance Academy · A Policy with a Built-In FX Moat"
 date: 2026-08-15
 section: insurance
-summary: "The real risk isn't volatility, but that all your eggs sit in the same priced basket."
+summary: "A multi-currency account addresses the hidden risk of holding every asset in one currency. This piece explains what multi-currency means inside a policy, which currencies can be switched, how that differs from ordinary FX conversion, and which households genuinely need it."
 lang: en
 ---
 

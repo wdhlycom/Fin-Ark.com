@@ -4,7 +4,7 @@ title: "Trusts Aren't Mysterious"
 subtitle: "Ark Insights · Ark Q&A"
 date: 2026-10-10
 section: arkPilot
-summary: "No tool is inherently superior — only more or less suited."
+summary: "A trust is a tool, not a status symbol. This guide uses one decision diagram to show when a trust is actually needed, why most households stop at the first question of asset size, and where the phrase poor man's family trust holds up and where it does not."
 lang: en
 ---
 

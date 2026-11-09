@@ -4,7 +4,7 @@ title: "The Mystery of the Linked Exchange Rate"
 subtitle: "Guardian's Awakening · The Linked Exchange Rate"
 date: 2026-08-10
 section: guardian
-summary: "The Hong Kong dollar isn't an IOU, but a delivery receipt for USD assets."
+summary: "The linked exchange rate is not a fixed number but an automatic adjustment mechanism. This piece explains how fund flows pull the rate back into its band, why that makes Hong Kong a regional stabiliser, and what the term regulatory arbitrage actually refers to."
 lang: en
 ---
 

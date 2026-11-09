@@ -4,7 +4,7 @@ title: "Asset Checkup"
 subtitle: "Guardian's Awakening · Asset Checkup"
 date: 2026-08-28
 section: guardian
-summary: "Wealth defense isn't theoretical."
+summary: "Ten metrics you can check yourself: concentration, currency mix, liquidity, leverage, beneficiary arrangements and more. The point is that real risk avoidance has to happen while markets are still calm, not after the stress arrives."
 lang: en
 ---
 

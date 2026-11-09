@@ -1,6 +1,6 @@
 ---
 id: "offshore-mindset-primer"
-title: "Manual de mentalidad offshore: ¿por qué los grandes magnates desacoplan la «identidad» de los «activos»?"
+title: "Manual de mentalidad offshore"
 subtitle: "El Despertar del Guardián · Pensamiento Offshore"
 date: 2026-08-06
 section: guardian

@@ -1,10 +1,11 @@
 ---
 id: es-guardian-03
-title: "El Estado de derecho es el seguro definitivo de la asignación de activos"
+title: "El Estado de derecho es el seguro definitivo de"
 subtitle: "El Despertar del Guardián · Parte 3"
 date: 2026-08-04
 section: guardian
 lang: es
+summary: "El Estado de derecho es el último seguro de cualquier asignación de activos: lo que define a quién pertenece un patrimonio no es el esfuerzo, sino una regla exigible que lo respalde. Este artículo desarrolla por qué la protección jurídica es la capa más baja de toda estructura familiar."
 ---
 
 > El dinero se gana, pero las reglas que lo protegen no las decides tú. Ver en qué manos están las reglas importa más que leer la tabla de rendimientos.

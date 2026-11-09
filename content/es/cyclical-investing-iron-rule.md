@@ -1,6 +1,6 @@
 ---
 id: "cyclical-investing-iron-rule"
-title: "La regla de hierro de la inversión cíclica: ¿en qué punto del ciclo estamos?"
+title: "La regla de hierro de la inversión cíclica"
 subtitle: "El Despertar del Guardián · Reglas de Hierro del Ciclo"
 date: 2026-08-19
 section: guardian

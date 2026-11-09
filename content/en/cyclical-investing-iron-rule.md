@@ -4,7 +4,7 @@ title: "The Iron Rule of Cyclical Investing"
 subtitle: "Guardian's Awakening · Cyclical Iron Rules"
 date: 2026-08-19
 section: guardian
-summary: "Howard Marks, founder of Oaktree, wrote a much-quoted line in \"The Cycle\": \"We may not know exactly where the future is headed, but...\""
+summary: 'Howard Marks, founder of Oaktree, wrote a much-quoted line in "The Cycle": "We may not know exactly where the future is headed, but..."'
 lang: en
 ---
 

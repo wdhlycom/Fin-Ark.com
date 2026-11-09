@@ -4,7 +4,7 @@ title: "Los fideicomisos no son un misterio"
 subtitle: "Visión del Arca · Preguntas y Respuestas"
 date: 2026-10-10
 section: arkPilot
-summary: "Ninguna herramienta es superior por sí misma — solo más o menos adecuada."
+summary: "Un fideicomiso es una herramienta, no un símbolo de estatus. Esta guía usa un único esquema de decisión para mostrar cuándo hace falta, por qué la mayoría de las familias se detiene en la primera pregunta sobre el tamaño del patrimonio y dónde resulta válida la expresión «fideicomiso de los pobres»."
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: "gold-5-percent"
-title: "En 2026, con el sistema fiduciario aflojando, ¿por qué una familia debe guardar un 5 % en oro físico?"
+title: "En 2026, con el sistema fiduciario aflojando"
 subtitle: "Mapa de Activos · Oro · Mantener la línea de fondo"
 date: 2027-01-04
 section: gold

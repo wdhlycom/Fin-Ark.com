@@ -1,6 +1,6 @@
 ---
 id: "emerging-btc-digital-gold"
-title: "Why Bitcoin Entered Mainstream Institutional Portfolios as 'Digital Gold'"
+title: "Why Are Institutions Buying Bitcoin?"
 subtitle: "Asset Map · Emerging · Why Institutions Are Buying"
 date: 2027-02-22
 section: emerging

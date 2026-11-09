@@ -1,10 +1,10 @@
 ---
 id: "hk-market-landscape"
-title: "El panorama completo del mercado asegurador de Hong Kong"
+title: "El panorama completo del mercado asegurador de"
 subtitle: "Academia de Seguros de Hong Kong · Estructura del mercado y reglas de compra"
 date: 2026-11-14
 section: insurance
-summary: "El seguro de Hong Kong no vende una póliza: ofrece el punto de entrada de menor coste a la asignación global de activos."
+summary: "¿Quién puede contratar un seguro en Hong Kong, con quién se contrata y qué conviene comprar? Esta guía ofrece un marco único: por qué el mercado está en la primera división mundial, cómo se reparten el trabajo aseguradoras y canales, qué producto encaja con cada perfil y qué reglas siguen los clientes del continente."
 pin: true
 order: 1
 lang: es

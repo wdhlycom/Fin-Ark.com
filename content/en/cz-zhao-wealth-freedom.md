@@ -1,6 +1,6 @@
 ---
 id: "cz-zhao-wealth-freedom"
-title: "CZ (Zhao Changpeng): The Truth About Wealth Freedom"
+title: "CZ (Zhao Changpeng): The Truth About Wealth"
 subtitle: "Guardian's Awakening · Side Story"
 date: 2026-09-01
 section: guardian

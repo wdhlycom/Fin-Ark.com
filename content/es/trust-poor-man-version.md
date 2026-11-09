@@ -1,10 +1,10 @@
 ---
 id: "trust-poor-man-version"
-title: "¿Por qué a una póliza de Hong Kong la llaman el «fideicomiso familiar de los pobres»?"
+title: "El «fideicomiso de los pobres», explicado"
 subtitle: "Mapa de Activos · Fideicomiso · Los poderes tipo fideicomiso de una póliza"
 date: 2026-12-21
 section: trust
-summary: "No toda herencia necesita la envoltura de un fideicomiso."
+summary: "A la póliza de Hong Kong se la llama «fideicomiso familiar de los pobres» porque ofrece varias funciones sucesorias a un coste mucho menor. Este artículo confronta tres de ellas con un fideicomiso real, muestra dónde se queda corta y explica por qué la comparación de costes es decisiva."
 lang: es
 ---
 

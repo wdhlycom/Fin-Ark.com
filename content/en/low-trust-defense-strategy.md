@@ -1,6 +1,6 @@
 ---
 id: "low-trust-defense-strategy"
-title: "What Are Smart People Building with 'Low-Trust Defense'?"
+title: "What Is a Low-Trust Defense Strategy?"
 subtitle: "Guardian's Awakening · Low-Trust Defense"
 date: 2026-08-07
 section: guardian

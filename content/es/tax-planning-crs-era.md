@@ -1,10 +1,10 @@
 ---
 id: "tax-planning-crs-era"
-title: "Planificación fiscal en la era de la transparencia"
+title: "Planificación fiscal en la era de la"
 subtitle: "El Despertar del Guardián · La Era CRS"
 date: 2026-08-15
 section: guardian
-summary: "La vieja era offshore de esconder y ocultar dinero ha muerto."
+summary: "La planificación fiscal bajo CRS no consiste en esconder activos, sino en cambiar su naturaleza jurídica y la jurisdicción que los rige. Este artículo explica qué prácticas dejaron de funcionar con el intercambio de información y qué pueden aún hacer legítimamente pólizas y fideicomisos."
 lang: es
 ---
 

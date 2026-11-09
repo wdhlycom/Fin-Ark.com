@@ -1,10 +1,10 @@
 ---
 id: "hk-application-process"
-title: "From Application to Activation: How Many Days Does a Hong Kong Insurance Policy Take?"
+title: "From Application to Activation"
 subtitle: "HK Insurance Academy · Laying the Process Open for You"
 date: 2026-09-26
 section: insurance
-summary: "It's the unknown that makes people afraid."
+summary: "How long does a Hong Kong savings policy take from application to activation? This guide gives a standard timeline, marks the steps that require the applicant in person, and lists the three points where files most often stall, with the documents to prepare in advance."
 lang: en
 ---
 

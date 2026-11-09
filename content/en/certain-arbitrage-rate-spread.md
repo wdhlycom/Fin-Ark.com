@@ -4,7 +4,7 @@ title: "Certainty Arbitrage"
 subtitle: "Guardian's Awakening · Certainty Arbitrage"
 date: 2026-08-16
 section: guardian
-summary: "The truly rich don't bet on predictions."
+summary: "Certainty arbitrage does not bet on direction; it earns a measurable gap between two rates or two regimes. This piece explains where the spread comes from, what has to hold for it to work, and the funding, FX and maturity risks behind an apparently certain return."
 lang: en
 ---
 

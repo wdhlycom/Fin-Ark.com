@@ -1,10 +1,10 @@
 ---
 id: "trust-poor-man-version"
-title: "Why Is a Hong Kong Policy Called the 'Poor Man's Family Trust'?"
+title: "Why Call an HK Policy a Poor Man's Trust?"
 subtitle: "Asset Map · Trust · A Policy's Trust-Like Powers"
 date: 2026-12-21
 section: trust
-summary: "Not every inheritance needs the shell of a trust."
+summary: "A Hong Kong policy is called the poor man's family trust because it delivers several succession functions at far lower cost. This piece checks three of them against a real trust, shows the gap, and explains why the cost comparison is the decisive part."
 lang: en
 ---
 

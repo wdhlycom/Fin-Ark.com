@@ -5,6 +5,7 @@ subtitle: "El Despertar del Guardián · Parte 2"
 date: 2026-08-04
 section: guardian
 lang: es
+summary: "Confundir offshore con «sacar el dinero» es el error más extendido. Esta introducción explica el desacople entre identidad y patrimonio: el objetivo no es mudar fondos, sino conservar capacidad de elección cuando las circunstancias cambian, y por qué basta con una estructura pequeña en otra jurisdicción."
 ---
 
 > Atar "de qué país soy" con "dónde está mi dinero" es la configuración por defecto de la gente común. Las grandes familias soltaron ese nudo hace mucho.

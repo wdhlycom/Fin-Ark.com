@@ -4,7 +4,7 @@ title: "El cimiento de la riqueza es la «fuerza»"
 subtitle: "El Despertar del Guardián · La Fuerza y el Estado de Derecho"
 date: 2026-08-03
 section: guardian
-summary: "El cimiento de la riqueza nunca fue la diligencia, ni la visión."
+summary: "Lo que define a quién pertenece la riqueza no es el esfuerzo, sino una regla exigible que la respalde. Este artículo parte de la propiedad y la autoridad jurídica para explicar por qué someter la fuerza al derecho es la capa más baja de cualquier estructura patrimonial familiar."
 lang: es
 ---
 

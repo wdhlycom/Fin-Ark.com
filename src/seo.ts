@@ -12,6 +12,7 @@ import { I18N, SECTIONS, type Article, type Lang, type SectionId } from './i18n'
 import { AUTHOR, authorPersonNode } from './author';
 import { SERIES_ORDER, seriesCopy } from './data/guardianSeries';
 import { TOPIC_PAGES, getTopicPage, topicCopy, topicToPath } from './data/topicPages';
+import { pageDescription } from './data/pageDescriptions';
 
 /** 视图是否为内容板块（用于判定文章页的 section 归属） */
 const isSectionView = (v: View): v is SectionId => (SECTIONS as string[]).includes(v);
@@ -108,8 +109,14 @@ export function seoLinkTags(url: string, origin: string): string {
  * 预渲染（scripts/prerender.mjs）共用同一套规则，避免两处逻辑漂移。
  * ------------------------------------------------------------------ */
 
-/** 站点默认社交分享图（品牌 Logo）。当前为 720×720 透明背景方舟标记；建议后续另出 1200×630 分享图。 */
-export const DEFAULT_OG_IMAGE = '/logo.png';
+/**
+ * 社交分享图：1200×630，全站共用一张（画面不含文字，四语言通用）。
+ * 旧值 '/logo.png' 是 720×720 透明方图，分享到微信 / X / 领英会被裁切或留白边，已弃用。
+ * 站点 Logo 由 SITE_LOGO 单独提供，不要拿分享图当 logo。
+ */
+export const DEFAULT_OG_IMAGE = '/og-share.jpg';
+/** 站点 Logo：Organization / publisher 的 logo 字段专用，必须是品牌标记而非风景图。 */
+export const SITE_LOGO = '/logo.png';
 
 const OG_LOCALES: Record<Lang, string> = {
   zh: 'zh_CN',
@@ -166,18 +173,19 @@ function breadcrumbNode(
  * 标题统一为「页面主题 | FIN-ARK」，主题取自该语言的数据层（文章标题 / 板块卡片 / 各页文案），
  * 因此每个语言、每个页面都得到独立且与内容一致的 title 与 description。
  */
-export function seoMeta(url: string, origin: string): SeoMeta {
+function computeSeoMeta(url: string, origin: string): SeoMeta {
   const { lang, view, articleSlug } = parsePath(url);
   const safeLang: Lang = lang ?? DEFAULT_LANG;
   const d = I18N[safeLang];
   const brand = d.brand.name;
   const image = origin + DEFAULT_OG_IMAGE;
+  const logoUrl = origin + SITE_LOGO;
   const canonical = origin + url;
   const publisher = {
     '@type': 'Organization',
     name: brand,
     url: origin,
-    logo: { '@type': 'ImageObject', url: image },
+    logo: { '@type': 'ImageObject', url: logoUrl },
     // 站点本体跨平台身份（sameAs）：打通 Organization 实体与对外账号，E-E-A-T 权威信号
     sameAs: AUTHOR.orgSameAs,
   };
@@ -256,7 +264,8 @@ export function seoMeta(url: string, origin: string): SeoMeta {
             headline: art.title,
             description,
             datePublished: art.date,
-            dateModified: art.updated ?? art.date,
+            // 未记录真实更新时干脆不输出，避免把「发布日期」伪装成「更新日期」
+            ...(art.updated ? { dateModified: art.updated } : {}),
             inLanguage: safeLang,
             articleSection: sectionLabel,
             mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
@@ -366,9 +375,12 @@ export function seoMeta(url: string, origin: string): SeoMeta {
       datePublished: a.date,
       author: { '@type': 'Person', name: AUTHOR.nameZh, alternateName: AUTHOR.nameEn },
     }));
+    const sectionDesc = clip(
+      pageDescription(safeLang, view) ?? card?.summary ?? `${name} · ${d.brand.tagline}`
+    );
     return {
       title: `${heading} | ${brand}`,
-      description: clip(card?.summary ?? `${name} · ${d.brand.tagline}`),
+      description: sectionDesc,
       ogType: 'website',
       image,
       jsonLd: [
@@ -376,7 +388,7 @@ export function seoMeta(url: string, origin: string): SeoMeta {
           '@context': 'https://schema.org',
           '@type': 'CollectionPage',
           name: heading,
-          description: clip(card?.summary ?? ''),
+          description: sectionDesc,
           url: canonical,
           inLanguage: safeLang,
           publisher,
@@ -394,7 +406,7 @@ export function seoMeta(url: string, origin: string): SeoMeta {
   if (view === 'assetmap') {
     return {
       title: `${d.nav.assetmap} | ${brand}`,
-      description: clip(`${d.assetmap.matrixTitle} ${d.assetmap.disclaimer}`),
+      description: clip(pageDescription(safeLang, 'assetmap') ?? `${d.assetmap.matrixTitle} ${d.assetmap.disclaimer}`),
       ogType: 'website',
       image,
       jsonLd: [
@@ -437,7 +449,7 @@ export function seoMeta(url: string, origin: string): SeoMeta {
   if (view === 'cases') {
     return {
       title: `${d.cases.title} | ${brand}`,
-      description: clip(d.cases.subtitle),
+      description: clip(pageDescription(safeLang, 'cases') ?? d.cases.subtitle),
       ogType: 'website',
       image,
       jsonLd: [
@@ -462,7 +474,7 @@ export function seoMeta(url: string, origin: string): SeoMeta {
         name: brand,
         alternateName: d.brand.tagline,
         url: origin,
-        logo: { '@type': 'ImageObject', url: image },
+        logo: { '@type': 'ImageObject', url: logoUrl },
         description: clip(d.hero.subtitle, 200),
         sameAs: AUTHOR.orgSameAs,
       },
@@ -476,6 +488,51 @@ export function seoMeta(url: string, origin: string): SeoMeta {
       },
     ],
   };
+}
+
+/**
+ * 非中文标题收短：英/西/阿语译文常把「主问题 + 副标题」拼成一整句，
+ * 搜索结果里会被硬截断。按句末标点 → 短语边界 → 词边界依次收短到 60 字符内。
+ * 中文标题此前已统一为问句式短标题，原样保留。
+ * 这是兜底规则：以后新写的长标题也不会再超长。
+ */
+function compactTitle(title: string, lang: Lang, brand: string): string {
+  if (lang === 'zh') return title;
+  const suffix = ` | ${brand}`;
+  const tail = title.endsWith(suffix) ? suffix : '';
+  const core = tail ? title.slice(0, -tail.length) : title;
+  const max = 60 - tail.length;
+  if (core.length <= max) return title;
+
+  // 1) 优先取第一句（含句末标点）
+  const firstSentence = core.match(/^.*?[?!.؟]\s/);
+  let short = firstSentence ? firstSentence[0].trim() : core;
+  if (short.length > max) {
+    // 2) 在长度上限内找最后一个短语边界，避免留下半句话
+    const cut = short.slice(0, max);
+    let pos = -1;
+    // ' & ' / '｜' / ' · ' 也是短语边界：板块页标题常用「主标题｜副标题」，
+    // 少了这几个会把副标题拦腰截断（曾出现 "…Allocation & Ultimate" 这种半句）。
+    for (const sep of [', ', ': ', ' — ', ' - ', '; ', ' & ', '｜', ' · ', '، ', '؛ ']) {
+      pos = Math.max(pos, cut.lastIndexOf(sep));
+    }
+    short = pos >= max * 0.4 ? cut.slice(0, pos) : cut;
+    // 3) 不切断单词
+    if (short.length >= max) {
+      const sp = short.lastIndexOf(' ');
+      if (sp > max * 0.7) short = short.slice(0, sp);
+    }
+  }
+  short = short.replace(/[\s,;:،؛—–·｜|&-]+$/g, '').trim();
+  return short + tail;
+}
+
+/** 对外入口：在计算出的元信息之上统一施加标题长度护栏。 */
+export function seoMeta(url: string, origin: string): SeoMeta {
+  const meta = computeSeoMeta(url, origin);
+  const { lang } = parsePath(url);
+  const safeLang: Lang = lang ?? DEFAULT_LANG;
+  return { ...meta, title: compactTitle(meta.title, safeLang, I18N[safeLang].brand.name) };
 }
 
 export type SeoHeadNode =
@@ -526,6 +583,9 @@ export function seoHeadNodes(url: string, origin: string): SeoHeadNode[] {
     'og:description': description,
     'og:url': canonical,
     'og:image': image,
+    // 显式声明尺寸：平台不必先抓完图才能排版，首次分享即可正确出大图卡片
+    'og:image:width': '1200',
+    'og:image:height': '630',
   };
   for (const [property, content] of Object.entries(openGraph)) {
     nodes.push({ tag: 'meta', attrs: { property, content } });

@@ -10,6 +10,7 @@ import { articleToPath, viewToPath } from '../nav';
 import { deriveCategory, CATEGORY_THEME, categoryLabel, CATEGORIZED_SECTIONS } from '../articleCategory';
 import { SECTION_CITATIONS } from '../seo';
 import { TOPIC_PAGES, topicCopy, topicToPath } from '../data/topicPages';
+import { sectionIntro } from '../data/sectionIntros';
 import NavLink from './NavLink';
 import SectionHeader from './SectionHeader';
 import FunnelCTA from './FunnelCTA';
@@ -33,6 +34,8 @@ export default function ArticlePage({
 
   // 四大主板块页头统一文案（中文精确版，已剔除内部草稿词）；非中文回退到 i18n。
   const sh = lang === 'zh' ? SECTION_HEADER[section] : undefined;
+  // 板块正文导语：各语言各自撰写，随页面一起预渲染，补上原先过薄的列表页正文。
+  const intro = sectionIntro(lang, section);
 
   const article = articleId
     ? articles.find((a) => (a.slug ?? a.id) === articleId) ??
@@ -175,6 +178,37 @@ export default function ArticlePage({
             </section>
           )}
 
+          {/* 专题延伸阅读：让专题页从它收录的文章获得内链，而非只靠 sitemap 被发现 */}
+          {topicsForArticle(article.id).map((tp) => {
+            const tc = topicCopy(tp.id, lang);
+            return (
+              <NavLink
+                key={tp.id}
+                href={topicToPath(tp.id)}
+                style={vars}
+                className="theme-card group block p-6 mt-8"
+              >
+                <div
+                  className="flex items-center gap-2 text-xs tracking-[0.15em] uppercase"
+                  style={{ color: theme.accent }}
+                >
+                  <Layers className="w-3.5 h-3.5 shrink-0" />
+                  {tc.subtitle}
+                </div>
+                <h2 className="mt-2 font-serif-display text-xl text-white leading-snug">
+                  {tc.title}
+                </h2>
+                <p className="mt-2 text-sm text-slate-400 leading-relaxed line-clamp-2">
+                  {tc.intro}
+                </p>
+                <div className="mt-4 flex items-center gap-2 text-sm card-cta">
+                  {t.articlePage.readMore}
+                  <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </div>
+              </NavLink>
+            );
+          })}
+
           {/* 系列篇间导航（守护者觉醒 36 篇） */}
           {isSeriesMember && <SeriesPrevNext section={section} currentId={article.id} />}
 
@@ -206,6 +240,13 @@ export default function ArticlePage({
             subtitle={sh?.subtitle}
           />
         </div>
+
+        {/* 板块正文导语：把本栏目覆盖的具体问题写清楚，解决列表页正文过薄 */}
+        {intro && (
+          <section className="mt-8">
+            <p className="text-slate-300 leading-[1.9] text-[15px] md:text-base">{intro}</p>
+          </section>
+        )}
 
         {/* 专题入口（topic hub）：把同一搜索意图的文章聚成专题，精准命中长尾词 */}
         {topicsForSection(section).map((tp) => {
@@ -291,6 +332,11 @@ export default function ArticlePage({
 /** 返回归属某板块的主题聚合页（topic hub）列表。 */
 function topicsForSection(section: SectionId) {
   return TOPIC_PAGES.filter((tp) => tp.section === section);
+}
+
+/** 返回收录了指定文章 id 的专题页（文章页文末「延伸阅读」用）。 */
+function topicsForArticle(articleId: string) {
+  return TOPIC_PAGES.filter((tp) => tp.articleIds.includes(articleId));
 }
 
 /** 守护者觉醒系列篇间导航：按系列全集顺序（01→30 + 番外 01–06）渲染上一篇/下一篇。 */

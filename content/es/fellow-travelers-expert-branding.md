@@ -4,7 +4,7 @@ title: "A los compañeros de camino"
 subtitle: "El Despertar del Guardián · Identidad Profesional"
 date: 2026-08-29
 section: guardian
-summary: "Cuidar la riqueza es mucho más difícil que crearla."
+summary: "Una nota a los compañeros de camino: defender el patrimonio es más difícil que crearlo, porque no recibe aplausos y rara vez se verifica en el momento. Este artículo explica por qué no nombramos proveedores ni prometemos rentabilidades, y por qué explicar con claridad es parte del trabajo."
 lang: es
 ---
 

@@ -1,10 +1,10 @@
 ---
 id: "tax-planning-crs-era"
-title: "The New Logic of Hong Kong Asset Allocation Under CRS"
+title: "The New Logic of Hong Kong Asset Allocation"
 subtitle: "Guardian's Awakening · The CRS Era"
 date: 2026-08-15
 section: guardian
-summary: "The old offshore era of hiding and concealing money is dead."
+summary: "Tax planning under CRS is not about hiding assets but changing their legal attributes and the jurisdiction that governs them. This piece explains which old approaches stopped working once information exchange began, and what policies and trusts can still legitimately do."
 lang: en
 ---
 

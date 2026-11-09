@@ -1,6 +1,6 @@
 ---
 id: "gold-5-percent"
-title: "In 2026, as the Fiat System Loosens, Why Must a Family Keep 5% in Physical Gold?"
+title: "In 2026, as the Fiat System Loosens"
 subtitle: "Asset Map · Gold · Hold the Bottom Line"
 date: 2027-01-04
 section: gold

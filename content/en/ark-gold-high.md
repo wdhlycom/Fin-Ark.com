@@ -1,10 +1,10 @@
 ---
 id: "ark-gold-high"
-title: "Gold Just Hit a Record High — Is It Too Late to Buy?"
+title: "Gold Just Hit a Record High"
 subtitle: "Ark Insights · The Macro Telescope"
 date: 2026-09-30
 section: arkPilot
-summary: "Gold tells you \"don't lose it all\"; a policy tells you \"you can still grow.\""
+summary: "After a record high, the question is what role gold plays rather than whether to chase the price. This piece treats 5% as a reserve anchor rather than a forecast, explains why it needs a cash-flow-producing partner, and flags two common mistakes after new highs."
 lang: en
 ---
 

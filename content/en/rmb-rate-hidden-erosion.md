@@ -4,7 +4,7 @@ title: "Are Your "Stable" Assets Actually Shrinking?"
 subtitle: "Guardian's Awakening · Exchange-Rate Truth"
 date: 2026-08-09
 section: guardian
-summary: "Some feel, as long as the RMB sits there undiminished, it's safe."
+summary: "Currency erosion rarely shows up in the account balance; it shows up in real purchasing power. This piece separates nominal wealth from what it actually buys, and explains why watching only the headline number understates a slow, long-term risk."
 lang: en
 ---
 

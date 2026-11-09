@@ -4,7 +4,7 @@ title: "La lógica subyacente del family office"
 subtitle: "El Despertar del Guardián · Family Office"
 date: 2026-08-14
 section: guardian
-summary: "Las grandes familias nunca compran productos de gestión patrimonial."
+summary: "Un family office no es un equipo de gestores contratado para batir al mercado: su función real es reunir en una sola mesa las decisiones de inversión, fiscalidad, legales y sucesorias. Este artículo explica el coste de coordinación que elimina y las alternativas más ligeras por debajo de su umbral."
 lang: es
 ---
 

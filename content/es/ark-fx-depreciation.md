@@ -1,10 +1,11 @@
 ---
 id: es-ark-fx-depreciation
-title: "La ola de devaluación en Latinoamérica: ¿cuántos dólares reales hay en tus activos?"
+title: "La ola de devaluación en Latinoamérica"
 subtitle: "Visión del Arca"
 date: 2026-08-04
 section: arkPilot
 lang: es
+summary: "Las olas de devaluación en Latinoamérica vuelven a plantear una pregunta concreta: cuántos dólares reales hay en el patrimonio familiar. Este artículo separa el valor nominal del poder de compra y explica por qué distribuir monedas no equivale a apostar por el tipo de cambio."
 ---
 
 > La devaluación no sale en titulares. Es como una gotera: para cuando te das cuenta de que el suelo está mojado, los muebles ya están arruinados.

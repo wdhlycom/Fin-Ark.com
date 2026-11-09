@@ -1,6 +1,6 @@
 ---
 id: "hk-gold-hub-strategy"
-title: "Why Is Hong Kong Building an International Gold Reserve Hub?"
+title: "Why Is Hong Kong Building a Gold Hub?"
 subtitle: "Asset Map · Gold · Hong Kong's Role in De-Dollarization"
 date: 2026-11-03
 section: gold

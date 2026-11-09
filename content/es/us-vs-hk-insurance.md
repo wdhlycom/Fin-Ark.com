@@ -4,7 +4,7 @@ title: "Asegurarse en EE.UU. o en Hong Kong"
 subtitle: "Academia de Seguros de Hong Kong · El libro mayor de dos rutas offshore"
 date: 2026-10-24
 section: insurance
-summary: "Elegir un mercado no es elegir el mejor, sino el que encaja con tu estado actual."
+summary: "Asegurarse en EE.UU. o en Hong Kong se diferencia en tres costes: tiempo, tenencia y salida. Este artículo compara requisitos de presencia, gastos de mantenimiento y flexibilidad de rescate, y ofrece un marco de decisión según etapa vital y tamaño del patrimonio."
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: "ark-japan-lost-30"
-title: "La lección de los 30 años perdidos de Japón para la clase media china"
+title: "La lección de los 30 años perdidos de Japón"
 subtitle: "Visión del Arca · El Telescopio Macro"
 date: 2026-09-10
 section: arkPilot

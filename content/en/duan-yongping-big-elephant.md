@@ -1,10 +1,10 @@
 ---
 id: "duan-yongping-big-elephant"
-title: "Duan Yongping: The Puppeteer in the Shadows and the 'Big Elephant' School of Investing"
+title: "Duan Yongping and the Big Elephant School"
 subtitle: "Guardian's Awakening · Side Story"
 date: 2026-09-06
 section: guardian
-summary: "He never shows his face, never takes the stage, never raises capital."
+summary: "Duan Yongping rarely appears in public, takes no stage and raises no outside money. This piece looks at the slow, heavy big elephant style of concentrating only on understandable odds, why it is hard to copy, and which part an ordinary household can borrow."
 lang: en
 ---
 

@@ -4,7 +4,7 @@ title: "La cuenta multidivisa del seguro de Hong Kong"
 subtitle: "Academia de Seguros de Hong Kong · Una póliza con foso cambiario incorporado"
 date: 2026-08-15
 section: insurance
-summary: "El riesgo real no es la volatilidad, sino que todos tus huevos estén en la misma cesta de precios."
+summary: "La cuenta multidivisa responde al riesgo oculto de tener todo el patrimonio en una sola moneda. Este artículo explica qué significa la multidivisa dentro de una póliza, entre qué divisas puede cambiarse, en qué se diferencia de una conversión de divisas normal y qué familias la necesitan de verdad."
 lang: es
 ---
 

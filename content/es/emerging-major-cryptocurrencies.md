@@ -1,6 +1,6 @@
 ---
 id: "emerging-major-cryptocurrencies"
-title: "Bitcoin, Ethereum y las monedas tachadas de «estafa»"
+title: "Bitcoin, Ethereum y las monedas tachadas de"
 subtitle: "Mapa de Activos · Emergente · La verdad sobre las grandes monedas"
 date: 2027-02-15
 section: emerging

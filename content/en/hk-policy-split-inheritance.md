@@ -1,10 +1,10 @@
 ---
 id: "hk-policy-split-inheritance"
-title: "Deconstructing Hong Kong Savings Insurance's 'Policy Split' and 'Cross-Generational Inheritance' Functions"
+title: "Deconstructing Hong Kong Savings Insurance's"
 subtitle: "HK Insurance Academy · How One Policy Becomes a Family Trust"
 date: 2026-08-08
 section: insurance
-summary: "The real inheritance tool isn't the most expensive one, but the one you can actually use."
+summary: "The hard part of succession is often division, not money. This guide unpacks four mechanisms in Hong Kong savings policies - policy split, unlimited insured replacement, second policyholder and backup owner - where each fits, and how they differ from a real trust."
 lang: en
 ---
 

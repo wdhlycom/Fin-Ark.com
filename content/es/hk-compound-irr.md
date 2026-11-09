@@ -1,10 +1,10 @@
 ---
 id: "hk-compound-irr"
-title: "La lógica del interés compuesto en el seguro de ahorro de Hong Kong"
+title: "La lógica del interés compuesto en el seguro de"
 subtitle: "Academia de Seguros de Hong Kong · La magia y los límites del interés compuesto"
 date: 2026-08-22
 section: insurance
-summary: "El interés compuesto es la octava maravilla del mundo, pero su premisa es: que estés dispuesto a esperar y que puedas esperar."
+summary: "El 6 %–7 % que se cita para el seguro de ahorro de Hong Kong es una TIR ilustrada a largo plazo, no una rentabilidad anual garantizada. Este artículo explica de dónde sale la cifra, por qué difieren los productos del continente y por qué el rescate anticipado es el verdadero enemigo del interés compuesto."
 lang: es
 ---
 

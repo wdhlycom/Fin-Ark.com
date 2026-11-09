@@ -1,6 +1,6 @@
 ---
 id: "fund-industry-harvest-trap"
-title: "Las reglas ocultas de cosecha de la industria de fondos"
+title: "Las reglas ocultas de cosecha de la industria"
 subtitle: "El Despertar del Guardián · La Cosecha de los Fondos"
 date: 2026-08-18
 section: guardian

@@ -1,10 +1,10 @@
 ---
 id: "trust-threshold"
-title: "¿A partir de qué nivel de patrimonio necesitas de verdad un fideicomiso familiar?"
+title: "¿Cuándo hace falta un fideicomiso familiar?"
 subtitle: "Mapa de Activos · Fideicomiso · Un marco honesto para decidirlo"
 date: 2026-11-30
 section: trust
-summary: "Un fideicomiso es una herencia, pero no toda familia la necesita."
+summary: "¿A partir de qué patrimonio compensa de verdad un fideicomiso familiar? Este artículo fija el umbral real sumando gastos de constitución, administración anual y gobierno, ofrece un marco sencillo para decidir y señala qué problemas el seguro no puede resolver."
 lang: es
 ---
 

@@ -6,10 +6,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
   "guardian": [
     {
       "id": "duan-yongping-big-elephant",
-      "title": "Duan Yongping: el titiritero en la sombra y la escuela de inversión de las «grandes elefantes»",
+      "title": "Duan Yongping: el titiritero en la sombra y la",
       "subtitle": "El Despertar del Guardián · Historia Paralela",
       "date": "2026-09-06",
-      "summary": "Nunca muestra la cara, nunca sube al escenario, nunca recauda capital.",
+      "summary": "No aparece en público, no sube a escenarios y no capta financiación externa. Este artículo examina el estilo lento y pesado de Duan Yongping, concentrado solo en apuestas comprensibles, por qué resulta difícil de copiar y qué parte sí puede tomar prestada una familia corriente.",
       "pin": false,
       "body": [
         {
@@ -20,10 +20,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "chen-tianqiao-brain-science",
-      "title": "Chen Tianqiao: su retirada veloz en la cima y su peregrinaje a la neurociencia",
+      "title": "Chen Tianqiao: su retirada veloz en la cima y",
       "subtitle": "El Despertar del Guardián · Historia Paralela",
       "date": "2026-09-05",
-      "summary": "Coronado el más rico a los treinta, se apartó velozmente en plena cima.",
+      "summary": "A los treinta años alcanzó la cima y se retiró de golpe. Este artículo usa el giro de Chen Tianqiao hacia la neurociencia para plantear una pregunta más general: en qué momento la función del patrimonio pasa de crecer a proteger a la familia, y qué cambia entonces en la asignación.",
       "pin": false,
       "body": [
         {
@@ -34,10 +34,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "zhang-yiming-borderless-architecture",
-      "title": "Zhang Yiming: la arquitectura sin fronteras y la supervivencia global",
+      "title": "Zhang Yiming: la arquitectura sin fronteras y",
       "subtitle": "El Despertar del Guardián · Historia Paralela",
       "date": "2026-09-04",
-      "summary": "No fuma, no bebe, no tiene un pasado ilustre y rara vez aparece en público.",
+      "summary": "Una empresa rara vez obtiene a la vez la confianza plena del sistema continental, la aceptación plena de Occidente y su propia globalización. Este artículo usa la arquitectura de Zhang Yiming para llevar ese «triángulo imposible» al terreno familiar: reglas de defensa definidas antes de la tormenta.",
       "pin": false,
       "body": [
         {
@@ -48,7 +48,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "li-ka-shing-wealth-migration",
-      "title": "La migración de riqueza de Li Ka-shing: esconder el árbol en el bosque",
+      "title": "La migración de riqueza de Li Ka-shing",
       "subtitle": "El Despertar del Guardián · Historia Paralela",
       "date": "2026-09-03",
       "summary": "Hace más de una década, un texto viral en internet en chino simplificado se titulaba «No dejen huir a Li Ka-shing».",
@@ -62,7 +62,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "justin-sun-survival-tactics",
-      "title": "Justin Sun: las tácticas de supervivencia de una locha digital",
+      "title": "Justin Sun: las tácticas de supervivencia de",
       "subtitle": "El Despertar del Guardián · Historia Paralela",
       "date": "2026-09-02",
       "summary": "Justin Sun nos enseñó una cosa: nunca coloques tu cuerpo dentro del campo de tiro de tu riqueza.",
@@ -76,7 +76,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "cz-zhao-wealth-freedom",
-      "title": "CZ (Zhao Changpeng): la verdad sobre la libertad financiera",
+      "title": "CZ (Zhao Changpeng): la verdad sobre la",
       "subtitle": "El Despertar del Guardián · Historia Paralela",
       "date": "2026-09-01",
       "summary": "Cuando el estado soberano más grande del mundo apunta con su cañón al imperio digital de un solo hombre, la historia de CZ es más apasionante que cualquier manual de negocios.",
@@ -115,7 +115,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "A los compañeros de camino",
       "subtitle": "El Despertar del Guardián · Identidad Profesional",
       "date": "2026-08-29",
-      "summary": "Cuidar la riqueza es mucho más difícil que crearla.",
+      "summary": "Una nota a los compañeros de camino: defender el patrimonio es más difícil que crearlo, porque no recibe aplausos y rara vez se verifica en el momento. Este artículo explica por qué no nombramos proveedores ni prometemos rentabilidades, y por qué explicar con claridad es parte del trabajo.",
       "pin": false,
       "body": [
         {
@@ -129,7 +129,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Chequeo de activos",
       "subtitle": "El Despertar del Guardián · Chequeo de Activos",
       "date": "2026-08-28",
-      "summary": "La defensa de la riqueza no es teórica.",
+      "summary": "Diez indicadores que puedes revisar por tu cuenta: concentración, mezcla de monedas, liquidez, apalancamiento, designación de beneficiarios y más. La idea central es que la prevención real se hace mientras los mercados están en calma, no cuando llega la tensión.",
       "pin": false,
       "body": [
         {
@@ -140,10 +140,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "cross-generational-firewall",
-      "title": "El cortafuegos intergeneracional y la sucesión multigeneracional de activos transfronterizos",
+      "title": "El cortafuegos intergeneracional y la sucesión",
       "subtitle": "El Despertar del Guardián · Sucesión Intergeneracional",
       "date": "2026-08-27",
-      "summary": "Volcar el dinero de golpe a los hijos es la peor forma de sucesión.",
+      "summary": "Entregarlo todo de una vez a los hijos suele ser la peor forma de sucesión. Este artículo desglosa dos mecanismos de las pólizas que sustituyen parcialmente a un fideicomiso —la sustitución ilimitada de asegurado y las opciones de pago de la prestación por fallecimiento— y para qué estructuras familiares sirve cada uno.",
       "pin": false,
       "body": [
         {
@@ -154,7 +154,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "fx-dividend-cross-hedge",
-      "title": "Dividendos de divisas y arbitraje de cobertura entre monedas",
+      "title": "Dividendos de divisas y arbitraje de cobertura",
       "subtitle": "El Despertar del Guardián · Cobertura de Divisas",
       "date": "2026-08-26",
       "summary": "En la asignación global, la mayor variable muchas veces no es la tasa de retorno, sino la cobertura de divisas que la mayoría ni siquiera sabe que existe.",
@@ -168,7 +168,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "offshore-account-lifecycle",
-      "title": "Gestión de la línea de vida de las cuentas offshore",
+      "title": "Gestión de la línea de vida de las cuentas",
       "subtitle": "El Despertar del Guardián · La Línea de Vida de la Cuenta",
       "date": "2026-08-25",
       "summary": "Tras abrir con gran esfuerzo una cuenta offshore, se cierra definitivamente por una sola transferencia no cumplidora.",
@@ -196,7 +196,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "talent-visa-asset-strategy",
-      "title": "Estatus de Alto Talento / Migrante de Calidad y activos",
+      "title": "Estatus de Alto Talento / Migrante de Calidad y",
       "subtitle": "El Despertar del Guardián · Identidad y Activos",
       "date": "2026-08-23",
       "summary": "Tras el lanzamiento de los programas «Pase de Alto Talento» y «Migrante de Calidad» de Hong Kong, cientos de miles de élites del continente solicitaron la residencia.",
@@ -224,7 +224,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hongkong-bank-account-pass",
-      "title": "La lógica de abrir una cuenta bancaria en Hong Kong",
+      "title": "La lógica de abrir una cuenta bancaria en Hong",
       "subtitle": "El Despertar del Guardián · Apertura de Cuenta Bancaria",
       "date": "2026-08-21",
       "summary": "Muchos amigos del continente entienden de forma simplista «abrir una cuenta en Hong Kong» como: una tarjeta más que puede pasar y tener divisas.",
@@ -241,7 +241,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "La trampa de la sucesión patrimonial",
       "subtitle": "El Despertar del Guardián · Herencia mediante Fideicomiso",
       "date": "2026-08-20",
-      "summary": "«La riqueza nunca sobrevive tres generaciones» suele tratarse como un suspiro.",
+      "summary": "La trampa habitual de la sucesión es creer que escribir la voluntad ya cierra el asunto. Este artículo separa tres funciones del fideicomiso —control, condiciones de entrega y protección del beneficiario— y distingue qué partes puede cubrir una póliza y cuáles exigen una estructura formal.",
       "pin": false,
       "body": [
         {
@@ -252,7 +252,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "cyclical-investing-iron-rule",
-      "title": "La regla de hierro de la inversión cíclica: ¿en qué punto del ciclo estamos?",
+      "title": "La regla de hierro de la inversión cíclica",
       "subtitle": "El Despertar del Guardián · Reglas de Hierro del Ciclo",
       "date": "2026-08-19",
       "summary": "Howard Marks, fundador de Oaktree, escribió una frase muy citada en «El Ciclo»: «Puede que no sepamos exactamente hacia dónde va el futuro, pero...»",
@@ -266,7 +266,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "fund-industry-harvest-trap",
-      "title": "Las reglas ocultas de cosecha de la industria de fondos",
+      "title": "Las reglas ocultas de cosecha de la industria",
       "subtitle": "El Despertar del Guardián · La Cosecha de los Fondos",
       "date": "2026-08-18",
       "summary": "Alguien mantuvo fondos públicos, fondos privados famosos y productos bancarios durante años, y al mirar el extracto anual descubrió algo absurdo: la gestora manda buenas noticias cada año, pero su capital menguó.",
@@ -297,7 +297,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Arbitraje de certeza",
       "subtitle": "El Despertar del Guardián · Arbitraje de Certeza",
       "date": "2026-08-16",
-      "summary": "Los verdaderamente ricos no apuestan a las predicciones.",
+      "summary": "El arbitraje de certeza no apuesta por la dirección, sino que captura una diferencia medible entre dos tasas o dos regímenes. Este artículo explica de dónde sale el diferencial, qué condiciones deben cumplirse y los riesgos de financiación, divisa y plazo que esconde una rentabilidad aparentemente segura.",
       "pin": false,
       "body": [
         {
@@ -308,10 +308,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "tax-planning-crs-era",
-      "title": "Planificación fiscal en la era de la transparencia",
+      "title": "Planificación fiscal en la era de la",
       "subtitle": "El Despertar del Guardián · La Era CRS",
       "date": "2026-08-15",
-      "summary": "La vieja era offshore de esconder y ocultar dinero ha muerto.",
+      "summary": "La planificación fiscal bajo CRS no consiste en esconder activos, sino en cambiar su naturaleza jurídica y la jurisdicción que los rige. Este artículo explica qué prácticas dejaron de funcionar con el intercambio de información y qué pueden aún hacer legítimamente pólizas y fideicomisos.",
       "pin": false,
       "body": [
         {
@@ -325,7 +325,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "La lógica subyacente del family office",
       "subtitle": "El Despertar del Guardián · Family Office",
       "date": "2026-08-14",
-      "summary": "Las grandes familias nunca compran productos de gestión patrimonial.",
+      "summary": "Un family office no es un equipo de gestores contratado para batir al mercado: su función real es reunir en una sola mesa las decisiones de inversión, fiscalidad, legales y sucesorias. Este artículo explica el coste de coordinación que elimina y las alternativas más ligeras por debajo de su umbral.",
       "pin": false,
       "body": [
         {
@@ -357,7 +357,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "La seguridad a través de los gilts británicos",
       "subtitle": "El Despertar del Guardián · La Ilusión de Seguridad",
       "date": "2026-08-12",
-      "summary": "Los gilts son, en la mente de muchos, el mismísimo símbolo de lo «seguro».",
+      "summary": "Los gilts británicos se consideraron durante años el activo más seguro, pero una corrida de crédito suele empezar por la pérdida de confianza en cómo se fijan los tipos, no por la quiebra de un Estado. Este artículo usa ese episodio para mostrar los supuestos detrás de cualquier activo «seguro».",
       "pin": false,
       "body": [
         {
@@ -399,7 +399,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "El tipo de cambio del RMB, explicado a fondo",
       "subtitle": "El Despertar del Guardián · La Verdad del Tipo de Cambio",
       "date": "2026-08-09",
-      "summary": "Algunos sienten que, mientras el RMB siga ahí sin menguar, están a salvo.",
+      "summary": "La erosión cambiaria rara vez aparece en el saldo de la cuenta: aparece en el poder de compra real. Este artículo separa la riqueza nominal de lo que efectivamente se puede adquirir y explica por qué mirar solo la cifra principal subestima un riesgo lento y prolongado.",
       "pin": false,
       "body": [
         {
@@ -413,7 +413,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Practicar la antifragilidad",
       "subtitle": "El Despertar del Guardián · Hong Kong, Primera Escala",
       "date": "2026-08-08",
-      "summary": "El viento apaga la vela, pero aviva el fuego.",
+      "summary": "¿Por qué llamar a Hong Kong la primera parada de la antifragilidad? Este artículo procede por confirmación negativa, descartando alternativas una a una, y sostiene que la ventaja restante no es la rentabilidad sino la elección asimétrica entre sistemas legales y monedas, con sus límites.",
       "pin": false,
       "body": [
         {
@@ -446,7 +446,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "offshore-mindset-primer",
-      "title": "Manual de mentalidad offshore: ¿por qué los grandes magnates desacoplan la «identidad» de los «activos»?",
+      "title": "Manual de mentalidad offshore",
       "subtitle": "El Despertar del Guardián · Pensamiento Offshore",
       "date": "2026-08-06",
       "summary": "La gente común persigue poseer más; los grandes magnates persiguen desacoplar todo: dos cogniciones de riqueza completamente distintas.",
@@ -474,7 +474,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "banality-evil-wealth-shrink",
-      "title": "La banalidad del mal y el encogimiento de la riqueza",
+      "title": "La banalidad del mal y el encogimiento de la",
       "subtitle": "El Despertar del Guardián · Trampas Cognitivas",
       "date": "2026-08-04",
       "summary": "El encogimiento de riqueza más aterrador no es un desplome: es la cocción lenta de la rana en agua tibia.",
@@ -488,10 +488,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "es-guardian-01",
-      "title": "El arca de la riqueza en tiempos de incertidumbre",
+      "title": "El arca de la riqueza en tiempos de",
       "subtitle": "El Despertar del Guardián · Prólogo",
       "date": "2026-08-04",
-      "summary": "",
+      "summary": "El arca de la riqueza en tiempos de incertidumbre es una estructura que no depende de un solo mercado, una sola moneda ni una sola institución. Esta primera entrega presenta los tres soportes: colchón de liquidez, jurisdicciones dispersas y un plan sucesorio que siga funcionando bajo presión.",
       "pin": false,
       "body": [
         {
@@ -505,7 +505,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Introducción a la mentalidad offshore",
       "subtitle": "El Despertar del Guardián · Parte 2",
       "date": "2026-08-04",
-      "summary": "",
+      "summary": "Confundir offshore con «sacar el dinero» es el error más extendido. Esta introducción explica el desacople entre identidad y patrimonio: el objetivo no es mudar fondos, sino conservar capacidad de elección cuando las circunstancias cambian, y por qué basta con una estructura pequeña en otra jurisdicción.",
       "pin": false,
       "body": [
         {
@@ -516,10 +516,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "es-guardian-03",
-      "title": "El Estado de derecho es el seguro definitivo de la asignación de activos",
+      "title": "El Estado de derecho es el seguro definitivo de",
       "subtitle": "El Despertar del Guardián · Parte 3",
       "date": "2026-08-04",
-      "summary": "",
+      "summary": "El Estado de derecho es el último seguro de cualquier asignación de activos: lo que define a quién pertenece un patrimonio no es el esfuerzo, sino una regla exigible que lo respalde. Este artículo desarrolla por qué la protección jurídica es la capa más baja de toda estructura familiar.",
       "pin": false,
       "body": [
         {
@@ -533,7 +533,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "El cimiento de la riqueza es la «fuerza»",
       "subtitle": "El Despertar del Guardián · La Fuerza y el Estado de Derecho",
       "date": "2026-08-03",
-      "summary": "El cimiento de la riqueza nunca fue la diligencia, ni la visión.",
+      "summary": "Lo que define a quién pertenece la riqueza no es el esfuerzo, sino una regla exigible que la respalde. Este artículo parte de la propiedad y la autoridad jurídica para explicar por qué someter la fuerza al derecho es la capa más baja de cualquier estructura patrimonial familiar.",
       "pin": false,
       "body": [
         {
@@ -544,7 +544,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "mass-extinction-survival-guide",
-      "title": "Guía de supervivencia para la era de la extinción masiva",
+      "title": "Guía de supervivencia para la era de la",
       "subtitle": "El Despertar del Guardián · Ilustración Antifrágil",
       "date": "2026-08-02",
       "summary": "La lógica de «comprar pisos a ojos cerrados, expandirse frenéticamente» enriqueció a una generación en las últimas décadas.",
@@ -558,7 +558,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "wealth-ark-uncertain-era",
-      "title": "El Arca de la Riqueza de una Era de Incertidumbre",
+      "title": "El Arca de la Riqueza de una Era de",
       "subtitle": "El Despertar del Guardián · Prólogo de la Serie",
       "date": "2026-08-01",
       "summary": "Cuando baja la marea, las reglas que enriquecieron a toda una generación se desmoronan.",
@@ -639,7 +639,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Lectura en profundidad",
       "subtitle": "Visión del Arca · La Brújula Offshore",
       "date": "2026-10-20",
-      "summary": "El verdadero riesgo no es un número feo — es no haber mirado nunca el número en serio.",
+      "summary": "La tasa de cumplimiento de dividendos compara lo efectivamente repartido con lo ilustrado al contratar. Esta guía explica el cálculo, tres errores frecuentes y cómo usarla para comparar pólizas, siguiendo las definiciones públicas de la Autoridad de Seguros de Hong Kong.",
       "pin": false,
       "body": [
         {
@@ -653,7 +653,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Los fideicomisos no son un misterio",
       "subtitle": "Visión del Arca · Preguntas y Respuestas",
       "date": "2026-10-10",
-      "summary": "Ninguna herramienta es superior por sí misma — solo más o menos adecuada.",
+      "summary": "Un fideicomiso es una herramienta, no un símbolo de estatus. Esta guía usa un único esquema de decisión para mostrar cuándo hace falta, por qué la mayoría de las familias se detiene en la primera pregunta sobre el tamaño del patrimonio y dónde resulta válida la expresión «fideicomiso de los pobres».",
       "pin": false,
       "body": [
         {
@@ -664,10 +664,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "ark-gold-high",
-      "title": "El oro acaba de marcar un máximo histórico: ¿es tarde para comprar?",
+      "title": "El oro acaba de marcar un máximo histórico",
       "subtitle": "Visión del Arca · El Telescopio Macro",
       "date": "2026-09-30",
-      "summary": "El oro te dice «no lo pierdas todo»; una póliza te dice «aún puedes crecer».",
+      "summary": "Tras un máximo histórico, la pregunta no es si perseguir el precio sino qué papel cumple el oro. Este artículo trata el 5 % como ancla de reserva y no como pronóstico, explica por qué necesita un activo que genere flujo de caja y señala dos errores habituales tras las subidas.",
       "pin": false,
       "body": [
         {
@@ -678,7 +678,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "ark-offshore-3levels",
-      "title": "Los tres niveles de la asignación de activos offshore: ¿en qué nivel estás?",
+      "title": "Los tres niveles de la asignación de activos",
       "subtitle": "Visión del Arca · La Brújula Offshore",
       "date": "2026-09-20",
       "summary": "La asignación offshore no va de quién tiene herramientas más sofisticadas — va de quién tiene una estructura que encaje mejor con su escala real de activos.",
@@ -692,7 +692,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "ark-japan-lost-30",
-      "title": "La lección de los 30 años perdidos de Japón para la clase media china",
+      "title": "La lección de los 30 años perdidos de Japón",
       "subtitle": "Visión del Arca · El Telescopio Macro",
       "date": "2026-09-10",
       "summary": "El verdadero riesgo no es qué activos tienes — es que todos tus activos cuelguen de una sola cuerda.",
@@ -706,7 +706,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "ark-hk-data-2026h1",
-      "title": "Leyendo los datos de seguros de Hong Kong del primer semestre de 2026: ¿por qué los clientes onshore siguen comprando más?",
+      "title": "Leyendo los datos de seguros de Hong Kong del",
       "subtitle": "Visión del Arca · La Brújula Offshore",
       "date": "2026-08-21",
       "summary": "Cuanto más emocional es el debate en torno a un campo, más necesitamos una mirada estructural para desmontarlo — no eslóganes para elegir bando.",
@@ -754,10 +754,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "es-ark-fx-depreciation",
-      "title": "La ola de devaluación en Latinoamérica: ¿cuántos dólares reales hay en tus activos?",
+      "title": "La ola de devaluación en Latinoamérica",
       "subtitle": "Visión del Arca",
       "date": "2026-08-04",
-      "summary": "",
+      "summary": "Las olas de devaluación en Latinoamérica vuelven a plantear una pregunta concreta: cuántos dólares reales hay en el patrimonio familiar. Este artículo separa el valor nominal del poder de compra y explica por qué distribuir monedas no equivale a apostar por el tipo de cambio.",
       "pin": false,
       "body": [
         {
@@ -770,10 +770,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
   "emerging": [
     {
       "id": "emerging-compliant-liquidity",
-      "title": "Bajo un marco de cumplimiento, ¿cómo deben ver los activos offshore el valor de liquidez de Web3?",
+      "title": "Bajo un marco de cumplimiento",
       "subtitle": "Mapa de Activos · Emergente · La frontera entre dinero rápido y lento",
       "date": "2027-03-01",
-      "summary": "Web3 es dinero rápido; el seguro de Hong Kong es dinero lento.",
+      "summary": "¿Qué significa la liquidez de Web3 y tiene cabida en el patrimonio familiar? Este artículo define el término, fija tres fronteras de cumplimiento, muestra cuándo esa liquidez es realmente utilizable y explica por qué las stablecoins se consideran el puente entre dos sistemas.",
       "pin": false,
       "body": [
         {
@@ -804,7 +804,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "emerging-btc-digital-gold",
-      "title": "Por qué Bitcoin entró en las carteras institucionales como «oro digital»",
+      "title": "¿Por qué Bitcoin entró en las carteras?",
       "subtitle": "Mapa de Activos · Emergente · Por qué compran las instituciones",
       "date": "2027-02-22",
       "summary": "Cuando las instituciones ponen Bitcoin en sus hojas de asignación, no compran un «sueño de hacerse rico» — compran «escasez que no depende de nadie».",
@@ -838,7 +838,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "emerging-major-cryptocurrencies",
-      "title": "Bitcoin, Ethereum y las monedas tachadas de «estafa»",
+      "title": "Bitcoin, Ethereum y las monedas tachadas de",
       "subtitle": "Mapa de Activos · Emergente · La verdad sobre las grandes monedas",
       "date": "2027-02-15",
       "summary": "Toda gran criptomoneda nació para resolver un problema real — no son estafas, son respuestas.",
@@ -934,10 +934,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
   "gold": [
     {
       "id": "gold-where-to-store",
-      "title": "Bóveda de puerto libre de Singapur vs caja bancaria de Hong Kong: ¿dónde está más seguro el oro físico?",
+      "title": "Bóveda de puerto libre de Singapur vs caja",
       "subtitle": "Mapa de Activos · Oro · Diversificación geográfica",
       "date": "2027-01-25",
-      "summary": "Si guardas un activo refugio en un centro de riesgo, es como atar el bote salvavidas a un barco que hace agua.",
+      "summary": "Dónde guardar el oro físico importa tanto como cuánto comprar. Esta guía compara dos opciones offshore de custodia con la conservación doméstica, revisa seguros y límites de acceso, y plantea la pregunta que más se olvida: si en una crisis podrás disponer realmente del metal.",
       "pin": false,
       "body": [
         {
@@ -1048,7 +1048,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "gold-5-percent",
-      "title": "En 2026, con el sistema fiduciario aflojando, ¿por qué una familia debe guardar un 5 % en oro físico?",
+      "title": "En 2026, con el sistema fiduciario aflojando",
       "subtitle": "Mapa de Activos · Oro · Mantener la línea de fondo",
       "date": "2027-01-04",
       "summary": "Cuando todos los activos de papel apuestan a que «el futuro será mejor», el oro apuesta a que «si viene lo peor, yo sigo aquí».",
@@ -1120,7 +1120,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-tokenized-gold-market",
-      "title": "¿Puede ya el inversor minorista comprar el oro tokenizado de Hong Kong? Mercado primario, secundario y liquidez, explicados",
+      "title": "¿Puede el minorista comprar oro tokenizado?",
       "subtitle": "Mapa de Activos · Oro · No confundas un piloto de liquidación con una plataforma de trading",
       "date": "2026-11-17",
       "summary": "Ahora mismo esto es un piloto mayorista interbancario de liquidación, no un mercado secundario donde el minorista pueda operar libremente.",
@@ -1148,7 +1148,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-gold-hub-strategy",
-      "title": "Por qué Hong Kong construye un centro internacional de reserva de oro",
+      "title": "¿Por qué Hong Kong quiere ser centro del oro?",
       "subtitle": "Mapa de Activos · Oro · El papel de Hong Kong en la desdolarización",
       "date": "2026-11-03",
       "summary": "Que Hong Kong haya metido el oro en su primer plan quinquenal no va de joyería, sino de llenar un hueco en los activos refugio en RMB offshore en plena desdolarización global.",
@@ -1162,10 +1162,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "es-gold-5-percent",
-      "title": "Por qué las familias latinoamericanas también deberían reservar un 5 % en oro físico",
+      "title": "¿Por qué reservar un 5 % en oro físico?",
       "subtitle": "Mapa de Activos · Oro",
       "date": "2026-08-04",
-      "summary": "",
+      "summary": "¿Por qué una familia latinoamericana debería reservar también un 5 % en oro físico? Este artículo parte de la experiencia regional de devaluación para explicar el oro como ancla que no depende de un emisor, por qué el porcentaje es una reserva y no una apuesta, y cómo combinarlo con activos que generan flujo.",
       "pin": false,
       "body": [
         {
@@ -1178,10 +1178,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
   "insurance": [
     {
       "id": "hk-why-choose-2026",
-      "title": "En el incierto 2026, por qué más familias del continente eligen el seguro de ahorro de Hong Kong",
+      "title": "En el incierto 2026, por qué más familias del",
       "subtitle": "Academia de Seguros de Hong Kong · Activos de certeza en una era incierta",
       "date": "2026-11-21",
-      "summary": "Mientras todos miran las rentabilidades, los verdaderamente listos se preguntan: ¿puede este activo sobrevivir al próximo invierno?",
+      "summary": "Las familias del continente que miran el seguro de ahorro de Hong Kong en 2026 deberían pesar tres cosas: moneda de la póliza, tasa de cumplimiento de dividendos y liquidez transfronteriza. Esta guía usa definiciones regulatorias públicas para diferenciarlo del seguro local y explica el supuesto de permanencia.",
       "pin": true,
       "order": 2,
       "body": [
@@ -1209,10 +1209,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-market-landscape",
-      "title": "El panorama completo del mercado asegurador de Hong Kong",
+      "title": "El panorama completo del mercado asegurador de",
       "subtitle": "Academia de Seguros de Hong Kong · Estructura del mercado y reglas de compra",
       "date": "2026-11-14",
-      "summary": "El seguro de Hong Kong no vende una póliza: ofrece el punto de entrada de menor coste a la asignación global de activos.",
+      "summary": "¿Quién puede contratar un seguro en Hong Kong, con quién se contrata y qué conviene comprar? Esta guía ofrece un marco único: por qué el mercado está en la primera división mundial, cómo se reparten el trabajo aseguradoras y canales, qué producto encaja con cada perfil y qué reglas siguen los clientes del continente.",
       "pin": true,
       "order": 1,
       "body": [
@@ -1240,7 +1240,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "sg-us-hk-insurance-compare",
-      "title": "IUL de Singapur vs IUL de EE.UU. vs seguro de dividendos de Hong Kong",
+      "title": "IUL de Singapur vs IUL de EE.UU.",
       "subtitle": "Academia de Seguros de Hong Kong · Una tabla para ver el posicionamiento de los tres mercados",
       "date": "2026-11-07",
       "summary": "Entender las diferencias entre los tres mercados importa mucho más que creer ciegamente en la promoción de cualquiera de ellos.",
@@ -1257,7 +1257,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "El seguro de Singapur",
       "subtitle": "Academia de Seguros de Hong Kong · El verdadero posicionamiento del mercado de Singapur",
       "date": "2026-10-31",
-      "summary": "El seguro de Singapur no es «un Hong Kong mejor», sino «un Hong Kong con un posicionamiento distinto».",
+      "summary": "Los umbrales del seguro de Singapur han subido en residencia, origen de fondos y primas mínimas. Este artículo explica por qué gusta ese mercado, las características centrales de sus productos, dónde se movió exactamente el listón y cómo se reparte el trabajo con las pólizas de Hong Kong.",
       "pin": false,
       "body": [
         {
@@ -1271,7 +1271,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Asegurarse en EE.UU. o en Hong Kong",
       "subtitle": "Academia de Seguros de Hong Kong · El libro mayor de dos rutas offshore",
       "date": "2026-10-24",
-      "summary": "Elegir un mercado no es elegir el mejor, sino el que encaja con tu estado actual.",
+      "summary": "Asegurarse en EE.UU. o en Hong Kong se diferencia en tres costes: tiempo, tenencia y salida. Este artículo compara requisitos de presencia, gastos de mantenimiento y flexibilidad de rescate, y ofrece un marco de decisión según etapa vital y tamaño del patrimonio.",
       "pin": false,
       "body": [
         {
@@ -1310,10 +1310,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "us-iul-premium-financing",
-      "title": "Financiación de primas de EE.UU.: pagar tú mismo o que pague el banco, ¿cuál es la diferencia?",
+      "title": "Financiación de primas de EE.UU.",
       "subtitle": "Academia de Seguros de Hong Kong · Un espejo del apalancamiento estadounidense",
       "date": "2026-10-17",
-      "summary": "El atractivo del apalancamiento es «ganar con dinero ajeno»; la trampa es también «perder con dinero ajeno».",
+      "summary": "La financiación de primas es más habitual en EE.UU. que en Hong Kong: aportas una parte y el banco presta el resto. Este artículo compara números entre pagar tú mismo y que pague el banco, muestra qué falla cuando se cierra el diferencial y qué revela sobre las pólizas de Hong Kong.",
       "pin": false,
       "body": [
         {
@@ -1324,10 +1324,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "us-iul-inheritance",
-      "title": "IUL (Seguro de vida indexado): la herramienta de sucesión de EE.UU. para altos patrimonios, ¿te conviene?",
+      "title": "IUL (Seguro de vida indexado)",
       "subtitle": "Academia de Seguros de Hong Kong · El listón alto del seguro de EE.UU.",
       "date": "2026-10-10",
-      "summary": "Cada herramienta tiene su mejor usuario.",
+      "summary": "¿Te conviene un IUL o seguro de vida indexado? Este artículo explica la vinculación a un índice, los topes y suelos, por qué el umbral de entrada es alto, en qué se diferencia de las pólizas participativas de Hong Kong y por qué lo incluimos igualmente en las comparaciones.",
       "pin": false,
       "body": [
         {
@@ -1338,10 +1338,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-vs-mainland-annuity",
-      "title": "Seguro de Hong Kong vs anualidad del continente: ¿en qué se diferencian a 30 años vista?",
+      "title": "Seguro de Hong Kong vs anualidad del",
       "subtitle": "Academia de Seguros de Hong Kong · La distancia que crea el tiempo",
       "date": "2026-10-03",
-      "summary": "Herramientas que a corto plazo no muestran diferencia suelen terminar en mundos opuestos al llegar al año 30.",
+      "summary": "A 30 años vista, el seguro de Hong Kong y la anualidad del continente divergen sobre todo por moneda, mecanismo de dividendos y parte garantizada, no por la primera línea de una ilustración. Este artículo compara las dos curvas de valor en efectivo y los supuestos que explican la diferencia.",
       "pin": false,
       "body": [
         {
@@ -1352,10 +1352,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-application-process",
-      "title": "De la solicitud a la entrada en vigor: ¿cuántos días tarda una póliza de Hong Kong?",
+      "title": "De la solicitud a la entrada en vigor",
       "subtitle": "Academia de Seguros de Hong Kong · El proceso, explicado con transparencia",
       "date": "2026-09-26",
-      "summary": "Lo que da miedo es lo desconocido.",
+      "summary": "¿Cuántos días tarda una póliza de Hong Kong desde la solicitud hasta la entrada en vigor? Esta guía ofrece un cronograma estándar, señala los pasos que exigen la presencia del solicitante y enumera los tres puntos donde los expedientes se atascan con más frecuencia, con la documentación a preparar.",
       "pin": false,
       "body": [
         {
@@ -1366,10 +1366,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-crs-tax",
-      "title": "En la era CRS, ¿cuáles son exactamente las obligaciones de información fiscal del seguro de Hong Kong?",
+      "title": "En la era CRS, ¿cuáles son exactamente las",
       "subtitle": "Academia de Seguros de Hong Kong · La verdad sobre la ansiedad de cumplimiento",
       "date": "2026-09-19",
-      "summary": "Cumplir no es esconderte, sino conocer las reglas y caminar a plena luz.",
+      "summary": "Bajo CRS, ¿se informa una póliza de Hong Kong y supone eso pagar impuestos atrasados? Este artículo explica qué información se intercambia, en qué condición se reporta la póliza, separa la obligación de informar de la deuda tributaria y da tres principios para contratar cumpliendo la norma.",
       "pin": false,
       "body": [
         {
@@ -1383,7 +1383,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Financiación de primas",
       "subtitle": "Academia de Seguros de Hong Kong · La jugada de apalancamiento para clientes de alto patrimonio",
       "date": "2026-09-12",
-      "summary": "El apalancamiento amplifica las rentabilidades, y también los costes.",
+      "summary": "La financiación de primas consiste en aportar una parte y pedir el resto al banco, cambiando un diferencial de tipos por apalancamiento. Este artículo da un ejemplo simplificado, dice a quién conviene y a quién no, y detalla tres riesgos: subida de tipos, requerimientos de garantía y descalce de divisas.",
       "pin": false,
       "body": [
         {
@@ -1418,10 +1418,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-claims-speed",
-      "title": "¿Es rápido el pago de siniestros del seguro de Hong Kong? Una pregunta incomprendida una y otra vez",
+      "title": "¿Es rápido el pago de siniestros en Hong Kong?",
       "subtitle": "Academia de Seguros de Hong Kong · Rompiendo el prejuicio de que «cobrar en el extranjero es difícil»",
       "date": "2026-09-05",
-      "summary": "El cuello de botella de un siniestro nunca fue la distancia, sino si leíste bien las condiciones al principio.",
+      "summary": "La rapidez de un siniestro depende del tipo de producto: las pólizas de ahorro casi nunca generan un reclamo, mientras que las de enfermedad crítica y salud sí. Este artículo separa ambos casos, aclara qué miden realmente los plazos citados y señala una cláusula que los profesionales revisan primero.",
       "pin": false,
       "body": [
         {
@@ -1432,10 +1432,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-vs-mainland-wholelife",
-      "title": "Vida entera creciente del continente vs seguro de ahorro de Hong Kong",
+      "title": "Vida entera creciente del continente vs seguro",
       "subtitle": "Academia de Seguros de Hong Kong · Misma cáscara, distinto núcleo",
       "date": "2026-08-29",
-      "summary": "Que dos cosas se parezcan no significa que resuelvan el mismo problema.",
+      "summary": "La vida entera creciente del continente y el seguro de ahorro de Hong Kong se parecen en el nombre, pero no resuelven lo mismo. Este artículo separa valor garantizado y no garantizado, moneda y liquidez, y propone combinarlos por uso en lugar de elegir uno solo.",
       "pin": false,
       "body": [
         {
@@ -1470,10 +1470,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-compound-irr",
-      "title": "La lógica del interés compuesto en el seguro de ahorro de Hong Kong",
+      "title": "La lógica del interés compuesto en el seguro de",
       "subtitle": "Academia de Seguros de Hong Kong · La magia y los límites del interés compuesto",
       "date": "2026-08-22",
-      "summary": "El interés compuesto es la octava maravilla del mundo, pero su premisa es: que estés dispuesto a esperar y que puedas esperar.",
+      "summary": "El 6 %–7 % que se cita para el seguro de ahorro de Hong Kong es una TIR ilustrada a largo plazo, no una rentabilidad anual garantizada. Este artículo explica de dónde sale la cifra, por qué difieren los productos del continente y por qué el rescate anticipado es el verdadero enemigo del interés compuesto.",
       "pin": false,
       "body": [
         {
@@ -1511,7 +1511,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "La cuenta multidivisa del seguro de Hong Kong",
       "subtitle": "Academia de Seguros de Hong Kong · Una póliza con foso cambiario incorporado",
       "date": "2026-08-15",
-      "summary": "El riesgo real no es la volatilidad, sino que todos tus huevos estén en la misma cesta de precios.",
+      "summary": "La cuenta multidivisa responde al riesgo oculto de tener todo el patrimonio en una sola moneda. Este artículo explica qué significa la multidivisa dentro de una póliza, entre qué divisas puede cambiarse, en qué se diferencia de una conversión de divisas normal y qué familias la necesitan de verdad.",
       "pin": false,
       "body": [
         {
@@ -1546,10 +1546,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "es-hk-dollar-bulwark",
-      "title": "Por qué las familias latinoamericanas usan las pólizas en dólares como rompeolas",
+      "title": "Pólizas en dólares como rompeolas",
       "subtitle": "Academia de Seguros HK",
       "date": "2026-08-04",
-      "summary": "",
+      "summary": "Las familias latinoamericanas usan pólizas en dólares como rompeolas frente a la devaluación de su moneda local. Este artículo explica qué protege realmente ese dólar, qué costes y plazos implica mantener la póliza, y por qué no sustituye a una distribución más amplia de divisas.",
       "pin": false,
       "body": [
         {
@@ -1560,7 +1560,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "hk-property-to-insurance",
-      "title": "¿Por qué las familias de alto patrimonio, tras vender su inmueble, hacen del seguro de ahorro de Hong Kong su primera parada?",
+      "title": "¿Por qué vender vivienda y contratar un seguro?",
       "subtitle": "Academia de Seguros de Hong Kong · El relevo de activos cuando baja la marea inmobiliaria",
       "date": "2026-08-01",
       "summary": "Que una casa pase de «activo que genera ingresos» a «pasivo atrapado» suele estar a una sola crisis de liquidez.",
@@ -1576,10 +1576,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
   "trust": [
     {
       "id": "trust-china-family-office",
-      "title": "El auge y el punto incómodo de las family offices de China",
+      "title": "El auge y el punto incómodo de las family",
       "subtitle": "Mapa de Activos · Fideicomiso · Los límites de una family office local",
       "date": "2026-12-28",
-      "summary": "Una family office no es una oficina. Es un sistema para que el dinero sobreviva a través de las generaciones.",
+      "summary": "¿Por qué las family offices chinas acaban siempre mirando al offshore? Este artículo parte de la demanda real detrás del auge, expone dónde se traba una oficina local por modelo de honorarios y oferta de herramientas, y qué pueden hacer antes las familias de menor tamaño.",
       "pin": false,
       "body": [
         {
@@ -1610,10 +1610,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "trust-poor-man-version",
-      "title": "¿Por qué a una póliza de Hong Kong la llaman el «fideicomiso familiar de los pobres»?",
+      "title": "El «fideicomiso de los pobres», explicado",
       "subtitle": "Mapa de Activos · Fideicomiso · Los poderes tipo fideicomiso de una póliza",
       "date": "2026-12-21",
-      "summary": "No toda herencia necesita la envoltura de un fideicomiso.",
+      "summary": "A la póliza de Hong Kong se la llama «fideicomiso familiar de los pobres» porque ofrece varias funciones sucesorias a un coste mucho menor. Este artículo confronta tres de ellas con un fideicomiso real, muestra dónde se queda corta y explica por qué la comparación de costes es decisiva.",
       "pin": false,
       "body": [
         {
@@ -1647,7 +1647,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
       "title": "Fideicomiso vs seguro vs testamento",
       "subtitle": "Mapa de Activos · Fideicomiso · Elegir entre las tres",
       "date": "2026-12-14",
-      "summary": "Una buena planificación sucesoria no es elegir la herramienta más cara, sino colocar la herramienta correcta en el lugar correcto.",
+      "summary": "Un fideicomiso, un seguro y un testamento atienden partes distintas de la sucesión: control, flujo de caja y expresión de la voluntad. Este artículo compara coste de constitución, velocidad de ejecución y facilidad de modificación en una tabla, y propone una combinación antes que un ganador único.",
       "pin": false,
       "body": [
         {
@@ -1678,10 +1678,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "trust-vcc-cost",
-      "title": "La estructura VCC de Singapur y las family offices",
+      "title": "La estructura VCC de Singapur y las family",
       "subtitle": "Mapa de Activos · Fideicomiso · Contando el coste real",
       "date": "2026-12-07",
-      "summary": "Que una estructura sea buena no depende de lo glamurosa que parezca, sino de cuánto te quita del bolsillo cada año.",
+      "summary": "El coste de un VCC de Singapur no es solo la factura de constitución, sino el gasto recurrente de cada año. Este artículo separa umbrales de establecimiento de costes permanentes, enumera las partidas verificables, explica a qué escala conviene y lo compara con una póliza de Hong Kong.",
       "pin": false,
       "body": [
         {
@@ -1712,10 +1712,10 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "trust-threshold",
-      "title": "¿A partir de qué nivel de patrimonio necesitas de verdad un fideicomiso familiar?",
+      "title": "¿Cuándo hace falta un fideicomiso familiar?",
       "subtitle": "Mapa de Activos · Fideicomiso · Un marco honesto para decidirlo",
       "date": "2026-11-30",
-      "summary": "Un fideicomiso es una herencia, pero no toda familia la necesita.",
+      "summary": "¿A partir de qué patrimonio compensa de verdad un fideicomiso familiar? Este artículo fija el umbral real sumando gastos de constitución, administración anual y gobierno, ofrece un marco sencillo para decidir y señala qué problemas el seguro no puede resolver.",
       "pin": false,
       "body": [
         {

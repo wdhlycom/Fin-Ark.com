@@ -1,10 +1,10 @@
 ---
 id: "us-iul-inheritance"
-title: "IUL (Seguro de vida indexado): la herramienta de sucesión de EE.UU. para altos patrimonios, ¿te conviene?"
+title: "IUL (Seguro de vida indexado)"
 subtitle: "Academia de Seguros de Hong Kong · El listón alto del seguro de EE.UU."
 date: 2026-10-10
 section: insurance
-summary: "Cada herramienta tiene su mejor usuario."
+summary: "¿Te conviene un IUL o seguro de vida indexado? Este artículo explica la vinculación a un índice, los topes y suelos, por qué el umbral de entrada es alto, en qué se diferencia de las pólizas participativas de Hong Kong y por qué lo incluimos igualmente en las comparaciones."
 lang: es
 ---
 

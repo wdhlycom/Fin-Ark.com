@@ -1,10 +1,10 @@
 ---
 id: "ark-config-framework-2026"
-title: "Beyond the \"Blind-Buy\" Era: The Basic Framework for Asset Allocation in 2026"
+title: 'Beyond the "Blind-Buy" Era'
 subtitle: "Ark Insights · The Macro Telescope"
 date: 2026-11-09
 section: arkPilot
-summary: "The deciding factor in allocation was never \"calling the next trend\" — it's \"having a foundation no matter where the trend goes.\""
+summary: 'The deciding factor in allocation was never "calling the next trend" — it’s "having a foundation no matter where the trend goes."'
 lang: en
 ---
 

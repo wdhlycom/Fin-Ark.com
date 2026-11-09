@@ -1,10 +1,10 @@
 ---
 id: "sg-insurance-overview"
-title: "Singapore Insurance: Why Is the Threshold Rising?"
+title: "Singapore Insurance: Why Is the Threshold"
 subtitle: "HK Insurance Academy · Singapore Market's True Positioning"
 date: 2026-10-31
 section: insurance
-summary: "Singapore insurance isn't 'a better Hong Kong,' but 'a Hong Kong with a different positioning.'"
+summary: "Singapore insurance thresholds have risen around residency, source of funds and minimum premiums. This piece explains why the market is favoured, the core features of its products, exactly where the bar moved, and how it divides the work with Hong Kong policies."
 lang: en
 ---
 

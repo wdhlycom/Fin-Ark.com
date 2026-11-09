@@ -1,6 +1,6 @@
 ---
 id: "ark-hk-resilience"
-title: "Break and Rebirth: Hong Kong's Extreme Resilience"
+title: "Break and Rebirth: Hong Kong's Extreme"
 subtitle: "Ark Insights · The Macro Telescope"
 date: 2026-08-10
 section: arkPilot

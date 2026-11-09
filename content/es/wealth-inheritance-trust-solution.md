@@ -4,7 +4,7 @@ title: "La trampa de la sucesión patrimonial"
 subtitle: "El Despertar del Guardián · Herencia mediante Fideicomiso"
 date: 2026-08-20
 section: guardian
-summary: "«La riqueza nunca sobrevive tres generaciones» suele tratarse como un suspiro."
+summary: "La trampa habitual de la sucesión es creer que escribir la voluntad ya cierra el asunto. Este artículo separa tres funciones del fideicomiso —control, condiciones de entrega y protección del beneficiario— y distingue qué partes puede cubrir una póliza y cuáles exigen una estructura formal."
 lang: es
 ---
 

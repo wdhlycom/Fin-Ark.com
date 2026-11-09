@@ -1,6 +1,6 @@
 ---
 id: "sg-us-hk-insurance-compare"
-title: "IUL de Singapur vs IUL de EE.UU. vs seguro de dividendos de Hong Kong"
+title: "IUL de Singapur vs IUL de EE.UU."
 subtitle: "Academia de Seguros de Hong Kong · Una tabla para ver el posicionamiento de los tres mercados"
 date: 2026-11-07
 section: insurance

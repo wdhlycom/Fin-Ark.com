@@ -43,7 +43,7 @@ order: 3
 | `subtitle` | 否 | 副标题 |
 | `summary` | 否 | 摘要 |
 | `date` | 否 | `YYYY-MM-DD`；缺省 `1970-01-01`（排最末） |
-| `updated` | 否 | `YYYY-MM-DD`；文章最近一次修订日期。缺省回退到 `date`。用于 `dateModified`，让搜索引擎知道文章仍在维护（全站默认曾写死为 `date`，导致看起来从不更新） |
+| `updated` | 否 | `YYYY-MM-DD`；文章**确有实质修订**时才填，用于 `dateModified`。**不填就不输出更新日期**（旧版会伪装成发布日期，已修正）。改错别字、调格式不算修订，不要为了「显得有更新」而填 |
 | `pin` | 否 | `true` 或 `1` 置顶 |
 | `order` | 否 | 数字，用于同栏目内排序 |
 | `category` | 否 | 仅 `insurance` / `arkPilot` 板块用于 pill 配色 |

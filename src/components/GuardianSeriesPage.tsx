@@ -11,6 +11,7 @@ import {
   formatSeriesNum,
 } from '../data/guardianSeries';
 import { authorCopy, AUTHOR } from '../author';
+import { sectionIntro } from '../data/sectionIntros';
 
 /**
  * 「守护者的觉醒」系列聚合页（hub）。
@@ -63,6 +64,11 @@ export default function GuardianSeriesPage({ onConsult }: { onConsult: () => voi
           <p className="mt-6 text-slate-300 leading-[1.85] text-[15px] md:text-base max-w-3xl">
             {s.intro}
           </p>
+          {sectionIntro(lang, 'guardian') && (
+            <p className="mt-4 text-slate-400 leading-[1.9] text-[15px] md:text-base max-w-3xl">
+              {sectionIntro(lang, 'guardian')}
+            </p>
+          )}
 
           <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-2 text-sm text-slate-400">
             <span className="inline-flex items-center gap-2">

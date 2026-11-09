@@ -1,10 +1,10 @@
 ---
 id: "hk-claims-speed"
-title: "¿Es rápido el pago de siniestros del seguro de Hong Kong? Una pregunta incomprendida una y otra vez"
+title: "¿Es rápido el pago de siniestros en Hong Kong?"
 subtitle: "Academia de Seguros de Hong Kong · Rompiendo el prejuicio de que «cobrar en el extranjero es difícil»"
 date: 2026-09-05
 section: insurance
-summary: "El cuello de botella de un siniestro nunca fue la distancia, sino si leíste bien las condiciones al principio."
+summary: "La rapidez de un siniestro depende del tipo de producto: las pólizas de ahorro casi nunca generan un reclamo, mientras que las de enfermedad crítica y salud sí. Este artículo separa ambos casos, aclara qué miden realmente los plazos citados y señala una cláusula que los profesionales revisan primero."
 lang: es
 ---
 

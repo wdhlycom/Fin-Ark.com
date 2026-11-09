@@ -1,10 +1,10 @@
 ---
 id: "ark-gold-high"
-title: "El oro acaba de marcar un máximo histórico: ¿es tarde para comprar?"
+title: "El oro acaba de marcar un máximo histórico"
 subtitle: "Visión del Arca · El Telescopio Macro"
 date: 2026-09-30
 section: arkPilot
-summary: "El oro te dice «no lo pierdas todo»; una póliza te dice «aún puedes crecer»."
+summary: "Tras un máximo histórico, la pregunta no es si perseguir el precio sino qué papel cumple el oro. Este artículo trata el 5 % como ancla de reserva y no como pronóstico, explica por qué necesita un activo que genere flujo de caja y señala dos errores habituales tras las subidas."
 lang: es
 ---
 

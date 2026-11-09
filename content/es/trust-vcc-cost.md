@@ -1,10 +1,10 @@
 ---
 id: "trust-vcc-cost"
-title: "La estructura VCC de Singapur y las family offices"
+title: "La estructura VCC de Singapur y las family"
 subtitle: "Mapa de Activos · Fideicomiso · Contando el coste real"
 date: 2026-12-07
 section: trust
-summary: "Que una estructura sea buena no depende de lo glamurosa que parezca, sino de cuánto te quita del bolsillo cada año."
+summary: "El coste de un VCC de Singapur no es solo la factura de constitución, sino el gasto recurrente de cada año. Este artículo separa umbrales de establecimiento de costes permanentes, enumera las partidas verificables, explica a qué escala conviene y lo compara con una póliza de Hong Kong."
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: "property-tax-trend"
-title: "Property-Tax Rumors Are Stirring Again: The Shift in Asset Form from \"Bricks\" to \"Policies\""
+title: "Property-Tax Rumors Are Stirring Again"
 subtitle: "Ark Insights · Onshore Signal Tower"
 date: 2026-08-31
 section: arkPilot

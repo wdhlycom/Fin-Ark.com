@@ -4,7 +4,7 @@ title: "Lectura en profundidad"
 subtitle: "Visión del Arca · La Brújula Offshore"
 date: 2026-10-20
 section: arkPilot
-summary: "El verdadero riesgo no es un número feo — es no haber mirado nunca el número en serio."
+summary: "La tasa de cumplimiento de dividendos compara lo efectivamente repartido con lo ilustrado al contratar. Esta guía explica el cálculo, tres errores frecuentes y cómo usarla para comparar pólizas, siguiendo las definiciones públicas de la Autoridad de Seguros de Hong Kong."
 lang: es
 ---
 

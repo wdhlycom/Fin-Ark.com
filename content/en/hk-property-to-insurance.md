@@ -1,6 +1,6 @@
 ---
 id: "hk-property-to-insurance"
-title: "Why Do High-Net-Worth Families, After Selling Domestic Property, Make Hong Kong Savings Insurance Their First Stop?"
+title: "Why Do Wealthy Families Buy HK Insurance?"
 subtitle: "HK Insurance Academy · The Asset Relay After the Property Tide Recedes"
 date: 2026-08-01
 section: insurance

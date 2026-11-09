@@ -4,7 +4,7 @@ title: "Buy,Borrow,Die：富人怎么靠保单融资"
 subtitle: "守护觉醒 · 保单融资"
 date: 2026-08-13
 section: guardian
-summary: "顶级富豪的财富密码，其实只有三个字：买、借、死。"
+summary: "Buy, Borrow, Die 说的是富裕家庭用保单做抵押、以借款维持现金流、最后用身故赔偿结清的路径。本文用两到三成首付、其余由银行放贷的简化结构，讲清它的前提、成本与不适合谁。"
 ---
 
 

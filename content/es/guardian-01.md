@@ -1,10 +1,11 @@
 ---
 id: es-guardian-01
-title: "El arca de la riqueza en tiempos de incertidumbre"
+title: "El arca de la riqueza en tiempos de"
 subtitle: "El Despertar del Guardián · Prólogo"
 date: 2026-08-04
 section: guardian
 lang: es
+summary: "El arca de la riqueza en tiempos de incertidumbre es una estructura que no depende de un solo mercado, una sola moneda ni una sola institución. Esta primera entrega presenta los tres soportes: colchón de liquidez, jurisdicciones dispersas y un plan sucesorio que siga funcionando bajo presión."
 ---
 
 > Cuando la marea baja, las reglas que enriquecieron a una generación se están rompiendo. No es catastrofismo: es un veterano de veinte años en las finanzas que quiere hablar con los suyos de lo que de verdad decide la seguridad del patrimonio.

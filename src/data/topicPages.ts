@@ -94,7 +94,7 @@ export function topicCopy(id: string, lang: Lang): TopicCopy {
         intro:
           '买了实物黄金，最后一步也是最关键的一步是「存哪儿」。放家里怕盗怕灾，放银行又牵扯到「这家银行、这个司法辖区是否稳定」。本专题把黄金储存拆成三个问题一次讲清：纸黄金和实物金条的风控差异、香港与新加坡两地存金的优劣、以及家庭该留多少实物黄金兜底。',
         description:
-          '实物黄金储存全攻略：香港银行保险箱 vs 新加坡自由港金库怎么选，纸黄金与实物金条的风控差异，家庭该留多少黄金兜底。',
+          '实物黄金买完之后最关键是存哪儿：家里自存、银行保险箱、香港与新加坡金库各有什么风险？本专题对比纸黄金与实物金条的风控差异，讲清跨司法辖区分散保管的操作要点，以及家庭该留多少实物黄金兜底、取用与继承会受哪些限制。',
       },
       en: {
         nav: 'Gold Storage',
@@ -112,7 +112,7 @@ export function topicCopy(id: string, lang: Lang): TopicCopy {
         intro:
           'El último paso del oro físico es el más crítico: dónde guardarlo. En casa temes el robo y los desastres; en una caja bancaria te preguntas si ese banco y esa jurisdicción son estables. Este tema resuelve el almacenamiento de oro en tres preguntas: oro papel frente a lingotes físicos, custodia en Hong Kong frente a Singapur, y cuánto oro físico debería mantener una familia como colchón.',
         description:
-          'Guía completa de almacenamiento de oro físico: cajas bancarias de Hong Kong frente a bóvedas de Singapur, oro papel frente a lingotes físicos, y cuánto oro conviene mantener.',
+          'Dónde guardar oro físico: cajas bancarias de Hong Kong vs bóvedas de Singapur, oro papel vs lingotes, y cuánto oro conviene mantener como colchón.',
       },
       ar: {
         nav: 'تخزين الذهب',
@@ -132,7 +132,7 @@ export function topicCopy(id: string, lang: Lang): TopicCopy {
         intro:
           '「要不要设信托」是离岸资产配置里最常被问、也最容易被话术带偏的问题。本专题把三种传承工具（信托 / 保险 / 遗嘱）放一起对比，讲清各自的效率、边界与适用门槛，并回答两个真问题：资产到多少才需要信托，以及港险凭什么被称为「穷人版家族信托」。',
         description:
-          '家族财富传承工具对比：信托、保险、遗嘱各自的效率与边界，资产到多少才需要信托，港险如何实现传承隔离。',
+          '要不要设家族信托，是离岸配置里最常被问、也最容易被话术带偏的问题。本专题把信托、保险、遗嘱三种传承工具放在一起对比，讲清各自的效率、边界与设立门槛，回答资产到多少才值得设信托，以及港险的保单拆分与更换受保人如何实现传承隔离。',
       },
       en: {
         nav: 'Trust & Succession',
@@ -150,7 +150,7 @@ export function topicCopy(id: string, lang: Lang): TopicCopy {
         intro:
           '«¿Necesito un fideicomiso?» es la pregunta más frecuente y la más manipulada en la planificación patrimonial offshore. Este tema compara las tres herramientas —fideicomiso, seguro y testamento—, aclara su eficiencia, sus límites y sus umbrales de entrada, y responde dos preguntas reales: a partir de qué nivel de patrimonio conviene un fideicomiso, y por qué un seguro de Hong Kong se conoce como «el fideicomiso familiar de los pobres».',
         description:
-          'Comparativa de herramientas de sucesión: fideicomiso, seguro y testamento — eficiencia, límites, umbrales de entrada y cómo el seguro de Hong Kong logra el aislamiento sucesorio.',
+          'Comparativa de sucesión: fideicomiso, seguro y testamento — eficiencia, límites, umbral de patrimonio y cómo el seguro de Hong Kong aísla la herencia.',
       },
       ar: {
         nav: 'الصندوق والميراث',

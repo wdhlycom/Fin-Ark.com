@@ -1,6 +1,6 @@
 ---
 id: "talent-visa-asset-strategy"
-title: "Estatus de Alto Talento / Migrante de Calidad y activos"
+title: "Estatus de Alto Talento / Migrante de Calidad y"
 subtitle: "El Despertar del Guardián · Identidad y Activos"
 date: 2026-08-23
 section: guardian

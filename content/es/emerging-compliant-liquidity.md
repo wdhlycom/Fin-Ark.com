@@ -1,10 +1,10 @@
 ---
 id: "emerging-compliant-liquidity"
-title: "Bajo un marco de cumplimiento, ¿cómo deben ver los activos offshore el valor de liquidez de Web3?"
+title: "Bajo un marco de cumplimiento"
 subtitle: "Mapa de Activos · Emergente · La frontera entre dinero rápido y lento"
 date: 2027-03-01
 section: emerging
-summary: "Web3 es dinero rápido; el seguro de Hong Kong es dinero lento."
+summary: "¿Qué significa la liquidez de Web3 y tiene cabida en el patrimonio familiar? Este artículo define el término, fija tres fronteras de cumplimiento, muestra cuándo esa liquidez es realmente utilizable y explica por qué las stablecoins se consideran el puente entre dos sistemas."
 lang: es
 ---
 

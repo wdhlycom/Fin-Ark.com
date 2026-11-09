@@ -1,6 +1,6 @@
 ---
 id: "justin-sun-survival-tactics"
-title: "Justin Sun: las tácticas de supervivencia de una locha digital"
+title: "Justin Sun: las tácticas de supervivencia de"
 subtitle: "El Despertar del Guardián · Historia Paralela"
 date: 2026-09-02
 section: guardian

@@ -4,7 +4,7 @@ title: "Insuring in the US vs Hong Kong: How to Choose?"
 subtitle: "HK Insurance Academy · The Ledger of Two Offshore Routes"
 date: 2026-10-24
 section: insurance
-summary: "Choosing a market isn't about picking the best — it's about picking the one that matches your current state."
+summary: "Buying cover in the US versus Hong Kong differs on three costs: time, ongoing holding and exit. This piece compares in-person requirements, maintenance expenses and surrender flexibility, then gives a framework based on life stage and asset scale."
 lang: en
 ---
 

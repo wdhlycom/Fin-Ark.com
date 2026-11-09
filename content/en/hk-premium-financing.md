@@ -1,10 +1,10 @@
 ---
 id: "hk-premium-financing"
-title: "Premium Financing: Using the Bank's Money to Leverage Bigger Coverage — How It Works"
+title: "How Does Premium Financing Work?"
 subtitle: "HK Insurance Academy · The Leverage Play for High-Net-Worth Clients"
 date: 2026-09-12
 section: insurance
-summary: "Leverage amplifies returns, and costs."
+summary: "Premium financing means paying part of the premium yourself and borrowing the rest from a bank, trading a rate gap for leverage. This piece gives a simplified calculation, says who it suits and who it does not, and sets out three risks: rising rates, margin calls and FX mismatch."
 lang: en
 ---
 

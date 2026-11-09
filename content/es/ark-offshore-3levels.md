@@ -1,6 +1,6 @@
 ---
 id: "ark-offshore-3levels"
-title: "Los tres niveles de la asignación de activos offshore: ¿en qué nivel estás?"
+title: "Los tres niveles de la asignación de activos"
 subtitle: "Visión del Arca · La Brújula Offshore"
 date: 2026-09-20
 section: arkPilot

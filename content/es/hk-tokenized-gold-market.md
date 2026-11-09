@@ -1,6 +1,6 @@
 ---
 id: "hk-tokenized-gold-market"
-title: "¿Puede ya el inversor minorista comprar el oro tokenizado de Hong Kong? Mercado primario, secundario y liquidez, explicados"
+title: "¿Puede el minorista comprar oro tokenizado?"
 subtitle: "Mapa de Activos · Oro · No confundas un piloto de liquidación con una plataforma de trading"
 date: 2026-11-17
 section: gold
