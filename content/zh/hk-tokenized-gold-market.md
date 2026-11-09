@@ -1,6 +1,6 @@
 ---
 id: "hk-tokenized-gold-market"
-title: "香港代币化黄金，散户现在能买吗：一级、二级、流动性一次讲清"
+title: "香港代币化黄金，散户现在能买吗？"
 subtitle: "资产地图 · 黄金 · 别把结算试点当交易平台"
 date: 2026-11-17
 section: gold

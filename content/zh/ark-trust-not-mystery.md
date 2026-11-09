@@ -1,6 +1,6 @@
 ---
 id: "ark-trust-not-mystery"
-title: "信托不神秘：一张图讲清楚你到底需不需要"
+title: "信托不神秘"
 subtitle: "方舟视点 · 方舟问答"
 date: 2026-10-10
 section: arkPilot

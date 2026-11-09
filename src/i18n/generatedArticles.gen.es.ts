@@ -3,39 +3,489 @@
 import type { Article } from './types';
 
 export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
-  "arkPilot": [
-    {
-      "id": "es-ark-fx-depreciation",
-      "title": "La ola de devaluación en Latinoamérica: ¿cuántos dólares reales hay en tus activos?",
-      "subtitle": "Visión del Arca",
-      "date": "2026-08-04",
-      "summary": "",
-      "pin": false,
-      "body": [
-        {
-          "h": "",
-          "p": "> La devaluación no sale en titulares. Es como una gotera: para cuando te das cuenta de que el suelo está mojado, los muebles ya están arruinados.\n\n📉 **I. Actualidad: otra ronda del ciclo de devaluación**\n\nSi abres la tabla de tipos de cambio de los últimos doce meses, verás que la mayoría de las monedas locales de las grandes economías de Latinoamérica trazan una línea descendente frente al dólar. Unas caen con suavidad, otras de golpe.\n\nEl peso argentino sigue hundiéndose bajo múltiples presiones; el peso mexicano aguanta mejor, pero sus vaivenes cíclicos nunca desaparecen; las divisas de Colombia y Perú suben y bajan al ritmo de los precios de las materias primas.\n\nNo es noticia. Es el viejo guion de la economía latinoamericana, que se repite cada pocos años.\n\n🔍 **II. Análisis: el ciclo de las economías basadas en recursos**\n\nMuchos países de la región dependen en gran medida de la exportación de materias primas —petróleo, cobre, soja, litio—. Cuando la demanda global se enfría, caen los ingresos de exportación y la moneda local se resiente.\n\nHay algo más profundo: gran parte de la deuda externa está denominada en dólares, pero los ingresos se cobran en moneda local. Cuando la divisa se debilita, el costo de pagar la deuda sube solo, y se forma una espiral de \"devaluación → endeudamiento → nueva devaluación\".\n\nPor encima de todo eso planea el ciclo político. Una sola administración puede hacer que la lógica de ahorro de la anterior pierda validez de la noche a la mañana.\n\n🌊 **III. Lo que esto te quita: el poder adquisitivo se evapora en silencio**\n\n¿Qué significa para una familia común?\n\nTu sueldo, tus ahorros, tu casa: casi todo está valuado en moneda local. Si esa moneda pierde un diez y tantos por ciento frente al dólar en un año, el \"dinero seguro\" que guardabas en el banco ya perdió, en la práctica, la misma capacidad de compra.\n\nNo hiciste nada mal. Solo que tu riqueza descansa sobre un suelo que se mueve, lentamente.\n\n🧭 **IV. La salida offshore: anclar una parte de la riqueza al dólar**\n\nLa solución no es convertir todos tus ahorros en efectivo en dólares —ni es realista ni necesario.\n\nLo sensato es reservar, dentro de la asignación de activos, una porción verdaderamente anclada al dólar y pensada para mantenerse a largo plazo. Una póliza de ahorro en dólares de Hong Kong es una de esas herramientas: fija una parte del patrimonio familiar sobre el dólar y un marco legal maduro, y conserva su valor más allá de los ciclos.\n\nUna parte quieta (los activos de la vida local) y una parte en movimiento (los activos anclados al dólar): así se completa la defensa de un hogar.\n\n<center>✦ ✦ ✦</center>\n\n⚓ **V. Vuelta al arca**\n\nEn tiempos tan inciertos, conviene subir cuanto antes al arca financiera de tu familia.\n\n¿Cuántos «dólares reales» hay en tus activos? Agenda una diagnosis offshore 1 a 1 y hacemos juntos los números con claridad.\n\n*En el próximo artículo hablaremos de por qué el oro es también, para las familias latinoamericanas, ese suelo que no deberían ignorar.*"
-        }
-      ]
-    }
-  ],
-  "gold": [
-    {
-      "id": "es-gold-5-percent",
-      "title": "Por qué las familias latinoamericanas también deberían reservar un 5 % en oro físico",
-      "subtitle": "Mapa de Activos · Oro",
-      "date": "2026-08-04",
-      "summary": "",
-      "pin": false,
-      "body": [
-        {
-          "h": "",
-          "p": "> El oro no habla, pero ha acompañado a la humanidad durante cinco milenios. Está presente allí donde la moneda de cada imperio cayó a cero.\n\n🌍 **I. El sentido universal del oro**\n\nDesde los faraones egipcios hasta el Imperio inca, desde los billetes de la dinastía Ming hasta las bóvedas de los bancos centrales de hoy, el oro es la única reserva de valor que cruza civilizaciones, religiones y fronteras sin perder validez.\n\nNo depende del respaldo de ningún gobierno. Su escasez es física, no la decide una imprenta.\n\nEso tiene especial peso para las familias latinoamericanas que han vivido el colapso de su moneda local.\n\n📜 **II. La memoria inflacionaria de Latinoamérica**\n\nLos argentinos recuerdan que, por rápido que subiera el sueldo, nunca alcanzaba para seguirle el paso a los precios del supermercado.\n\nLos venezolanos recuerdan que los números seguían ahí en la cuenta bancaria, pero el poder adquisitivo se había vuelto cero.\n\nIncluso en años de inflación moderada, la capacidad de compra de la moneda local frente al dólar se pierde en silencio, generación tras generación.\n\nPrecisamente en esos momentos se ve el valor del oro: cuando se quiebra la confianza en el papel moneda, la gente vuelve a ese metal amarillo.\n\n⚖️ **III. Oro en papel vs. oro físico**\n\nMuchos compran \"oro en papel\": una cadena de dígitos en la cuenta, detrás de la cual hay una promesa del banco.\n\nEl problema es el riesgo de contraparte: el oro en papel depende de que la entidad emisora no quiebre ni incumpla. En la crisis de 2008, no pocos tenedores de \"cuentas de oro\" descubrieron que lo único que tenían era el pagaré de otro.\n\nEl oro físico es distinto. Reposa en tu mano, en tu caja fuerte; es algo tangible que no depende de la solvencia de nadie.\n\nPara quien quiere realmente un \"suelo\", el oro físico es esa última línea de defensa.\n\n🛡️ **IV. Combinarlo con el seguro de Hong Kong: lo quieto y lo activo**\n\nEl oro no genera interés ni reparte dividendos. Es un escudo, no una lanza.\n\nLo que hace crecer de verdad el patrimonio familiar son los activos que pueden capitalizar a largo plazo y generar flujo de caja —como la póliza en dólares de Hong Kong de la que hablamos una y otra vez—.\n\nPor eso nuestra recomendación nunca ha sido \"compra solo oro\", sino: deja cerca de un 5 % en oro físico como defensa de base, y coloca el resto en activos offshore que sí producen rendimiento.\n\nEl oro cuida el suelo; el seguro de Hong Kong empuja el crecimiento. Lo quieto y lo activo: así se completa la defensa y el ataque de un hogar.\n\n<center>✦ ✦ ✦</center>\n\n⚓ **Vuelta al arca**\n\nEn la incertidumbre, primero el escudo, luego la lanza. ¿Quieres ver si el \"escudo\" de tu familia tiene el grosor suficiente? Agenda una diagnosis 1 a 1 y trazamos juntos un mapa de tus activos."
-        }
-      ]
-    }
-  ],
   "guardian": [
+    {
+      "id": "duan-yongping-big-elephant",
+      "title": "Duan Yongping: el titiritero en la sombra y la escuela de inversión de las «grandes elefantes»",
+      "subtitle": "El Despertar del Guardián · Historia Paralela",
+      "date": "2026-09-06",
+      "summary": "Nunca muestra la cara, nunca sube al escenario, nunca recauda capital.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Nunca muestra la cara, nunca sube al escenario, nunca recauda capital, y aun así logró con un puñado de «acciones elefante» el respeto de innumerables mentes brillantes. Este artículo repasa el quinto camino de Duan Yongping —ser presidente sin ser CEO e invertir en gigantes como Apple y Berkshire— y traduce sus tres lecciones de contabilidad para la familia común que busca constantes en Hong Kong."
+        }
+      ]
+    },
+    {
+      "id": "chen-tianqiao-brain-science",
+      "title": "Chen Tianqiao: su retirada veloz en la cima y su peregrinaje a la neurociencia",
+      "subtitle": "El Despertar del Guardián · Historia Paralela",
+      "date": "2026-09-05",
+      "summary": "Coronado el más rico a los treinta, se apartó velozmente en plena cima.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Coronado el más rico a los treinta, se apartó velozmente en plena cima: hace veinte años, mencionar su nombre hacía ceder a todo el mundo empresarial chino. Este artículo cuenta cómo Chen Tianqiao, al borde del pánico, liquidó todo el imperio Shanda en su valoración más alta y convirtió su riqueza en «constantes» —tierras de Oregón y neurociencia en Caltech— en busca de la prima última de la riqueza: la paz mental."
+        }
+      ]
+    },
+    {
+      "id": "zhang-yiming-borderless-architecture",
+      "title": "Zhang Yiming: la arquitectura sin fronteras y la supervivencia global",
+      "subtitle": "El Despertar del Guardián · Historia Paralela",
+      "date": "2026-09-04",
+      "summary": "No fuma, no bebe, no tiene un pasado ilustre y rara vez aparece en público.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "No fuma, no bebe, no tiene un pasado ilustre y rara vez aparece en público, y aun así abrió un camino de supervivencia casi milagroso bajo la presión geopolítica global: es el alma de ByteDance, Zhang Yiming. Este artículo desmonta su «cirugía legal» —dividir Douyin y TikTok, trasladarse a Singapur y anidar la participación en fideicomisos offshore— como lección de desacoplamiento para el nuevo patrimonio tecnológico."
+        }
+      ]
+    },
+    {
+      "id": "li-ka-shing-wealth-migration",
+      "title": "La migración de riqueza de Li Ka-shing: esconder el árbol en el bosque",
+      "subtitle": "El Despertar del Guardián · Historia Paralela",
+      "date": "2026-09-03",
+      "summary": "Hace más de una década, un texto viral en internet en chino simplificado se titulaba «No dejen huir a Li Ka-shing».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Hace más de una década, un texto viral en internet en chino simplificado se titulaba «No dejen huir a Li Ka-shing»; entonces muchos lo tacharon de «poco patriota». Este artículo relee aquella migración como un «esconder el árbol en el bosque» de manual: reestructurar el imperio hacia las Caimán, blindarlo en el Li Ka-shing Unity Trust y comprar —no para enriquecerse— «constantes» como la infraestructura británica, reasignando en tiempos de sol."
+        }
+      ]
+    },
+    {
+      "id": "justin-sun-survival-tactics",
+      "title": "Justin Sun: las tácticas de supervivencia de una locha digital",
+      "subtitle": "El Despertar del Guardián · Historia Paralela",
+      "date": "2026-09-02",
+      "summary": "Justin Sun nos enseñó una cosa: nunca coloques tu cuerpo dentro del campo de tiro de tu riqueza.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Justin Sun nos enseñó una cosa: nunca coloques tu cuerpo dentro del campo de tiro de tu riqueza. Más allá del showman, este artículo disecciona el «arte de supervivencia» de la locha digital: internacionalizar el cuerpo con inmunidad diplomática, dispersar los activos en cadenas descentralizadas y fideicomisos, y llevar la información al offshore, para mantener siempre una distancia segura respecto del campo de tiro del sistema."
+        }
+      ]
+    },
+    {
+      "id": "cz-zhao-wealth-freedom",
+      "title": "CZ (Zhao Changpeng): la verdad sobre la libertad financiera",
+      "subtitle": "El Despertar del Guardián · Historia Paralela",
+      "date": "2026-09-01",
+      "summary": "Cuando el estado soberano más grande del mundo apunta con su cañón al imperio digital de un solo hombre, la historia de CZ es más apasionante que cualquier manual de negocios.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "> Cuando el estado soberano más grande del mundo apunta con su cañón al imperio digital de un solo hombre, la historia de CZ es más apasionante que cualquier manual de negocios.\n\nNunca charlaría sobre el informe financiero de una empresa cotizada. Solo quiero que los compañeros de camino miren a una persona: CZ, Zhao Changpeng.\n\nUn hombre más rico de China que llegó a poseer el mayor imperio cripto del mundo y una fortuna de más de cien mil millones de USD, enfrentando el derribo selectivo y el juego judicial del estado soberano más fuerte del mundo (EE. UU.), protagonizó una batalla épica de defensa patrimonial digna de las finanzas.\n\nEl Maestro Nao, al diseccionar «El individuo soberano» y «Juegos subyacentes», mencionó muchas veces que la experiencia de CZ no es una simple historia cripto: es **la más dura y brutal colisión frontal entre el capital offshore global y la regulación soberana de primer nivel.** Hoy, a través de la revisión de supervivencia de un magnate, atravesamos la ilusión superficial que las élites de alto patrimonio tienen de la libertad financiera.\n\n🔑 **1. La paradoja de fondo de la libertad financiera: ¿está el dinero custodiado por la «fuerza»?**\n\nEn aquel juicio del siglo de hace dos años, el Departamento de Justicia de EE. UU. impuso una multa de 4.300 millones de USD. CZ no solo entregó el control de Binance, sino que incluso se preparó para cumplir condena en EE. UU.\n\nEn su momento, muchos nuevos ricos del continente e inversores comunes vieron el espectáculo creyendo que era el destino de las criptos. Pero al leer las acusaciones de primera mano y los análisis de think tanks en la prensa extranjera, se me heló la espalda.\n\n¿Hizo algo mal CZ? En el mundo digital, alcanzó una perfección casi total. El imperio no tenía sede, los empleados estaban dispersos por el mundo, los activos estaban todos en la cadena, nominalmente fuera de la jurisdicción de cualquier país. Él creía haber logrado, mediante la tecnología digital, un desacoplamiento total de la soberanía geográfica tradicional.\n\nPero pasó por alto el sentido común último planteado en una entrega anterior: **la base de las finanzas es la fuerza; el fin del crédito es el poder duro.**\n\nCuando la riqueza crece a cierta escala y no tiene un escudo humano físico, homologado y estrechamente protegido por convenciones internacionales y un Estado de derecho de primer nivel, a los ojos de la máquina soberana es apenas un pavo de código engordado para el matadero, extraíble legalmente en cualquier momento.\n\n<center>✦ ✦ ✦</center>\n\n🌏 **2. Repaso de la apuesta del siglo: cómo CZ conservó su vida y su fortuna**\n\nLa parte más brillante de este juego no fue el puño de hierro del gobierno estadounidense, sino que CZ, como persona inteligente de primer nivel, desplegó una **defensa antifrágil extrema.**\n\nCambia por cualquier magnate del continente carente de mentalidad offshore; frente al golpe dimensional y selectivo de una máquina estatal de este nivel, el desenlace más probable habría sido perder persona y fortuna. ¿Por qué CZ, tras pagar una multa de 4.300 millones de USD y dejar la gestión, puede aún vivir libremente bajo el sol de Dubái, conservando cientos de millones de USD como carta de reserva?\n\nPorque acertó con dos lógicas de preservación de activos extremadamente duras."
+        },
+        {
+          "h": "Lógica 1: offshore-ización física absoluta y desacoplamiento legal de los activos.",
+          "p": "Los activos de Binance están distribuidos en decenas de fideicomisos offshore y jurisdicciones independientes y cumplidoras de todo el mundo. Aunque EE. UU. es fuerte, embargar directamente, a través de fronteras y sistemas legales, la propiedad privada de un ciudadano no estadounidense en una jurisdicción no estadounidense conlleva una fricción administrativa y legal enorme. Esto obligó al gobierno de EE. UU. a optar por el acuerdo en lugar de la confiscación estilo robo. **Cuanto más dura sea la ley de la jurisdicción donde descansan los activos, más pesada es la carta de reserva en la mesa de negociación.**"
+        },
+        {
+          "h": "Lógica 2: usar la heterogeneidad institucional para encontrar un puerto seguro de carne y hueso.",
+          "p": "Antes del problema, CZ planificó su residencia con extrema precisión, obteniendo la ciudadanía de los EAU (Dubái). No hay tratado de extradición entre los EAU y EE. UU., y Dubái es una meseta heterogénea de Estado de derecho que aspira a ser refugio del individuo soberano. Así se formó un delicado paraguas protector: su cuerpo protegido por la ley local en Dubái, sus activos por el derecho anglosajón en fideicomisos offshore, dejando al Departamento de Justicia estadounidense solo la vía de un acuerdo civil dentro de las reglas.\n\nEsto no fue suerte: es un **arbitraje institucional** de libro.\n\n<center>✦ ✦ ✦</center>\n\n⚖️ **3. Lo que el precio de CZ puede enseñar a los compañeros de camino onshore**\n\nAlguien podría decir: CZ es un magnate de cien mil millones; yo solo tengo decenas de millones o cien millones —¿por qué la Fed y el Departamento de Justicia se molestarían conmigo?\n\nEsa es la típica mediocridad cognitiva. La lógica del riesgo es compartida; solo difieren la dimensión de la extracción y la incertidumbre que enfrentan las élites onshore de alto patrimonio.\n\nCZ enfrentó la penetración de cumplimiento soberano de primer nivel; muchos amigos onshore enfrentan la dilución crediticia, los ajustes de política y el bloqueo de liquidez de un sistema de moneda única.\n\nCuando un magnate usa miles de millones de coste para demostrar que carne, identidad y activos deben desacoplarse como una trinidad, si alguien aún encierra el 100 % de su riqueza y el punto débil de su familia, sinceramente, en la misma latitud, en la misma gestión patrimonial en moneda local, en las mismas reglas administrativas —su asombro ante el ciclo macro es menos de una diezmilésima que el de CZ.\n\n<center>✦ ✦ ✦</center>\n\n🏛️ **4. La seguridad última de la riqueza es sostener una carta de reserva de «no»**\n\nVeinte años en el sector me han mostrado a demasiados jefes que dominaron el mar empresarial del continente, solo para ver los ahorros de media vida reducidos a cero de la noche a la mañana por un ajuste de política industrial o el estallido de una deuda local. No son tontos; a su riqueza le falta una **salida lógica.**\n\nLa verdad de la libertad financiera de CZ nos dice: la seguridad real en esta era no es cuán grande es la cifra en los libros, sino si, cuando llegue la tormenta, existen canales legales y estructuras jurídicas duras que ayuden a la riqueza a cambiar de nacionalidad. Esa es precisamente la razón por la que toda la serie insiste en la asignación de activos en Hong Kong.\n\nNo hace falta negociar con el Departamento de Justicia como CZ. Basta con aprender el uno por ciento de su sabiduría offshore —dentro de Hong Kong, el único refugio de derecho anglosajón para los chinos:\n\n- Abre una cuenta offshore, dejando que los fondos salten primero del estanque único.\n- Asigna una póliza en USD, blindando los activos subyacentes con el chaleco antibalas legal de una institución financiera multinacional.\n- Planifica una residencia de Alto Talento en Hong Kong, reconstruyendo de forma cumplidora la jurisdicción de residencia fiscal.\n\nEstos movimientos instalan un sistema antifrágil para la riqueza familiar.\n\nUn magnate, al precio de una multa astronómica, probó por nosotros la carta de reserva del ciclo civilizatorio. Si aún te escondes en un capullo de información fingiendo que todo está en calma, cuando la próxima ola macro golpee, quizá no tengas ni siquiera la oportunidad de pagar una multa o comprar un billete de barco. **El despertar comienza reconstruyendo las fronteras de los activos, como un individuo soberano.**\n\n<center>—— El Arca Financiera · Puerto Seguro en Tiempos Turbulentos ——</center>\n\n*En la próxima historia paralela, otro loco de las criptos: Justin Sun. ¿Por qué dice que nunca pongas tu cuerpo dentro del campo de tiro de tu riqueza?*"
+        }
+      ]
+    },
+    {
+      "id": "next-decade-wealth-guard",
+      "title": "La próxima década",
+      "subtitle": "El Despertar del Guardián · Custodia de una Década",
+      "date": "2026-08-30",
+      "summary": "Al escribir estas treinta piezas no trato de asustar a nadie ni de vender ansiedad.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Al escribir estas treinta piezas no trato de asustar a nadie ni de vender ansiedad: solo quiero contar, por adelantado, las lecciones que normalmente se entienden demasiado tarde, a quienes aún tienen tiempo de oírlas. Este cierre de temporada condensa la serie en cuatro verdades —la fuerza y las reglas como cimiento, el desacoplamiento físico, la desconfianza del instrumento único y el cumplimiento como único pasaporte— y recuerda que cuidar la riqueza nunca fue huir, sino gestión antifrágil racional."
+        }
+      ]
+    },
+    {
+      "id": "fellow-travelers-expert-branding",
+      "title": "A los compañeros de camino",
+      "subtitle": "El Despertar del Guardián · Identidad Profesional",
+      "date": "2026-08-29",
+      "summary": "Cuidar la riqueza es mucho más difícil que crearla.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Cuidar la riqueza es mucho más difícil que crearla: crear depende del coraje y el momento; cuidar depende de la estructura y la disciplina. En esta pieza, el Maestro Nao se presenta, explica por qué solo habla de lógica y datos, y deja claro que cada familia es distinta: un plan útil nunca se copia de un artículo, sino que nace de mirar tu situación concreta uno a uno."
+        }
+      ]
+    },
+    {
+      "id": "asset-checkup-ten-metrics",
+      "title": "Chequeo de activos",
+      "subtitle": "El Despertar del Guardián · Chequeo de Activos",
+      "date": "2026-08-28",
+      "summary": "La defensa de la riqueza no es teórica.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "La defensa de la riqueza no es teórica: extiende tu lista de activos, pásala por estas diez métricas y mira cuántos puntos sumas. Este artículo comprime las fronteras legales, financieras y de cumplimiento en un autotest de cien puntos que mide desde el riesgo de mezcla de cuentas hasta el cortafuegos intergeneracional, para ver con claridad si tu riqueza está sana."
+        }
+      ]
+    },
+    {
+      "id": "cross-generational-firewall",
+      "title": "El cortafuegos intergeneracional y la sucesión multigeneracional de activos transfronterizos",
+      "subtitle": "El Despertar del Guardián · Sucesión Intergeneracional",
+      "date": "2026-08-27",
+      "summary": "Volcar el dinero de golpe a los hijos es la peor forma de sucesión.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Volcar el dinero de golpe a los hijos es la peor forma de sucesión; un cortafuegos de verdad deja que el dinero fluya despacio, por un cauce diseñado. Este artículo enfrenta los tres «monstruos devoradores» que acechan a la segunda generación —matrimonio, emprendimiento y disputas entre herederos— y explica cómo las dos válvulas de la póliza de Hong Kong, el cambio ilimitado de asegurado y el pago fraccionado, los mantienen a raya."
+        }
+      ]
+    },
+    {
+      "id": "fx-dividend-cross-hedge",
+      "title": "Dividendos de divisas y arbitraje de cobertura entre monedas",
+      "subtitle": "El Despertar del Guardián · Cobertura de Divisas",
+      "date": "2026-08-26",
+      "summary": "En la asignación global, la mayor variable muchas veces no es la tasa de retorno, sino la cobertura de divisas que la mayoría ni siquiera sabe que existe.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "En la asignación global, la mayor variable muchas veces no es la tasa de retorno, sino la cobertura de divisas que la mayoría ni siquiera sabe que existe. Este artículo explica el acantilado de poder adquisitivo de la moneda única, el modelo de arbitraje natural entre HKD y USD, y la válvula de cambio multidivisa de las grandes pólizas, con la proporción áurea 7-3 como regla de aterrizaje."
+        }
+      ]
+    },
+    {
+      "id": "offshore-account-lifecycle",
+      "title": "Gestión de la línea de vida de las cuentas offshore",
+      "subtitle": "El Despertar del Guardián · La Línea de Vida de la Cuenta",
+      "date": "2026-08-25",
+      "summary": "Tras abrir con gran esfuerzo una cuenta offshore, se cierra definitivamente por una sola transferencia no cumplidora.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Tras abrir con gran esfuerzo una cuenta offshore, se cierra definitivamente por una sola transferencia no cumplidora; una línea roja que muchos solo sienten cuando ya la han pisado. Este artículo enumera las cuatro líneas rojas de cierre que jamás hay que tocar y las tres reglas de mantenimiento —constancia de activos, transferencias entre cuentas propias y cadena de comportamiento coherente— para que la cuenta no te falle en el momento crítico."
+        }
+      ]
+    },
+    {
+      "id": "antifragile-portfolio-blueprint",
+      "title": "La cartera antifrágil",
+      "subtitle": "El Despertar del Guardián · Plano de Asignación",
+      "date": "2026-08-24",
+      "summary": "Las entregas anteriores cubrieron el riesgo del activo único, la trampa de los fondos, dónde estamos en el ciclo, la armadura de fideicomisos y pólizas, y el papel de cuentas y residencia. Esta concreta la teoría en números.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Las entregas anteriores cubrieron el riesgo del activo único, la trampa de los fondos, dónde estamos en el ciclo, la armadura de fideicomisos y pólizas, y el papel de cuentas y residencia; ésta concreta la teoría en números. Tomando un patrimonio invertible de 20 millones de RMB, el artículo dibuja una barra 70/30 con extremo defensivo y extremo ofensivo, y advierte que es un ejemplo, no una plantilla."
+        }
+      ]
+    },
+    {
+      "id": "talent-visa-asset-strategy",
+      "title": "Estatus de Alto Talento / Migrante de Calidad y activos",
+      "subtitle": "El Despertar del Guardián · Identidad y Activos",
+      "date": "2026-08-23",
+      "summary": "Tras el lanzamiento de los programas «Pase de Alto Talento» y «Migrante de Calidad» de Hong Kong, cientos de miles de élites del continente solicitaron la residencia.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Tras el lanzamiento de los programas «Pase de Alto Talento» y «Migrante de Calidad» de Hong Kong, cientos de miles de élites del continente solicitaron la residencia; pero algunos se afanan en renovaciones y días de estancia olvidando la pregunta: ¿para qué sirve realmente ese estatus? Este artículo recuerda que la identidad es solo un medio, mientras que la diversificación de jurisdicción de los activos y la redundancia de la familia son el fin."
+        }
+      ]
+    },
+    {
+      "id": "usd-policy-legal-shield",
+      "title": "La póliza en USD, desmontada",
+      "subtitle": "El Despertar del Guardián · La Póliza en USD",
+      "date": "2026-08-22",
+      "summary": "Menciona «seguro» y la mente de la mayoría salta a cuatro palabras: solo se paga si algo ocurre.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Menciona «seguro» y la mente de la mayoría salta a cuatro palabras: solo se paga si algo ocurre; sin embargo, dentro del sistema financiero offshore de Hong Kong, una gran póliza de ahorro-dividendo en USD es mucho más que un seguro. Este artículo descompone sus atributos financieros y, sobre todo, sus atributos legales —aislamiento de propiedad, alma de fideicomiso incorporada y cambio ilimitado de asegurado— que la convierten en un escudo, no en una lanza."
+        }
+      ]
+    },
+    {
+      "id": "hongkong-bank-account-pass",
+      "title": "La lógica de abrir una cuenta bancaria en Hong Kong",
+      "subtitle": "El Despertar del Guardián · Apertura de Cuenta Bancaria",
+      "date": "2026-08-21",
+      "summary": "Muchos amigos del continente entienden de forma simplista «abrir una cuenta en Hong Kong» como: una tarjeta más que puede pasar y tener divisas.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Muchos amigos del continente entienden de forma simplista «abrir una cuenta en Hong Kong» como: una tarjeta más que puede pasar y tener divisas; esa lectura subestima enormemente su valor estratégico. Este artículo explica las tres funciones centrales —liquidación multidivisa, conexión a los mercados globales y nodo de salida de capital cumplidor— y por qué lo difícil no es abrir la cuenta, sino mantenerla."
+        }
+      ]
+    },
+    {
+      "id": "wealth-inheritance-trust-solution",
+      "title": "La trampa de la sucesión patrimonial",
+      "subtitle": "El Despertar del Guardián · Herencia mediante Fideicomiso",
+      "date": "2026-08-20",
+      "summary": "«La riqueza nunca sobrevive tres generaciones» suele tratarse como un suspiro.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "«La riqueza nunca sobrevive tres generaciones» suele tratarse como un suspiro, pero en realidad es un fenómeno frío y repetidamente constatado: el resultado inevitable de un montón de agujeros. Este artículo identifica esos tres agujeros —reclamación de deudas, división de bienes matrimoniales y derroche del heredero— y muestra cómo el fideicomiso familiar de Hong Kong los sella separando propiedad y beneficio."
+        }
+      ]
+    },
+    {
+      "id": "cyclical-investing-iron-rule",
+      "title": "La regla de hierro de la inversión cíclica: ¿en qué punto del ciclo estamos?",
+      "subtitle": "El Despertar del Guardián · Reglas de Hierro del Ciclo",
+      "date": "2026-08-19",
+      "summary": "Howard Marks, fundador de Oaktree, escribió una frase muy citada en «El Ciclo»: «Puede que no sepamos exactamente hacia dónde va el futuro, pero...»",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "«Puede que no sepamos exactamente hacia dónde va el futuro, pero debemos saber dónde estamos hoy», escribió Howard Marks en «El Ciclo». Este artículo aplica esa idea a tres ciclos —deuda, tipos y globalización— para situarnos en un nodo de cambio estructural, y propone una guía de acción: bajar el apalancamiento, reducir la exposición al riesgo y asentarse en activos constantes."
+        }
+      ]
+    },
+    {
+      "id": "fund-industry-harvest-trap",
+      "title": "Las reglas ocultas de cosecha de la industria de fondos",
+      "subtitle": "El Despertar del Guardián · La Cosecha de los Fondos",
+      "date": "2026-08-18",
+      "summary": "Alguien mantuvo fondos públicos, fondos privados famosos y productos bancarios durante años, y al mirar el extracto anual descubrió algo absurdo: la gestora manda buenas noticias cada año, pero su capital menguó.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Alguien mantuvo fondos públicos, fondos privados famosos y productos bancarios durante años, y al mirar el extracto anual descubrió algo absurdo: la gestora manda buenas noticias cada año, pero su capital menguó. Este artículo revela el conflicto de intereses de fondo de la industria —se cobra por «escala», no por «rendimiento»— y por qué el preservador debe contar primero las comisiones y poner la defensa antes que el ataque."
+        }
+      ]
+    },
+    {
+      "id": "single-asset-death-trap",
+      "title": "La estética trágica de los mercados financieros",
+      "subtitle": "El Despertar del Guardián · Instrumento Único",
+      "date": "2026-08-17",
+      "summary": "La estética más cruel de los mercados financieros es subir a una persona a un pedestal y luego retirarle el pedestal ante sus ojos.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "La estética más cruel de los mercados financieros es subir a una persona a un pedestal y luego retirarle el pedestal ante sus ojos. Este artículo disecciona por qué la gente se obsesiona con un solo instrumento, los tres riesgos fatales del «todo a una carta» y por qué la asignación —en lugar de la selección— es la única forma de no morir por un único error."
+        }
+      ]
+    },
+    {
+      "id": "certain-arbitrage-rate-spread",
+      "title": "Arbitraje de certeza",
+      "subtitle": "El Despertar del Guardián · Arbitraje de Certeza",
+      "date": "2026-08-16",
+      "summary": "Los verdaderamente ricos no apuestan a las predicciones.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Los verdaderamente ricos no apuestan a las predicciones; hacen una sola cosa: arbitraje de certeza, ganando de forma estable sobre los diferenciales institucionales. Este artículo desmonta los tres pasos del juego seguro —financiarse barato en el continente, conmutar en Hong Kong y rentar en activos offshore— y por qué la ventana para completar esa jugada se estrecha con cada recorte de tipos."
+        }
+      ]
+    },
+    {
+      "id": "tax-planning-crs-era",
+      "title": "Planificación fiscal en la era de la transparencia",
+      "subtitle": "El Despertar del Guardián · La Era CRS",
+      "date": "2026-08-15",
+      "summary": "La vieja era offshore de esconder y ocultar dinero ha muerto.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "La vieja era offshore de esconder y ocultar dinero ha muerto; la asignación global cumplidora apenas comienza. Este artículo explica cómo el CRS hace inútil el truco de la invisibilidad y por qué la nueva lógica de Hong Kong no es «esconder», sino cambiar la naturaleza de los activos y reestructurar la jurisdicción fiscal dentro de la plena transparencia."
+        }
+      ]
+    },
+    {
+      "id": "family-office-core-logic",
+      "title": "La lógica subyacente del family office",
+      "subtitle": "El Despertar del Guardián · Family Office",
+      "date": "2026-08-14",
+      "summary": "Las grandes familias nunca compran productos de gestión patrimonial.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Las grandes familias nunca compran productos de gestión patrimonial; lo que construyen es un gabinete de riqueza que atraviesa generaciones. Este artículo explica las tres lógicas del «patrimonio heredado» —doble aislamiento, ruptura de la resonancia y cobertura de costes intergeneracional— y cómo Hong Kong se ha convertido en la fortaleza institucional de los family offices globales."
+        }
+      ]
+    },
+    {
+      "id": "buy-borrow-die-policy-financing",
+      "title": "Comprar, pedir prestado, morir",
+      "subtitle": "El Despertar del Guardián · Financiación de Pólizas",
+      "date": "2026-08-13",
+      "summary": "El código de riqueza de los superricos es en realidad solo tres palabras: comprar, pedir prestado, morir.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "> El código de riqueza de los superricos es en realidad solo tres palabras: comprar, pedir prestado, morir. No es broma: es una arquitectura financiera diseñada con precisión.\n\nLa gente común piensa en ganar, ahorrar, gastar. Pero un viejo amigo que pasó años en la banca privada de Central me dijo que los ricos piensan al revés por completo.\n\nPrimero compran activos de calidad que se revalorizan a través de los ciclos (Comprar); luego los pignoran ante un banco, tomando prestado flujo de caja barato para vivir y reinvertir (Pedir prestado); por último, un seguro de vida de alto valor liquida el préstamo libre de impuestos, dejando los activos netos a la siguiente generación (Morir).\n\nEn este ciclo, el que lleva el apalancamiento al extremo se llama «financiación de primas».\n\n🔑 **1. Financiación de pólizas: comprar seguros con el dinero del banco**\n\nEn pocas palabras, es «usar el dinero del banco para comprar activos de seguro de calidad».\n\nPiensa en una hipoteca: pones el 30 % de entrada, el banco cubre el 70 % y la casa es tuya. La financiación de pólizas funciona igual, salvo que lo que compras no es un inmueble —fácilmente regulable e ilíquido— sino una gran póliza offshore con valor en efectivo."
+        },
+        {
+          "h": "Paga del 20 % al 30 % como «entrada»; el 70 % al 80 % restante lo presta directamente un banco de Hong Kong a la aseguradora.",
+          "p": "En el momento en que la póliza entra en vigor, el alto valor en efectivo y la prestación por fallecimiento quedan establecidos al instante. La lógica detrás es exactamente el «juego asimétrico» que el Maestro Nao repite en «Probabilidad y odds» —los ricos nunca apuestan; solo juegan «coste limitado, rendimiento cierto, apalancamiento altísimo»: jugadas seguras.\n\n🌏 **2. La fórmula de arbitraje: capturar el «dividendo del diferencial de interés» del banco**\n\n¿Por qué un banco prestaría tanto para ayudar a un cliente a comprar seguros? Bajo el maduro sistema de derecho anglosajón de Hong Kong y su infraestructura financiera internacional, las pólizas de alto valor en efectivo son tratadas por los bancos como una «garantía casi-efectivo» de riesgo extremadamente bajo.\n\nHong Kong opera un tipo de cambio vinculado, con el HKD profundamente anclado a activos en USD, por lo que aquí disfrutas del entorno global de tipos bajos del USD offshore. De aquí surge la fórmula central de los ricos: la rentabilidad por dividendos de la póliza debe superar la tasa del préstamo bancario.\n\n- Lado del activo (aseguradora): las multinacionales usan asignación global de activos —bonos del Tesoro de EE. UU., el S&P 500, el mejor inmobiliario comercial— para dar a la póliza un dividendo proyectado estable a largo plazo, normalmente en torno al 5 %–6 %.\n- Lado del pasivo (préstamo bancario): la tasa se ancla por encima del HIBOR o el SOFR, añadiendo solo un diferencial muy pequeño. En ciclos de tipos bajos, el coste de endeudarse se mantiene competitivamente bajo durante años.\n\nLo que se gana es un «diferencial de interés neto» que se capitaliza durante décadas. Usar el dinero del banco para amplificar tus propios activos, pagando un interés muy por debajo de la tasa de crecimiento del activo. Este «arbitraje a manos vacías» del sistema no puede replicarse onshore, donde la moneda es única y la liquidez alta.\n\n💡 **3. Triple defensa: comprar, pedir prestado y morir gestionan cada uno una porción**\n\nPara el guardián de la riqueza, la financiación de pólizas no es solo una herramienta de dinero: es un «sistema de defensa antifrágil».\n\n- Aislamiento de activos (Comprar): la póliza es un activo offshore, estrechamente protegido por el sistema de derecho anglosajón de Hong Kong, naturalmente resistente a las reclamaciones de deuda. Si el negocio doméstico quiebra, esa gran póliza bloqueada en Hong Kong es la leña familiar que nadie puede tocar.\n- Liberación de liquidez (Pedir prestado): la gente común compra seguros y el dinero queda bloqueado; los ricos, mediante la financiación de pólizas, obtienen tanto una prestación por fallecimiento de decenas o incluso cientos de millones, como efectivo líquido devuelto por el banco. El dinero no desapareció; solo adoptó una postura más segura, listo para refluir al negocio o capturar la ganga de un cisne negro global.\n- Sucesión libre de impuestos (Morir): la mayoría de los países catalogan las prestaciones de las pólizas como «exentas» de impuestos de sucesiones y de plusvalías. Cuando llegue el día, las prestaciones se activan automáticamente, primero liquidando el préstamo bancario; el enorme efectivo libre de impuestos restante va, 100 % punto a punto, al beneficiario designado.\n\n📌 **4. Romper la mediocre visión de los activos**\n\nVeinte años en el sector me han mostrado a demasiados ricos del continente que, al ganar dinero, corren a comprar torres de oficinas y mansiones. Creen que eso es un activo, pero en un mercado bajista de recesión macro, se están convirtiendo en pasivos: altos impuestos, baja liquidez y revaloración constante.\n\nEl verdadero pensamiento offshore es, como el capital multinacional, encontrar un «punto de apoyo del apalancamiento» donde las reglas sean las más humildes y duras del mundo.\n\nLa financiación de pólizas de Hong Kong es una herramienta de primer nivel al alcance de las familias chinas de alto patrimonio. Permite, sin inmovilizar grandes cantidades de capital propio, completar el gran salto de «activos en moneda local a activos offshore en USD».\n\nMientras el dinero fiduciario se encamina a su final y la incertidumbre alcanza el máximo, algunos aún luchan contra la inflación a cuerpo descubierto, mientras otros ya han transferido el riesgo mediante sistemas y herramientas. «Comprar, pedir prestado, morir» no es una leyenda; es el juego real que se disputa a diario en las torres de oficinas de Central. A través de la financiación de pólizas de Hong Kong, compras el aval del banco sobre el activo, un cortafuegos transjurisdiccional y un apalancamiento de bajo coste que permite a la familia transmitir su riqueza durante generaciones.\n\n<center>—— El Arca Financiera · Puerto Seguro en Tiempos Turbulentos ——</center>\n\n*En la próxima, entramos en el «núcleo» de las grandes familias: el family office. ¿Cuál es su lógica subyacente y cuánto puede tomar prestado la gente común?*"
+        }
+      ]
+    },
+    {
+      "id": "uk-gilt-safety-illusion",
+      "title": "La seguridad a través de los gilts británicos",
+      "subtitle": "El Despertar del Guardián · La Ilusión de Seguridad",
+      "date": "2026-08-12",
+      "summary": "Los gilts son, en la mente de muchos, el mismísimo símbolo de lo «seguro».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Los gilts son, en la mente de muchos, el mismísimo símbolo de lo «seguro»; sin embargo, en 2022, Reino Unido dio una lección al mundo entero. Este artículo usa aquel desplome para mostrar que la seguridad no proviene de «qué tienes», sino de la cobertura entre jurisdicciones, y por qué Hong Kong permite construir una cartera de crédito «multisoberano» en lugar de atarlo todo a un solo país."
+        }
+      ]
+    },
+    {
+      "id": "credit-money-endgame-gold-dollar",
+      "title": "El final del dinero fiduciario",
+      "subtitle": "El Despertar del Guardián · El Fin del Dinero",
+      "date": "2026-08-11",
+      "summary": "Mientras la deuda soberana global corre hacia un pico histórico, ¿queda siquiera un elemento en esa lista de activos que sea moneda dura de verdad?",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Mientras la deuda soberana global corre hacia un pico histórico, ¿queda siquiera un elemento en esa lista de activos que sea moneda dura de verdad? Este artículo repasa el ilusorio «juego sin meta» del dinero fiduciario y propone una formación del guardián tipo 4-4-2: activos en USD como núcleo, oro como defensa dura y una pequeña apuesta asimétrica para capturar el desbordamiento del sistema."
+        }
+      ]
+    },
+    {
+      "id": "hk-linked-rate-stability",
+      "title": "El misterio del tipo de cambio vinculado",
+      "subtitle": "El Despertar del Guardián · El Tipo de Cambio Vinculado",
+      "date": "2026-08-10",
+      "summary": "El dólar de Hong Kong no es un pagaré, sino un recibo de entrega de activos en USD.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "El dólar de Hong Kong no es un pagaré, sino un recibo de entrega de activos en USD; y ese recibo no ha fallado en cuarenta años. Este artículo explica cómo el sistema de tipo de cambio vinculado convierte el HKD en un token del USD con respaldo del 100 % y por qué ese mecanismo de ajuste automático es la última muralla de seguridad patrimonial para el continente."
+        }
+      ]
+    },
+    {
+      "id": "rmb-rate-hidden-erosion",
+      "title": "El tipo de cambio del RMB, explicado a fondo",
+      "subtitle": "El Despertar del Guardián · La Verdad del Tipo de Cambio",
+      "date": "2026-08-09",
+      "summary": "Algunos sienten que, mientras el RMB siga ahí sin menguar, están a salvo.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Algunos sienten que, mientras el RMB siga ahí sin menguar, están a salvo; pero en el juego del tipo de cambio, la cifra no se movió y aun así el poder adquisitivo pudo haberse reducido a la mitad en silencio. Partiendo del «trilema imposible» de Mundell, este artículo explica por qué el tipo de cambio es el cuchillo de carnicero invisible de la riqueza y cómo Hong Kong permite cambiar el «ancla» hacia el USD."
+        }
+      ]
+    },
+    {
+      "id": "hongkong-antifragile-first-stop",
+      "title": "Practicar la antifragilidad",
+      "subtitle": "El Despertar del Guardián · Hong Kong, Primera Escala",
+      "date": "2026-08-08",
+      "summary": "El viento apaga la vela, pero aviva el fuego.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "> El viento apaga la vela, pero aviva el fuego. La frase de Taleb cae con especial agudeza cuando se aplica a la riqueza.\n\nHong Kong es, precisamente, la primera escala de muchas familias chinas hacia la antifragilidad.\n\nTaleb escribió en «Antifrágil»: el viento apaga la vela, pero hace arder el fuego con más fuerza.\n\nLas estructuras de activos de la mayoría son como esa tenue vela. Aparentemente estables, son extremadamente dependientes de un entorno apacible. En cuanto el viento cambia —oscilaciones del tipo de cambio, ajustes de política, choques geopolíticos— esa vela puede apagarse en cualquier momento.\n\nEl verdadero preservador de riqueza debe aprender a convertir sus activos en fuego.\n\n<center>✦ ✦ ✦</center>\n\n🌏 **1. La estrategia de barra: asegurar el suelo y salir a cazar**\n\nLa estrategia de barra es la herramienta central de la «antifragilidad».\n\nUn extremo extremadamente conservador, que sostiene nueve décimas del suelo; el otro extremo extremadamente agresivo, que apuesta una décima a oportunidades de altas probabilidades. El centro, esos productos intermedios con riesgo-rendimiento asimétrico, simplemente se abandona.\n\nSin embargo, en el continente, muchos apuestan el 100 % de su riqueza enteramente en inmuebles o activos en una sola moneda. Si Taleb lo viera, probablemente diría: esto no es gestión patrimonial, es correr desnudo.\n\nEl valor de Hong Kong reside precisamente en aportar ese pivote «extremadamente conservador» de la barra. Sacar una póliza en USD de Hong Kong, abrir una cuenta offshore —no para apostar a la rentabilidad. Mediante la heterogeneidad del entorno legal y la diversificación de divisas, construyes un suelo «imposible de matar» para la familia.\n\nMientras ese suelo se mantenga, por mucho que fluctúe el negocio doméstico, la familia conserva siempre la semilla para reavivar el fuego.\n\n<center>✦ ✦ ✦</center>"
+        },
+        {
+          "h": "2. Confirmación negativa: tras descartar, solo queda Hong Kong",
+          "p": "Taleb también dijo: el conocimiento obtenido por eliminación es mucho más fiable que el obtenido por afirmación.\n\nUsar la eliminación para ver la salida de los grandes patrimonios:\n\n- ¿Sin activos offshore? Equivale a estar largo en una sola dirección sobre el riesgo de una sola moneda; cuando los ciclos macro se alternen, eso es irresponsable.\n- ¿Ir a Europa/América? Un coste fiscal y unas barreras culturales altísimos a menudo te erosionan mediante las reglas antes de protegerte del riesgo.\n- ¿Ir al Sudeste Asiático? La solidez del sustrato legal es cuestionable; carece de un aval crediticio que resista los ciclos.\n\nTacha esas opciones y la respuesta restante es clara. Hong Kong es la única posición financiera elevada que ofrece a la vez la protección del derecho anglosajón (common law), activos denominados en USD, un coste de mantenimiento extremadamente bajo y la mayor proximidad a tu presencia física.\n\nNo porque Hong Kong sea perfecto, sino porque, bajo la lógica antifrágil, es la elección óptima.\n\n<center>✦ ✦ ✦</center>"
+        },
+        {
+          "h": "3. Usar la volatilidad: la ventaja asimétrica de lo offshore",
+          "p": "La verdadera antifragilidad consiste en beneficiarse de la volatilidad.\n\nCuando los activos de una persona están todos en una sola moneda, cada depreciación drena directamente su poder adquisitivo. Pero con activos en USD o fondos de asignación global preposicionados en Hong Kong, la situación se invierte.\n\nCuando la moneda local se debilita, el poder adquisitivo de sus activos offshore sube en términos relativos; cuando los activos de calidad del continente caen a mínimos de valoración por problemas de liquidez, su «pólvora seca» guardada en Hong Kong —ese efectivo— puede refluir con calma para comprar gangas.\n\nReservar en la seguridad, cazar en la volatilidad. Estas ocho palabras son el secreto de la prosperidad duradera de los grandes magnates.\n\n<center>✦ ✦ ✦</center>\n\n🔑 **4. Redundancia: no es desperdicio, sino la rueda de repuesto de la supervivencia**\n\nEn un sistema antifrágil, la redundancia es vital.\n\nLa naturaleza dio a los humanos dos riñones, no por capricho, sino por contingencia.\n\nMuchos amigos de alto patrimonio que abren cuentas, asignan activos y solicitan el estatus de Alto Talento en Hong Kong están, en esencia, creando redundancia en sus vidas:\n\n- Aunque el negocio prospere, conservar una cuenta de respaldo.\n- Aunque haya buena salud, mantener cobertura de enfermedades críticas con reclamación global.\n- Aunque no haya plan de emigrar, obtener una segunda identidad que permita cruzar en cualquier momento.\n\nEsta redundancia parece una molestia en tiempos normales. Pero en el instante en que aterriza un cisne negro, es la única arca.\n\n<center>✦ ✦ ✦</center>\n\nVeinte años en el sector me han hecho ver con claridad la crueldad del mercado financiero.\n\nLos frágiles son cosechados en la volatilidad; los antifrágiles renacen en ella.\n\nHong Kong, como primera escala de la familia china hacia la antifragilidad, no deriva su valor de ganar esos pocos puntos porcentuales extra. Mediante la triple reducción de dimensión de la institución, la ley y la moneda, convierte los activos de una frágil vela en un rugiente fuego que cabalga el viento.\n\n<center>—— El Arca Financiera · Puerto Seguro en Tiempos Turbulentos ——</center>\n\n*En la próxima, explicamos a fondo uno de los números más malinterpretados: el tipo de cambio del RMB. ¿Por qué los activos que creías estables pueden estar «encogiéndose» en silencio?*"
+        }
+      ]
+    },
+    {
+      "id": "low-trust-defense-strategy",
+      "title": "Descifrar la «defensa de baja confianza»",
+      "subtitle": "El Despertar del Guardián · Defensa de Baja Confianza",
+      "date": "2026-08-07",
+      "summary": "Cuanto más inteligente es el rico, más construye una red de activos que no depende de nadie ni de un solo sistema.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Cuanto más inteligente es el rico, más construye una red de activos que no depende de nadie ni de un solo sistema. Este artículo desmonta la «defensa de baja confianza»: por qué los más listos no apuestan su fortuna a la conciencia de nadie, y por qué Hong Kong es un sistema nacido precisamente para quienes «no confían en nadie», blindando la riqueza con reglas en lugar de favores."
+        }
+      ]
+    },
+    {
+      "id": "offshore-mindset-primer",
+      "title": "Manual de mentalidad offshore: ¿por qué los grandes magnates desacoplan la «identidad» de los «activos»?",
+      "subtitle": "El Despertar del Guardián · Pensamiento Offshore",
+      "date": "2026-08-06",
+      "summary": "La gente común persigue poseer más; los grandes magnates persiguen desacoplar todo: dos cogniciones de riqueza completamente distintas.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "La gente común persigue «poseer»; los grandes magnates persiguen «desacoplar». Este artículo explica qué es realmente la mentalidad offshore —no sacar dinero a escondidas, sino arbitraje regulatorio y cobertura de riesgo— y por qué Hong Kong es la primera escala, de menor coste y mayor cercanía, para practicarla en la vida real."
+        }
+      ]
+    },
+    {
+      "id": "civilization-bull-bear-cycle",
+      "title": "Los ciclos alcista-bajista de la civilización",
+      "subtitle": "El Despertar del Guardián · Ciclos Civilizatorios",
+      "date": "2026-08-05",
+      "summary": "La geografía ya no decide la dirección del destino, pero está decidiendo en silencio la frontera de la seguridad de la riqueza.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "La geografía ya no decide la dirección del destino, pero está decidiendo en silencio la frontera de la seguridad de la riqueza. Apoyado en «El individuo soberano», este artículo explica cómo distinguir el «mercado alcista» del «mercado bajista» de la civilización y por qué Hong Kong es el punto de conmutación natural para que el inversor chino desacople cuerpo y riqueza de un único ciclo geográfico."
+        }
+      ]
+    },
+    {
+      "id": "banality-evil-wealth-shrink",
+      "title": "La banalidad del mal y el encogimiento de la riqueza",
+      "subtitle": "El Despertar del Guardián · Trampas Cognitivas",
+      "date": "2026-08-04",
+      "summary": "El encogimiento de riqueza más aterrador no es un desplome: es la cocción lenta de la rana en agua tibia.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "El encogimiento de riqueza más aterrador no es un desplome: es la cocción lenta de la rana en agua tibia. Partiendo del concepto de Hannah Arendt sobre la «banalidad del mal», este artículo muestra cómo la mediocridad cognitiva, la burbuja de información y la deriva del anclaje monetario vacían silenciosamente el poder adquisitivo, y por qué asignar en Hong Kong es una rebelión personal contra esa banalidad."
+        }
+      ]
+    },
     {
       "id": "es-guardian-01",
       "title": "El arca de la riqueza en tiempos de incertidumbre",
@@ -52,7 +502,7 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
     },
     {
       "id": "es-guardian-02",
-      "title": "Introducción a la mentalidad offshore: por qué las grandes familias latinoamericanas separan identidad y activos",
+      "title": "Introducción a la mentalidad offshore",
       "subtitle": "El Despertar del Guardián · Parte 2",
       "date": "2026-08-04",
       "summary": "",
@@ -77,9 +527,1023 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
           "p": "> El dinero se gana, pero las reglas que lo protegen no las decides tú. Ver en qué manos están las reglas importa más que leer la tabla de rendimientos.\n\n⚖️ **I. La base que se ignora**\n\nCuando hablamos de asignación, lo primero que preguntamos es \"¿cuánto rinde\". Pero lo que de verdad decide la seguridad del patrimonio suele estar más abajo: cuando hay un conflicto, ¿de qué lado se pone la ley? Cuando cambia la política, ¿mis activos siguen protegidos?\n\nEse es el Estado de derecho: invisible, pero la base sobre la que descansa cualquier activo.\n\n🌎 **II. Lo que las familias latinoamericanas llevan en la piel**\n\nEn no pocos países de Latinoamérica, el entorno de política y leyes oscila con el ciclo político mucho más que en regiones con un Estado de derecho maduro.\n\nUna empresa puede ver sus activos congelados por una norma nueva; unos ahorros pueden quedar atrapados por el control de cambios. No por haber hecho nada malo, sino porque las reglas mismas se mueven.\n\nPor eso muchas familias llevan una parte de sus activos a donde el Estado de derecho es más previsible: no por un rendimiento mayor, sino por no ser \"reescritas de sorpresa\".\n\n🏛️ **III. El lugar especial de Hong Kong**\n\nHong Kong mantiene el sistema de common law; el espíritu del contrato, la protección de la propiedad y el marco legal para la transmisión intergeneracional son maduros y estables.\n\nUna póliza en dólares mantenida en Hong Kong goza de esa protección legal y queda fuera de los litigios locales por divorcio, deudas o herencia. No es un rendimiento mayor, es un \"no ser reescrito\" más sólido.\n\n🧭 **IV. Subir de nivel en el pensamiento**\n\nLa verdadera seguridad patrimonial no consiste en amontonar el dinero donde más rinde, sino en esto:\n\n- Una parte anclada en un entorno de Estado de derecho previsible (póliza en dólares de Hong Kong)\n- Una parte con el oro como base (oro físico)\n- Una parte con liquidez local (lo que la vida cotidiana exige)\n\nSi la base es firme, lo que se construye encima puede crecer.\n\n<center>✦ ✦ ✦</center>\n\n🛡️ **Vuelta al arca**\n\nEl seguro definitivo de la asignación de activos es el propio Estado de derecho. ¿Sobre qué clase de suelo descansa tu riqueza? Agenda una diagnosis 1 a 1 y hagamos, juntos, una \"revisión de la base\" de los activos de tu familia."
         }
       ]
+    },
+    {
+      "id": "wealth-foundation-is-force",
+      "title": "El cimiento de la riqueza es la «fuerza»",
+      "subtitle": "El Despertar del Guardián · La Fuerza y el Estado de Derecho",
+      "date": "2026-08-03",
+      "summary": "El cimiento de la riqueza nunca fue la diligencia, ni la visión.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "El cimiento de la riqueza nunca fue la diligencia ni la visión, sino una fuerza que muchos se resisten a mirar de frente: la fuerza. Este artículo explica por qué el Estado de derecho es el verdadero «seguro» de la asignación de activos y por qué Hong Kong, al situarse en la frontera de esa fuerza, se convierte en el puerto seguro natural para aislar la riqueza del capricho del poder."
+        }
+      ]
+    },
+    {
+      "id": "mass-extinction-survival-guide",
+      "title": "Guía de supervivencia para la era de la extinción masiva",
+      "subtitle": "El Despertar del Guardián · Ilustración Antifrágil",
+      "date": "2026-08-02",
+      "summary": "La lógica de «comprar pisos a ojos cerrados, expandirse frenéticamente» enriqueció a una generación en las últimas décadas.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "La lógica de «comprar pisos a ojos cerrados y expandirse a lo loco» enriqueció a una generación en las últimas décadas, pero cuando baja la marea, algunos barcos empiezan a hacer agua en silencio. Este artículo, inspirado en el «pavo» de Taleb, desmonta por qué el riesgo medio es el más peligroso y cómo la estrategia de barra divide los huevos hacia los dos extremos para que una familia de alto patrimonio sobreviva a los cisnes negros macroeconómicos."
+        }
+      ]
+    },
+    {
+      "id": "wealth-ark-uncertain-era",
+      "title": "El Arca de la Riqueza de una Era de Incertidumbre",
+      "subtitle": "El Despertar del Guardián · Prólogo de la Serie",
+      "date": "2026-08-01",
+      "summary": "Cuando baja la marea, las reglas que enriquecieron a toda una generación se desmoronan.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "> Cuando la marea retrocede, las reglas que enriquecieron a toda una generación se desmoronan. Esto no es alarmismo: es un veterano con veinte años en las finanzas que quiere conversar con sus compañeros de camino sobre aquello que de verdad decide la seguridad de la riqueza.\n\nEl otoño pasado, un viejo amigo me invitó a tomar té. Dirige tres fábricas en el delta del río Yangtsé y su patrimonio supera los cien millones.\n\nEsa tarde no podía quedarse quieto. «No me preocupa no ganar dinero», dijo. «De pronto me di cuenta de que todo lo de mi familia —las fábricas, la participación, los depósitos, incluso la trayectoria educativa de mi hijo— está atado al mismo barco. ¿Y si ese barco hace agua?»\n\nHizo una pausa y añadió: «¿Y qué pasa si el barco no solo hace agua… sino que simplemente se vuelca?»\n\n🔑 **1. Esto no es paranoia. Es claridad.**\n\nMucha gente pensaría que semejante idea es un pesimismo innecesario.\n\nPero llevo veinte años en las finanzas, y he visto a demasiadas personas pensar únicamente en cómo amontonar más dinero, jamás en lo siguiente: ¿dónde se asienta exactamente ese montón de dinero? Si los cimientos no son sólidos, cuanto más alto apiles, más rápido se derrumba.\n\nLo que preguntó aquel amigo no era ansiedad. Era una pregunta real que la riqueza había ignorado durante veinte años.\n\n<center>✦ ✦ ✦</center>\n\n🌏 **2. La marea está retrocediendo**\n\nCuando Xu Xin invirtió en JD y multiplicó por 160, un periodista le preguntó cómo lo hizo. Respondió con cuatro palabras: el dividendo de la cognición.\n\nPero el dividendo de la cognición tiene una cara oculta. La riqueza de la mayoría no se encoge porque hicieran algo mal, sino porque nunca se dieron cuenta de que las reglas ya habían cambiado. La lógica de los últimos treinta años —comprar pisos a ojos cerrados, expandirse con agresividad, subirse a la ola— sí enriqueció a una generación. Pero ahora la marea ha retrocedido.\n\nEn los últimos tres años, aquellas estrellas empresariales antaño más deslumbrantes han tropezado una tras otra. No por falta de inteligencia, sino porque el suelo bajo sus pies —las instituciones, la moneda, el Estado de derecho— estaba pasando por una silenciosa y masiva reorganización.\n\nMi trabajo diario es conectarme a fuentes primarias de los principales think tanks y medios extranjeros del mundo. Si solo miras las noticias locales, ves una imagen. Abre la ventana hacia fuera y verás una completamente distinta. La distancia entre esas dos imágenes es de lo que quiero hablarles hoy.\n\n<center>✦ ✦ ✦</center>\n\n⚖️ **3. Antes de que llegara la tormenta, algunos ya habían movido su barco**\n\nEn veinte años he visto partir a numerosas tandas de clientes.\n\nAlgunos siguieron el consejo y, antes de la tormenta, movieron parte de sus activos a terreno seguro. Llegó la tormenta; salieron ilesos.\n\nOtros pensaron que exageraba y mantuvieron todos los huevos en una sola cesta. Llegó la tormenta; sus nombres aparecieron en las noticias —no en la sección financiera, sino en la de sucesos.\n\nAsí que les mostraré esa imagen externa de la forma más directa. Sin suavizarla, sin descuentos.\n\nEsta serie se actualiza con cuatro entregas al mes. No hablaremos mucho de «secretos para hacerse rico», y no vendemos productos financieros. Lo que analizamos son las preguntas de fondo que de verdad moldean el destino de la riqueza:\n\n- ¿Dónde se asienta exactamente mi dinero?\n- En un momento crítico, ¿las leyes de ese lugar me protegerán o me traicionarán?\n- Cuando la moneda se devalúa y la política da un giro, ¿tiene mi riqueza una segunda, incluso una tercera capa de seguro?\n- ¿Tiene mi próxima generación una estructura patrimonial capaz de heredarse de verdad a través de las generaciones?\n\n<center>✦ ✦ ✦</center>\n\n🏛️ **4. Lo que buscamos son «compañeros de camino»**\n\nQuienes pueden oír estas preguntas, quienes mantienen una sana sospecha de la «estabilidad» de hoy, quienes en el silencio de una noche tardía han vislumbrado el mismo pensamiento que mi amigo —esos son los «compañeros de camino» que busco.\n\nNo es una serie que te enseñe a ganar dinero. Es una serie que te enseña que «puedes elegir no perseguir el dinero que no quieres ganar» — y «proteger el dinero que ya has ganado».\n\nNo buscamos más dinero. Buscamos un puerto que no se hunda en la tormenta.\n\nBienvenidos a «El Despertar del Guardián».\n\n<center>—— El Arca Financiera · Puerto Seguro en Tiempos Turbulentos ——</center>\n\n*En la próxima entrega desmontaremos la fría ley de un pensador: por qué, en esta era, poner todos los huevos en una sola cesta se vuelve tan frágil que no resiste un solo golpe. «Lo antifrágil» y la «estrategia de barra» de Taleb son precisamente la matriz anti-tormenta preparada para las familias de alto patrimonio.*"
+        }
+      ]
+    }
+  ],
+  "arkPilot": [
+    {
+      "id": "ark-year-review",
+      "title": "El año del Arca en revisión",
+      "subtitle": "Visión del Arca · Preguntas y Respuestas",
+      "date": "2026-11-19",
+      "summary": "No decidimos por ti — solo nos aseguramos de que, cuando decidas, veas el cuadro completo y no fragmentos.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "En un año de cientos —incluso miles— de conversaciones con familias, las preguntas se concentran en unas pocas: «¿ya tengo pólizas onshore, necesito seguro de Hong Kong?», «¿con estas tasas, no conviene esperar?» y «¿es una estafa el seguro de Hong Kong?». La lección más profunda es que a la mayoría no le falta información, sino una perspectiva que convierta los fragmentos en estructura. Lo que resolvimos este año no fue «cómo ganar más», sino «cómo estar más tranquilos»."
+        }
+      ]
+    },
+    {
+      "id": "ark-config-framework-2026",
+      "title": "Más allá de la era del «compra a ciegas»",
+      "subtitle": "Visión del Arca · El Telescopio Macro",
+      "date": "2026-11-09",
+      "summary": "El factor decisivo de la asignación nunca fue «acertar la próxima tendencia», sino «tener una base que aguante vaya donde vaya la tendencia».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. La era del «compres lo que compres, sube» se acabó",
+          "p": "Dos décadas de oro inmobiliario, el auge de riqueza de internet, los altos rendimientos P2P para quienes confiaban ciegamente — mirando atrás, la riqueza de mucha gente creció gracias a los «dividendos de la era», no a la «habilidad de asignar». En 2026 estamos ante un punto de inflexión: los dividendos se desvanecen, la volatilidad sube y «comprar con los ojos cerrados» ya no funciona."
+        },
+        {
+          "h": "2. Un marco sencillo que de verdad funciona",
+          "p": "Sea cual sea el tamaño de tus activos, una asignación familiar sana necesita al menos cuatro bloques:\n\n1. **Capa base de liquidez:** efectivo para cubrir de seis meses a un año de gastos — local y seguro.\n2. **Capa defensiva:** oro físico y similares, para escenarios extremos, alrededor de un 5 %.\n3. **Capa de renta y crecimiento:** activos núcleo a largo plazo, con interés compuesto, que superen a la inflación.\n4. **Capa de oportunidad:** renta variable, alternativos y similares — asumir volatilidad a cambio de mayor rentabilidad, pero manteniendo una proporción estricta.\n\nCada bloque tiene su función; ninguno debe dominar, pero ninguno puede faltar."
+        },
+        {
+          "h": "3. Dónde encajan los activos offshore",
+          "p": "La asignación offshore —sobre todo el seguro de ahorro de Hong Kong— suele aterrizar en el bloque 3, la «capa de renta y crecimiento», como su lastre fundacional: a largo plazo, denominada en dólares, con interés compuesto. No persigue ganancias extraordinarias, pero entrega un crecimiento cierto que atraviesa los ciclos.\n\nEn cuanto al bloque 4, la capa de oportunidad, los alternativos como las cripto pueden tener un lugar, pero mantén la proporción pequeña (la regla habitual es por debajo del 3 %): su papel es el de «vanguardia», no el de «base»."
+        },
+        {
+          "h": "4. El valor de un marco no es la precisión, es la disciplina",
+          "p": "Nadie puede predecir el año que viene con exactitud. La verdadera utilidad de un marco es darte un ancla que la emoción no pueda desviar — no persigas los repuntes, no entres en pánico en las caídas, reequilibra según la estructura.\n\n> El factor decisivo de la asignación nunca fue «acertar la próxima tendencia», sino «tener una base que aguante vaya donde vaya la tendencia»."
+        },
+        {
+          "h": "5. Desde la mirada del Arca",
+          "p": "Después de 2026, la riqueza pertenece a quienes tienen un marco y disciplina, no a quienes tienen suerte.\n\n> **En una era de incertidumbre, necesitas subir cuanto antes al Arca Financiera de tu familia.**\n> [Reserva un diagnóstico de activos offshore 1 a 1 →](https://fin-ark.com/consult)"
+        }
+      ]
+    },
+    {
+      "id": "ark-family-office-cn",
+      "title": "El estado de las family offices en China",
+      "subtitle": "Visión del Arca · Preguntas y Respuestas",
+      "date": "2026-10-30",
+      "summary": "El sueño de la family office puede ser enorme, pero el primer paso real suele ser muy concreto.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "«Family office» se ha vuelto una palabra de moda en los círculos de riqueza, como si sin montar una no fueras rico de verdad. Entre el ideal y la realidad hay tres umbrales: legal-fiscal, de coste y de talento. Por eso, las familias con necesidades reales de sucesión suelen mirar al exterior — y el primer paso offshore muchas veces no es un fideicomiso complejo, sino una póliza de ahorro de Hong Kong: conforme, transparente y de umbral bajo."
+        }
+      ]
+    },
+    {
+      "id": "ark-dividend-rate",
+      "title": "Lectura en profundidad",
+      "subtitle": "Visión del Arca · La Brújula Offshore",
+      "date": "2026-10-20",
+      "summary": "El verdadero riesgo no es un número feo — es no haber mirado nunca el número en serio.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "El «ratio de cumplimiento de dividendos» es la métrica que más se pregunta y la que más confunde: mide cuánto del dividendo no garantizado demostrado se pagó de verdad (ratio = dividendos realmente pagados ÷ dividendos mostrados en la propuesta). No es lo mismo que la rentabilidad total, y un año suelto dice poco; hay que mirar la media de 5 a 10 años. Entenderlo te evita dejarte llevar por la «rentabilidad demostrada»."
+        }
+      ]
+    },
+    {
+      "id": "ark-trust-not-mystery",
+      "title": "Los fideicomisos no son un misterio",
+      "subtitle": "Visión del Arca · Preguntas y Respuestas",
+      "date": "2026-10-10",
+      "summary": "Ninguna herramienta es superior por sí misma — solo más o menos adecuada.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "«Fideicomiso familiar» se ha mitificado como privilegio de los ultrarricos, pero en realidad es solo una herramienta legal, de la misma familia que el seguro y el testamento. Tres preguntas bastan para decidir: ¿tus activos superan de sobra el umbral?, ¿tienes necesidades de distribución complejas?, y ¿estás dispuesto a pagar el mantenimiento de la estructura año tras año? Para la mayoría, la primera pregunta ya es el muro. Y «transmitir el dinero según tus deseos» no exige un fideicomiso: una póliza de ahorro de Hong Kong bien diseñada logra un efecto similar sin coste de mantenimiento."
+        }
+      ]
+    },
+    {
+      "id": "ark-gold-high",
+      "title": "El oro acaba de marcar un máximo histórico: ¿es tarde para comprar?",
+      "subtitle": "Visión del Arca · El Telescopio Macro",
+      "date": "2026-09-30",
+      "summary": "El oro te dice «no lo pierdas todo»; una póliza te dice «aún puedes crecer».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Cuando el oro marca un récord, la pregunta «¿puedo comprar ahora?» se multiplica por diez. El oro no es un activo ofensivo para especular, sino una defensa: cerca de un 5 % de los activos familiares en oro físico como suelo. Su gran debilidad es que no produce rendimiento, y por eso necesita un socio que genere flujo de caja a largo plazo — ese papel suele recaer en la póliza de ahorro de Hong Kong. Uno quieto (el oro) y uno en movimiento (la póliza): solo juntos suman una asignación completa."
+        }
+      ]
+    },
+    {
+      "id": "ark-offshore-3levels",
+      "title": "Los tres niveles de la asignación de activos offshore: ¿en qué nivel estás?",
+      "subtitle": "Visión del Arca · La Brújula Offshore",
+      "date": "2026-09-20",
+      "summary": "La asignación offshore no va de quién tiene herramientas más sofisticadas — va de quién tiene una estructura que encaje mejor con su escala real de activos.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Hablar de activos offshore no es solo hablar de fideicomisos y family offices: la asignación offshore es un abanico con distintos umbrales, y cada nivel tiene su herramienta. El Nivel 1 es la póliza en dólares —arranca con primas de miles de dólares al año y es la «primera puerta» para la gente común—; el Nivel 2 son los activos financieros multi-mercado, y el Nivel 3 son las estructuras superiores. Para la mayoría, el Nivel 1 ya cubre el 70 % de las necesidades offshore. Saber en qué nivel estás importa más que escalar a ciegas."
+        }
+      ]
+    },
+    {
+      "id": "ark-japan-lost-30",
+      "title": "La lección de los 30 años perdidos de Japón para la clase media china",
+      "subtitle": "Visión del Arca · El Telescopio Macro",
+      "date": "2026-09-10",
+      "summary": "El verdadero riesgo no es qué activos tienes — es que todos tus activos cuelguen de una sola cuerda.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Los «30 años perdidos» de Japón no son solo un cuento lejano: cuando una economía entra en bajo crecimiento prolongado con precios de activos deprimidos, quienes peor lo pasan son quienes «solo tienen activos domésticos». Un solo mercado es, por naturaleza, un solo riesgo: si la renta, los activos y la moneda caen a la vez, todo se encoge. Las familias japonesas que mejor atravesaron esa época compartían un rasgo: tenían activos en el exterior. La asignación offshore no es «huir», es «diversificar» — es darle a tu patrimonio un segundo y tercer compartimento estanco."
+        }
+      ]
+    },
+    {
+      "id": "ark-hk-data-2026h1",
+      "title": "Leyendo los datos de seguros de Hong Kong del primer semestre de 2026: ¿por qué los clientes onshore siguen comprando más?",
+      "subtitle": "Visión del Arca · La Brújula Offshore",
+      "date": "2026-08-21",
+      "summary": "Cuanto más emocional es el debate en torno a un campo, más necesitamos una mirada estructural para desmontarlo — no eslóganes para elegir bando.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Un conjunto de datos contraintuitivos",
+          "p": "En el primer semestre de 2026, la prima nueva de los visitantes onshore que compran seguros en Hong Kong siguió subiendo, alcanzando un máximo reciente. Lo interesante: cuanto más subrayan los reguladores el «riesgo», más se llena la esfera pública de habladurías de «estafa offshore» — y aun así, más gente vota con los pies.\n\nDesafía la intuición, pero encaja con la lógica."
+        },
+        {
+          "h": "2. No es comportamiento de rebaño: la demanda es real",
+          "p": "Cobertura de divisas, activos en dólares, educación de los hijos, jubilación transfronteriza — estas necesidades no desaparecen por una sola advertencia de riesgo. Simplemente se mueven del «debate abierto» a la «asignación privada», de «publicar los recibos en Moments» a «un tema serio en la mesa familiar».\n\nHemos conocido a demasiadas familias que no fueron atraídas por nadie: hicieron las cuentas, lo pensaron bien y decidieron."
+        },
+        {
+          "h": "3. La verdadera motivación que vemos",
+          "p": "Tras conversar a fondo con decenas de familias, lo que compran nunca fue «alta rentabilidad» — quien persigue eso se pasó a operar con cripto hace tiempo. Lo que compran es **certeza**: dinero en una póliza, plasmado en un contrato, denominado en dólares, ajeno a los vaivenes de la política de un único mercado.\n\nEn una era de incertidumbre creciente, la propia «certeza» es un activo escaso."
+        },
+        {
+          "h": "4. Cuidado con dos narrativas extremas",
+          "p": "La primera es el argumento de venta de que «el seguro de Hong Kong lo cura todo»: nos oponemos con firmeza; avergüenza a toda la industria. La segunda es la etiqueta de que «todos los activos offshore son estafas»: igual de dañina, sustituye el análisis por la emoción.\n\nLa postura racional es siempre: ver su estructura, sus costes y sus límites de aplicación, y luego decidir si lo quieres — sin dejarse arrastrar por ninguno de los extremos.\n\n> Cuanto más emocional es el debate en torno a un campo, más necesitamos una mirada estructural para desmontarlo — no eslóganes para elegir bando."
+        },
+        {
+          "h": "5. Desde la mirada del Arca",
+          "p": "Los datos no mienten, pero tampoco deciden por ti. Entender la demanda que hay detrás es más útil que quedarse mirando las cifras.\n\n> **En una era de incertidumbre, necesitas subir cuanto antes al Arca Financiera de tu familia.**\n> [Reserva un diagnóstico de activos offshore 1 a 1 →](https://fin-ark.com/consult)"
+        }
+      ]
+    },
+    {
+      "id": "ark-hk-resilience",
+      "title": "Ruptura y renacimiento",
+      "subtitle": "Visión del Arca · El Telescopio Macro",
+      "date": "2026-08-10",
+      "summary": "¿Hong Kong está en declive o vive un renacimiento profundo? La respuesta está en su ADN centenario — un refugio seguro de riqueza que expulsa burbujas y se actualiza con cada sacudida externa.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "La historia de Hong Kong nunca ha crecido en aguas tranquilas: cada reestructuración industrial llegó con una gran sacudida externa, y cada salto comenzó en una tormenta. Hoy, las family offices crecen con fuerza y el RMB offshore se convierte en un motor de compensación global. Para los activos familiares, su estado de derecho y la libre circulación de capitales son el suelo más duro: sin control de cambios, con un sistema fiscal sencillo y pólizas naturalmente multidivisa. Quien solo ve el dolor a corto plazo pierde a menudo el dividendo histórico a largo plazo; quien ve la resiliencia de un siglo ya ha trazado su plan en plena tormenta."
+        }
+      ]
+    },
+    {
+      "id": "es-ark-fx-depreciation",
+      "title": "La ola de devaluación en Latinoamérica: ¿cuántos dólares reales hay en tus activos?",
+      "subtitle": "Visión del Arca",
+      "date": "2026-08-04",
+      "summary": "",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "> La devaluación no sale en titulares. Es como una gotera: para cuando te das cuenta de que el suelo está mojado, los muebles ya están arruinados.\n\n📉 **I. Actualidad: otra ronda del ciclo de devaluación**\n\nSi abres la tabla de tipos de cambio de los últimos doce meses, verás que la mayoría de las monedas locales de las grandes economías de Latinoamérica trazan una línea descendente frente al dólar. Unas caen con suavidad, otras de golpe.\n\nEl peso argentino sigue hundiéndose bajo múltiples presiones; el peso mexicano aguanta mejor, pero sus vaivenes cíclicos nunca desaparecen; las divisas de Colombia y Perú suben y bajan al ritmo de los precios de las materias primas.\n\nNo es noticia. Es el viejo guion de la economía latinoamericana, que se repite cada pocos años.\n\n🔍 **II. Análisis: el ciclo de las economías basadas en recursos**\n\nMuchos países de la región dependen en gran medida de la exportación de materias primas —petróleo, cobre, soja, litio—. Cuando la demanda global se enfría, caen los ingresos de exportación y la moneda local se resiente.\n\nHay algo más profundo: gran parte de la deuda externa está denominada en dólares, pero los ingresos se cobran en moneda local. Cuando la divisa se debilita, el costo de pagar la deuda sube solo, y se forma una espiral de \"devaluación → endeudamiento → nueva devaluación\".\n\nPor encima de todo eso planea el ciclo político. Una sola administración puede hacer que la lógica de ahorro de la anterior pierda validez de la noche a la mañana.\n\n🌊 **III. Lo que esto te quita: el poder adquisitivo se evapora en silencio**\n\n¿Qué significa para una familia común?\n\nTu sueldo, tus ahorros, tu casa: casi todo está valuado en moneda local. Si esa moneda pierde un diez y tantos por ciento frente al dólar en un año, el \"dinero seguro\" que guardabas en el banco ya perdió, en la práctica, la misma capacidad de compra.\n\nNo hiciste nada mal. Solo que tu riqueza descansa sobre un suelo que se mueve, lentamente.\n\n🧭 **IV. La salida offshore: anclar una parte de la riqueza al dólar**\n\nLa solución no es convertir todos tus ahorros en efectivo en dólares —ni es realista ni necesario.\n\nLo sensato es reservar, dentro de la asignación de activos, una porción verdaderamente anclada al dólar y pensada para mantenerse a largo plazo. Una póliza de ahorro en dólares de Hong Kong es una de esas herramientas: fija una parte del patrimonio familiar sobre el dólar y un marco legal maduro, y conserva su valor más allá de los ciclos.\n\nUna parte quieta (los activos de la vida local) y una parte en movimiento (los activos anclados al dólar): así se completa la defensa de un hogar.\n\n<center>✦ ✦ ✦</center>\n\n⚓ **V. Vuelta al arca**\n\nEn tiempos tan inciertos, conviene subir cuanto antes al arca financiera de tu familia.\n\n¿Cuántos «dólares reales» hay en tus activos? Agenda una diagnosis offshore 1 a 1 y hacemos juntos los números con claridad.\n\n*En el próximo artículo hablaremos de por qué el oro es también, para las familias latinoamericanas, ese suelo que no deberían ignorar.*"
+        }
+      ]
+    }
+  ],
+  "emerging": [
+    {
+      "id": "emerging-compliant-liquidity",
+      "title": "Bajo un marco de cumplimiento, ¿cómo deben ver los activos offshore el valor de liquidez de Web3?",
+      "subtitle": "Mapa de Activos · Emergente · La frontera entre dinero rápido y lento",
+      "date": "2027-03-01",
+      "summary": "Web3 es dinero rápido; el seguro de Hong Kong es dinero lento.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. ¿Qué es exactamente la «liquidez» de Web3?",
+          "p": "Los activos tradicionales (inmuebles, pólizas, oro) arrastran fricción en su liquidez: vender una casa lleva meses, retirar de una póliza sigue un ciclo, convertir oro a efectivo arrastra un diferencial. La liquidez cripto es otra cosa — **24/7, global, liquidada en segundos, nunca cierra.** Es liquidez que las finanzas tradicionales no pueden ofrecer.\n\n> Web3 es dinero rápido; el seguro de Hong Kong es dinero lento. Del rápido debes saber cuándo apartarlo de la mesa; del lento debes saber cómo retenerlo."
+        },
+        {
+          "h": "2. Viéndolo con cumplimiento: tres fronteras",
+          "p": "No hablamos de «ir a por todas»; hablamos de conciencia lúcida dentro de un marco de cumplimiento:\n\n1. **Entra por canales conformes.** Participa mediante exchanges regulados y ETF institucionales; evita el over-the-counter de mercado gris y los protocolos sin regular. El cumplimiento no es una restricción — es protección.\n2. **Disciplina estricta de proporción.** Los activos alternativos (incluida la cripto) no deberían superar el 3–5 % del total. Esa proporción te mantiene «en el juego» sin romperte los huesos.\n3. **Asigna desde una perspectiva offshore.** Para familias con arreglos offshore, coloca la exposición cripto dentro de una estructura offshore conforme, formando una diversificación geográfica y de clase de activo junto al seguro de Hong Kong y el oro."
+        },
+        {
+          "h": "3. El uso real del valor de liquidez",
+          "p": "La alta liquidez no está para que «operes a diario» — te da **la libertad de salir en cualquier momento.** Quienes de verdad la usan la tratan como un «puerto para el capital oportunista»:\n\n- En un pánico de mercado, realizar rápido la cripto para captar fichas baratas en otros mercados\n- Tras las ganancias, moverlas con rapidez de los activos volátiles al seguro de Hong Kong, fijándolas en flujo de caja cierto\n- Cuando no participas, quedarte en efectivo a la espera, sin dejarte arrastrar por el FOMO\n\nLa liquidez es una herramienta, no un objetivo. Quienes se esclavizan a la liquidez y operan sin parar suelen rendir peor que quienes «compran y mantienen»."
+        },
+        {
+          "h": "4. Stablecoins: el puente que une dos mundos",
+          "p": "Este texto no puede esquivar a las **stablecoins (USDT/USDC)** — ancladas al dólar con oscilaciones mínimas, son el puente entre el mundo cripto y el fiduciario. Para las familias offshore, las stablecoins significan:\n\n- Un «carril rápido» para mover fondos transfronterizos (donde sea conforme)\n- Un amarre temporal para la exposición en dólares\n- Un tránsito colchón entre la cripto y el seguro de Hong Kong\n\nPero recuerda: una stablecoin sigue siendo parte del ecosistema cripto, no un depósito — arrastra riesgo de crédito del emisor y riesgo de cambio regulatorio. **Un puente es para cruzarlo, no para vivir en él.**"
+        },
+        {
+          "h": "5. Para cerrar",
+          "p": "El valor de liquidez de Web3 es real, pero es el valor de un «activo de vanguardia», no de la «base». Entiéndelo, úsalo en pequeñas proporciones y reconduce las ganancias al seguro de Hong Kong a tiempo — ese camino es la postura más prudente para que las familias comunes afronten el mundo nuevo bajo un marco de cumplimiento. El dinero rápido sale de la mesa; el dinero lento echa raíces."
+        }
+      ]
+    },
+    {
+      "id": "emerging-btc-digital-gold",
+      "title": "Por qué Bitcoin entró en las carteras institucionales como «oro digital»",
+      "subtitle": "Mapa de Activos · Emergente · Por qué compran las instituciones",
+      "date": "2027-02-22",
+      "summary": "Cuando las instituciones ponen Bitcoin en sus hojas de asignación, no compran un «sueño de hacerse rico» — compran «escasez que no depende de nadie».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. De dónde salió la frase «oro digital»",
+          "p": "A menudo se llama a Bitcoin «oro digital». Esta analogía no es relleno de marketing — tiene una lógica financiera clara: **como el oro, su oferta es finita, no depende de ningún emisor, y en una era de sobreemisión fiduciaria se trata como un ancla de valor.** La única diferencia: el oro es físico, Bitcoin es digital.\n\n> Cuando las instituciones ponen Bitcoin en sus hojas de asignación, no compran un «sueño de hacerse rico» — compran «escasez que no depende de nadie»."
+        },
+        {
+          "h": "2. Tres lógicas detrás de la asignación institucional a Bitcoin",
+          "p": "**1. La escasez como cobertura de inflación.** La oferta total de Bitcoin es de 21 millones, con un halving cada cuatro años y una curva de emisión predecible. En una época de relajación ilimitada de los bancos centrales, esta escasez «escrita en matemáticas» atrae naturalmente a las instituciones.\n\n**2. Asignación de baja correlación.** La correlación de Bitcoin con acciones y bonos fluctúa por periodos, pero a largo plazo aporta la escasa «exposición alternativa» que falta en las carteras tradicionales — una asignación modesta puede mejorar el perfil riesgo-rentabilidad.\n\n**3. Cobertura del crédito soberano.** Tras el lanzamiento de los ETF de Bitcoin al contado de BlackRock y Fidelity, la «compra conforme de monedas» se volvió real. Las instituciones no apuestan a subidas de precio — apuestan a que «la moneda digital pasará a formar parte del sistema global de reservas»."
+        },
+        {
+          "h": "3. Por qué es «grado institucional» y no «grado minorista»",
+          "p": "El punto clave: las instituciones mantienen mediante **ETF y cuentas custodiadas**, resolviendo los tres dolores del minorista — custodia segura, reporting conforme, liquidez. Desde 2024, las entradas netas de los ETF de Bitcoin al contado de EE.UU. han batido récords repetidamente, marcando su paso de «activo marginal» a «activo asignable».\n\nPero nota: la «asignación» institucional suele ser solo un pequeño porcentaje de la cartera. La actitud institucional mayoritaria hacia Bitcoin es — **puedes asignar un poco, pero no puedes permitirte no estudiarlo.**"
+        },
+        {
+          "h": "4. Qué significa esto para las familias comunes",
+          "p": "Nuestra postura es clara: sí, Bitcoin es «oro digital», pero es **oro de alta volatilidad.** Para una familia común, su papel correcto es una pequeña porción de activos alternativos (no más del 3 % del total), no el pilar.\n\nMás importante es la lógica de repatriación: **el «dinero rápido» ganado con cripto debe apartarse a tiempo y verterse en el fondo más estable del seguro de Hong Kong para asegurar las ganancias.** Que la vanguardia sea vanguardia, y que la base sea base."
+        },
+        {
+          "h": "5. Para cerrar",
+          "p": "La entrada de Bitcoin en las asignaciones institucionales es un hito en la historia financiera. Nos recuerda: el mundo cambia, las fronteras de los activos se expanden. Pero cambie o no, la disciplina de asignación de las familias comunes no puede romperse — mira la tendencia con claridad, participa en pequeñas proporciones y entrega la certeza al seguro de Hong Kong. Esa es la postura lúcida para afrontar el mundo nuevo."
+        }
+      ]
+    },
+    {
+      "id": "emerging-major-cryptocurrencies",
+      "title": "Bitcoin, Ethereum y las monedas tachadas de «estafa»",
+      "subtitle": "Mapa de Activos · Emergente · La verdad sobre las grandes monedas",
+      "date": "2027-02-15",
+      "summary": "Toda gran criptomoneda nació para resolver un problema real — no son estafas, son respuestas.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "¿Qué problema intentaba resolver Bitcoin en realidad?",
+          "p": "El 31 de octubre de 2008, Satoshi Nakamoto adjuntó un libro blanco a un correo. Su título: «Bitcoin: un sistema de efectivo electrónico entre pares». Fíjate — el título no contiene ninguna palabra sobre «inversión», «revalorización» o «hacerse rico».\n\n¿Qué pasó ese año? La Fed y los bancos centrales de todo el mundo imprimieron dinero frenéticamente para rescatar los mercados; los ahorros de la gente común encogieron con la inflación, mientras los bancos que causaron la crisis recibían rescates públicos. **Lo que Satoshi quería era un sistema monetario que no necesitara banco central y que no se pudiera sobreemitir.**\n\nEl diseño central de Bitcoin es simple: una oferta total de **21 millones**, nunca aumentada; producción reducida a la mitad cada cuatro años, imitando la escasez del oro; cualquiera puede ejecutar un nodo y unirse a la contabilidad, sin permiso de nadie. Su núcleo filosófico es una frase: **confío en las matemáticas, no en las personas.**\n\nQuince años después. De 10.000 BTC por dos pizzas en 2010, Bitcoin llegó a ser moneda de curso legal en El Salvador y a entrar en las asignaciones de instituciones como BlackRock. Puedes decir que su volatilidad lo hace mala moneda, puedes decir que desperdicia electricidad — pero una cosa no se puede negar: **es el primer sistema monetario descentralizado que funciona con éxito en la historia de la humanidad.** Te guste o no, desde que se lanzó el 3 de enero de 2009, esa red no ha estado caída ni un solo día.\n\nLas razones de su estigma son directas: al principio sí se usó en la «Silk Road» de la dark web para comprar drogas; sus violentos vaivenes de precio crearon grandes burbujas y quiebras; el consumo eléctrico de la minería ha sido atacado repetidamente. Pero si aboliéramos el efectivo porque se usa en delitos, o cerráramos internet porque aloja estafas — no quedaría casi nada en este mundo.\n\n> Toda gran criptomoneda nació para resolver un problema real — no son estafas, son respuestas."
+        },
+        {
+          "h": "¿Por qué a Ethereum lo llaman el «ordenador mundial»?",
+          "p": "En 2013, un ruso-canadiense de 19 años llamado Vitalik Buterin detectó un problema: Bitcoin solo podía hacer una cosa — transferir valor. Pensó: ¿y si un blockchain no solo registrara «quién envió cuánto a quién», sino que también ejecutara programas?\n\nEse es el origen del **smart contract.** Una vez desplegado el código en el blockchain, mientras se disparen las condiciones predefinidas, se ejecuta automáticamente — nadie, ni siquiera quien lo escribió, puede interferir a mitad. Ejemplo: me pediste 100 yuans prestados, a devolver en un mes con 5 % de interés. El mundo tradicional necesita un contrato y un abogado. En Ethereum, se vuelve un trozo de código que descuenta de tu cartera automáticamente en la fecha de vencimiento.\n\nLa ambición de Ethereum no es ser «un Bitcoin mejor», sino un **ordenador global descentralizado.** En ese ordenador puedes construir bancos (protocolos de préstamo DeFi), organizar empresas (DAO), emitir arte (NFT). Los desarrolladores vienen de todo el mundo; nadie necesita pedir una cuenta ni aprobación — **mientras sepas escribir código, el escenario es tuyo.**\n\nEn 2022, Ethereum completó una gran actualización llamada «the Merge» — pasó del proof-of-work, ávido de energía, al proof-of-stake, reduciendo el consumo en un **99,9 %.** Esto respondió a la crítica ambiental y allanó el camino del futuro escalado.\n\nLo peor entendido de Ethereum: muchos lo tratan como «herramienta de pago» y luego se quejan de que las gas fees son altísimas. Es como quejarse de que un vuelo a la calle de al lado para comprar verduras es caro — nunca se construyó para eso. Ethereum es infraestructura; las aplicaciones que corren sobre él son las que dan la cara al usuario."
+        },
+        {
+          "h": "Monero — ¿por qué es la más maldecida?",
+          "p": "Antes de Monero, una pregunta: ¿estarías dispuesto a hacer públicos al mundo entero todos tus registros de gasto con tarjeta?\n\nTu sueldo, tu alquiler, a quién enviaste dinero, qué días gastaste más o menos — totalmente transparente, cualquiera podría consultarlo. Seguramente te negarías. Pero esa es la situación real de Bitcoin: **el libro mayor de Bitcoin es completamente público.** El importe, la dirección del emisor y la del receptor de cada transacción — todo queda escrito on-chain. Las direcciones no se asignan directamente a nombres reales, pero en el momento en que una transacción se vincula a tu identidad real, todo tu flujo de dinero queda expuesto.\n\nMonero existe para resolver exactamente eso. Usando tres tecnologías centrales — **firmas de anillo** que ocultan al emisor, **direcciones sigilosas** que ocultan al receptor, y **RingCT** que oculta el importe — vuelve invisibles los tres elementos clave de una transacción. Esa es la intención de diseño de Monero: **hacer que el dinero digital sea de verdad parecido al efectivo, con privacidad.**\n\nCuando le pasas 100 yuanes en efectivo a un amigo, ningún tercero se entera. Monero busca exactamente eso — privacidad de nivel efectivo en el mundo digital.\n\nPor supuesto, los delincuentes lo explotaron. Los hackers de ransomware exigían Monero; los mercados de la dark web migraron de Bitcoin a Monero. **Pero la tecnología de privacidad en sí no es mala.** El efectivo también se usa en delitos, la mensajería cifrada Signal la usan los narcotraficantes, la red Tor se usa para comercio ilegal — no por eso prohibimos el efectivo, la mensajería cifrada ni el enrutamiento onion.\n\nExchanges de varios países han deslistado Monero, citando cumplimiento antilavado. Es comprensible. Pero vale la pena reflexionar: en una era donde los datos se recogen sin fondo y cada compra queda registrada, **la privacidad ha pasado de lujo a necesidad.** Monero demostró una cosa — la criptografía puede proteger la privacidad financiera de la gente común. Y la mera existencia de esta tecnología es un freno a la expansión de la vigilancia."
+        },
+        {
+          "h": "Para cerrar",
+          "p": "El miedo viene de no entender. La imagen negativa de la cripto en casa proviene en gran parte del caos de las ICO de 2017. Pero si estamos dispuestos a dedicar un poco de tiempo a leer las propias palabras de Satoshi en el libro blanco de Bitcoin, a mirar las miles de aplicaciones que corren sobre Ethereum — descubrirás que no son estafas, son distintos solucionadores de problemas.\n\nEl mundo cripto tiene sustancia real, pero su papel es de «vanguardia», no de «base». Entrega la aventura a esa porción del 3 % de activos alternativos, entrega la estabilidad al seguro de Hong Kong — esa proporción es la postura más clara para que las familias comunes afronten el mundo nuevo."
+        }
+      ]
+    },
+    {
+      "id": "emerging-cbdc-vs-crypto",
+      "title": "El yuan digital y Bitcoin",
+      "subtitle": "Mapa de Activos · Emergente · Un sistema de coordenadas para los activos digitales",
+      "date": "2027-02-08",
+      "summary": "La diferencia entre el yuan digital y Bitcoin no es cuál es mejor — es si quieres eficiencia o libertad.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "¿En qué se diferencian en realidad el yuan digital y Bitcoin?",
+          "p": "La primera pregunta de mucha gente al toparse con cripto es: el banco central chino ya está lanzando el yuan digital, entonces, ¿para qué sirve Bitcoin?\n\nEs una gran pregunta, porque aterriza justo en la línea divisoria central del mundo de los activos digitales.\n\nImagina un sistema de coordenadas bidimensional. **El eje horizontal es el «grado de descentralización»**: a la izquierda, controlado por completo por una autoridad central; a la derecha, sin control de una sola entidad. **El eje vertical es «basado en blockchain o no»**: arriba, sí; abajo, no.\n\nEl yuan digital se sienta en la **esquina superior izquierda**: muy centralizado, emitido y controlado por el banco central, técnicamente con algunos elementos de libro distribuido pero esencialmente centralizado. Detrás está el crédito del Estado — lo que confías es un texto legal y el balance del banco central.\n\nBitcoin se sienta en la **esquina inferior derecha**: plenamente descentralizado, sin emisor, red mantenida por decenas de miles de nodos en todo el mundo. Detrás están las matemáticas y la criptografía — lo que confías es el código y los mecanismos de incentivo.\n\nLos dos no compiten; son más bien **dos vías paralelas.** El objetivo del yuan digital es hacer el sistema fiduciario más eficiente — pagos más rápidos, regulación más precisa, transmisión de política monetaria más fluida. El objetivo de Bitcoin nunca fue «hacer el sistema existente más eficiente» — es **ofrecer una manera completamente distinta de almacenar y transferir valor** — independiente de cualquier nación, sin pedir permiso a nadie.\n\n> La diferencia entre el yuan digital y Bitcoin no es cuál es mejor — es si quieres eficiencia o libertad."
+        },
+        {
+          "h": "Si el yuan digital ya es bueno, ¿qué escenarios únicos tiene la cripto?",
+          "p": "Detrás de esta pregunta se esconde un supuesto oculto: que vivimos en un país con infraestructura financiera madura y moneda estable.\n\nPero 1.400 millones de adultos en el mundo **aún no tienen cuenta bancaria.** La mayoría vive en el África subsahariana, el sur de Asia y América Latina. Sin tarjetas de crédito, sin préstamos, ni siquiera una forma segura de ahorrar. Pero tienen teléfono.\n\n**Con solo un teléfono y red, cualquiera puede crear una cartera cripto en cinco minutos y recibir transferencias desde cualquier punto de la tierra.** Sin KYC, sin aprobación bancaria, sin depósito mínimo.\n\nOtro escenario: en 2022, la lira turca perdió más del 40 % en un año; al peso argentino le fue peor. ¿Qué hace la gente común de allí? Un número creciente convierte su sueldo a USDT — una stablecoin anclada 1:1 al dólar — y lo aparca en protocolos de finanzas descentralizadas por una rentabilidad anualizada. Eso suena a «gestión patrimonial», pero para ellos es una **estrategia de supervivencia para preservar el poder adquisitivo.**\n\nLuego está la remesa transfronteriza. El sistema SWIFT tradicional tarda entre 2 y 5 días hábiles en una transferencia transfronteriza, con comisiones de hasta el 10 % del importe. Con stablecoins o la red Lightning de Bitcoin, **llega en minutos, por menos del 1 % en comisiones.** En El Salvador, Bitcoin ya es moneda de curso legal — un vendedor ambulante puede cobrarte un café en Bitcoin. Esto no es ciencia ficción.\n\nUn escenario más, poco comentado: **pagos resistentes a la censura.** En 2010, tras el corte simultáneo de Visa, Mastercard y PayPal a WikiLeaks, siguió recibiendo donaciones por Bitcoin. Tras estallar la guerra en Ucrania en 2022, las donaciones cripto superaron los 200 millones de dólares, sorteando el sistema bancario tradicional y llegando al instante."
+        },
+        {
+          "h": "¿Qué tiene que ver todo esto con «especular con monedas»?",
+          "p": "Esta es la parte peor entendida.\n\nLa cripto tiene dos caras: **una capa tecnológica y una capa especulativa.** Los medios solo informan de la segunda — quién se hizo rico de la noche a la mañana, qué exchange huyó con el dinero, qué moneda se desplomó otro 90 %. Pero la capa tecnológica sigue creciendo en silencio: el protocolo de préstamos descentralizado Aave supera los 10.000 millones bloqueados; la herramienta de pago transfronterizo Strike opera en África; los NFT dejan por primera vez que los creadores ganen directamente de sus fans, sin que ninguna plataforma se lleve comisión.\n\n**Las burbujas son naturaleza humana, no culpa de la tecnología.** Cuando estalló la burbuja puntocom en 2000, el Nasdaq cayó un 78 % y quebraron incontables empresas. Pero cuando la burbuja se disipó, quedaron Amazon, Google y toda la infraestructura de la economía digital. La cripto está pasando por lo mismo."
+        },
+        {
+          "h": "Para cerrar",
+          "p": "Podemos no gustar de Bitcoin, y podemos quedarnos fuera de cualquier trading cripto. Pero si lo que te importa es **una opción financiera no controlada por una única institución** — una herramienta que deja a la gente común protegerse cuando se hunde su moneda —, entonces entenderla es más poderoso que ignorarla.\n\nPara la mayoría de las familias, los criptoactivos son «dinero rápido», no la «base». Dedica un 3 % de tu posición a mirar el futuro, aparca el 97 % en el seguro de Hong Kong para defender el presente — esa proporción es el punto de equilibrio entre la razón y la imaginación."
+        }
+      ]
+    },
+    {
+      "id": "emerging-blockchain-basics",
+      "title": "Blockchain, cripto y Web3",
+      "subtitle": "Mapa de Activos · Emergente · La lógica subyacente",
+      "date": "2027-02-01",
+      "summary": "El blockchain nunca nació para especular con monedas — es una respuesta nueva al antiguo problema de la «confianza».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "¿Por qué necesitamos un «intermediario de confianza»?",
+          "p": "En septiembre de 2008, Lehman Brothers se desplomó y el sistema financiero global empezó a fallar en cascada. Los bancos congelaron cuentas, los gobiernos corrieron a rescatar y los depósitos de la gente común casi se esfumaron. En ese mismo momento, una persona (o un grupo) que se hacía llamar Satoshi Nakamoto escribía un libro blanco titulado: «Bitcoin: un sistema de efectivo electrónico entre pares».\n\nAntes de Bitcoin, todo intercambio de valor dependía de un intermediario: bancos que garantizan transferencias, Alipay que custodia pagos, agentes inmobiliarios que verifican títulos. Esos intermediarios existen porque no confiamos los unos en los otros. Necesitas una autoridad que lleve los libros, que confirme que «este dinero de verdad se movió de su cuenta a la tuya».\n\n**La confianza tiene un coste.** Los bancos cobran comisiones, las remesas transfronterizas tardan días, y la moneda de algunos países puede perder la mitad de su valor de la noche a la mañana. Y más importante aún: el propio intermediario puede fallar — Lehman Brothers es el ejemplo.\n\nSatoshi hizo una pregunta: **¿y si no necesitáramos intermediario? ¿Y si dejáramos que todos llevaran los libros a la vez, de modo que para manipular tuvieras que engañar a todos simultáneamente?**\n\nEso es lo que el blockchain se propone hacer.\n\n> El blockchain nunca nació para especular con monedas — es una respuesta nueva al antiguo problema de la «confianza»."
+        },
+        {
+          "h": "¿Qué obliga al blockchain a ser «honesto»?",
+          "p": "Imagina esto: 50 alumnos en una clase, cada uno con un libro de cuentas idéntico. Cada transacción — Zhang San envía a Li Si 10 yuanes — queda anotada por los 50 a la vez. Si alguien quisiera cambiar en secreto su saldo de 10 a 100, tendría que alterar a la vez los libros de más de la mitad de la clase.\n\nEn una red global de decenas de miles de ordenadores, eso es casi imposible. **No es una restricción moral, sino matemática.** El coste de hacer trampa supera con creces la ganancia de llevar los libros honestamente.\n\nEn términos técnicos, esto se llama **libro mayor distribuido**: sin servidor central, todos los nodos iguales; un **mecanismo de consenso**: todos juntos deciden qué transacción es válida; **criptografía**: las matemáticas garantizan que las firmas son reales y que la historia no se puede alterar.\n\nJunta esos tres y obtienes el blockchain. En su núcleo es una **«máquina de confianza»** — deja que un grupo de desconocidos que no se conocen intercambien valor con seguridad, sin que ninguna autoridad avale."
+        },
+        {
+          "h": "¿Qué papel juega la criptomoneda en este sistema?",
+          "p": "Una red blockchain necesita **incentivos económicos** para sostenerse. ¿Quién lleva los libros? ¿Por qué molestarse? La respuesta de Bitcoin: quienes llevan los libros ganan **Bitcoin como recompensa.**\n\nEs como una autopista que necesita peajes para mantenerse, y Bitcoin es el «peaje» de esta autopista blockchain. Todo el que ayuda a mantener la red (mineros o validadores) cambia potencia de cálculo por criptoactivos. Sin ese incentivo, una cadena pública no puede auto-organizarse ni auto-funcionar.\n\nAsí que **la criptomoneda no es todo el blockchain** — pero es la sangre indispensable de una cadena pública. Mucha gente oye «moneda» y piensa en especulación y burbujas, pero se pierde lo esencial: la moneda existe para que una red descentralizada siga funcionando, no para que te hagas rico de la noche a la mañana."
+        },
+        {
+          "h": "¿Cómo se relaciona Web3 con ambos?",
+          "p": "Web1 fue la era de «solo lectura»: solo podías ver páginas, no interactuar. Web2 fue la era de «leer y escribir»: podías publicar en Weibo, subir vídeos, escribir comentarios, pero tus datos pertenecían a las plataformas. Cada foto que subías, cada palabra que escribías, generaba valor para Facebook y WeChat, y tu única recompensa era «uso gratuito».\n\n**Web3 es la era de «leer, escribir y poseer».** Tu identidad es una dirección de cartera, no un número de teléfono. Tus creaciones se vuelven activos digitales on-chain, no un registro en un servidor. Puedes llevar tu gráfico social y tus datos de una app a otra — las plataformas ya no pueden atraparte.\n\nEl cimiento de Web3 es el **blockchain** (infraestructura de confianza), su combustible la **criptomoneda** (incentivo económico) y su alma la **descentralización** (devolver el poder de las plataformas a los individuos).\n\nNo es una solución perfecta, y no necesariamente reemplazará de golpe el sistema financiero existente. Pero representa una dirección nueva: **cuando no confíes en nadie, al menos puedes confiar en las matemáticas.**"
+        },
+        {
+          "h": "Para cerrar",
+          "p": "Explicamos todo esto no para convencerte de comprar monedas. Entender la tecnología no significa ir a por todas. Pero entenderla te mantiene con la cabeza clara en este campo ruidoso — sabiendo qué es real y qué es burbuja. Y cuando te metas en el bolsillo ese «dinero rápido» de las cripto, recuerda darle un ancla — **el seguro de Hong Kong es el activo cierto que asegura tus ganancias.**"
+        }
+      ]
+    }
+  ],
+  "gold": [
+    {
+      "id": "gold-where-to-store",
+      "title": "Bóveda de puerto libre de Singapur vs caja bancaria de Hong Kong: ¿dónde está más seguro el oro físico?",
+      "subtitle": "Mapa de Activos · Oro · Diversificación geográfica",
+      "date": "2027-01-25",
+      "summary": "Si guardas un activo refugio en un centro de riesgo, es como atar el bote salvavidas a un barco que hace agua.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Compraste oro físico — dónde ponerlo, esa es la cuestión",
+          "p": "La última milla del oro físico es «almacenarlo». ¿En casa? Miedo al robo, miedo al desastre. ¿En una caja bancaria? Eso plantea «¿es estable este banco, esta jurisdicción?». Para quienes tratan el oro como «refugio último», **la elección del lugar de almacenamiento es en sí misma parte de la asignación.**\n\n> Si guardas un activo refugio en un centro de riesgo, es como atar el bote salvavidas a un barco que hace agua."
+        },
+        {
+          "h": "2. Dos opciones offshore principales",
+          "p": "**Caja bancaria de Hong Kong**\n- A favor: cerca, acceso cómodo, sistema de derecho común, canales maduros con el continente\n- En contra: espacio limitado, alto coste para grandes volúmenes; en extremos, en teoría sujeto a la jurisdicción local\n\n**Bóveda de puerto libre de Singapur (p. ej., FreePort)**\n- A favor: bóveda dedicada, altísima seguridad, neutralidad política, ventajas fiscales, posicionamiento de «puerto seguro» reconocido globalmente\n- En contra: lejos, menos cómodo que Hong Kong, umbral y tarifas más altos\n\nAmbas son soluciones de custodia profesional en mercados maduros de estado de derecho; la diferencia de seguridad no es tan grande como se imagina — la diferencia está sobre todo en **comodidad, coste y preferencia geográfica.**"
+        },
+        {
+          "h": "3. La idea central de la diversificación geográfica",
+          "p": "Nuestro consejo a los clientes hace eco de la asignación aseguradora — **diversifica:**\n\n- Oro físico en Singapur (refugio geográfico, neutralidad política)\n- Pólizas en Hong Kong (buena liquidez, funciones ricas)\n- Formando un reparto transfronterizo de activos de «oro en Singapur, pólizas en Hong Kong»\n\nAsí, un vaivén extremo en una sola jurisdicción no golpeará a la vez tu «escudo» y tu «lanza»."
+        },
+        {
+          "h": "4. Un punto que se pasa por alto a menudo",
+          "p": "Al almacenar oro físico, confirma que sea **«allocated» y no «unallocated»** — es decir, que en la bóveda haya de verdad una barra grabada con tu nombre/número, no el fondo común del operador. Lo primero es oro físico que posees; lo segundo es esencialmente un derecho de crédito. Para un refugio, baja hasta el fondo físico."
+        },
+        {
+          "h": "5. Repatriación al seguro de Hong Kong",
+          "p": "El almacenamiento de oro habla de «dispersión geográfica»; la compra de seguro de Hong Kong habla de «dispersión de moneda». Ambos apuntan a un principio: **no apuestes la seguridad de todos tus activos al mismo lugar, la misma moneda, el mismo sistema.** La diversificación es la sabiduría central de la asignación offshore."
+        },
+        {
+          "h": "6. Para cerrar",
+          "p": "Compra bien el oro físico y guárdalo bien — eso es un verdadero «lastre». Las bóvedas de Singapur y las cajas de Hong Kong tienen cada una sus ventajas; la clave es elegir según tu comodidad y volumen. Pero elijas lo que elijas, recuerda — ese oro y tu póliza de Hong Kong son una pareja de quieto-y-movimiento, no competidores."
+        }
+      ]
+    },
+    {
+      "id": "gold-is-insurance-not-investment",
+      "title": "El papel del oro en la asignación de activos",
+      "subtitle": "Mapa de Activos · Oro · Redefiniendo su lugar",
+      "date": "2027-01-18",
+      "summary": "No dirías «este seguro fue una pérdida» solo porque el seguro del coche nunca pagó.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Hemos usado mal la palabra «inversión»",
+          "p": "Muchos compran oro esperando «el precio subirá y ganaré dinero». Ese mismo punto de partida siembra la semilla de la decepción. Porque **el oro nunca fue una buena «inversión» — es el mejor «seguro».** Comprar un seguro esperando rentabilidad de inversión solo puede frustrar.\n\n> No dirías «este seguro fue una pérdida» solo porque el seguro del coche nunca pagó. Con el oro pasa igual: su valor está en «la tranquilidad cuando no lo necesitas», no en «la rentabilidad cuando sí»."
+        },
+        {
+          "h": "2. Por qué el oro no es una buena inversión",
+          "p": "De los datos a largo plazo:\n\n- Descontada la inflación, el rendimiento anualizado real del oro es cercano a cero (escala milenaria)\n- No paga dividendos ni intereses; el coste de tenencia es positivo (almacenamiento, diferencial)\n- Los vaivenes a corto plazo son grandes, pero a largo plazo solo «preserva valor», no «revaloriza»\n\nEn cambio, las acciones ganan el crecimiento empresarial, los bonos los intereses, los inmuebles la renta — **ellos tienen «flujo de caja»; el oro no.** Un activo sin flujo de caja difícilmente puede llamarse «inversión» en sentido estricto."
+        },
+        {
+          "h": "3. Por qué el oro es el mejor seguro",
+          "p": "La esencia del seguro es: **pagar un coste pequeño en lo normal, frenar una gran caída en lo extremo.** El oro encaja perfectamente:\n\n- En lo normal: ocupa el 5 % de los activos, apenas se nota\n- En lo extremo: depreciación de la moneda, turbulencia del sistema, bancos restringidos — el oro sigue siendo reconocido globalmente\n- El «riesgo» que asegura es **el riesgo de colapso monetario-crediticio** — que ningún otro activo puede asegurar"
+        },
+        {
+          "h": "4. El lugar correcto en la asignación de activos",
+          "p": "Una cartera familiar sana debería tener a la vez una capa de «inversión» y una de «seguro»:\n\n- **Capa de inversión** (seguro de Hong Kong, acciones, inmuebles): responsable del crecimiento a largo plazo, de generar flujo de caja\n- **Capa de seguro** (oro, pólizas de protección): responsable del suelo, de evitar la aniquilación sistémica\n\nEl oro está en la capa de seguro. Su trabajo no es hacerte rico, sino **evitar que te quedes sin nada en el peor de los casos.**"
+        },
+        {
+          "h": "5. Repatriación al seguro de Hong Kong",
+          "p": "Hablar de oro nunca fue para que compres más oro, sino para aclarar la división del trabajo: **el oro sujeta el límite inferior, el seguro de Hong Kong eleva el superior.** Uno quieto (oro), otro en movimiento (seguro de Hong Kong) — ese es el sistema de defensa familiar completo. Entrega las expectativas de crecimiento a la capitalización del seguro de Hong Kong; entrega las expectativas de tranquilidad al peso del oro."
+        },
+        {
+          "h": "6. Para cerrar",
+          "p": "La próxima vez que alguien pregunte «¿compro oro ahora?», reformúlalo: «¿está completa la 'capa de seguro' de mi familia?». Si ese 5 % en oro físico aún no está en su sitio, es eso lo que deberías comprar — no para ganar dinero, sino para quedarte tranquilo."
+        }
+      ]
+    },
+    {
+      "id": "gold-paper-vs-physical",
+      "title": "Oro papel vs lingote físico",
+      "subtitle": "Mapa de Activos · Oro · ¿Tienes oro o tienes papel?",
+      "date": "2027-01-11",
+      "summary": "El verdadero refugio es algo que puedes tocar literalmente cuando golpea la crisis.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. «Comprar oro» puede no ser lo que crees",
+          "p": "Muchos dicen «tengo oro» — y al abrirlo resulta ser una cadena de dígitos en una cuenta (oro papel), o un ETF de oro. Esto es ciertamente exposición al oro, pero comparado con «agarrar un lingote con la mano», el control de riesgo subyacente difiere en un nivel entero.\n\n> El verdadero refugio es algo que puedes tocar literalmente cuando golpea la crisis. Lo que no puedes tocar es la custodia ajena de tu confianza."
+        },
+        {
+          "h": "2. La esencia del oro papel: riesgo de contraparte",
+          "p": "Oro papel, ETF de oro, oro en cuenta — en esencia son tu **derecho de crédito** contra el emisor, no oro que posees. Los riesgos:\n\n- **Riesgo de contraparte**: si la institución emisora quiebra, tu «oro» puede no ser reembolsable\n- **Sin retirada física**: la mayoría del oro papel no admite redención física, o el umbral es altísimo\n- **Dependencia del sistema**: depende de que bancos, brókeres y sistemas de liquidación funcionen con normalidad — precisamente los eslabones con más probabilidades de fallar en una crisis\n\nCuando llega la crisis, la «liquidez» del oro papel puede esfumarse al instante; o al querer salir descubres que estás vendiendo la promesa de otro."
+        },
+        {
+          "h": "3. La esencia del lingote físico: tenencia física",
+          "p": "El lingote físico (barras estándar, lingotes de inversión) es un activo que de verdad agarras en la mano:\n\n- **Sin contraparte**: no depende de ninguna institución; nadie puede congelar el oro que tienes en la mano\n- **Moneda fuerte global**: reconocido en cualquier parte, sigue siendo transable en lo extremo\n- **Aislamiento físico**: en una caja o bóveda, desacoplado del sistema financiero\n\nEl coste: coste de almacenamiento, diferencial de compraventa algo mayor, incómodo de transportar. Pero así debe ser un «refugio» — **pagar un poco por la certeza.**"
+        },
+        {
+          "h": "4. No es «o uno o el otro», sino según el escenario",
+          "p": "- Quieres operar a corto plazo, apostando a los vaivenes del precio → el oro papel/ETF es más cómodo\n- Quieres defensa a largo plazo contra los extremos → el lingote físico es más sólido\n\nNuestra tendencia: si tratas el oro como «seguro familiar», prioriza el físico; si como «asignación a corto plazo», el oro papel también vale. Pero **no creas que comprando oro papel ya has completado tu «refugio».**"
+        },
+        {
+          "h": "5. Repatriación al seguro de Hong Kong",
+          "p": "Sea papel o físico, el oro siempre es un «activo sin intereses». Sujeta la línea de fondo, pero lo que hace crecer los activos es otra cosa — **el flujo de caja en dólares del seguro de Hong Kong, que capitaliza.** El oro como escudo, el seguro de Hong Kong como lanza; lógica de circuito cerrado."
+        },
+        {
+          "h": "6. Para cerrar",
+          "p": "Distinguir «oro» de «papel» es la primera lección de la asignación en oro. Para un refugio de verdad, mantén parte de tu oro en forma física. Para el crecimiento, entrega esa tarea al seguro de Hong Kong. Cada uno en su papel, sin reemplazarse."
+        }
+      ]
+    },
+    {
+      "id": "gold-5-percent",
+      "title": "En 2026, con el sistema fiduciario aflojando, ¿por qué una familia debe guardar un 5 % en oro físico?",
+      "subtitle": "Mapa de Activos · Oro · Mantener la línea de fondo",
+      "date": "2027-01-04",
+      "summary": "Cuando todos los activos de papel apuestan a que «el futuro será mejor», el oro apuesta a que «si viene lo peor, yo sigo aquí».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Por qué siempre se recuerda al oro en una crisis",
+          "p": "Cada conflicto geopolítico, cada ola de impresión de dinero, cada vez que la gente duda de «si el dinero aún vale algo», el oro vuelve a mencionarse. No es casualidad — **el oro es el «objeto de confianza último» de la humanidad, usado durante cinco mil años; no depende de ningún gobierno, banco ni algoritmo.**\n\n> Cuando todos los activos de papel apuestan a que «el futuro será mejor», el oro apuesta a que «si viene lo peor, yo sigo aquí»."
+        },
+        {
+          "h": "2. Las señales de «aflojamiento» del sistema fiduciario",
+          "p": "Estamos en un punto sutil del tiempo:\n\n- Los bancos centrales de todo el mundo llevan años siendo compradores netos de oro; las compras de 2022–2024 marcaron máximos de décadas — los propios bancos centrales votan con los pies\n- La deuda de las grandes economías es alta, y la sobreemisión de dinero se ha vuelto la norma\n- La fragmentación geopolítica y la tendencia a «des-singularizar» las monedas de reserva son claras\n- El crédito del dólar sigue estable, pero la confianza marginal en la «munición ilimitada» está cayendo\n\nEsto no significa que el dólar vaya a colapsar, sino que — **apostar el 100 % de tu confianza a una sola moneda es en sí mismo un riesgo.**"
+        },
+        {
+          "h": "3. Por qué «5 %» y no «50 %»",
+          "p": "El oro tiene dos carencias fatales que lo condenan a ser solo un «actor secundario»:\n\n1. **Sin flujo de caja**: el oro no paga dividendos ni intereses; mantenerlo significa renunciar a intereses.\n2. **Revalorización lenta a largo plazo**: descontada la inflación, el rendimiento real milenario del oro es cercano a cero.\n\nAsí que el papel del oro no es «inversión», sino «seguro». El 5 % es el «punto dulce» que la mayoría de los modelos de asignación dan para «mantener la línea de fondo sin frenar el crecimiento» — **lo bastante para sujetar el suelo en casos extremos, sin ser tanto como para lastrar los activos a largo plazo.**"
+        },
+        {
+          "h": "4. La lógica de pareja entre el oro y el seguro de Hong Kong",
+          "p": "Esta es la repatriación clave: **el oro se encarga de la «defensa», el seguro de Hong Kong del «ataque».**\n\n- Oro: preserva valor cuando llega el riesgo sistémico; una cápsula de supervivencia sin intereses\n- Seguro de Hong Kong: capitalización a largo plazo, genera flujo de caja en dólares; el motor del crecimiento de los activos\n\nUno quieto, otro en movimiento — juntos forman el sistema de defensa completo de una familia. Solo oro, y los activos se «congelan»; solo seguro de Hong Kong, y te falta un colchón para los casos extremos. Combinados, puedes avanzar o retroceder."
+        },
+        {
+          "h": "5. Para cerrar",
+          "p": "Guardar un 5 % en oro físico no es predecir el apocalipsis, sino reconocer que «la incertidumbre es la norma». Es barato, de alto valor psicológico, el cinturón de seguridad más sencillo en los activos de una familia. Abróchate este cinturón y deja que el motor de capitalización del seguro de Hong Kong te lleve hacia delante."
+        }
+      ]
+    },
+    {
+      "id": "hk-vs-shuibei-gold",
+      "title": "Hong Kong se vuelve centro de reserva de oro",
+      "subtitle": "Mapa de Activos · Oro · Encadenado o en bolsa, no los confundas",
+      "date": "2026-11-24",
+      "summary": "Hong Kong sube a la capa de infraestructura financiera; Shuibei se queda en la capa industrial y de consumo. Es una división del trabajo, no una competencia.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Hong Kong no quiere un «mercado de joyería más grande»",
+          "p": "Hong Kong se dirige a ser un **centro global de reserva, compensación y fijación de precios del oro** — no a reiniciar un negocio mayorista de joyería. En el discurso político y en los comunicados de la Oficina de Servicios Financieros y del Tesoro y de la HKMA, las palabras clave son:\n\n- **Centro de reserva**: elevar la capacidad de almacenamiento de oro a más de 2.000 toneladas en tres años\n- **Compensación central**: el sistema central de compensación y liquidación de oro inició operaciones piloto en 2026, lanzamiento formal en el primer trimestre de 2027\n- **Precios en RMB**: promover futuros de oro denominados y liquidados físicamente en RMB y desarrollar productos de oro en RMB offshore\n- **Acumulación del Exchange Fund**: la HKMA estudia un aumento moderado de las tenencias de oro del Exchange Fund y trasladar los stocks existentes a almacenes designados\n\nEn resumen, Hong Kong no compite por el negocio de Shuibei — apunta a **las posiciones de Londres, Nueva York y Singapur en reserva de oro, compensación y fijación de precios offshore.**"
+        },
+        {
+          "h": "2. Hong Kong y Shuibei: una división del trabajo, no una ruptura",
+          "p": "Las fortalezas de Shuibei son el procesamiento, el mayorista, el retail, el diseño y la cadena de suministro — sigue siendo el mayor centro de distribución de joyería de oro de China. Pero en los últimos años mostró problemas: «pre-pricing», «préstamo de oro» y «liquidación diferida» se retorcieron en especulación de alto apalancamiento; a principios de 2026 aparecieron riesgos de redención de los proveedores de material; y su ventaja de precio minorista se redujo tras la reforma fiscal de 2025.\n\nAsí que la división del trabajo entre ambos lugares se va aclarando:\n\n- **Shenzhen Shuibei**: refinado, procesamiento, cadena de suministro de joyería (capa industrial y de consumo)\n- **Hong Kong**: compensación, almacenamiento, precios, comercio offshore (capa de infraestructura financiera)\n\nAmbos cooperan mediante el memorando de cooperación Shenzhen-Hong Kong, el comercio de procesamiento y la conectividad de almacenamiento. **Hong Kong mantendrá deliberadamente distancia del apalancamiento privado y del comercio de mercado gris**, porque necesita la imagen de credibilidad de un centro internacional de reservas."
+        },
+        {
+          "h": "3. Por qué Hong Kong encaja mejor como centro de reservas",
+          "p": "Tiene varias cosas que Shuibei no tiene:\n\n- **Puerto franco**: importación/exportación de oro sin aranceles, flujo de capital cómodo\n- **Sistema de derecho común**: titularidad de activos, ejecución de contratos y resolución de disputas transfronterizas en los que confían las instituciones internacionales\n- **Sistema de compensación central**: reduce el riesgo de contraparte de la compensación bilateral\n- **Almacenamiento aeroportuario y custodia bancaria**: adecuado para bancos centrales, gestores de activos y family offices\n- **Ventaja del RMB offshore**: puede emitir oro denominado en RMB, llenando el hueco de activos refugio en RMB offshore"
+        },
+        {
+          "h": "4. ¿Encadenado o en bolsa? Son dos vías paralelas",
+          "p": "Un error común es «el token on-chain luego se tituliza en la bolsa». La realidad es **un activo subyacente, dos vías paralelas** — participaciones cotizadas y participaciones tokenizadas emitidas en paralelo.\n\nToma como ejemplo el Huaxia Digital Gold ETF (3418):\n\n- **Clase cotizada (3418/9418/83418)**: se negocia en la HKEX, como comprar una acción, liquidación T+2\n- **Clase tokenizada no cotizada**: emitida en Ethereum, se suscribe y redime a través de una plataforma VATP autorizada (p. ej., OSL)\n\nEl Hang Seng Gold ETF funciona igual: el 3170 está cotizado en la HKEX, mientras HSGLD es su clase tokenizada no cotizada distribuida a través de HashKey."
+        },
+        {
+          "h": "5. Comprar tokens de oro on-chain aún no merece la pena",
+          "p": "Hasta octubre de 2026, la SFC solo ha abierto el mercado secundario de **fondos monetarios tokenizados**; las participaciones tokenizadas de los ETF de oro **aún no tienen mercado secundario** — solo puedes suscribir y redimir, no comprar y vender libremente como una acción.\n\nLa comparación:\n\n- Las comisiones on-chain son más altas (unos 1,05 %–1,2 %/año, frente a un 0,40 %–0,65 %/año de las clases cotizadas)\n- El KYC on-chain es más estricto (KYC adicional del VATP + un test de conocimientos sobre activos virtuales)\n- La liquidez on-chain es peor (sin mercado secundario)\n\nLas ventajas on-chain — negociación 7×24, liquidación T+0, composición programable — siguen atascadas en la fase de «la arquitectura está lista, a la espera de que los reguladores la abran»."
+        },
+        {
+          "h": "6. Cierre",
+          "p": "Si solo quieres exposición al oro, comprar el ETF cotizado (p. ej., 3418 o 3170) es hoy la opción más práctica. El canal on-chain les conviene a los inversores que ya usan HashKey u OSL y quieren gestionar cripto y activos tradicionales en una sola plataforma.\n\nEl verdadero punto de inflexión es el momento en que **las participaciones de oro tokenizado se aprueben para el mercado secundario VATP** — solo entonces el canal on-chain mostrará el valor práctico de la negociación continua y la liquidación en tiempo real. Hasta entonces, no mitifiques el «subirse a la cadena»."
+        }
+      ]
+    },
+    {
+      "id": "hk-tokenized-gold-market",
+      "title": "¿Puede ya el inversor minorista comprar el oro tokenizado de Hong Kong? Mercado primario, secundario y liquidez, explicados",
+      "subtitle": "Mapa de Activos · Oro · No confundas un piloto de liquidación con una plataforma de trading",
+      "date": "2026-11-17",
+      "summary": "Ahora mismo esto es un piloto mayorista interbancario de liquidación, no un mercado secundario donde el minorista pueda operar libremente.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Que Hong Kong haya lanzado un sistema de liquidación de oro tokenizado no significa que ya puedas comprarlo desde tu bróker. Hoy es un piloto de compensación mayorista entre bancos, con el mercado secundario aún sin abrir. Este artículo separa mercado primario, secundario y liquidez para que nadie confunda un piloto con una plataforma de trading."
+        }
+      ]
+    },
+    {
+      "id": "hk-tokenized-gold-what",
+      "title": "Qué es el «oro tokenizado» de Hong Kong",
+      "subtitle": "Mapa de Activos · Oro · Nueva infraestructura de liquidación",
+      "date": "2026-11-10",
+      "summary": "No es comprar oro y marcharte — es añadir un registro on-chain trazable al oro ya custodiado por el banco.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "El oro tokenizado suena a futuro, pero su mecánica es concreta: el lingote no se mueve de la custodia bancaria; sobre él se emite un token on-chain con trazabilidad. Este artículo explica, paso a paso, cómo un lingote se convierte en token y qué significa en la práctica."
+        }
+      ]
+    },
+    {
+      "id": "hk-gold-hub-strategy",
+      "title": "Por qué Hong Kong construye un centro internacional de reserva de oro",
+      "subtitle": "Mapa de Activos · Oro · El papel de Hong Kong en la desdolarización",
+      "date": "2026-11-03",
+      "summary": "Que Hong Kong haya metido el oro en su primer plan quinquenal no va de joyería, sino de llenar un hueco en los activos refugio en RMB offshore en plena desdolarización global.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Que Hong Kong haya incluido el oro en su primer plan quinquenal dice mucho: no busca revivir el mayorista de joyería, sino construirse como centro de reserva, compensación y fijación de precios a escala mundial. Detrás está la desdolarización global y la necesidad de activos refugio en RMB offshore. Este artículo desmonta la estrategia y lo que implica para un inversor."
+        }
+      ]
+    },
+    {
+      "id": "es-gold-5-percent",
+      "title": "Por qué las familias latinoamericanas también deberían reservar un 5 % en oro físico",
+      "subtitle": "Mapa de Activos · Oro",
+      "date": "2026-08-04",
+      "summary": "",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "> El oro no habla, pero ha acompañado a la humanidad durante cinco milenios. Está presente allí donde la moneda de cada imperio cayó a cero.\n\n🌍 **I. El sentido universal del oro**\n\nDesde los faraones egipcios hasta el Imperio inca, desde los billetes de la dinastía Ming hasta las bóvedas de los bancos centrales de hoy, el oro es la única reserva de valor que cruza civilizaciones, religiones y fronteras sin perder validez.\n\nNo depende del respaldo de ningún gobierno. Su escasez es física, no la decide una imprenta.\n\nEso tiene especial peso para las familias latinoamericanas que han vivido el colapso de su moneda local.\n\n📜 **II. La memoria inflacionaria de Latinoamérica**\n\nLos argentinos recuerdan que, por rápido que subiera el sueldo, nunca alcanzaba para seguirle el paso a los precios del supermercado.\n\nLos venezolanos recuerdan que los números seguían ahí en la cuenta bancaria, pero el poder adquisitivo se había vuelto cero.\n\nIncluso en años de inflación moderada, la capacidad de compra de la moneda local frente al dólar se pierde en silencio, generación tras generación.\n\nPrecisamente en esos momentos se ve el valor del oro: cuando se quiebra la confianza en el papel moneda, la gente vuelve a ese metal amarillo.\n\n⚖️ **III. Oro en papel vs. oro físico**\n\nMuchos compran \"oro en papel\": una cadena de dígitos en la cuenta, detrás de la cual hay una promesa del banco.\n\nEl problema es el riesgo de contraparte: el oro en papel depende de que la entidad emisora no quiebre ni incumpla. En la crisis de 2008, no pocos tenedores de \"cuentas de oro\" descubrieron que lo único que tenían era el pagaré de otro.\n\nEl oro físico es distinto. Reposa en tu mano, en tu caja fuerte; es algo tangible que no depende de la solvencia de nadie.\n\nPara quien quiere realmente un \"suelo\", el oro físico es esa última línea de defensa.\n\n🛡️ **IV. Combinarlo con el seguro de Hong Kong: lo quieto y lo activo**\n\nEl oro no genera interés ni reparte dividendos. Es un escudo, no una lanza.\n\nLo que hace crecer de verdad el patrimonio familiar son los activos que pueden capitalizar a largo plazo y generar flujo de caja —como la póliza en dólares de Hong Kong de la que hablamos una y otra vez—.\n\nPor eso nuestra recomendación nunca ha sido \"compra solo oro\", sino: deja cerca de un 5 % en oro físico como defensa de base, y coloca el resto en activos offshore que sí producen rendimiento.\n\nEl oro cuida el suelo; el seguro de Hong Kong empuja el crecimiento. Lo quieto y lo activo: así se completa la defensa y el ataque de un hogar.\n\n<center>✦ ✦ ✦</center>\n\n⚓ **Vuelta al arca**\n\nEn la incertidumbre, primero el escudo, luego la lanza. ¿Quieres ver si el \"escudo\" de tu familia tiene el grosor suficiente? Agenda una diagnosis 1 a 1 y trazamos juntos un mapa de tus activos."
+        }
+      ]
     }
   ],
   "insurance": [
+    {
+      "id": "hk-why-choose-2026",
+      "title": "En el incierto 2026, por qué más familias del continente eligen el seguro de ahorro de Hong Kong",
+      "subtitle": "Academia de Seguros de Hong Kong · Activos de certeza en una era incierta",
+      "date": "2026-11-21",
+      "summary": "Mientras todos miran las rentabilidades, los verdaderamente listos se preguntan: ¿puede este activo sobrevivir al próximo invierno?",
+      "pin": true,
+      "order": 2,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. ¿Por qué los activos de seguro se mantienen más firmes cuando golpea la tormenta?",
+          "p": "En 1929, la bolsa estadounidense se desplomó y la Gran Depresión barrió el planeta. Los datos de aquel año mostraron un fenómeno revelador: un capital enorme huyó de bolsas, bonos y bancos, y fluyó en dos direcciones — entidades de ahorro y compañías de seguros. Entonces el seguro de vida no estaba muy desarrollado, pero el capital que entraba en seguros ya rivalizaba con el de las entidades de ahorro.\n\nEn 2008 estalló la crisis subprime; cientos de bancos quebraron y el Gobierno y la Reserva Federal estadounidenses se afanaron por rescatar el mercado. Sin embargo, **desde 1994, pocas aseguradoras han necesitado intervención gubernamental para proteger a sus asegurados.** Las entidades financieras pueden quebrar, pero las pólizas — sobre todo las de ahorro a largo plazo — tienen una «tasa de supervivencia» ante crisis financieras muy superior a la de los depósitos bancarios.\n\nEsto no es suerte. La lógica de asignación de activos de las aseguradoras es radicalmente distinta a la de los bancos. Los bancos toman prestado a corto para prestar a largo, usando los depósitos a corto de sus clientes para préstamos a largo; una fuga de depósitos significa crisis de liquidez. El pasivo de una aseguradora son **primas a largo plazo**, y su activo es una **cartera de inversión globalmente diversificada** — activo y pasivo emparejados en el tiempo. Esa estructura la hace naturalmente más resistente a las tormentas que un banco.\n\n> Mientras todos miran las rentabilidades, los verdaderamente listos se preguntan: ¿puede este activo sobrevivir al próximo invierno?"
+        },
+        {
+          "h": "2. ¿En qué se diferencian en lo esencial el seguro de Hong Kong y el del continente?",
+          "p": "Es la pregunta más repetida. La respuesta no es «cuál es mejor», sino que **viven en dos sistemas financieros distintos.**\n\nLas aseguradoras del continente, limitadas por los controles de capital, invierten principalmente en el mercado doméstico — deuda pública, depósitos, renta variable y fija nacional. Y el tipo de interés de tarificación del seguro de vida a largo plazo continental está limitado por regulación al 3 %; en un ciclo de bajada de tipos, la propia rentabilidad de inversión de las aseguradoras no deja de caer. La rentabilidad que obtienes queda, naturalmente, tapada por el techo de un solo mercado.\n\nHong Kong, como puerto franco, deja a sus aseguradoras invertir en todo el mundo. **La base de activos del sector asegurador de Hong Kong no se limita a Hong Kong, ni a Asia: es global.** Por eso el seguro de ahorro de Hong Kong puede alcanzar una rentabilidad anualizada a largo plazo del 7 % o más — y ojo, este número no es magia, sino el resultado razonable de una cartera global. Durante las últimas dos décadas, el ratio de cumplimiento de dividendos de las principales aseguradoras de Hong Kong se ha mantenido en torno al 100 %.\n\nOtra diferencia central es la moneda. Las pólizas continentales están denominadas en RMB; la depreciación del RMB erosiona directamente el poder adquisitivo. Pero **el seguro de ahorro de Hong Kong permite mantener y conmutar entre USD, HKD, RMB y más.** Una póliza puede mantener varias monedas a la vez — lo que, en términos de asignación de activos, equivale a una función de cobertura cambiaria incorporada."
+        },
+        {
+          "h": "3. Las cinco ventajas centrales del seguro de ahorro de Hong Kong: ¿cuál es la más fácil de pasar por alto?",
+          "p": "**Primero, certeza de rentabilidad a largo plazo.** La parte garantizada del seguro de ahorro con dividendos de Hong Kong es baja — normalmente por debajo del 1 %. Pero con dividendos, la TIR a largo plazo ronda el 7 %. Algunos preguntan: los dividendos no están garantizados, ¿por qué creerlos? La respuesta es la historia. Los dividendos efectivamente pagados por las grandes aseguradoras de Hong Kong en las últimas dos décadas apenas se han desviado de la rentabilidad demostrada. No es sentimiento: son datos.\n\n**Segundo, protección de la privacidad.** Hong Kong funciona bajo el derecho común, con una protección muy fuerte de la privacidad patrimonial personal. La información de la póliza no entra en los sistemas crediticios ni tributarios del continente. Para quien necesita aislar la información de sus activos, ese valor supera con creces unos puntos de rentabilidad.\n\n**Tercero, funciones de herencia flexibles.** Las pólizas de Hong Kong admiten división de póliza, cambio ilimitado de asegurado y designación de titular contingente. Es decir, puedes dividir una póliza grande en varias, asignadas en proporciones distintas a hijos distintos; o transferir con suavidad los derechos de la póliza a la siguiente generación tras el fallecimiento del asegurado — **sin pasar por la sucesión, sin generar disputa hereditaria.**\n\n**Cuarto, aislamiento del riesgo.** Los activos de la póliza son independientes del resto del patrimonio del titular. Jurídicamente no participan en el pago de deudas ni se ven afectados por la división de bienes conyugales. Las pólizas de Hong Kong lo logran porque son activos offshore bajo jurisdicción del derecho de Hong Kong.\n\n**Quinto, y el más subestimado: bonificaciones de prima y descuentos por prepago.** Las aseguradoras de Hong Kong suelen ofrecer descuentos en la prima del primer año, bonificaciones en años siguientes y un alto interés garantizado sobre las primas prepagadas (hoy en torno al 5 % en los grandes bancos). Sumándolo todo, el desembolso real queda muy por debajo del número de la vitrina."
+        },
+        {
+          "h": "4. ¿Puede el seguro de ahorro realmente «atravesar mercados alcistas y bajistas»?",
+          "p": "En 2025, las pólizas nuevas suscritas por visitantes continentales en Hong Kong representaron el 27 % de todo el mercado de Hong Kong. Y entre ellas, **el seguro de ahorro con dividendos fue, con mucha diferencia, la primera opción.**\n\nNo es «seguir a la manada». Con los tipos de depósito cayendo del 3 % al 1,5 %, la casi desaparición de los grandes certificados de depósito y la liquidez inmobiliaria seca, el dilema central de las familias del continente es: **no encuentran un activo a largo plazo que a la vez preserve el poder adquisitivo y no exija atención diaria.**\n\nEl seguro de ahorro de Hong Kong llena exactamente ese hueco. No es para apostar a corto plazo, sino para anclar el poder adquisitivo a largo plazo. Su filosofía es simple: pon el dinero en una base invertida globalmente, deja que un gestor profesional la dirija, fija un ciclo de capitalización de varios años y libera tu atención de los vaivenes diarios.\n\n**Nadie puede predecir el mercado de mañana. Pero la historia demuestra una y otra vez una cosa: las estrategias de asignación que viven mucho, aguantan y evitan el ruido son las que acaban ganando.** El seguro de ahorro de Hong Kong no representa la rentabilidad más alta, sino la «certeza» más fiable — y en un mundo incierto, la certeza misma es un activo escaso.\n\n> El sector asegurador de Hong Kong gestiona activos por valor de USD 4,5 billones, más desarrollado incluso que su banca — no es casualidad."
+        }
+      ]
+    },
+    {
+      "id": "hk-market-landscape",
+      "title": "El panorama completo del mercado asegurador de Hong Kong",
+      "subtitle": "Academia de Seguros de Hong Kong · Estructura del mercado y reglas de compra",
+      "date": "2026-11-14",
+      "summary": "El seguro de Hong Kong no vende una póliza: ofrece el punto de entrada de menor coste a la asignación global de activos.",
+      "pin": true,
+      "order": 1,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. ¿Por qué Hong Kong puede estar en la primera división mundial del seguro?",
+          "p": "En 1841, el año en que Hong Kong abrió su puerto, nació su primera compañía de seguros. Hoy, la industria aseguradora de Hong Kong acumula más de 180 años. No es una industria nueva, sino un sistema maduro validado una y otra vez.\n\nEn los rankings de centros financieros globales, Hong Kong ocupa desde hace tiempo el tercer puesto, junto a Nueva York y Londres, como «NY-Londres-HK». Pero en el nicho del seguro, **Hong Kong lidera el mundo en penetración aseguradora y Asia en densidad aseguradora.** Es decir, lo que los hongkoneses gastan en seguros como porcentaje del PIB y la prima per cápita son de nivel mundial.\n\nA finales de 2022, Hong Kong contaba con 164 aseguradoras autorizadas: 89 en ramos generales, 53 en ramos de vida (vida y ahorro) y 19 en ambos. Estas compañías llegan de todas partes: 96 constituidas en Hong Kong, 12 en Bermudas, 10 en el Reino Unido y 9 en Estados Unidos. De las 20 mayores aseguradoras del mundo, **12 están autorizadas a operar en Hong Kong.**\n\nEsto no es un «mercado regional»: es un centro global de asignación de capital asegurador.\n\n> El seguro de Hong Kong no vende una póliza: ofrece el punto de entrada de menor coste a la asignación global de activos."
+        },
+        {
+          "h": "2. ¿Quién mueve el mercado asegurador de Hong Kong? Un vistazo rápido al panorama de seis aseguradoras",
+          "p": "Para los clientes con vínculos con China continental, las que más suelen aparecer son:\n\n**AIA** — fundada en Shanghái en 1919, trasladó su sede a Hong Kong en 1931; hoy es la aseguradora con más pólizas en Hong Kong. Enfocada en Asia, suscripción flexible y pionera del plan multidivisa — es decir, puedes mantener dólares, HKD, RMB y más monedas en una misma póliza. Ratio de solvencia en 2022: 283 %.\n\n**Prudential (Reino Unido)** — fundada en Londres en 1848, entró en Hong Kong en 1964. Un argumento de venta central es su «plan con participación financiado por accionistas»: el 100 % de los beneficios va a los asegurados, sin retener porción para el accionista. Ratio de solvencia en 2022: 307 %. En 2023 fue la aseguradora más demandada de Hong Kong.\n\n**AXA (Francia)** — nacida en 1816, el mayor grupo asegurador del mundo, puesto 48 en el Fortune Global 500 de 2022. AXA es muy competitiva en Hong Kong y destina el 90 % de los beneficios a los asegurados con participación.\n\n**Manulife** — la mayor aseguradora de Canadá y el segundo grupo financiero de Norteamérica; opera en Hong Kong desde 1897, es el mayor proveedor de MPF de Hong Kong y ha sido elegida cuatro veces consecutivas como la marca de seguros más satisfactoria de Hong Kong.\n\n**FWD** — antes ING; cambió de nombre en 2013 tras la adquisición por parte de Pacific Century Group, de Richard Li. Opera en diez mercados asiáticos; ratio de solvencia en 2022: 295 %.\n\n**YFLife (MassMutual Asia)** — la estadounidense MassMutual, fundada en 1851; en 2018 Yunfeng Financial (respaldada por Jack Ma y David Yu) completó la adquisición del 60 % de MassMutual Asia y se convirtió en su accionista principal.\n\nTodas estas compañías comparten: **larga historia (más de un siglo de media), operación multinacional, décadas de arraigo en Hong Kong y una estricta supervisión de la Autoridad de Seguros de Hong Kong.**"
+        },
+        {
+          "h": "3. ¿Qué tipos de seguro de Hong Kong existen y a quién conviene cada uno?",
+          "p": "El seguro de Hong Kong tiene cinco grandes categorías, cada una con fortalezas muy distintas:\n\n**1. Ahorro con dividendos (el más extendido)** — el tipo más comprado por los clientes continentales. Argumento central: **crecimiento compuesto a largo plazo**; el rendimiento anualizado a largo plazo de los productos estrella ronda el 7 %. Admite conmutación multidivisa, división de póliza y cambio ilimitado de asegurado — funciones que convierten una póliza en una herramienta de herencia transgeneracional.\n\n**2. Protección por enfermedades graves (CI)** — la ventaja del CI de Hong Kong: la suma asegurada crece con los dividendos, a diferencia de los productos continentales de suma fija. Puede pagar hasta 9 veces, cubre más de 50 enfermedades graves, con cobertura de siniestros en todo el mundo. Inconvenientes: los pagos por enfermedades menores restan cobertura del CI, y los fumadores pagan recargo.\n\n**3. Medicina de gama alta** — cobertura anual de hasta HKD 20 millones, vitalicia de HKD 50 millones, y algunos productos sin tope vitalicio. Renovación vitalicia garantizada, tratamiento global y reembolso total. Para quienes planean vivir en el extranjero y valoran la calidad médica internacional.\n\n**4. Vida entera** — primas un 50 %–100 % más baratas que en el continente, sin tope de cobertura, usada por clientes de alto patrimonio para herencias grandes. Puede combinarse con financiación de primas, usando el capital barato de la banca para apalancar más cobertura.\n\n**5. Vida universal** — en el continente el seguro universal tiende a la gestión patrimonial, mientras que el de Hong Kong se usa más para **transferencia de grandes activos y financiación de primas**, una herramienta avanzada en la asignación de activos de clientes de alto nivel.\n\nLos seguros de accidentes y de medicina ordinaria conviene comprarlos en el continente, por la integración con la seguridad social; ahí la ventaja de los productos de Hong Kong no es clara."
+        },
+        {
+          "h": "4. Reglas y protecciones al comprar siendo cliente continental",
+          "p": "Muchos preguntan: ¿una póliza firmada en Hong Kong está legalmente protegida? Respuesta: **está protegida por el derecho de Hong Kong.** Según el capítulo 41 de la Ordenanza de Seguros de Hong Kong, las pólizas firmadas por residentes continentales como visitantes en Hong Kong son plenamente legales. Para proteger sus intereses, la Autoridad de Seguros de Hong Kong exige firmar una «Declaración de hechos relevantes para visitantes continentales que contratan seguros de vida/personales en Hong Kong», que informa con claridad sobre dividendos, riesgo cambiario, etc., para evitar malas ventas.\n\nTambién hay una cláusula que los expertos valoran pero pocas veces publicitan: **la cláusula de incontestabilidad.** Pasados dos años desde su entrada en vigor, la aseguradora ya no puede negarse a pagar alegando «ocultación u omisión» del asegurado. Esto da al asegurado una enorme tranquilidad jurídica.\n\nAdemás, desde 2013, el alcance gratuito del servicio de la Oficina de Reclamaciones de Seguros de Hong Kong se amplió a los no residentes. No necesitas vivir en Hong Kong ni tener estatus de residente: con tal de que la póliza se haya emitido bajo el derecho de Hong Kong, disfrutas del servicio gratuito de mediación de disputas.\n\n**El verdadero valor del seguro de Hong Kong no es la rentabilidad de un producto de inversión, sino que representa una puerta a la asignación global de activos.** A través de esa puerta, la moneda de tus activos puede pasar a dólares, tus beneficiarios pueden abarcar tres generaciones y tu capital puede buscar crecimiento en los mercados globales — y todo queda escrito en una póliza protegida por el derecho de Hong Kong.\n\n> 12 de las 20 mayores aseguradoras del mundo operan en Hong Kong — esto no es un mercado local, es un centro global de capital."
+        }
+      ]
+    },
+    {
+      "id": "sg-us-hk-insurance-compare",
+      "title": "IUL de Singapur vs IUL de EE.UU. vs seguro de dividendos de Hong Kong",
+      "subtitle": "Academia de Seguros de Hong Kong · Una tabla para ver el posicionamiento de los tres mercados",
+      "date": "2026-11-07",
+      "summary": "Entender las diferencias entre los tres mercados importa mucho más que creer ciegamente en la promoción de cualquiera de ellos.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Singapur, Estados Unidos y Hong Kong son las tres plazas offshore más citadas, pero envían señales muy distintas en función y umbral. Compararlas con datos evita caer en el marketing de un solo mercado. Este artículo las ordena en un marco común."
+        }
+      ]
+    },
+    {
+      "id": "sg-insurance-overview",
+      "title": "El seguro de Singapur",
+      "subtitle": "Academia de Seguros de Hong Kong · El verdadero posicionamiento del mercado de Singapur",
+      "date": "2026-10-31",
+      "summary": "El seguro de Singapur no es «un Hong Kong mejor», sino «un Hong Kong con un posicionamiento distinto».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Singapur se posiciona como refugio de estabilidad política y comercial, y su seguro refleja exactamente eso: solidez y defensa, a costa de umbrales más altos. Entender en qué se parece y en qué se separa de Hong Kong evita elegir por eslóganes. Este artículo sitúa su verdadera posición."
+        }
+      ]
+    },
+    {
+      "id": "us-vs-hk-insurance",
+      "title": "Asegurarse en EE.UU. o en Hong Kong",
+      "subtitle": "Academia de Seguros de Hong Kong · El libro mayor de dos rutas offshore",
+      "date": "2026-10-24",
+      "summary": "Elegir un mercado no es elegir el mejor, sino el que encaja con tu estado actual.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Dos destinos offshore, dos etapas de la vida",
+          "p": "El seguro de EE.UU. y el de Hong Kong se comparan a menudo. Pero nuestra postura es clara: **sirven a personas de distinto nivel de activos y distinta etapa de vida.** Este texto usa un marco de «tres costes» para exponer el libro mayor.\n\n> Elegir un mercado no es elegir el mejor, sino el que encaja con tu estado actual."
+        },
+        {
+          "h": "2. Coste de tiempo: Hong Kong es rápido, EE.UU. es lento",
+          "p": "- **Hong Kong:** una póliza de ahorro estándar se firma en 1–2 días, la suscripción se resuelve en 1–4 semanas, todo en un mes. Algunos productos admiten solicitud por vídeo.\n- **EE.UU.:** exige cita, estancia en EE.UU., examen médico y firma presencial; la suscripción puede tardar meses. La compleja estructura del IUL alarga aún más el proceso.\n\nPara familias con poco tiempo que lo quieren resuelto rápido, el seguro de Hong Kong es claramente menos carga."
+        },
+        {
+          "h": "3. Coste de tenencia: EE.UU. es más caro, Hong Kong es más ligero",
+          "p": "- **EE.UU.:** comisiones de administración de póliza, coste del seguro (COI), intereses del préstamo (si hay financiación) y posibles costes de declaración fiscal — sumados, no es barato.\n- **Hong Kong:** sin cuota anual, sin comisión de administración, solo la prima en sí. La multidivisa y la división de póliza se usan gratis.\n\nDurante el periodo de tenencia, el «ni te enteras» del seguro de Hong Kong es su mayor ventaja oculta."
+        },
+        {
+          "h": "4. Coste de salida: Hong Kong es más flexible",
+          "p": "- **Ahorro de Hong Kong:** admite retirada parcial, préstamo sobre póliza y rescate (pasado el periodo de reflexión); buena liquidez.\n- **IUL de EE.UU.:** gran pérdida por rescate anticipado, intereses sobre préstamos y una estructura compleja que encarece la salida.\n\nSi puede que necesites el dinero en el futuro, la salida flexible del seguro de Hong Kong es una ventaja real y tangible."
+        },
+        {
+          "h": "5. Tabla comparativa",
+          "p": "| Dimensión de coste | Asegurarse en Hong Kong | Asegurarse en EE.UU. |\n|----------|----------|----------|\n| Coste de tiempo | Bajo (en 1 mes) | Alto (meses) |\n| Coste de tenencia | Muy bajo (sin cuota anual) | Alto (administración + intereses) |\n| Coste de salida | Bajo (retirada parcial permitida) | Alto (gran pérdida anticipada) |\n| Ideal para | Clase media y nuevos ricos | Ultra alto patrimonio + vínculo con EE.UU. |"
+        },
+        {
+          "h": "6. Conclusión: el seguro de Hong Kong es el punto de partida de «menor fricción»",
+          "p": "No negamos el valor del seguro de EE.UU.: sirve a quienes tienen un ciclo de vida estadounidense y necesidades de sucesión de decenas de millones. Pero para familias que empiezan ahora su asignación offshore, **el seguro de Hong Kong es la puerta con menor coste de tiempo, de tenencia y de salida.**\n\nEntra primero por esta puerta; cuando tu nivel de activos y tu etapa de vida suban, plantearse la puerta americana no será tarde.\n\n> La asignación offshore no es un asunto de una sola vez. Subirse al autobús importa más que qué autobús es."
+        },
+        {
+          "h": "7. Para cerrar",
+          "p": "EE.UU. o Hong Kong: la respuesta no está en «cuál es más prestigioso», sino en «cuál encaja con el tú actual». Para la gran mayoría, la baja fricción del seguro de Hong Kong lo convierte en la primera parada más pragmática."
+        }
+      ]
+    },
+    {
+      "id": "us-iul-premium-financing",
+      "title": "Financiación de primas de EE.UU.: pagar tú mismo o que pague el banco, ¿cuál es la diferencia?",
+      "subtitle": "Academia de Seguros de Hong Kong · Un espejo del apalancamiento estadounidense",
+      "date": "2026-10-17",
+      "summary": "El atractivo del apalancamiento es «ganar con dinero ajeno»; la trampa es también «perder con dinero ajeno».",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Financiar la prima de un seguro estadounidense multiplica la cobertura, pero también multiplica el riesgo. La diferencia entre pagar tú y que pague el banco no es solo de flujo de caja, sino de quién asume el coste si el cálculo falla. Aquí se reproduce esa aritmética con claridad."
+        }
+      ]
+    },
+    {
+      "id": "us-iul-inheritance",
+      "title": "IUL (Seguro de vida indexado): la herramienta de sucesión de EE.UU. para altos patrimonios, ¿te conviene?",
+      "subtitle": "Academia de Seguros de Hong Kong · El listón alto del seguro de EE.UU.",
+      "date": "2026-10-10",
+      "summary": "Cada herramienta tiene su mejor usuario.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "El IUL es, en Estados Unidos, una pieza central de la sucesión para grandes patrimonios: crecimiento ligado al índice, suelo de pérdida y ventajas fiscales. Pero sus umbrales y su complejidad lo alejan de la mayoría. Este artículo aclara a quién le encaja de verdad."
+        }
+      ]
+    },
+    {
+      "id": "hk-vs-mainland-annuity",
+      "title": "Seguro de Hong Kong vs anualidad del continente: ¿en qué se diferencian a 30 años vista?",
+      "subtitle": "Academia de Seguros de Hong Kong · La distancia que crea el tiempo",
+      "date": "2026-10-03",
+      "summary": "Herramientas que a corto plazo no muestran diferencia suelen terminar en mundos opuestos al llegar al año 30.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "A primera vista, una anualidad del continente y una póliza de ahorro de Hong Kong parecen perseguir lo mismo. Pero el horizonte temporal las separa: a 30 años, la diferencia de sistema financiero y de moneda se vuelve decisiva. Aquí ponemos el foco justo en ese punto final."
+        }
+      ]
+    },
+    {
+      "id": "hk-application-process",
+      "title": "De la solicitud a la entrada en vigor: ¿cuántos días tarda una póliza de Hong Kong?",
+      "subtitle": "Academia de Seguros de Hong Kong · El proceso, explicado con transparencia",
+      "date": "2026-09-26",
+      "summary": "Lo que da miedo es lo desconocido.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "La idea de que contratar un seguro de Hong Kong es «complicado y lleno de papeles» casi siempre nace de no conocer el proceso. En la práctica, de la solicitud a la entrada en vigor, una póliza estándar recorre unos pasos claros y acotados en el tiempo. Este artículo los ordena y te dice, con cifras, cuánto tarda cada etapa para que sepas a qué atenerte desde el primer día."
+        }
+      ]
+    },
+    {
+      "id": "hk-crs-tax",
+      "title": "En la era CRS, ¿cuáles son exactamente las obligaciones de información fiscal del seguro de Hong Kong?",
+      "subtitle": "Academia de Seguros de Hong Kong · La verdad sobre la ansiedad de cumplimiento",
+      "date": "2026-09-19",
+      "summary": "Cumplir no es esconderte, sino conocer las reglas y caminar a plena luz.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "El intercambio automático de información fiscal (CRS) despierta dudas legítimas entre quienes contratan seguros en Hong Kong. Lo central no es si declaras o no, sino entender qué se reporta, a quién y en qué casos. Este artículo aclara el marco para que tomes decisiones con tranquilidad y dentro de la ley."
+        }
+      ]
+    },
+    {
+      "id": "hk-premium-financing",
+      "title": "Financiación de primas",
+      "subtitle": "Academia de Seguros de Hong Kong · La jugada de apalancamiento para clientes de alto patrimonio",
+      "date": "2026-09-12",
+      "summary": "El apalancamiento amplifica las rentabilidades, y también los costes.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Qué es la financiación de primas",
+          "p": "La financiación de primas (Premium Financing), dicho sin rodeos: **tú aportas solo una parte de la prima; el banco presta el resto para pagarla**, dejando la propia póliza como garantía. El banco valora el valor en efectivo y el beneficio por fallecimiento de la póliza y acepta prestar — porque es una garantía real y creciente.\n\nSuena a «ganar sin poner», pero es una herramienta madura de asignación de activos de gama alta, habitual desde hace tiempo en los círculos de banca privada de Europa, América y Hong Kong.\n\n> El apalancamiento amplifica las rentabilidades, y también los costes. Haz cuentas antes de jugar; no te dejes engañar por el «dinero gratis»."
+        },
+        {
+          "h": "2. Un ejemplo simplificado",
+          "p": "Imagina una póliza grande de vida entera con una prima total de HKD 10 millones. Tú pones HKD 3 millones; el banco te presta HKD 7 millones para la prima. Una vez en vigor, el valor en efectivo empieza a acumularse. Años después, devuelves principal e intereses mediante rescate parcial o el beneficio por fallecimiento.\n\nSi la rentabilidad a largo plazo de la póliza supera el tipo de préstamo del banco, el diferencial entre ambos es tu ganancia neta — **con HKD 3 millones de control, apalancaste HKD 10 millones de activos.**"
+        },
+        {
+          "h": "3. A quién le conviene y a quién no",
+          "p": "**Le conviene a:**\n- Empresarios con buen flujo de caja que quieren preservar liquidez.\n- Familias de alto patrimonio que necesitan una gran cobertura de vida sin inmovilizar mucha caja de golpe.\n- Quienes confían en la rentabilidad a largo plazo de la póliza y pueden soportar vaivenes de tipos.\n\n**No le conviene a:**\n- Quienes tienen patrimonios pequeños y no resisten una subida de tipos.\n- Especuladores que tratan la financiación como un «arbitraje sin riesgo».\n- Quienes no tienen un flujo de caja estable para cubrir los intereses."
+        },
+        {
+          "h": "4. Tres riesgos que debes reconocer",
+          "p": "1. **Riesgo de tipo de interés**: el tipo del banco suele ser flotante. Si suben los tipos, tu coste de financiación sube con ellos, el diferencial se estrecha o incluso se vuelve negativo.\n2. **Riesgo de liquidez**: si el valor en efectivo crece más lento de lo esperado, el banco puede exigir más garantías o el reembolso anticipado.\n3. **Riesgo cambiario**: pedir prestado en HKD mientras la póliza está denominada en USD crea un desajuste de moneda y volatilidad extra.\n\nAsí que la financiación de primas no es «beneficio garantizado»: es un **problema aritmético que exige cálculo profesional.**"
+        },
+        {
+          "h": "5. Qué tiene que ver con el cliente común",
+          "p": "Francamente, la financiación de primas es una jugada del nivel de decenas de millones de HKD en adelante; la mayoría de las familias no la usarán. Pero la explicamos porque te ayuda a ver una cosa: **los «atributos financieros» del seguro de Hong Kong son mucho más ricos que los de los productos del continente.** No es solo una alcancía, sino una herramienta de activos que puede conectarse al sistema de banca privada.\n\nEntendido ese nivel, cuando mires las funciones de «multidivisa, división de póliza y financiación» del seguro de Hong Kong, descubrirás que es todo un lenguaje de gestión patrimonial, no un simple recibo.\n\n> Saber que existe una herramienta así vale más que usarla de verdad. Ensancha tu imaginación sobre «qué puede hacer el seguro»."
+        },
+        {
+          "h": "6. Para cerrar",
+          "p": "La financiación de primas representa el tramo alto del seguro de Hong Kong: umbral alto, muy especializado. No recomendamos que las familias comunes la toquen, pero sí que sepan que existe — porque demuestra una cosa: el mismo dinero, colocado en sistemas financieros distintos, puede hacer crecer posibilidades radicalmente distintas."
+        }
+      ]
+    },
+    {
+      "id": "hk-claims-speed",
+      "title": "¿Es rápido el pago de siniestros del seguro de Hong Kong? Una pregunta incomprendida una y otra vez",
+      "subtitle": "Academia de Seguros de Hong Kong · Rompiendo el prejuicio de que «cobrar en el extranjero es difícil»",
+      "date": "2026-09-05",
+      "summary": "El cuello de botella de un siniestro nunca fue la distancia, sino si leíste bien las condiciones al principio.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Circula la idea de que cobrar un seguro contratado en Hong Kong es lento y engorroso. La realidad es más matizada: la velocidad depende sobre todo de la claridad con que se firmó y de la documentación, no de la geografía. Aquí separamos, paso a paso, lo que de verdad acelera o frena un pago."
+        }
+      ]
+    },
+    {
+      "id": "hk-vs-mainland-wholelife",
+      "title": "Vida entera creciente del continente vs seguro de ahorro de Hong Kong",
+      "subtitle": "Academia de Seguros de Hong Kong · Misma cáscara, distinto núcleo",
+      "date": "2026-08-29",
+      "summary": "Que dos cosas se parezcan no significa que resuelvan el mismo problema.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Nombre parecido, uso no necesariamente parecido",
+          "p": "Muchos clientes traen una póliza de vida entera creciente del continente y preguntan: «¿no es lo mismo que el seguro de ahorro de Hong Kong?». En la superficie ambos son «seguro de vida», ambos tienen valor en efectivo y ambos se pueden mantener a largo plazo. Pero abre el núcleo y son dos criaturas distintas.\n\n> Que dos cosas se parezcan no significa que resuelvan el mismo problema."
+        },
+        {
+          "h": "2. Las tres diferencias centrales",
+          "p": "**1. Distinta fuente de rentabilidad.**\nLa capitalización de la vida entera creciente del continente está fijada al 2,5 %–3 % (tope regulatorio), escrita en blanco y negro en el contrato, y es extremadamente cierta. La parte garantizada del seguro de ahorro de Hong Kong está por debajo del 1 %, pero con dividendos la TIR a largo plazo llega al 6 %–7 % — flotante, no garantizada, pero respaldada por el historial de cumplimiento.\n\n**2. Distinto alcance de inversión.**\nEl capital asegurador del continente invierte sobre todo en el mercado doméstico (deuda pública, depósitos, renta variable y fija nacional); el techo lo fija un solo mercado. El capital del seguro de Hong Kong invierte globalmente, con más margen y mejor cobertura del riesgo de mercado único.\n\n**3. Distinta moneda y funciones.**\nLos productos del continente solo están denominados en RMB. El seguro de ahorro de Hong Kong es multidivisa, divisible y admite cambio ilimitado de asegurado; sus funciones de herencia y de cobertura cambiaria hoy no existen en los productos del continente."
+        },
+        {
+          "h": "3. Entonces, ¿es mala la vida entera creciente del continente?",
+          "p": "En absoluto. Su **certeza** no la iguala el seguro de Hong Kong: puedes calcular hoy, al céntimo, cuánto habrá en la cuenta en el año 30. Para quien es muy averso al riesgo, mantiene los fondos en el país y solo necesita un crecimiento estable, es excelente.\n\nA menudo decimos a los clientes: estos dos no son «uno u otro», sino **división del trabajo.**"
+        },
+        {
+          "h": "4. Una idea de combinación razonable",
+          "p": "- **Necesidades de certeza a corto plazo en RMB** (dinero que se requiere en 5 años) → vida entera creciente del continente / depósito a plazo.\n- **Crecimiento a largo plazo en USD + herencia** (dinero intocado 10+ años) → seguro de ahorro de Hong Kong.\n\nEntrega «el suelo» a los productos del continente y «crecimiento + global + herencia» al seguro de Hong Kong. No compiten; se complementan.\n\n> El arte de asignar no es elegir el mejor, sino elegir el correcto. El mismo dinero solo importa cuando está en la herramienta correcta."
+        },
+        {
+          "h": "5. Algunos malentendidos frecuentes",
+          "p": "- **Malentendido 1**: «El seguro de Hong Kong rinde más, así que mueve todo para allá» — ignora tipo de cambio, liquidez y costes de cumplimiento offshore.\n- **Malentendido 2**: «Los productos del continente son ciertos, así que el seguro de Hong Kong es humo» — ignora el historial de cumplimiento de la asignación global.\n- **Malentendido 3**: «Compré seguro de Hong Kong, ya no necesito seguro del continente» — los productos de protección (enfermedades graves, medicina) conviene configurarlos localmente."
+        },
+        {
+          "h": "6. Para cerrar",
+          "p": "Vida entera creciente y seguro de ahorro de Hong Kong: uno guarda la certeza, el otro persigue el crecimiento y el alcance global. Entender el límite de cada uno te evita pasarte al «todo incluido» o al «abandono total» por culpa de rumores. La asignación con la cabeza clara empieza por ver las diferencias."
+        }
+      ]
+    },
+    {
+      "id": "hk-compound-irr",
+      "title": "La lógica del interés compuesto en el seguro de ahorro de Hong Kong",
+      "subtitle": "Academia de Seguros de Hong Kong · La magia y los límites del interés compuesto",
+      "date": "2026-08-22",
+      "summary": "El interés compuesto es la octava maravilla del mundo, pero su premisa es: que estés dispuesto a esperar y que puedas esperar.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. La TIR no es magia, es tiempo",
+          "p": "Cuando mucha gente ve «TIR a largo plazo del 6 %–7 %» en una póliza de ahorro de Hong Kong, frunce el ceño: ¿es solo una promesa bonita? Nuestro consejo: no te apresures a creer ni a descartar; desmóntala y mírala.\n\nLa TIR (tasa interna de retorno) mide el rendimiento anualizado real de una suma de dinero teniendo en cuenta el tiempo y los flujos. El 6 %–7 % del seguro de Hong Kong no se paga el primer año: es **el resultado compuesto a lo largo de 20, 30 o más años.** Los primeros 10 años apenas lo notas; la curva solo se empina después del año 20.\n\n> El interés compuesto es la octava maravilla del mundo, pero su premisa es: que estés dispuesto a esperar y que puedas esperar."
+        },
+        {
+          "h": "2. De dónde sale ese número",
+          "p": "Tras cobrar las primas, las aseguradoras de Hong Kong las invierten en una **cartera globalmente diversificada**: bonos globales, renta variable de calidad, infraestructuras, REITs, etc. Como Hong Kong es un puerto franco, el capital no queda atado a un solo mercado y puede asignarse de verdad a nivel global.\n\nEn las últimas dos décadas, los **ratios de cumplimiento de dividendos (real vs demostrado)** de las principales aseguradoras de Hong Kong se han movido aproximadamente entre el 90 % y el 105 %. Es decir, la rentabilidad demostrada no es un castillo en el aire: el cumplimiento histórico es bastante aproximado.\n\nHay que notar una cosa: la rentabilidad del seguro de Hong Kong viene de dos partes:\n\n- **Rentabilidad garantizada**: normalmente por debajo del 1 %, escrita en el contrato, de pago rígido.\n- **Dividendos no garantizados**: la parte flotante, que eleva la cifra a largo plazo hasta el 6 %–7 %.\n\nAsí que la afirmación precisa es: el suelo garantizado es bajo, pero el rendimiento compuesto a largo plazo tras sumar dividendos tiene un historial que lo respalda."
+        },
+        {
+          "h": "3. Por qué los productos del continente no alcanzan ese número",
+          "p": "El tipo de interés de tarificación del seguro de vida a largo plazo del continente está limitado por regulación al 3 % o menos, y el capital asegurador se invierte sobre todo en el mercado doméstico. En un ciclo de bajada de tipos, la propia rentabilidad de inversión de las aseguradoras también cae. Ese techo lo fija el entorno institucional, no la capacidad de ninguna compañía.\n\nLa base de inversión global de Hong Kong tiene, naturalmente, más margen. No es que «el seguro de Hong Kong sea más listo»: es que **nace en un sistema financiero distinto.**"
+        },
+        {
+          "h": "4. El enemigo del interés compuesto es «bajarse a mitad de camino»",
+          "p": "Hemos visto a demasiada gente que, en el año 3 de una póliza de Hong Kong, ve que la cuenta no ha crecido y corre a rescindir. Resultado: no solo no hay interés compuesto, sino una pérdida por comisiones tempranas. La lógica de diseño del seguro de Hong Kong es «cambiar tiempo por espacio»: lo que más teme no es la volatilidad del mercado, sino tu salida prematura.\n\nUna sugerencia práctica: trata este dinero como capital de jubilación o herencia «bloqueado 20 años, intocable», no como un depósito a la vista del que sacas cuando quieras. Aclara el propósito y tu mentalidad se asienta.\n\n> El interés compuesto no necesita ingenio, sino paciencia. La mayoría pierde por paciencia, no por elegir mal el producto."
+        },
+        {
+          "h": "5. Cómo juzgar si un plan es fiable",
+          "p": "Basta con mirar tres cosas:\n\n1. **Datos históricos de cumplimiento de dividendos** — publicados en la web de la aseguradora; cuanto más cerca del 100 %, mejor.\n2. **Proporción garantizada vs no garantizada** — cuanto mayor sea la parte garantizada, más firme es el suelo.\n3. **Flexibilidad de retirada** — si admite retiradas parciales y préstamos sobre póliza, para necesidades de caja imprevistas.\n\nNo mires solo los números demostrados de la propuesta; mira el historial de cumplimiento que hay detrás de cada número."
+        },
+        {
+          "h": "6. Para cerrar",
+          "p": "Una TIR a largo plazo del 6 %–7 % no es una promesa de hacerse rico de la noche a la mañana, sino un contrato para «dejar que el dinero crezca despacio». Le conviene a quien está dispuesto a cambiar tiempo por certeza. Si eres de esos, el seguro de Hong Kong merece una consideración seria."
+        }
+      ]
+    },
+    {
+      "id": "hk-multi-currency-account",
+      "title": "La cuenta multidivisa del seguro de Hong Kong",
+      "subtitle": "Academia de Seguros de Hong Kong · Una póliza con foso cambiario incorporado",
+      "date": "2026-08-15",
+      "summary": "El riesgo real no es la volatilidad, sino que todos tus huevos estén en la misma cesta de precios.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Todos cargamos un «riesgo oculto»",
+          "p": "La inmensa mayoría de los activos de las familias del continente están denominados al 100 % en RMB. Casa en RMB, depósitos en RMB, sueldo en RMB. Eso no es un problema en sí — hasta que descubres que tu hijo quiere estudiar en Estados Unidos y el tipo de cambio ya se ha movido cuando intentas conseguir dólares; o un día quieres colocar parte de tu patrimonio en otra moneda para diversificar y te topas con que «cambiar de moneda» es carísimo y los canales son estrechos.\n\nEse riesgo se llama **riesgo de concentración cambiaria**: invisible, pero siempre presente.\n\n> El riesgo real no es la volatilidad, sino que todos tus huevos estén en la misma cesta de precios."
+        },
+        {
+          "h": "2. Qué significa de verdad la «multidivisa» del seguro de Hong Kong",
+          "p": "Las pólizas de ahorro de Hong Kong más habituales permiten mantener varias monedas en una sola póliza — normalmente USD, HKD, RMB, GBP, EUR, AUD, CAD, SGD, etc., entre 7 y 9 en total. Al contratar eliges una moneda como punto de partida y, en los momentos pactados, puedes **conmutar libremente** de moneda, sin volver a solicitarlo y sin coste extra.\n\nEs decir: la misma póliza puede ser hoy en USD, mañana en RMB, pasado en GBP. El poder de cambiar de moneda queda en tus manos."
+        },
+        {
+          "h": "3. Qué problema real resuelve esto",
+          "p": "**1. Ajuste de moneda para la educación de los hijos.** El hijo se va al Reino Unido: mueves esa parte a GBP; a Australia: a AUD. Sin cambiar divisa por adelantado, sin apostar por los tipos: conmutas cuando lo necesitas.\n\n**2. Cobertura de los vaivenes del tipo de cambio.** Mantén RMB cuando esté fuerte, conmuta a USD o HKD cuando se debilite. No vas a acertar el mínimo, pero al menos no quedas pasivamente encerrado en una sola moneda.\n\n**3. Una interfaz para la vida global.** Dondequiera que viváis tú o tu familia en el futuro, la póliza puede pagar en la moneda local, evitando fricciones y pérdidas por cambio transfronterizo."
+        },
+        {
+          "h": "4. En qué se diferencia de un cambio corriente",
+          "p": "Algunos preguntan: también puedo cambiar en el banco, ¿para qué usar el seguro?\n\nLa clave es la **dimensión temporal.** El cambio bancario es al contado: cambias hoy y te tragas el vaivén de mañana. Pero la conmutación de moneda del seguro de Hong Kong va unida a un **activo que capitaliza a largo plazo**: no estás simplemente cambiando divisa, sino ajustando la estructura de moneda en cualquier momento dentro de un fondo que se revaloriza de continuo. Herramienta de divisa + herramienta de revalorización, combinadas en una.\n\n> El cambio corriente es táctica; una póliza multidivisa es estrategia. La primera responde «¿cambio hoy o no?»; la segunda responde «¿cómo vivir en el futuro?»."
+        },
+        {
+          "h": "5. Un malentendido frecuente",
+          "p": "La multidivisa no es para hacer trading diario con el tipo de cambio. Su uso correcto es la **cobertura pasiva**: fija una estructura de moneda objetivo a largo plazo (por ejemplo, 60 % USD + 40 % RMB), déjala tranquila en el día a día y haz una conmutación puntual solo en los grandes hitos de la vida (estudios en el extranjero, migración, jubilación).\n\nEntrega la complejidad al tiempo; quédate con la sencillez."
+        },
+        {
+          "h": "6. Para cerrar",
+          "p": "La diversificación de moneda es, en esencia, instalar un «amortiguador» en los activos de la familia. Quizá no lo uses de inmediato, pero cuando llegue el terremoto, tener o no tener ese amortiguador lo cambia todo. La cuenta multidivisa de una póliza de ahorro de Hong Kong es ese amortiguador barato, fácil y siempre disponible."
+        }
+      ]
+    },
     {
       "id": "es-hk-dollar-bulwark",
       "title": "Por qué las familias latinoamericanas usan las pólizas en dólares como rompeolas",
@@ -91,6 +1555,192 @@ export const GENERATED_ARTICLES_es: Record<string, Article[]> = {
         {
           "h": "",
           "p": "> Cuando la moneda local pierde decenas de por ciento en un año, la acumulación de varias generaciones se escapa en silencio. No es una profecía: es la realidad que viven hoy muchas familias en Latinoamérica.\n\nEl año pasado, en la Ciudad de México, un amigo de la industria me invitó a tomar té. Su fábrica da trabajo a más de trescientas personas y la vida le iba cómoda.\n\nMe hizo una pregunta sencilla: —Cada año gano, pero ¿por qué lo que ahorro rinde para menos cosas?\n\nMiré la curva del peso. Ese año volvió a resbalar bastante frente al dólar.\n\n🔑 **I. La ansiedad común de las familias latinoamericanas**\n\nSi has vivido en Buenos Aires, Caracas o Bogotá, conoces esa sensación: los números del sueldo suben, pero lo del súper se encarece a otra velocidad.\n\nLos argentinos conocieron una inflación anual de tres dígitos. Los venezolanos vieron el ahorro de toda una vida convertido en papel inservible. Incluso en Chile o Perú, relativamente estables, el poder adquisitivo de la moneda local frente al dólar se pierde en silencio, generación tras generación.\n\nNo es cosa de un solo gobierno. Economías de recursos, ciclos de deuda externa, relevos políticos: esas fuerzas se suman y dotan a los \"activos en moneda local\" de una incertidumbre de fábrica.\n\nHemos visto a demasiadas familias empobrecerse no por haber hecho nada malo, sino porque todo su dinero descansaba sobre el mismo suelo que se mueve.\n\n🌏 **II. Por qué el dólar y no los activos locales**\n\nEl dólar no es el dinero perfecto. Pero ha sido el ancla del comercio y las reservas mundiales durante ochenta años.\n\nPara las familias latinoamericanas, tener una parte de activos en dólares no es especular: es comprarle al patrimonio un \"seguro de poder adquisitivo\". Cuando la moneda local cae, esa parte sigue en su sitio.\n\nLa pregunta es otra: ¿cómo puede una familia común mantener, de forma legal y estable, activos en dólares a largo plazo?\n\nEl depósito bancario rinde poco y sigue dentro del mismo sistema; la bolsa estadounidense exige abrir cuenta con complicaciones y es volátil; el inmueble transfronterizo tiene mala liquidez. Hace falta una herramienta que ancle el dólar, se mantenga entre generaciones y goce de un Estado de derecho maduro.\n\n⚖️ **III. Las tres ventajas de la póliza en dólares de Hong Kong**\n\nAquí es donde el seguro de ahorro de Hong Kong puede ayudar:\n\n- **Monedas múltiples**: la póliza puede mantenerse en dólares, en moneda de Hong Kong y otras divisas; algunos productos permiten cambiar de moneda, lo que ya es una cobertura cambiaria.\n- **Transmisión intergeneracional**: con la \"división de la póliza\" y el \"asegurado sucesor\", un solo contrato se reparte con claridad entre los hijos y se evitan los litigios y trámites de un testamento.\n- **Carácter legal**: Hong Kong mantiene el sistema de common law; la póliza goza de esa protección y queda fuera de los litigios locales por divorcio o deudas.\n\nNo promete hacerte rico de la noche a la mañana. Promete algo más modesto: anclar una parte del patrimonio familiar, con firmeza, sobre el dólar y el Estado de derecho.\n\n🏛️ **IV. Un caso real**\n\nUn empresario mexicano, con un pago anual de decenas de miles de dólares, cambió por una póliza de ahorro en dólares de Hong Kong un capital que iba a dejar madurar en un banco local.\n\nSus palabras fueron directas: —No espero que me haga rico. Solo quiero que, dentro de veinte años, este dinero siga siendo dinero, y no una fila de números encogidos.\n\n<center>✦ ✦ ✦</center>\n\n🛡️ **V. Vuelta al arca: el primer paso de la asignación offshore**\n\nNo te instamos a abandonar tus activos locales. Solo sugerimos esto: allí donde puede llegar la tormenta, deja primero un bote salvavidas para la familia.\n\nLa póliza en dólares de Hong Kong es, para muchas familias latinoamericanas, el primer paso de la asignación offshore: sencilla, legal y transmisible.\n\nSi también quieres ver cuántos \"dólares reales\" hay en los activos de tu familia, agenda una diagnosis offshore 1 a 1. Juntos, convertiremos la incertidumbre en algo que se puede planificar.\n\n*En el próximo artículo desmenuzaremos con datos la ola de devaluación en Latinoamérica y veremos cuánto riesgo cambiario esconden tus activos.*"
+        }
+      ]
+    },
+    {
+      "id": "hk-property-to-insurance",
+      "title": "¿Por qué las familias de alto patrimonio, tras vender su inmueble, hacen del seguro de ahorro de Hong Kong su primera parada?",
+      "subtitle": "Academia de Seguros de Hong Kong · El relevo de activos cuando baja la marea inmobiliaria",
+      "date": "2026-08-01",
+      "summary": "Que una casa pase de «activo que genera ingresos» a «pasivo atrapado» suele estar a una sola crisis de liquidez.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": "Cuando la liquidez del inmueble se seca, muchas familias descubren que su mayor activo no se puede convertir en efectivo cuando lo necesitan. Vender y trasladar ese valor a un activo en dólares que capitalice y sea líquido se vuelve un movimiento natural. Este artículo explica la lógica de ese relevo."
+        }
+      ]
+    }
+  ],
+  "trust": [
+    {
+      "id": "trust-china-family-office",
+      "title": "El auge y el punto incómodo de las family offices de China",
+      "subtitle": "Mapa de Activos · Fideicomiso · Los límites de una family office local",
+      "date": "2026-12-28",
+      "summary": "Una family office no es una oficina. Es un sistema para que el dinero sobreviva a través de las generaciones.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. La necesidad real detrás del ruido de las family offices",
+          "p": "En los últimos años, «family office» se ha convertido en una palabra de moda en China, desde la clase media hasta los más ricos. Detrás hay un cambio genuino: la primera generación de emprendedores de la era de la reforma ha llegado en bloque a la ventana de la sucesión. La pregunta ha pasado de «¿cómo lo hago?» a «¿cómo lo conservo y lo transmito?». La necesidad es real — pero el terreno aún no está del todo listo.\n\n> Una family office no es una oficina. Es un sistema para que el dinero sobreviva a través de las generaciones. Que el sistema funcione depende del terreno."
+        },
+        {
+          "h": "2. Dónde está la incomodidad de una family office local",
+          "p": "**1. El terreno legal aún no madura.** Los fideicomisos nacionales están dominados por los «fideicomisos comerciales». La ley de mayor rango para los fideicomisos familiares —la independencia del patrimonio fideicomitido, el diferimiento fiscal— aún se está afinando, y la práctica arrastra incertidumbre real.\n\n**2. El marco fiscal no está asentado.** El impuesto de sucesiones y donaciones no se ha legislado ni gravado, pero la dirección es clara. Hasta que las reglas aterricen, muchas estructuras viven en un estado de «constituyámoslo y ya veremos».\n\n**3. Sacar activos al exterior está limitado.** Los canales conformes para mover grandes sumas offshore son escasos, dejando una brecha entre «quiero asignación global» y «el dinero no puede salir».\n\n**4. La oferta profesional se queda corta.** Los equipos que entienden de verdad lo transfronterizo, fiscal y plurijurisdiccional escasean; el mercado es desigual."
+        },
+        {
+          "h": "3. Por qué ir offshore es inevitable",
+          "p": "Precisamente por esos cuatro puntos, la mayoría de las family offices locales se topan con una realidad dura — **para hacer asignación global real y sucesión transgeneracional, no puedes evitar centros offshore como Hong Kong y Singapur.** Las razones son claras:\n\n- Las jurisdicciones de derecho común tienen un aislamiento de activos más maduro para fideicomisos y pólizas\n- Las carteras multidivisa de inversión global son algo que una cuenta continental sencillamente no puede ofrecer\n- Herramientas como el seguro de Hong Kong son la rampa de entrada offshore más rápida y de menor coste\n\nPor eso ves un camino habitual: montar una «family office» en el continente para coordinar, pero colocar de hecho las asignaciones en pólizas de Hong Kong y fideicomisos offshore. **Lo offshore no es un desvío: es el puente que tienes que cruzar.**"
+        },
+        {
+          "h": "4. Qué significa esto para las familias comunes",
+          "p": "No eres Liu Qiangdong, y no necesitas una «family office». Pero la lógica anterior también vale para ti: **usa una herramienta de umbral bajo como el seguro de Hong Kong para construir primero el «puente» de la asignación offshore.** Para cuando tus activos crezcan lo bastante como para necesitar algo más complejo, ya estarás de pie sobre el puente — no todavía en la orilla buscando el camino."
+        },
+        {
+          "h": "5. Para cerrar",
+          "p": "El auge de las family offices de China refleja la ansiedad de una generación ante la sucesión. Pero el antídoto contra la ansiedad no es perseguir la estructura más compleja, sino dar primero el paso más firme. Para la gran mayoría de las familias, el seguro de Hong Kong es ese paso — sin glamour, pero suficiente, temprano y estable."
+        }
+      ]
+    },
+    {
+      "id": "trust-poor-man-version",
+      "title": "¿Por qué a una póliza de Hong Kong la llaman el «fideicomiso familiar de los pobres»?",
+      "subtitle": "Mapa de Activos · Fideicomiso · Los poderes tipo fideicomiso de una póliza",
+      "date": "2026-12-21",
+      "summary": "No toda herencia necesita la envoltura de un fideicomiso.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. De dónde viene «el fideicomiso familiar de los pobres»",
+          "p": "En los círculos de gestión patrimonial, al seguro de ahorro de Hong Kong se le llama a menudo «el fideicomiso familiar de los pobres». La frase suena dura al principio, pero apunta a un hecho: **lo que un fideicomiso hace por la sucesión, el seguro de Hong Kong lo logra en gran parte — a una fracción del coste.**\n\nVamos a desmontarlo y a ver si la afirmación se sostiene.\n\n> No toda herencia necesita la envoltura de un fideicomiso. A veces, una sola póliza basta."
+        },
+        {
+          "h": "2. Tres funciones, puestas frente a un fideicomiso",
+          "p": "**1. Distribución dirigida = la «designación de beneficiarios» del fideicomiso.** El núcleo de un fideicomiso es «dar mi dinero a quien yo quiero, como yo quiero». La designación de beneficiarios de una póliza de Hong Kong, más la división de póliza, consigue lo mismo: puedes cortar una póliza en proporciones, dar a cada hijo su parte y especificar cómo la recibe. Sin constituir fideicomiso, sin abogado.\n\n**2. Sucesión transgeneracional = el «arreglo perpetuo» del fideicomiso.** Un fideicomiso puede gestionar activos a lo largo de generaciones. El «cambio ilimitado de asegurado» de una póliza de Hong Kong deja que una póliza pase de ti a tu hijo, y luego a tu nieto, capitalizando sin interrupción, sin romperse nunca. Ese efecto de «continuidad generacional» antes solo lo tenían los fideicomisos — el seguro de Hong Kong lo regala.\n\n**3. Aislamiento del riesgo = la «protección de activos» del fideicomiso.** El aislamiento de activos es el valor central de un fideicomiso. Como activo offshore bajo la jurisdicción de Hong Kong, una póliza de Hong Kong también conlleva cierto grado de aislamiento de deudas y carácter de bien conyugal independiente: sin sucesión (probate), difícil de congelar."
+        },
+        {
+          "h": "3. Dónde se queda corto frente a un fideicomiso de verdad",
+          "p": "Para ser claros, sin exagerar: el seguro de Hong Kong no cubre los escenarios más complejos de un fideicomiso — empaquetar participación empresarial, distribución condicionada, planificación fiscal transfronteriza. Ese es el terreno del fideicomiso; el seguro no puede tocarlo.\n\nPero míralo del revés: **el 80 % de las familias sencillamente no tiene esos «escenarios complejos».** Su necesidad de sucesión es solo esto: que el dinero pase con firmeza a quien quieren, sin disputas, sin congelarse. Y resulta que ahí es exactamente donde vive el seguro de Hong Kong."
+        },
+        {
+          "h": "4. Lo que importa es la comparación de costes",
+          "p": "- Fideicomiso: honorarios de constitución por cientos de miles, más mantenimiento anual por cientos de miles, y un equipo profesional\n- Seguro de Hong Kong: sin cuota de constitución, sin cuota anual, gestionado personalmente por el titular\n\nPara el mismo efecto de «sucesión dirigida + transgeneracional + aislamiento», el coste difiere en órdenes de magnitud. Ese es el verdadero sentido de «el fideicomiso familiar de los pobres» — **no un sustituto barato, sino el rey de la relación calidad-precio.**"
+        },
+        {
+          "h": "5. Para cerrar",
+          "p": "No persigas ciegamente un fideicomiso solo porque la palabra suena sofisticada. Para la mayoría de las familias, una póliza de Hong Kong bien diseñada ya entrega el resultado de sucesión que de verdad necesitas. Cuando tu tamaño de patrimonio y tu complejidad lleguen de verdad al punto que pide un fideicomiso, te estará esperando."
+        }
+      ]
+    },
+    {
+      "id": "trust-vs-insurance-vs-will",
+      "title": "Fideicomiso vs seguro vs testamento",
+      "subtitle": "Mapa de Activos · Fideicomiso · Elegir entre las tres",
+      "date": "2026-12-14",
+      "summary": "Una buena planificación sucesoria no es elegir la herramienta más cara, sino colocar la herramienta correcta en el lugar correcto.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. La sucesión no es de una sola manera",
+          "p": "Cuando se habla de «pasar el dinero a la siguiente generación», muchos solo tienen en la cabeza «hacer un testamento». Pero en realidad testamento, seguro y fideicomiso son tres llaves distintas que abren tres cerraduras distintas. Usa la cerradura equivocada y hasta la llave más cara es inútil.\n\n> Una buena planificación sucesoria no es elegir la herramienta más cara, sino colocar la herramienta correcta en el lugar correcto."
+        },
+        {
+          "h": "2. Las diferencias centrales entre las tres herramientas",
+          "p": "**Testamento**\n- A favor: simple, barato, cubre todo tipo de activos\n- En contra: pasa por sucesión (probate), lento, público, propenso a disputas\n- Encaja: un arreglo básico con estructura de activos simple y cantidad modesta\n\n**Seguro**\n- A favor: distribución automática, cero mantenimiento, aislamiento de deudas, sin probate\n- En contra: solo cubre activos de póliza, sus funciones tienen techo\n- Encaja: la «fuerza principal» de la sucesión para la gran mayoría de las familias\n\n**Fideicomiso**\n- A favor: control fuerte, distribución fina, transfronterizo, admite activos que no son pólizas\n- En contra: umbral alto, mantenimiento caro, estructura compleja\n- Encaja: familias de muy alto patrimonio con estructuras complejas"
+        },
+        {
+          "h": "3. Una tabla comparativa de eficiencia",
+          "p": "| Dimensión | Testamento | Seguro | Fideicomiso |\n|----------|------|-----------|-------|\n| Coste de constitución | Muy bajo | Bajo | Alto |\n| Coste de mantenimiento | Ninguno | Ninguno | Alto |\n| Velocidad de distribución | Lenta (probate) | Rápida (pago) | Media |\n| Privacidad | Baja (público) | Alta | Alta |\n| Precisión de control | Baja | Media | Alta |\n| Cobertura de activos | Todos | Solo póliza | Todos |"
+        },
+        {
+          "h": "4. Cómo es una combinación sensata",
+          "p": "Nuestro consejo a la mayoría de las familias — **«el testamento pone la base + la póliza hace la distribución principal + el fideicomiso gestiona las excepciones»**:\n\n- Testamento: un arreglo de suelo para los activos base, como inmuebles y cuentas\n- Seguro de Hong Kong: encierra en una póliza los activos líquidos en dólares que quieres transmitir de forma dirigida\n- Fideicomiso: cuando suban el nivel de patrimonio y la complejidad, asume las partes complejas como participación empresarial y lo transfronterizo\n\nEstas tres herramientas no compiten; son un relevo."
+        },
+        {
+          "h": "5. Para cerrar",
+          "p": "No te dejes arrastrar por el discurso de «el fideicomiso lo resuelve todo», ni te creas que «con un testamento basta». Cada herramienta tiene su terreno; usarlas en combinación es el enfoque maduro. Para el 80 % de las familias, jugar bien la «carta principal» del seguro de Hong Kong ya resuelve la mayor parte de la ansiedad sucesoria."
+        }
+      ]
+    },
+    {
+      "id": "trust-vcc-cost",
+      "title": "La estructura VCC de Singapur y las family offices",
+      "subtitle": "Mapa de Activos · Fideicomiso · Contando el coste real",
+      "date": "2026-12-07",
+      "summary": "Que una estructura sea buena no depende de lo glamurosa que parezca, sino de cuánto te quita del bolsillo cada año.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Qué es un VCC y por qué se puso tan de moda",
+          "p": "El VCC (Variable Capital Company) es una estructura de fondos que Singapur introdujo en 2020, usada a menudo como vehículo de una family office. Flexible, privado, con ventajas fiscales — durante un tiempo fue la palabra de moda en los círculos offshore. Pero bajo el ruido, lo que de verdad deberías mirar es el **libro mayor**: cuánto cuesta constituirlo y mantenerlo.\n\n> Que una estructura sea buena no depende de lo glamurosa que parezca, sino de cuánto te quita del bolsillo cada año."
+        },
+        {
+          "h": "2. El umbral de constitución: el dinero solo no lo abre",
+          "p": "Los umbrales de family office de Singapur (los esquemas de exención fiscal 13O / 13U) se han subido varias veces en los últimos años:\n\n- **13O:** el umbral de activos bajo gestión ha subido a **SGD 10 millones (unos RMB 53 millones) para empezar**, y debe crecer a SGD 20 millones en dos años.\n- **13U:** el umbral parte de **SGD 50 millones (unos RMB 260 millones)**.\n- Además exige contratar un equipo de inversión local, cumplir un ratio de inversión local y presentar informes de cumplimiento cada año.\n\nEsto no es un juguete para «familias acomodadas», es un billete de entrada para los «grandes patrimonios»."
+        },
+        {
+          "h": "3. Coste permanente: cuánto quema al año",
+          "p": "Toma como ejemplo una estructura VCC + family office. Los costes fijos anuales incluyen, aproximadamente:\n\n- Honorarios de administración del fondo: SGD 30k–80k / año\n- Auditoría y cumplimiento: SGD 20k–50k / año\n- Fiduciario y agente registrado: SGD 10k–30k / año\n- Nómina del equipo local (contratación mínima obligatoria): cientos de miles de SGD / año\n- Asesores fiscales y legales: depende de la complejidad\n\n**Cuenta rápida: un family office VCC estándar que gasta SGD 200k–300k (unos RMB 1–1,5 millones) al año en mantenimiento es la norma.**"
+        },
+        {
+          "h": "4. Compáralo con el seguro de Hong Kong",
+          "p": "Mete el mismo dinero en una póliza de ahorro de Hong Kong, en cambio:\n\n- Sin cuota de constitución, sin cuota anual de gestión\n- Sin equipo que alimentar, sin informes complejos que presentar\n- Los activos siguen siendo globales, multidivisa, heredables\n\nPara familias cuyo nivel de patrimonio está en el rango de «unos pocos millones a decenas de millones», **dejar que el dinero capitalice dentro de una póliza de Hong Kong supera con creces quemar cientos de miles al año en una estructura.**"
+        },
+        {
+          "h": "5. Para cerrar",
+          "p": "Los VCC y las family offices no son malos: sirven a los grandes patrimonios que de verdad superan el umbral. Pero para la gran mayoría de las familias, perseguir estructuras «grandiosas» demasiado pronto solo deja que el coste devore los rendimientos. Llena primero la «cuenta principal de bajo coste» del seguro de Hong Kong; cuando tu nivel suba de verdad, plantéate mejorar la estructura — ese es el ritmo firme."
+        }
+      ]
+    },
+    {
+      "id": "trust-threshold",
+      "title": "¿A partir de qué nivel de patrimonio necesitas de verdad un fideicomiso familiar?",
+      "subtitle": "Mapa de Activos · Fideicomiso · Un marco honesto para decidirlo",
+      "date": "2026-11-30",
+      "summary": "Un fideicomiso es una herencia, pero no toda familia la necesita.",
+      "pin": false,
+      "body": [
+        {
+          "h": "",
+          "p": ""
+        },
+        {
+          "h": "1. Un fideicomiso no es «ábrelo si te lo puedes permitir»",
+          "p": "Muchos clientes, al oír «fideicomiso familiar», piensan de inmediato: ¿debería tener uno? Nuestra respuesta honesta — **un fideicomiso no es equipo estándar, es una herramienta para un nivel de patrimonio concreto.** Comprar un fideicomiso como si fuera un «seguro premium» suele significar gastar mucho dinero para resolver el problema más ligero.\n\n> Un fideicomiso es una herencia, pero no toda familia la necesita. Para la mayoría, una póliza de Hong Kong bien diseñada es suficiente."
+        },
+        {
+          "h": "2. Dónde está el verdadero umbral de un fideicomiso",
+          "p": "El umbral de un fideicomiso familiar tiene dos capas, «dura» y «blanda»:\n\n- **Umbral duro de constitución:** los fideicomisos familiares nacionales suelen partir de RMB 10 millones; los offshore (Hong Kong / Singapur) suelen empezar en USD 1–3 millones.\n- **Coste blando de mantenimiento:** el mantenimiento de un fideicomiso offshore parte de USD 10k–30k al año; las estructuras complejas (como el VCC de Singapur) pueden costar SGD 200k–300k anuales. Abogados, asesores fiscales, fiduciarios: todos cobran a largo plazo.\n\nEn otras palabras, un fideicomiso no es «comprar una vez», es «alimentarlo de por vida». Si tu nivel de patrimonio es demasiado bajo, el coste de mantenerlo se comerá la mayor parte de tus rendimientos."
+        },
+        {
+          "h": "3. Un marco sencillo para decidirlo",
+          "p": "Usamos tres preguntas para ayudar a los clientes a autoevaluarse:\n\n1. **¿Los activos invertibles superan los RMB 30 millones?** Por debajo de esa línea, la «necesidad» del fideicomiso es baja.\n2. **¿Existe una estructura de sucesión compleja?** Matrimonio transfronterizo, hijos extramatrimoniales, sucesión de participación empresarial — ese es el terreno natural del fideicomiso.\n3. **¿Estás dispuesto a pagar el mantenimiento a largo plazo?** Quienes tratan un fideicomiso como una «herramienta de tranquilidad» suelen subestimar su gasto permanente.\n\nSi dos de las tres respuestas son «no», solemos sugerir: **deja primero tu seguro de Hong Kong en orden; el fideicomiso puede esperar.**"
+        },
+        {
+          "h": "4. Qué resuelve un fideicomiso y el seguro no puede",
+          "p": "Dejemos claro el límite: el trío de sucesión de una póliza de Hong Kong (división de póliza, cambio de asegurado, designación de titular sucesor) cubre el 80 % de las necesidades de sucesión de las familias comunes. Pero hay escenarios en los que el fideicomiso encaja mejor —\n\n- Empaquetar y transmitir activos que no son pólizas, como participación empresarial e inmuebles\n- Distribución condicionada (p. ej., «el hijo solo cobra a los 30»)\n- Planificación fiscal compleja entre varias jurisdicciones\n\n**Fideicomiso y seguro de Hong Kong no son excluyentes; se usan por capas.** El seguro pone la base; el fideicomiso gestiona las excepciones."
+        },
+        {
+          "h": "5. Para cerrar",
+          "p": "La planificación patrimonial madura no persigue la herramienta más cara, sino la más adecuada. Un fideicomiso es excelente, pero está hecho para la «complejidad». Si tus necesidades de sucesión aún son «no complejas», una póliza de Hong Kong puede bastar. Cuando tu nivel de patrimonio y tu complejidad suban, el fideicomiso aparecerá de forma natural, en el momento que le corresponde."
         }
       ]
     }

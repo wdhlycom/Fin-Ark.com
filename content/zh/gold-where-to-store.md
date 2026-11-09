@@ -1,6 +1,6 @@
 ---
 id: "gold-where-to-store"
-title: "新加坡自由港金库 vs 香港银行保险箱：实物黄金存放在哪最安全？"
+title: "实物黄金，存在哪最安全？"
 subtitle: "资产地图 · 黄金 · 地理多元化"
 date: 2027-01-25
 section: gold

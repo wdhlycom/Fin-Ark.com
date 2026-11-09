@@ -1,6 +1,6 @@
 ---
 id: "hk-compound-irr"
-title: "香港储蓄险的复利逻辑：为什么 6%-7% 的长期 IRR 比想象中更靠谱"
+title: "香港储蓄险的复利，真有 6%-7% 吗？"
 subtitle: "港险学院 · 复利的魔法与边界"
 date: 2026-08-22
 section: insurance

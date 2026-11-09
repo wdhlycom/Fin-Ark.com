@@ -1,6 +1,6 @@
 ---
 id: "us-iul-inheritance"
-title: "IUL（指数型万能险）：美国高净值人群的传承工具，适合你吗？"
+title: "IUL 指数型万能险，适合你吗？"
 subtitle: "港险学院 · 美国保险的高门槛真相"
 date: 2026-10-10
 section: insurance

@@ -1,6 +1,6 @@
 ---
 id: "ark-trust-not-mystery"
-title: "Trusts Aren't Mysterious: One Diagram to Tell If You Actually Need One"
+title: "Trusts Aren't Mysterious"
 subtitle: "Ark Insights · Ark Q&A"
 date: 2026-10-10
 section: arkPilot

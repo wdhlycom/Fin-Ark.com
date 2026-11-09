@@ -1,6 +1,6 @@
 ---
 id: "certain-arbitrage-rate-spread"
-title: "Certainty Arbitrage: How the Rich Use the Two-Market Rate Spread for a Sure Win"
+title: "Certainty Arbitrage"
 subtitle: "Guardian's Awakening · Certainty Arbitrage"
 date: 2026-08-16
 section: guardian

@@ -1,6 +1,6 @@
 ---
 id: "hk-linked-rate-stability"
-title: "The Mystery of the Linked Exchange Rate: Why Hong Kong's USD Assets Are the Ultimate Stabilizer for Mainland Wealth"
+title: "The Mystery of the Linked Exchange Rate"
 subtitle: "Guardian's Awakening · The Linked Exchange Rate"
 date: 2026-08-10
 section: guardian

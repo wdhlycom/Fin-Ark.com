@@ -1,6 +1,6 @@
 ---
 id: "hongkong-antifragile-first-stop"
-title: "Practicing Antifragility: Why Hong Kong Is the Chinese Family's First Stop Against Uncertainty"
+title: "Why Is Hong Kong the First Stop for Antifragility?"
 subtitle: "Guardian's Awakening · Hong Kong, First Stop"
 date: 2026-08-08
 section: guardian

@@ -1,6 +1,6 @@
 ---
 id: "fellow-travelers-expert-branding"
-title: "致同路人：建立专业人设"
+title: "致同路人"
 subtitle: "守护觉醒 · 专业人设"
 date: 2026-08-29
 section: guardian

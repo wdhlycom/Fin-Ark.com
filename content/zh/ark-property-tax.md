@@ -1,6 +1,6 @@
 ---
 id: "property-tax-trend"
-title: "房产税风声再起：从"砖头"到"保单"的资产形态迁移"
+title: "房产税风声再起"
 subtitle: "方舟视点 · 内地信号塔"
 date: 2026-08-31
 section: arkPilot

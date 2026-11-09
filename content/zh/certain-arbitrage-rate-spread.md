@@ -1,6 +1,6 @@
 ---
 id: "certain-arbitrage-rate-spread"
-title: "确定性套利：有钱人如何利用两地利差进行稳赢操作"
+title: "确定性套利，是怎么做的？"
 subtitle: "守护觉醒 · 确定性套利"
 date: 2026-08-16
 section: guardian

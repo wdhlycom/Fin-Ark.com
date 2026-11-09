@@ -1,6 +1,6 @@
 ---
 id: "us-iul-inheritance"
-title: "IUL (Indexed Universal Life): America's Succession Tool for the High-Net-Worth — Is It Right for You?"
+title: "IUL: Is It Right for You?"
 subtitle: "HK Insurance Academy · The High Bar of US Insurance"
 date: 2026-10-10
 section: insurance

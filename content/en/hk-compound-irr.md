@@ -1,6 +1,6 @@
 ---
 id: "hk-compound-irr"
-title: "The Compounding Logic of Hong Kong Savings Insurance: Why a 6%–7% Long-Term IRR Is More Reliable Than It Looks"
+title: "Hong Kong Savings Insurance: Is a 6%–7% IRR Real?"
 subtitle: "HK Insurance Academy · The Magic and Limits of Compounding"
 date: 2026-08-22
 section: insurance

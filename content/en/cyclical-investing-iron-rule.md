@@ -1,6 +1,6 @@
 ---
 id: "cyclical-investing-iron-rule"
-title: "The Iron Rule of Cyclical Investing: Where in the Cycle Are We?"
+title: "The Iron Rule of Cyclical Investing"
 subtitle: "Guardian's Awakening · Cyclical Iron Rules"
 date: 2026-08-19
 section: guardian

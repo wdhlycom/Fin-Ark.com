@@ -1,6 +1,6 @@
 ---
 id: "sg-insurance-overview"
-title: "新加坡保险：政商安全的避险选择，但门槛正在升高"
+title: "新加坡保险，为什么门槛在升高？"
 subtitle: "港险学院 · 新加坡市场的真实定位"
 date: 2026-10-31
 section: insurance

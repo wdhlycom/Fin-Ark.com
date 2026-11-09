@@ -1,6 +1,6 @@
 ---
 id: "hk-vs-mainland-wholelife"
-title: "内地增额终身寿 vs 香港储蓄险：同是"寿险"，底层逻辑差在哪？"
+title: "内地增额终身寿 vs 香港储蓄险，差在哪？"
 subtitle: "港险学院 · 同种外壳，不同内核"
 date: 2026-08-29
 section: insurance

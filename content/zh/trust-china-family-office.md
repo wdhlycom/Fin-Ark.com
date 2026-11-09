@@ -1,6 +1,6 @@
 ---
 id: "trust-china-family-office"
-title: "中国式家族办公室的兴起与尴尬：在国内做家办，为什么绕不开离岸？"
+title: "中国式家族办公室，为什么绕不开离岸？"
 subtitle: "资产地图 · 信托 · 本土家办的边界"
 date: 2026-12-28
 section: trust

@@ -1,6 +1,6 @@
 ---
 id: "uk-gilt-safety-illusion"
-title: "Asset Safety Through UK Gilts: Why Even the Safest Debt Can Blow Up"
+title: "Asset Safety Through UK Gilts"
 subtitle: "Guardian's Awakening · The Safety Illusion"
 date: 2026-08-12
 section: guardian

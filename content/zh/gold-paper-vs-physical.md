@@ -1,6 +1,6 @@
 ---
 id: "gold-paper-vs-physical"
-title: "纸黄金 vs 实物金条：同是黄金，底层风控差了一个级别"
+title: "纸黄金 vs 实物金条，差在哪？"
 subtitle: "资产地图 · 黄金 · 你拿的是金还是纸"
 date: 2027-01-11
 section: gold

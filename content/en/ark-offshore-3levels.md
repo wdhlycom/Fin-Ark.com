@@ -1,6 +1,6 @@
 ---
 id: "ark-offshore-3levels"
-title: "The Three Tiers of Offshore Asset Allocation: Which Tier Are You On?"
+title: "The Three Tiers of Offshore Asset Allocation"
 subtitle: "Ark Insights · The Offshore Compass"
 date: 2026-09-20
 section: arkPilot

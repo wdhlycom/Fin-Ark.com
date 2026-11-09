@@ -1,6 +1,6 @@
 ---
 id: es-guardian-02
-title: "Introducción a la mentalidad offshore: por qué las grandes familias latinoamericanas separan identidad y activos"
+title: "Introducción a la mentalidad offshore"
 subtitle: "El Despertar del Guardián · Parte 2"
 date: 2026-08-04
 section: guardian

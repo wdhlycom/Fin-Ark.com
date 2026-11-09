@@ -1,6 +1,6 @@
 ---
 id: "ark-japan-lost-30"
-title: "The Lesson of Japan's Lost 30 Years for China's Middle Class: Single-Market Risk Is Fatal"
+title: "What Does Japan's Lost 30 Years Teach China's Middle Class?"
 subtitle: "Ark Insights · The Macro Telescope"
 date: 2026-09-10
 section: arkPilot

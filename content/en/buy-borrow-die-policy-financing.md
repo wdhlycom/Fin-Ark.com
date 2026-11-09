@@ -1,6 +1,6 @@
 ---
 id: "buy-borrow-die-policy-financing"
-title: "Buy, Borrow, Die: How the Rich Use Policy Financing for Low-Cost Leverage"
+title: "Buy, Borrow, Die"
 subtitle: "Guardian's Awakening · Policy Financing"
 date: 2026-08-13
 section: guardian

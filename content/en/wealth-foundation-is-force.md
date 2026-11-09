@@ -1,6 +1,6 @@
 ---
 id: "wealth-foundation-is-force"
-title: "The Foundation of Wealth Is 'Force': Why the Rule of Law Is the Ultimate 'Insurance' for Asset Allocation"
+title: "The Foundation of Wealth Is 'Force'"
 subtitle: "Guardian's Awakening · Force and the Rule of Law"
 date: 2026-08-03
 section: guardian

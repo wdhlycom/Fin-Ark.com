@@ -1,6 +1,6 @@
 ---
 id: "hk-multi-currency-account"
-title: "香港保险的多元货币账户：一个被低估的汇率对冲工具"
+title: "香港保险的多元货币账户，有什么用？"
 subtitle: "港险学院 · 一张保单自带汇率护城河"
 date: 2026-08-15
 section: insurance

@@ -1,6 +1,6 @@
 ---
 id: "gold-is-insurance-not-investment"
-title: "黄金在资产配置中的角色：不是"投资"，是"保险""
+title: "黄金，是投资还是保险？"
 subtitle: "资产地图 · 黄金 · 重新定义它的位置"
 date: 2027-01-18
 section: gold

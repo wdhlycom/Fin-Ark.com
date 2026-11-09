@@ -1,6 +1,6 @@
 ---
 id: "hk-vs-mainland-annuity"
-title: "港险 vs 内地年金险：30 年后的终点差在哪里？"
+title: "港险 vs 内地年金险，30 年后差在哪？"
 subtitle: "港险学院 · 用时间拉开的距离"
 date: 2026-10-03
 section: insurance

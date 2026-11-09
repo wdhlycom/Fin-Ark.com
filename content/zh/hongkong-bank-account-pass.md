@@ -1,6 +1,6 @@
 ---
 id: "hongkong-bank-account-pass"
-title: "香港银行开户逻辑：全球投资入场券"
+title: "香港银行开户的逻辑"
 subtitle: "守护觉醒 · 银行开户"
 date: 2026-08-21
 section: guardian

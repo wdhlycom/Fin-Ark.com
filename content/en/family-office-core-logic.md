@@ -1,6 +1,6 @@
 ---
 id: "family-office-core-logic"
-title: "The Underlying Logic of Family Offices: How to Manage a Heirloom Like a Top Family"
+title: "The Underlying Logic of Family Offices"
 subtitle: "Guardian's Awakening · Family Office"
 date: 2026-08-14
 section: guardian

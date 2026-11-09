@@ -1,6 +1,6 @@
 ---
 id: "hk-vs-shuibei-gold"
-title: "Hong Kong Becomes a Gold Reserve Center — What Does Shenzhen Shuibei Do? Two Ends of One Supply Chain"
+title: "Hong Kong Is Becoming a Gold Reserve Center — So What Does Shuibei Do?"
 subtitle: "Asset Map · Gold · On-Chain or On-Exchange, Don't Mix Them Up"
 date: 2026-11-24
 section: gold

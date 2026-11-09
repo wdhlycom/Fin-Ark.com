@@ -1,6 +1,6 @@
 ---
 id: "wealth-foundation-is-force"
-title: "财富的底层是"武力"：为什么法治环境才是资产配置的终极"保险""
+title: "财富的底层，是"武力""
 subtitle: "守护觉醒 · 武力与法治"
 date: 2026-08-03
 section: guardian

@@ -1,6 +1,6 @@
 ---
 id: "single-asset-death-trap"
-title: "The Tragic Aesthetics of Financial Markets: The Single-Instrument Death Trap"
+title: "The Single-Instrument Death Trap"
 subtitle: "Guardian's Awakening · Single Instrument"
 date: 2026-08-17
 section: guardian

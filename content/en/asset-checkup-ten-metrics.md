@@ -1,6 +1,6 @@
 ---
 id: "asset-checkup-ten-metrics"
-title: "Asset Checkup: The Ten-Metric Self-Test"
+title: "Asset Checkup"
 subtitle: "Guardian's Awakening · Asset Checkup"
 date: 2026-08-28
 section: guardian

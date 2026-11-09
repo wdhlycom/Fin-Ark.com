@@ -1,6 +1,6 @@
 ---
 id: "offshore-fx-volatility"
-title: "人民币汇率又到 7.3 关口：你的资产里有多少"纯美元"？"
+title: "人民币又到 7.3，你的资产里有多少纯美元？"
 subtitle: "方舟视点 · 内地信号塔"
 date: 2026-08-01
 section: arkPilot

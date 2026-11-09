@@ -1,6 +1,6 @@
 ---
 id: "ark-hk-data-2026h1"
-title: "2026 上半年香港保险数据解读：内地客户为什么越管越买？"
+title: "2026 上半年，内地人买香港保险为什么越管越买？"
 subtitle: "方舟视点 · 离岸罗盘"
 date: 2026-08-21
 section: arkPilot

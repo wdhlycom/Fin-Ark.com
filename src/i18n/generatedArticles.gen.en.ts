@@ -156,7 +156,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "fellow-travelers-expert-branding",
-      "title": "To Fellow Travelers: Building a Professional Persona",
+      "title": "To Fellow Travelers",
       "subtitle": "Guardian's Awakening · Professional Persona",
       "date": "2026-08-29",
       "summary": "Guarding wealth is far harder than creating it.",
@@ -170,7 +170,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "asset-checkup-ten-metrics",
-      "title": "Asset Checkup: The Ten-Metric Self-Test",
+      "title": "Asset Checkup",
       "subtitle": "Guardian's Awakening · Asset Checkup",
       "date": "2026-08-28",
       "summary": "Wealth defense isn't theoretical.",
@@ -266,7 +266,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "antifragile-portfolio-blueprint",
-      "title": "The Antifragile Portfolio: A Practical Allocation Blueprint",
+      "title": "The Antifragile Portfolio",
       "subtitle": "Guardian's Awakening · Allocation Blueprint",
       "date": "2026-08-24",
       "summary": "Earlier pieces covered single-asset risk, fund traps, where we stand in the cycle, the armor of trusts and policies, and the role of accounts and residency. This one puts the theory into a concrete number.",
@@ -308,7 +308,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "talent-visa-asset-strategy",
-      "title": "Top Talent / Quality Migrant Status and Assets: Identity Is a Means",
+      "title": "Top Talent Status: Identity Is Just a Means",
       "subtitle": "Guardian's Awakening · Identity Assets",
       "date": "2026-08-23",
       "summary": "After Hong Kong launched the 'High Talent Pass' and 'Quality Migrant' schemes, hundreds of thousands of mainland elites applied for Hong Kong resident status.",
@@ -346,7 +346,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "usd-policy-legal-shield",
-      "title": "The USD Policy, Taken Apart: The Shield of Its Legal Attributes",
+      "title": "The USD Policy: A Legal Shield",
       "subtitle": "Guardian's Awakening · The USD Policy",
       "date": "2026-08-22",
       "summary": "Mention insurance, and most people's minds jump to four words: paid only if something happens.",
@@ -396,7 +396,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hongkong-bank-account-pass",
-      "title": "The Logic of Opening a Hong Kong Bank Account: Your Ticket to Global Investing",
+      "title": "The Logic of Opening a Hong Kong Bank Account",
       "subtitle": "Guardian's Awakening · Bank Account Opening",
       "date": "2026-08-21",
       "summary": "Many mainland friends simplistically understand 'opening a Hong Kong account' as: one more card that can swipe and hold foreign currency.",
@@ -414,7 +414,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "wealth-inheritance-trust-solution",
-      "title": "The Trap of Wealth Succession: The Hong Kong Trust Solution",
+      "title": "The Trap of Wealth Succession",
       "subtitle": "Guardian's Awakening · Trust-Based Inheritance",
       "date": "2026-08-20",
       "summary": "'Wealth never survives three generations' is often treated as a sigh.",
@@ -432,7 +432,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "cyclical-investing-iron-rule",
-      "title": "The Iron Rule of Cyclical Investing: Where in the Cycle Are We?",
+      "title": "The Iron Rule of Cyclical Investing",
       "subtitle": "Guardian's Awakening · Cyclical Iron Rules",
       "date": "2026-08-19",
       "summary": "Howard Marks, founder of Oaktree, wrote a much-quoted line in \\\"The Cycle\\\": \\\"We may not know exactly where the future is headed, but...\\\"",
@@ -446,7 +446,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "fund-industry-harvest-trap",
-      "title": "The Hidden Harvest Rules of the Fund Industry: Why Wealth Products Don't Make Money",
+      "title": "Why Don't Wealth Products Make Money?",
       "subtitle": "Guardian's Awakening · Fund Harvesting",
       "date": "2026-08-18",
       "summary": "Someone held public funds, famous private funds, and bank wealth products for years — then pulled out the year-end statement and found something absurd: the fund company sends good-news reports every year, yet their own principal shrank.",
@@ -476,7 +476,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "single-asset-death-trap",
-      "title": "The Tragic Aesthetics of Financial Markets: The Single-Instrument Death Trap",
+      "title": "The Single-Instrument Death Trap",
       "subtitle": "Guardian's Awakening · Single Instrument",
       "date": "2026-08-17",
       "summary": "The cruelest aesthetics in financial markets is to lift a person onto a pedestal, then pull the pedestal away before their eyes.",
@@ -502,7 +502,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "certain-arbitrage-rate-spread",
-      "title": "Certainty Arbitrage: How the Rich Use the Two-Market Rate Spread for a Sure Win",
+      "title": "Certainty Arbitrage",
       "subtitle": "Guardian's Awakening · Certainty Arbitrage",
       "date": "2026-08-16",
       "summary": "The truly rich don't bet on predictions.",
@@ -516,7 +516,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "tax-planning-crs-era",
-      "title": "Tax Planning in the Transparency Era: The New Logic of Hong Kong Asset Allocation Under CRS",
+      "title": "The New Logic of Hong Kong Asset Allocation Under CRS",
       "subtitle": "Guardian's Awakening · The CRS Era",
       "date": "2026-08-15",
       "summary": "The old offshore era of hiding and concealing money is dead.",
@@ -534,7 +534,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "family-office-core-logic",
-      "title": "The Underlying Logic of Family Offices: How to Manage a Heirloom Like a Top Family",
+      "title": "The Underlying Logic of Family Offices",
       "subtitle": "Guardian's Awakening · Family Office",
       "date": "2026-08-14",
       "summary": "Top families never buy wealth-management products.",
@@ -548,7 +548,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "buy-borrow-die-policy-financing",
-      "title": "Buy, Borrow, Die: How the Rich Use Policy Financing for Low-Cost Leverage",
+      "title": "Buy, Borrow, Die",
       "subtitle": "Guardian's Awakening · Policy Financing",
       "date": "2026-08-13",
       "summary": "The wealth code of the ultra-rich is really just three words: buy, borrow, die.",
@@ -566,7 +566,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "uk-gilt-safety-illusion",
-      "title": "Asset Safety Through UK Gilts: Why Even the Safest Debt Can Blow Up",
+      "title": "Asset Safety Through UK Gilts",
       "subtitle": "Guardian's Awakening · The Safety Illusion",
       "date": "2026-08-12",
       "summary": "Gilts are, in many minds, the very symbol of 'safe.'",
@@ -588,7 +588,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "credit-money-endgame-gold-dollar",
-      "title": "The Endgame of Fiat Money: Why Gold and USD Assets Are the Final Backdrop in an Age of Uncertainty",
+      "title": "The Endgame of Fiat Money",
       "subtitle": "Guardian's Awakening · The End of Money",
       "date": "2026-08-11",
       "summary": "As global sovereign debt rushes toward a historic peak, is there even one item in that asset list that is true hard currency?",
@@ -614,7 +614,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-linked-rate-stability",
-      "title": "The Mystery of the Linked Exchange Rate: Why Hong Kong's USD Assets Are the Ultimate Stabilizer for Mainland Wealth",
+      "title": "The Mystery of the Linked Exchange Rate",
       "subtitle": "Guardian's Awakening · The Linked Exchange Rate",
       "date": "2026-08-10",
       "summary": "The Hong Kong dollar isn't an IOU, but a delivery receipt for USD assets.",
@@ -636,7 +636,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "rmb-rate-hidden-erosion",
-      "title": "The RMB Exchange Rate, Fully Explained: Why Assets You Thought Were Stable May Just Be 'Shrinking'",
+      "title": "Are Your \"Stable\" Assets Actually Shrinking?",
       "subtitle": "Guardian's Awakening · Exchange-Rate Truth",
       "date": "2026-08-09",
       "summary": "Some feel, as long as the RMB sits there undiminished, it's safe.",
@@ -658,7 +658,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hongkong-antifragile-first-stop",
-      "title": "Practicing Antifragility: Why Hong Kong Is the Chinese Family's First Stop Against Uncertainty",
+      "title": "Why Is Hong Kong the First Stop for Antifragility?",
       "subtitle": "Guardian's Awakening · Hong Kong, First Stop",
       "date": "2026-08-08",
       "summary": "Wind extinguishes a candle, yet feeds a fire.",
@@ -680,7 +680,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "low-trust-defense-strategy",
-      "title": "Decoding 'Low-Trust Defense': Why the Smarter the Person, the More They Build a 'Wealth Structure That Depends on No One'",
+      "title": "What Are Smart People Building with 'Low-Trust Defense'?",
       "subtitle": "Guardian's Awakening · Low-Trust Defense",
       "date": "2026-08-07",
       "summary": "The smarter the rich, the more they build an asset network that depends on no one and no single system.",
@@ -702,7 +702,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "offshore-mindset-primer",
-      "title": "Offshore Thinking Primer: Why Do Top Tycoons Decouple 'Identity' from 'Assets'?",
+      "title": "Offshore Thinking Primer",
       "subtitle": "Guardian's Awakening · Offshore Thinking",
       "date": "2026-08-06",
       "summary": "Ordinary people pursue owning more; top tycoons pursue unbundling everything — two completely different wealth cognitions.",
@@ -744,7 +744,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "civilization-bull-bear-cycle",
-      "title": "The Bull-Bear Cycles of Civilization: Geography No Longer Decides Destiny, but It Decides Wealth Safety",
+      "title": "The Bull-Bear Cycles of Civilization",
       "subtitle": "Guardian's Awakening · Civilizational Cycles",
       "date": "2026-08-05",
       "summary": "Geography no longer decides the direction of destiny, yet is quietly deciding the boundary of wealth safety.",
@@ -778,7 +778,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "banality-evil-wealth-shrink",
-      "title": "The Banality of Evil and Wealth Shrinkage: Why Those Who Simply Follow Are Losing This Generation's Wealth",
+      "title": "The Banality of Evil and Wealth Shrinkage",
       "subtitle": "Guardian's Awakening · Cognitive Traps",
       "date": "2026-08-04",
       "summary": "The most terrifying wealth shrinkage isn't a crash — it's the slow boil of a frog in warm water.",
@@ -820,7 +820,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "wealth-foundation-is-force",
-      "title": "The Foundation of Wealth Is 'Force': Why the Rule of Law Is the Ultimate 'Insurance' for Asset Allocation",
+      "title": "The Foundation of Wealth Is 'Force'",
       "subtitle": "Guardian's Awakening · Force and the Rule of Law",
       "date": "2026-08-03",
       "summary": "The foundation of wealth was never diligence, nor vision.",
@@ -916,7 +916,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
   "arkPilot": [
     {
       "id": "ark-year-review",
-      "title": "The Ark's Year in Review: The Questions Clients Asked Us Most",
+      "title": "The Ark's Year in Review",
       "subtitle": "Ark Insights · Ark Q&A",
       "date": "2026-11-19",
       "summary": "We don't make the decision for you — we only make sure that when you decide, you see the whole picture, not fragments.",
@@ -984,7 +984,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-family-office-cn",
-      "title": "The State of Family Offices in China: A Grand Ideal, a Sober Reality",
+      "title": "Family Offices in China: A Grand Ideal, a Sober Reality",
       "subtitle": "Ark Insights · Ark Q&A",
       "date": "2026-10-30",
       "summary": "The family-office dream can be huge, but the first real step is usually very concrete.",
@@ -1018,7 +1018,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-dividend-rate",
-      "title": "A Deep Read: How Hong Kong Insurance Dividend Fulfillment Ratios Are Calculated — and the Common Misconceptions",
+      "title": "How Are Hong Kong Insurance Dividend Fulfillment Ratios Calculated?",
       "subtitle": "Ark Insights · The Offshore Compass",
       "date": "2026-10-20",
       "summary": "The real risk isn't an ugly number — it's never having looked at the number seriously.",
@@ -1052,7 +1052,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-trust-not-mystery",
-      "title": "Trusts Aren't Mysterious: One Diagram to Tell If You Actually Need One",
+      "title": "Trusts Aren't Mysterious",
       "subtitle": "Ark Insights · Ark Q&A",
       "date": "2026-10-10",
       "summary": "No tool is inherently superior — only more or less suited.",
@@ -1120,7 +1120,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-offshore-3levels",
-      "title": "The Three Tiers of Offshore Asset Allocation: Which Tier Are You On?",
+      "title": "The Three Tiers of Offshore Asset Allocation",
       "subtitle": "Ark Insights · The Offshore Compass",
       "date": "2026-09-20",
       "summary": "Offshore allocation isn't about whose tools are more sophisticated — it's about whose structure better matches their real asset scale.",
@@ -1154,7 +1154,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-japan-lost-30",
-      "title": "The Lesson of Japan's Lost 30 Years for China's Middle Class: Single-Market Risk Is Fatal",
+      "title": "What Does Japan's Lost 30 Years Teach China's Middle Class?",
       "subtitle": "Ark Insights · The Macro Telescope",
       "date": "2026-09-10",
       "summary": "The real risk isn't what assets you hold — it's that all your assets hang on one single rope.",
@@ -1222,7 +1222,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-hk-data-2026h1",
-      "title": "Reading Hong Kong's 2026 H1 Insurance Data: Why Do Onshore Clients Keep Buying More?",
+      "title": "Why Do Onshore Clients Keep Buying More Hong Kong Insurance?",
       "subtitle": "Ark Insights · The Offshore Compass",
       "date": "2026-08-21",
       "summary": "The more emotional the debate around a field, the more we need a structural eye to take it apart — not slogans to pick a side.",
@@ -1290,7 +1290,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "ark-hk-resilience",
-      "title": "Break and Rebirth: Hong Kong's Extreme Resilience Through a Century of Cycles",
+      "title": "Break and Rebirth: Hong Kong's Extreme Resilience",
       "subtitle": "Ark Insights · The Macro Telescope",
       "date": "2026-08-10",
       "summary": "Is Hong Kong declining, or undergoing a profound rebirth? The answer lies in its century-old DNA — a wealth safe harbor that squeezes out bubbles and upgrades itself with every external shock.",
@@ -1520,7 +1520,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
   "gold": [
     {
       "id": "gold-where-to-store",
-      "title": "Singapore Free-Port Vault vs Hong Kong Bank Safe: Where Is Physical Gold Safest?",
+      "title": "Where Is Physical Gold Safest?",
       "subtitle": "Asset Map · Gold · Geographic Diversification",
       "date": "2027-01-25",
       "summary": "If you store a safe-haven asset in a risk center, it's like tying the lifeboat to a leaking ship.",
@@ -1558,7 +1558,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "gold-is-insurance-not-investment",
-      "title": "Gold's Role in Asset Allocation: Not 'Investment,' but 'Insurance'",
+      "title": "Is Gold an Investment or Insurance?",
       "subtitle": "Asset Map · Gold · Redefining Its Place",
       "date": "2027-01-18",
       "summary": "You wouldn't say 'this insurance was a loss' just because your car insurance never paid out.",
@@ -1596,7 +1596,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "gold-paper-vs-physical",
-      "title": "Paper Gold vs Physical Bullion: Same Gold, But the Underlying Risk Control Differs by a Whole Level",
+      "title": "Paper Gold vs Physical Bullion: What's the Difference?",
       "subtitle": "Asset Map · Gold · Do You Hold Gold or Paper?",
       "date": "2027-01-11",
       "summary": "True safe-haven is something you can literally touch when the crisis hits.",
@@ -1668,7 +1668,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-vs-shuibei-gold",
-      "title": "Hong Kong Becomes a Gold Reserve Center — What Does Shenzhen Shuibei Do? Two Ends of One Supply Chain",
+      "title": "Hong Kong Is Becoming a Gold Reserve Center — So What Does Shuibei Do?",
       "subtitle": "Asset Map · Gold · On-Chain or On-Exchange, Don't Mix Them Up",
       "date": "2026-11-24",
       "summary": "Hong Kong moves up to the financial infrastructure layer; Shuibei stays in the industrial and consumer layer. It's a division of labor, not competition.",
@@ -1706,7 +1706,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-tokenized-gold-market",
-      "title": "Can Retail Investors Buy Hong Kong's Tokenized Gold Yet? Primary, Secondary, and Liquidity Explained",
+      "title": "Can Retail Investors Buy Hong Kong's Tokenized Gold Yet?",
       "subtitle": "Asset Map · Gold · Don't Confuse a Settlement Pilot with a Trading Platform",
       "date": "2026-11-17",
       "summary": "Right now this is an interbank wholesale settlement pilot, not a secondary market retail investors can freely trade.",
@@ -1744,7 +1744,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-tokenized-gold-what",
-      "title": "What Is Hong Kong's \\\"Tokenized Gold\\\": How a Gold Bar Becomes an On-Chain Token",
+      "title": "What Is Hong Kong's \\\"Tokenized Gold\\\"?",
       "subtitle": "Asset Map · Gold · New Settlement Infrastructure",
       "date": "2026-11-10",
       "summary": "It isn't buying gold and walking away — it's adding a traceable on-chain record to gold already held in bank custody.",
@@ -1778,7 +1778,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-gold-hub-strategy",
-      "title": "Why Hong Kong Is Building an International Gold Reserve Hub: The Strategy Behind Its First Five-Year Plan",
+      "title": "Why Is Hong Kong Building an International Gold Reserve Hub?",
       "subtitle": "Asset Map · Gold · Hong Kong's Role in De-Dollarization",
       "date": "2026-11-03",
       "summary": "Hong Kong putting gold into its first five-year plan isn't about jewelry — it's about filling a gap in offshore RMB safe-haven assets amid global de-dollarization.",
@@ -1849,7 +1849,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-market-landscape",
-      "title": "The Full Landscape of Hong Kong's Insurance Market — Who Can Buy, From Whom, What to Buy, Explained in One Framework",
+      "title": "The Full Landscape of Hong Kong's Insurance Market",
       "subtitle": "HK Insurance Academy · Market Structure and Purchase Rules",
       "date": "2026-11-14",
       "summary": "Hong Kong insurance isn't selling a policy, but providing the lowest-cost entry point into global asset allocation.",
@@ -1880,7 +1880,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "sg-us-hk-insurance-compare",
-      "title": "Singapore IUL vs US IUL vs Hong Kong Dividend Insurance: Insurance Signals from Three Offshore Markets",
+      "title": "Singapore IUL vs US IUL vs Hong Kong Dividend Insurance",
       "subtitle": "HK Insurance Academy · One Chart to See the Three Markets' Positioning",
       "date": "2026-11-07",
       "summary": "Understanding the differences among the three markets matters far more than blindly believing any one market's promotion.",
@@ -1914,7 +1914,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "sg-insurance-overview",
-      "title": "Singapore Insurance: A Safe-Haven Choice for Political and Commercial Security — but the Threshold Is Rising",
+      "title": "Singapore Insurance: Why Is the Threshold Rising?",
       "subtitle": "HK Insurance Academy · Singapore Market's True Positioning",
       "date": "2026-10-31",
       "summary": "Singapore insurance isn't 'a better Hong Kong,' but 'a Hong Kong with a different positioning.'",
@@ -1952,7 +1952,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "us-vs-hk-insurance",
-      "title": "Insuring in the US vs Insuring in Hong Kong: A Full Comparison of Time Cost, Holding Cost, and Exit Cost",
+      "title": "Insuring in the US vs Hong Kong: How to Choose?",
       "subtitle": "HK Insurance Academy · The Ledger of Two Offshore Routes",
       "date": "2026-10-24",
       "summary": "Choosing a market isn't about picking the best — it's about picking the one that matches your current state.",
@@ -1994,7 +1994,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "us-iul-premium-financing",
-      "title": "US Insurance Premium Financing: Paying It Yourself vs the Bank Paying for You — What's the Difference?",
+      "title": "US Insurance Premium Financing: How Does It Work?",
       "subtitle": "HK Insurance Academy · A Mirror to US Leverage",
       "date": "2026-10-17",
       "summary": "The lure of leverage is 'making money with other people's money'; the trap is 'losing money with other people's money' too.",
@@ -2028,7 +2028,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "us-iul-inheritance",
-      "title": "IUL (Indexed Universal Life): America's Succession Tool for the High-Net-Worth — Is It Right for You?",
+      "title": "IUL: Is It Right for You?",
       "subtitle": "HK Insurance Academy · The High Bar of US Insurance",
       "date": "2026-10-10",
       "summary": "Every tool has its best user.",
@@ -2066,7 +2066,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-vs-mainland-annuity",
-      "title": "Hong Kong Insurance vs Mainland Annuity: Where Does the 30-Year Endpoint Differ?",
+      "title": "Hong Kong Insurance vs Mainland Annuity: Where Do They Differ in 30 Years?",
       "subtitle": "HK Insurance Academy · The Distance Time Creates",
       "date": "2026-10-03",
       "summary": "Tools showing no gap short-term often end worlds apart at the 30-year mark.",
@@ -2256,7 +2256,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-vs-mainland-wholelife",
-      "title": "Mainland Increasing Whole-Life vs Hong Kong Savings Insurance: Same 'Life Insurance' Shell, Different Core Logic",
+      "title": "Mainland Whole-Life vs Hong Kong Savings Insurance: What's the Difference?",
       "subtitle": "HK Insurance Academy · Same Shell, Different Core",
       "date": "2026-08-29",
       "summary": "Two things looking alike doesn't mean they solve the same problem.",
@@ -2294,7 +2294,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-compound-irr",
-      "title": "The Compounding Logic of Hong Kong Savings Insurance: Why a 6%–7% Long-Term IRR Is More Reliable Than It Looks",
+      "title": "Hong Kong Savings Insurance: Is a 6%–7% IRR Real?",
       "subtitle": "HK Insurance Academy · The Magic and Limits of Compounding",
       "date": "2026-08-22",
       "summary": "Compounding is the eighth wonder of the world, but its premise is — you're willing to wait, and able to wait.",
@@ -2332,7 +2332,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "hk-multi-currency-account",
-      "title": "The Multi-Currency Account of Hong Kong Insurance: An Underestimated FX-Hedge Tool",
+      "title": "The Multi-Currency Account of Hong Kong Insurance",
       "subtitle": "HK Insurance Academy · A Policy with a Built-In FX Moat",
       "date": "2026-08-15",
       "summary": "The real risk isn't volatility, but that all your eggs sit in the same priced basket.",
@@ -2444,7 +2444,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
   "trust": [
     {
       "id": "trust-china-family-office",
-      "title": "The Rise and the Awkward Spot of China's Family Offices: Why Going Offshore Is Unavoidable",
+      "title": "Why Is Going Offshore Unavoidable for China's Family Offices?",
       "subtitle": "Asset Map · Trust · The Limits of a Local Family Office",
       "date": "2026-12-28",
       "summary": "A family office isn't an office. It's a system for how money survives across generations.",
@@ -2512,7 +2512,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "trust-vs-insurance-vs-will",
-      "title": "Trust VS Insurance VS Will: The Efficiency and Boundaries of Three Succession Tools",
+      "title": "Trust VS Insurance VS Will",
       "subtitle": "Asset Map · Trust · Choosing Among the Three",
       "date": "2026-12-14",
       "summary": "Good succession planning isn't about picking the most expensive tool, but placing the right tool in the right spot.",
@@ -2546,7 +2546,7 @@ export const GENERATED_ARTICLES_en: Record<string, Article[]> = {
     },
     {
       "id": "trust-vcc-cost",
-      "title": "Singapore's VCC Structure and Family Offices: The Real Ledger of Setup Thresholds and Ongoing Costs",
+      "title": "How Much Does a Singapore VCC Really Cost?",
       "subtitle": "Asset Map · Trust · Counting the Real Cost",
       "date": "2026-12-07",
       "summary": "Whether a structure is good isn't about how glamorous it looks, but how much it takes from your pocket every year.",

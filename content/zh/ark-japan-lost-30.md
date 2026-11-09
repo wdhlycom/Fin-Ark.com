@@ -1,6 +1,6 @@
 ---
 id: "ark-japan-lost-30"
-title: "日本失去的 30 年给中国中产的教训：单一市场的风险是致命的"
+title: "日本失去的 30 年，给中国中产什么教训？"
 subtitle: "方舟视点 · 宏观望远镜"
 date: 2026-09-10
 section: arkPilot

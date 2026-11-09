@@ -83,10 +83,9 @@ export function getTopicPage(id: string): TopicPage | undefined {
   return TOPIC_PAGES.find((t) => t.id === id);
 }
 
-/** 主题页文案（按语言；es/ar 回退 en，与全站多语言约定一致）。 */
+/** 主题页文案（按语言；es/ar 缺失时回退 en，与全站多语言约定一致）。 */
 export function topicCopy(id: string, lang: Lang): TopicCopy {
-  const zh = lang === 'zh';
-  const table: Record<string, { zh: TopicCopy; en: TopicCopy }> = {
+  const table: Record<string, Partial<Record<Lang, TopicCopy>>> = {
     'gold-storage': {
       zh: {
         nav: '黄金储存',
@@ -105,6 +104,24 @@ export function topicCopy(id: string, lang: Lang): TopicCopy {
           'The last mile of physical gold is storage. At home, you fear theft and disaster; in a bank safe, you question whether the bank and jurisdiction are stable. This topic breaks gold storage into three questions answered in one place: paper gold vs physical bullion risk, Hong Kong vs Singapore custody, and how much physical gold a family should hold as a floor.',
         description:
           'A complete guide to physical gold storage: Hong Kong bank vaults vs Singapore free-port vaults, paper gold vs physical bullion risk, and how much gold to hold.',
+      },
+      es: {
+        nav: 'Almacenamiento de Oro',
+        title: '¿Dónde guardar el oro físico con seguridad? Hong Kong, Singapur o en casa',
+        subtitle: 'Tema de Oro · Patrón Físico · Diversificación Geográfica',
+        intro:
+          'El último paso del oro físico es el más crítico: dónde guardarlo. En casa temes el robo y los desastres; en una caja bancaria te preguntas si ese banco y esa jurisdicción son estables. Este tema resuelve el almacenamiento de oro en tres preguntas: oro papel frente a lingotes físicos, custodia en Hong Kong frente a Singapur, y cuánto oro físico debería mantener una familia como colchón.',
+        description:
+          'Guía completa de almacenamiento de oro físico: cajas bancarias de Hong Kong frente a bóvedas de Singapur, oro papel frente a lingotes físicos, y cuánto oro conviene mantener.',
+      },
+      ar: {
+        nav: 'تخزين الذهب',
+        title: 'أين تخزّن الذهب المادي بأمان؟ هونغ كونغ أم سنغافورة أم المنزل',
+        subtitle: 'موضوع الذهب · المعيار المادي · التنويع الجغرافي',
+        intro:
+          'الخطوة الأخيرة في امتلاك الذهب المادي هي الأهم: أين تخزّنه. في المنزل تخشى السرقة والكوارث، وفي صندوق البنك تتساءل عن استقرار ذلك البنك وتلك الولاية القضائية. يتناول هذا الموضوع تخزين الذهب عبر ثلاثة أسئلة: الذهب الورقي مقابل السبائك المادية، الحفظ في هونغ كونغ مقابل سنغافورة، وكم ينبغي أن تحتفظ العائلة من ذهب مادي كقاعدة أساس.',
+        description:
+          'دليل شامل لتخزين الذهب المادي: خزائن بنوك هونغ كونغ مقابل خزائن سنغافورة، الذهب الورقي مقابل السبائك المادية، وكم ينبغي الاحتفاظ من الذهب.',
       },
     },
     'trust-succession': {
@@ -126,15 +143,33 @@ export function topicCopy(id: string, lang: Lang): TopicCopy {
         description:
           'Comparing trust, insurance, and will for family wealth succession: efficiency, boundaries, entry thresholds, and how HK insurance enables succession isolation.',
       },
+      es: {
+        nav: 'Fideicomiso y Sucesión',
+        title: '¿Fideicomiso, seguro o testamento? Cómo elegir la herramienta de sucesión patrimonial',
+        subtitle: 'Tema de Fideicomiso · Aislamiento Sucesorio · Cortafuegos de Deuda',
+        intro:
+          '«¿Necesito un fideicomiso?» es la pregunta más frecuente y la más manipulada en la planificación patrimonial offshore. Este tema compara las tres herramientas —fideicomiso, seguro y testamento—, aclara su eficiencia, sus límites y sus umbrales de entrada, y responde dos preguntas reales: a partir de qué nivel de patrimonio conviene un fideicomiso, y por qué un seguro de Hong Kong se conoce como «el fideicomiso familiar de los pobres».',
+        description:
+          'Comparativa de herramientas de sucesión: fideicomiso, seguro y testamento — eficiencia, límites, umbrales de entrada y cómo el seguro de Hong Kong logra el aislamiento sucesorio.',
+      },
+      ar: {
+        nav: 'الصندوق والميراث',
+        title: 'صندوق ائتماني أم تأمين أم وصية؟ اختيار أداة توريث الثروة المناسبة',
+        subtitle: 'موضوع الصندوق · عزل الوراثة · جدار حماية الديون',
+        intro:
+          '«هل أحتاج صندوقاً ائتمانياً؟» هو السؤال الأكثر تكراراً والأسرع تضليلاً في التخطيط الخارجي للأصول. يقارن هذا الموضوع الأدوات الثلاث —الصندوق والتأمين والوصية— جنباً إلى جنب، ويوضح كفاءتها وحدودها وعتبات الدخول إليها، ويجيب عن سؤالين حقيقيين: عند أي مستوى من الأصول يصبح الصندوق ضرورياً، ولماذا يوصف تأمين هونغ كونغ بأنه «الصندوق العائلي للفقراء».',
+        description:
+          'مقارنة أدوات توريث الثروة: الصندوق والتأمين والوصية — الكفاءة والحدود وعتبات الدخول، وكيف يحقق تأمين هونغ كونغ عزل الوراثة.',
+      },
     },
   };
   const entry = table[id];
   if (!entry) {
     // 未配置文案的主题：回退到最接近的英文文案，避免构建崩溃
-    const fallback = Object.values(table)[0].en;
+    const fallback = Object.values(table)[0].en as TopicCopy;
     return fallback;
   }
-  return zh ? entry.zh : entry.en;
+  return entry[lang] ?? (entry.en as TopicCopy);
 }
 
 /** 主题页 URL 路径（裸路径，由 withLang 补语言前缀），如 /gold-storage */

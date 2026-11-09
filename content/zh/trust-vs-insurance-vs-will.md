@@ -1,6 +1,6 @@
 ---
 id: "trust-vs-insurance-vs-will"
-title: "信托 VS 保险 VS 遗嘱：三个传承工具的效率和边界"
+title: "信托 VS 保险 VS 遗嘱"
 subtitle: "资产地图 · 信托 · 三种工具怎么选"
 date: 2026-12-14
 section: trust

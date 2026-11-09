@@ -1,6 +1,6 @@
 ---
 id: "ark-offshore-3levels"
-title: "离岸资产配置的三个层次：你在第几层？"
+title: "离岸资产配置的三个层次"
 subtitle: "方舟视点 · 离岸罗盘"
 date: 2026-09-20
 section: arkPilot

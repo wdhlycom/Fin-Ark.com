@@ -1,6 +1,6 @@
 ---
 id: "gold-where-to-store"
-title: "Singapore Free-Port Vault vs Hong Kong Bank Safe: Where Is Physical Gold Safest?"
+title: "Where Is Physical Gold Safest?"
 subtitle: "Asset Map · Gold · Geographic Diversification"
 date: 2027-01-25
 section: gold

@@ -1,6 +1,6 @@
 ---
 id: "fund-industry-harvest-trap"
-title: "The Hidden Harvest Rules of the Fund Industry: Why Wealth Products Don't Make Money"
+title: "Why Don't Wealth Products Make Money?"
 subtitle: "Guardian's Awakening · Fund Harvesting"
 date: 2026-08-18
 section: guardian

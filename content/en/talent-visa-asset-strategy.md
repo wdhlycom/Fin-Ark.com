@@ -1,6 +1,6 @@
 ---
 id: "talent-visa-asset-strategy"
-title: "Top Talent / Quality Migrant Status and Assets: Identity Is a Means"
+title: "Top Talent Status: Identity Is Just a Means"
 subtitle: "Guardian's Awakening · Identity Assets"
 date: 2026-08-23
 section: guardian

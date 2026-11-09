@@ -1,6 +1,6 @@
 ---
 id: "hk-tokenized-gold-what"
-title: "What Is Hong Kong's \"Tokenized Gold\": How a Gold Bar Becomes an On-Chain Token"
+title: "What Is Hong Kong's \"Tokenized Gold\"?"
 subtitle: "Asset Map · Gold · New Settlement Infrastructure"
 date: 2026-11-10
 section: gold

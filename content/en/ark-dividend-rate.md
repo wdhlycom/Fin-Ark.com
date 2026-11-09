@@ -1,6 +1,6 @@
 ---
 id: "ark-dividend-rate"
-title: "A Deep Read: How Hong Kong Insurance Dividend Fulfillment Ratios Are Calculated — and the Common Misconceptions"
+title: "How Are Hong Kong Insurance Dividend Fulfillment Ratios Calculated?"
 subtitle: "Ark Insights · The Offshore Compass"
 date: 2026-10-20
 section: arkPilot

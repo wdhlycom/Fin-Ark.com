@@ -1,6 +1,6 @@
 ---
 id: "hongkong-bank-account-pass"
-title: "The Logic of Opening a Hong Kong Bank Account: Your Ticket to Global Investing"
+title: "The Logic of Opening a Hong Kong Bank Account"
 subtitle: "Guardian's Awakening · Bank Account Opening"
 date: 2026-08-21
 section: guardian

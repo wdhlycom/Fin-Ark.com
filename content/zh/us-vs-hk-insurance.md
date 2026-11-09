@@ -1,6 +1,6 @@
 ---
 id: "us-vs-hk-insurance"
-title: "赴美投保 vs 赴港投保：时间成本、持有成本和退出成本的全面对比"
+title: "赴美投保 vs 赴港投保，怎么选？"
 subtitle: "港险学院 · 两种离岸路径的账本"
 date: 2026-10-24
 section: insurance

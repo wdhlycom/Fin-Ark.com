@@ -1,6 +1,6 @@
 ---
 id: "hk-vs-mainland-wholelife"
-title: "Mainland Increasing Whole-Life vs Hong Kong Savings Insurance: Same 'Life Insurance' Shell, Different Core Logic"
+title: "Mainland Whole-Life vs Hong Kong Savings Insurance: What's the Difference?"
 subtitle: "HK Insurance Academy · Same Shell, Different Core"
 date: 2026-08-29
 section: insurance

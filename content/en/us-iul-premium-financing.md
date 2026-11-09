@@ -1,6 +1,6 @@
 ---
 id: "us-iul-premium-financing"
-title: "US Insurance Premium Financing: Paying It Yourself vs the Bank Paying for You — What's the Difference?"
+title: "US Insurance Premium Financing: How Does It Work?"
 subtitle: "HK Insurance Academy · A Mirror to US Leverage"
 date: 2026-10-17
 section: insurance

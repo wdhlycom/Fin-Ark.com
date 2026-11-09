@@ -1,6 +1,6 @@
 ---
 id: "hk-premium-financing"
-title: "保单融资：用银行的钱撬动更大的保额，怎么操作？"
+title: "保单融资，怎么操作？"
 subtitle: "港险学院 · 高净值客户的杠杆玩法"
 date: 2026-09-12
 section: insurance

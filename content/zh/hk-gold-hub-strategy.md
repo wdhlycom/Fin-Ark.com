@@ -1,6 +1,6 @@
 ---
 id: "hk-gold-hub-strategy"
-title: "香港为什么要当国际黄金储备中心：一份五年规划背后的战略总账"
+title: "香港为什么要当国际黄金储备中心？"
 subtitle: "资产地图 · 黄金 · 去美元化下的香港定位"
 date: 2026-11-03
 section: gold

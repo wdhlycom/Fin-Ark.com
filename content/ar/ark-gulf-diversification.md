@@ -1,6 +1,6 @@
 ---
 id: ar-ark-gulf-diversification
-title: "مرساة عملات الخليج: لماذا يحتاج البترودولار أيضاً إلى التنويع الجغرافي؟"
+title: "مرساة عملات الخليج"
 subtitle: "رؤية السفينة"
 date: 2026-08-04
 section: arkPilot

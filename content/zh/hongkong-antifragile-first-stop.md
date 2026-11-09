@@ -1,6 +1,6 @@
 ---
 id: "hongkong-antifragile-first-stop"
-title: "反脆弱的实践：为什么香港是中国人对抗不确定性的第一站？"
+title: "为什么香港是反脆弱的第一站？"
 subtitle: "守护觉醒 · 香港第一站"
 date: 2026-08-08
 section: guardian

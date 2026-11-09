@@ -1,6 +1,6 @@
 ---
 id: "gold-paper-vs-physical"
-title: "Paper Gold vs Physical Bullion: Same Gold, But the Underlying Risk Control Differs by a Whole Level"
+title: "Paper Gold vs Physical Bullion: What's the Difference?"
 subtitle: "Asset Map · Gold · Do You Hold Gold or Paper?"
 date: 2027-01-11
 section: gold

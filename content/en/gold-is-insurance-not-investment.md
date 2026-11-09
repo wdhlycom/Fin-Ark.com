@@ -1,6 +1,6 @@
 ---
 id: "gold-is-insurance-not-investment"
-title: "Gold's Role in Asset Allocation: Not 'Investment,' but 'Insurance'"
+title: "Is Gold an Investment or Insurance?"
 subtitle: "Asset Map · Gold · Redefining Its Place"
 date: 2027-01-18
 section: gold

@@ -1,6 +1,6 @@
 ---
 id: "trust-vcc-cost"
-title: "Singapore's VCC Structure and Family Offices: The Real Ledger of Setup Thresholds and Ongoing Costs"
+title: "How Much Does a Singapore VCC Really Cost?"
 subtitle: "Asset Map · Trust · Counting the Real Cost"
 date: 2026-12-07
 section: trust

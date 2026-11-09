@@ -1,6 +1,6 @@
 ---
 id: "hk-tokenized-gold-what"
-title: "香港「代币化黄金」是什么：一根金条，如何变成一枚链上凭证"
+title: "香港「代币化黄金」到底是什么？"
 subtitle: "资产地图 · 黄金 · 机构间结算的新基建"
 date: 2026-11-10
 section: gold

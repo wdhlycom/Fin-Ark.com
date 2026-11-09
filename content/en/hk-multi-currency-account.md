@@ -1,6 +1,6 @@
 ---
 id: "hk-multi-currency-account"
-title: "The Multi-Currency Account of Hong Kong Insurance: An Underestimated FX-Hedge Tool"
+title: "The Multi-Currency Account of Hong Kong Insurance"
 subtitle: "HK Insurance Academy · A Policy with a Built-In FX Moat"
 date: 2026-08-15
 section: insurance

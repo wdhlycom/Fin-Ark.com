@@ -1,6 +1,6 @@
 ---
 id: "talent-visa-asset-strategy"
-title: "高才优才身份与资产：身份是手段"
+title: "高才优才身份，只是手段"
 subtitle: "守护觉醒 · 身份资产"
 date: 2026-08-23
 section: guardian

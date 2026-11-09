@@ -1,6 +1,6 @@
 ---
 id: "buy-borrow-die-policy-financing"
-title: "Buy,Borrow,Die：富人如何通过保单融资实现低成本"
+title: "Buy,Borrow,Die：富人怎么靠保单融资"
 subtitle: "守护觉醒 · 保单融资"
 date: 2026-08-13
 section: guardian

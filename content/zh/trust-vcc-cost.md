@@ -1,6 +1,6 @@
 ---
 id: "trust-vcc-cost"
-title: "新加坡 VCC 架构与家族办公室：设立门槛和持续成本的真实账本"
+title: "新加坡 VCC 架构，成本到底多少？"
 subtitle: "资产地图 · 信托 · 把账算清楚"
 date: 2026-12-07
 section: trust

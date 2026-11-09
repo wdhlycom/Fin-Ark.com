@@ -1,6 +1,6 @@
 ---
 id: "hk-market-landscape"
-title: "The Full Landscape of Hong Kong's Insurance Market — Who Can Buy, From Whom, What to Buy, Explained in One Framework"
+title: "The Full Landscape of Hong Kong's Insurance Market"
 subtitle: "HK Insurance Academy · Market Structure and Purchase Rules"
 date: 2026-11-14
 section: insurance

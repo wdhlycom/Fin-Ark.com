@@ -1,6 +1,6 @@
 ---
 id: "us-vs-hk-insurance"
-title: "Insuring in the US vs Insuring in Hong Kong: A Full Comparison of Time Cost, Holding Cost, and Exit Cost"
+title: "Insuring in the US vs Hong Kong: How to Choose?"
 subtitle: "HK Insurance Academy · The Ledger of Two Offshore Routes"
 date: 2026-10-24
 section: insurance

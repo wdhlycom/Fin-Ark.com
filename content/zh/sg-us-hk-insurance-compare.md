@@ -1,6 +1,6 @@
 ---
 id: "sg-us-hk-insurance-compare"
-title: "新加坡 IUL vs 美国 IUL vs 香港分红险：三个离岸市场的保险信号"
+title: "新加坡 IUL vs 美国 IUL vs 香港分红险"
 subtitle: "港险学院 · 一张图看懂三市场定位"
 date: 2026-11-07
 section: insurance

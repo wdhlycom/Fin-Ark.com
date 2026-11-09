@@ -1,6 +1,6 @@
 ---
 id: "ark-hk-data-2026h1"
-title: "Reading Hong Kong's 2026 H1 Insurance Data: Why Do Onshore Clients Keep Buying More?"
+title: "Why Do Onshore Clients Keep Buying More Hong Kong Insurance?"
 subtitle: "Ark Insights · The Offshore Compass"
 date: 2026-08-21
 section: arkPilot

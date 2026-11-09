@@ -1,6 +1,6 @@
 ---
 id: "ark-dividend-rate"
-title: "深度解读：香港保险分红实现率的计算方法与常见误区"
+title: "香港保险的分红实现率，到底怎么算？"
 subtitle: "方舟视点 · 离岸罗盘"
 date: 2026-10-20
 section: arkPilot

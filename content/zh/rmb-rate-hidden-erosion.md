@@ -1,6 +1,6 @@
 ---
 id: "rmb-rate-hidden-erosion"
-title: "一口气讲透人民币汇率：为什么以为稳稳的资产，可能只是在"缩水""
+title: "人民币汇率，你以为的资产在缩水吗？"
 subtitle: "守护觉醒 · 汇率真相"
 date: 2026-08-09
 section: guardian

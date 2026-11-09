@@ -1,6 +1,6 @@
 ---
 id: "us-iul-premium-financing"
-title: "美国保险的保费融资：保费自己交 vs 银行帮你交，差在哪？"
+title: "美国保险的保费融资，怎么玩？"
 subtitle: "港险学院 · 美国杠杆玩法的一面镜子"
 date: 2026-10-17
 section: insurance

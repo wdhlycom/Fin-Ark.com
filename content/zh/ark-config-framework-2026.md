@@ -1,6 +1,6 @@
 ---
 id: "ark-config-framework-2026"
-title: "告别"闭眼买"时代：2026 年资产配置的基本框架"
+title: "告别"闭眼买"时代"
 subtitle: "方舟视点 · 宏观望远镜"
 date: 2026-11-09
 section: arkPilot

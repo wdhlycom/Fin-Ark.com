@@ -1,6 +1,6 @@
 ---
 id: "ark-year-review"
-title: "The Ark's Year in Review: The Questions Clients Asked Us Most"
+title: "The Ark's Year in Review"
 subtitle: "Ark Insights · Ark Q&A"
 date: 2026-11-19
 section: arkPilot

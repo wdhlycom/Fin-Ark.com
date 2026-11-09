@@ -1,6 +1,6 @@
 ---
 id: "ark-year-review"
-title: "方舟年度回顾：这一年我们帮客户解决的最多的问题是什么"
+title: "方舟年度回顾"
 subtitle: "方舟视点 · 方舟问答"
 date: 2026-11-19
 section: arkPilot

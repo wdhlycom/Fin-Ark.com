@@ -1,6 +1,6 @@
 ---
 id: "hk-vs-mainland-annuity"
-title: "Hong Kong Insurance vs Mainland Annuity: Where Does the 30-Year Endpoint Differ?"
+title: "Hong Kong Insurance vs Mainland Annuity: Where Do They Differ in 30 Years?"
 subtitle: "HK Insurance Academy · The Distance Time Creates"
 date: 2026-10-03
 section: insurance

@@ -1,6 +1,6 @@
 ---
 id: "ark-family-office-cn"
-title: "The State of Family Offices in China: A Grand Ideal, a Sober Reality"
+title: "Family Offices in China: A Grand Ideal, a Sober Reality"
 subtitle: "Ark Insights · Ark Q&A"
 date: 2026-10-30
 section: arkPilot

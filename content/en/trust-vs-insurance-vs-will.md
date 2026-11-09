@@ -1,6 +1,6 @@
 ---
 id: "trust-vs-insurance-vs-will"
-title: "Trust VS Insurance VS Will: The Efficiency and Boundaries of Three Succession Tools"
+title: "Trust VS Insurance VS Will"
 subtitle: "Asset Map · Trust · Choosing Among the Three"
 date: 2026-12-14
 section: trust

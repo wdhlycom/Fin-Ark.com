@@ -1,6 +1,6 @@
 ---
 id: "sg-us-hk-insurance-compare"
-title: "Singapore IUL vs US IUL vs Hong Kong Dividend Insurance: Insurance Signals from Three Offshore Markets"
+title: "Singapore IUL vs US IUL vs Hong Kong Dividend Insurance"
 subtitle: "HK Insurance Academy · One Chart to See the Three Markets' Positioning"
 date: 2026-11-07
 section: insurance

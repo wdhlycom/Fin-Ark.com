@@ -1,6 +1,6 @@
 ---
 id: "sg-insurance-overview"
-title: "Singapore Insurance: A Safe-Haven Choice for Political and Commercial Security — but the Threshold Is Rising"
+title: "Singapore Insurance: Why Is the Threshold Rising?"
 subtitle: "HK Insurance Academy · Singapore Market's True Positioning"
 date: 2026-10-31
 section: insurance

@@ -1,6 +1,6 @@
 ---
 id: "hk-vs-shuibei-gold"
-title: "香港做黄金储备中心，深圳水贝做什么：一条产业链的两端"
+title: "香港做黄金储备中心，水贝做什么？"
 subtitle: "资产地图 · 黄金 · 上链还是上交易所，别搞混"
 date: 2026-11-24
 section: gold

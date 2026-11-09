@@ -1,6 +1,6 @@
 ---
 id: "trust-china-family-office"
-title: "The Rise and the Awkward Spot of China's Family Offices: Why Going Offshore Is Unavoidable"
+title: "Why Is Going Offshore Unavoidable for China's Family Offices?"
 subtitle: "Asset Map · Trust · The Limits of a Local Family Office"
 date: 2026-12-28
 section: trust

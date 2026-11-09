@@ -1,6 +1,6 @@
 ---
 id: "fund-industry-harvest-trap"
-title: "基金行业的收割潜规则：理财产品为何不赚钱"
+title: "理财产品，为什么总不赚钱？"
 subtitle: "守护觉醒 · 基金收割"
 date: 2026-08-18
 section: guardian

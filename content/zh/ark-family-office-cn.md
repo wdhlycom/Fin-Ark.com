@@ -1,6 +1,6 @@
 ---
 id: "ark-family-office-cn"
-title: "家族办公室在中国的现状：理想很丰满，现实很骨感"
+title: "家族办公室在中国，混得怎么样？"
 subtitle: "方舟视点 · 方舟问答"
 date: 2026-10-30
 section: arkPilot

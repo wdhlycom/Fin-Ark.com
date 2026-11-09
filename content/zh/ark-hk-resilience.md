@@ -1,6 +1,6 @@
 ---
 id: "ark-hk-resilience"
-title: "破局与重生：从百年周期看香港的极韧生命力"
+title: "破局与重生：香港的极韧生命力"
 subtitle: "方舟视点"
 date: 2026-08-10
 section: arkPilot

@@ -1,6 +1,6 @@
 ---
 id: "family-office-core-logic"
-title: "家族办公室底层逻辑：如何像顶级家族一样管理传家宝"
+title: "家族办公室的底层逻辑"
 subtitle: "守护觉醒 · 家族办公室"
 date: 2026-08-14
 section: guardian
