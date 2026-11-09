@@ -49,6 +49,19 @@ function today() {
   return new Date().toISOString().slice(0, 10);
 }
 
+/**
+ * 静态页（首页/关于/板块页/主题页）自己没有日期字段，用「全站最新一篇文章的日期」兜底。
+ *
+ * 原来直接用构建当天：一部署，全站 lastmod 全变成今天，而内容并没变。
+ * 定时发布上线后每天都会重建一次，那样 lastmod 会天天刷新，Google 学到「这站的
+ * lastmod 不可信」就整体忽略了。跟内容走之后，多重建几次也不会污染日期。
+ */
+const latestArticleDate =
+  entries.reduce((max, e) => {
+    if (!e.group?.startsWith('article:') || !e.lastmod) return max;
+    return e.lastmod > max ? e.lastmod : max;
+  }, '') || today();
+
 function hreflangLines(alts) {
   return alts
     .map((a) => `      <xhtml:link rel="alternate" hreflang="${a.lang}" href="${a.loc}"/>`)
@@ -85,7 +98,7 @@ for (const [group, items] of groups) {
   for (const item of items) {
     pushUrl(
       BASE + item.path,
-      item.lastmod || today(),
+      item.lastmod || latestArticleDate,
       item.changefreq,
       item.priority,
       altLines

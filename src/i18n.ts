@@ -2,6 +2,7 @@ export type { Lang, SectionId, Article, Dict } from './i18n/types';
 export { LANGS, SECTIONS } from './i18n/types';
 
 import type { Article, Dict, Lang } from './i18n/types';
+import { isPublished } from './publish';
 import { ZH_SHARED } from './i18n/zhShared';
 import { ZH_ARTICLES } from './i18n/zhArticles';
 import { GENERATED_ARTICLES } from './i18n/generatedArticles.gen';
@@ -59,14 +60,29 @@ function mergeArticles(
   return out;
 }
 
+/**
+ * 定时发布闸门（唯一过滤点）。
+ *
+ * 必须在这里做、且只在这里做：列表页、聚合页计数、CollectionPage 的 hasPart、
+ * 预渲染路由、sitemap、llms.txt 全都从 I18N 取数，改这一处等于全站同步，
+ * 不会出现「页面藏了但 sitemap 里还在」的漂移。
+ *
+ * 剔除逻辑见 src/publish.ts：date 晚于构建日的文章本轮视为未发布。
+ */
+function applySchedule(rec: Record<string, Article[]>): Record<string, Article[]> {
+  const out: Record<string, Article[]> = {};
+  for (const [key, list] of Object.entries(rec)) out[key] = list.filter(isPublished);
+  return out;
+}
+
 export const I18N: Record<Lang, Dict> = {
   zh: {
     ...ZH_SHARED,
-    articles: mergeArticles(ZH_ARTICLES, GENERATED_ARTICLES) as Dict['articles'],
+    articles: applySchedule(mergeArticles(ZH_ARTICLES, GENERATED_ARTICLES)) as Dict['articles'],
   },
   // 文章：手写 TS 作为基础层，MD 管线产物作为覆盖层（同 id 去重时 MD 优先），
   // 实现「每语言独立 Markdown 源、按语言加载」且迁移期不丢失既有译文。
-  en: { ...EN_SHARED, articles: mergeArticles(EN_ARTICLES, GENERATED_ARTICLES_en) as Dict['articles'] },
-  es: { ...ES_SHARED, articles: mergeArticles(ES_ARTICLES, GENERATED_ARTICLES_es) as Dict['articles'] },
-  ar: { ...AR_SHARED, articles: mergeArticles(AR_ARTICLES, GENERATED_ARTICLES_ar) as Dict['articles'] },
+  en: { ...EN_SHARED, articles: applySchedule(mergeArticles(EN_ARTICLES, GENERATED_ARTICLES_en)) as Dict['articles'] },
+  es: { ...ES_SHARED, articles: applySchedule(mergeArticles(ES_ARTICLES, GENERATED_ARTICLES_es)) as Dict['articles'] },
+  ar: { ...AR_SHARED, articles: applySchedule(mergeArticles(AR_ARTICLES, GENERATED_ARTICLES_ar)) as Dict['articles'] },
 };

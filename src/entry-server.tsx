@@ -127,7 +127,7 @@ export function collectSitemapEntries(): SitemapEntry[] {
           path: withLang(lang, articleToPath(sec, a.slug ?? a.id)),
           // 与页内 hreflang 保持同一配对键（文章 id）
           group: `article:${a.id}`,
-          lastmod: a.date,
+          lastmod: a.updated ?? a.date,
           priority: '0.7',
           changefreq: 'monthly',
         });
@@ -136,6 +136,12 @@ export function collectSitemapEntries(): SitemapEntry[] {
 
     // 主题聚合页：纳入 sitemap（优先级略高于普通文章，低于板块页）
     for (const tp of TOPIC_PAGES) {
+      // 定时发布会造成「主题页暂时无文可聚」——排期中的文章还没到日子。
+      // 一篇都没有就说明这页此刻是空壳，与板块页同规则：不进 sitemap。
+      const hits = tp.articleIds.filter((id) =>
+        SECTIONS.some((sec) => (articles[sec] ?? []).some((a) => a.id === id))
+      ).length;
+      if (hits === 0) continue;
       entries.push({
         path: withLang(lang, topicToPath(tp.id)),
         group: `topic:${tp.id}`,

@@ -1,0 +1,45 @@
+name: 定时发布（每日重建）
+
+# 作用：让标了未来日期的文章到点自动上线，无需人工再上传任何东西。
+#
+# 工作链路：
+#   content/<lang>/*.md 里 date: 2027-01-04
+#     → 每天定时触发 Vercel 重新构建
+#     → 构建时 src/publish.ts 按「香港时间今天」过滤
+#     → date <= 今天 的文章自动出现（列表 / 页面 / sitemap / llms.txt 全同步）
+#
+# 需要配置一次：仓库 Settings → Secrets and variables → Actions →
+#   New repository secret
+#   名字：VERCEL_DEPLOY_HOOK
+#   值：Vercel 项目 → Settings → Git → Deploy Hooks 里创建的 main 分支 Hook URL
+#
+# 注意：GitHub 会在仓库连续 60 天没有任何 commit 后自动停用定时任务。
+# 长期不写文章的话，回来先在 Actions 页面点一次这个 workflow 的 Run workflow，
+# 或随便提交一次改动，定时器即恢复。
+
+on:
+  schedule:
+    # UTC 00:10 = 香港时间 08:10。GitHub 的 cron 常见延迟几分钟到十几分钟。
+    - cron: '10 0 * * *'
+  # 允许手动触发（补发、调试用）
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 触发 Vercel 重新构建
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::error::未配置 VERCEL_DEPLOY_HOOK，请在仓库 Settings → Secrets 添加后再试"
+            exit 1
+          fi
+          code=$(curl -sS -o /tmp/hook.out -w '%{http_code}' -X POST "$HOOK")
+          echo "Deploy Hook 返回 HTTP $code"
+          if [ "$code" -ge 300 ]; then
+            cat /tmp/hook.out
+            exit 1
+          fi
+          echo "已触发重建：Vercel 会在几分钟内重新构建并发布到期的文章。"
