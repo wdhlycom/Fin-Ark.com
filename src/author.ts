@@ -32,6 +32,21 @@ export const AUTHOR = {
     'https://x.com/FinanceArk',
     'https://www.lumcog.com',
   ] as string[],
+  /**
+   * 微信公众号身份。微信没有可被公开抓取的公众号主页 URL：
+   * gh_ 原始 ID 与微信号都不能拼成网址（微信明确 gh_ 无法在前台搜索到公众号），
+   * 因此用 schema.org 的 identifier 记录，不塞进 sameAs——
+   * sameAs 只放 Google 能实际抓取并验证的权威页面，塞打不开的链接反而是负信号。
+   */
+  wechat: {
+    originalId: 'gh_3aaf6f34c7a2',
+    accountId: 'Fin-Ark',
+  },
+  /** Organization JSON-LD 的官方身份标识，供 seo.ts 的 publisher / 首页实体共用。 */
+  orgIdentifiers: [
+    { '@type': 'PropertyValue', propertyID: 'WeChat Original ID', value: 'gh_3aaf6f34c7a2' },
+    { '@type': 'PropertyValue', propertyID: 'WeChat Official Account ID', value: 'Fin-Ark' },
+  ],
 } as const;
 
 export type AuthorCopy = {

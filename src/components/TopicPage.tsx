@@ -92,6 +92,33 @@ export default function TopicPage({
           </div>
         </header>
 
+        {/* ── 专题正文（支柱页主体，目前仅中文） ─────────── */}
+        {copy.body && (
+          <section className="mt-12">
+            <p dir="auto" className="text-slate-200 leading-[1.9] text-[15px] md:text-base">
+              {copy.body.lead}
+            </p>
+            <div className="mt-10 space-y-9">
+              {copy.body.sections.map((sec) => (
+                <div key={sec.heading}>
+                  <h2 dir="auto" className="font-serif-display text-xl md:text-2xl text-white leading-snug">
+                    {sec.heading}
+                  </h2>
+                  {sec.paragraphs.map((p, i) => (
+                    <p
+                      key={i}
+                      dir="auto"
+                      className="mt-3 text-slate-300 leading-[1.9] text-[15px] md:text-base"
+                    >
+                      {p}
+                    </p>
+                  ))}
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
         <div className="mt-10 h-px hairline" />
 
         {/* ── 聚合文章卡 ───────────────────────────────── */}

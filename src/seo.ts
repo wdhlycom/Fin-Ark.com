@@ -110,12 +110,14 @@ export function seoLinkTags(url: string, origin: string): string {
  * ------------------------------------------------------------------ */
 
 /**
- * 社交分享图：1200×630，全站共用一张（画面不含文字，四语言通用）。
- * 旧值 '/logo.png' 是 720×720 透明方图，分享到微信 / X / 领英会被裁切或留白边，已弃用。
- * 站点 Logo 由 SITE_LOGO 单独提供，不要拿分享图当 logo。
+ * 社交分享图：全站共用一张方形品牌图（720×720，四语言通用）。
+ * 用户 2026-11-09 拍板：不用 1200×630 横图，直接沿用原来的 LOGO 方图；
+ * 主要传播渠道是微信，X / Facebook / LinkedIn 的宽卡规格不是本站优先考虑。
+ * SITE_LOGO 与分享图目前指向同一个文件，但仍保留两个常量：以后若单独换分享图，
+ * 只改 DEFAULT_OG_IMAGE，不要动 SITE_LOGO（后者是 Organization / publisher 的品牌标记）。
  */
-export const DEFAULT_OG_IMAGE = '/og-share.jpg';
-/** 站点 Logo：Organization / publisher 的 logo 字段专用，必须是品牌标记而非风景图。 */
+export const DEFAULT_OG_IMAGE = '/logo.png';
+/** 站点 Logo：Organization / publisher 的 logo 字段专用，始终指向品牌标记。 */
 export const SITE_LOGO = '/logo.png';
 
 const OG_LOCALES: Record<Lang, string> = {
@@ -187,7 +189,7 @@ function computeSeoMeta(url: string, origin: string): SeoMeta {
     url: origin,
     logo: { '@type': 'ImageObject', url: logoUrl },
     // 站点本体跨平台身份（sameAs）：打通 Organization 实体与对外账号，E-E-A-T 权威信号
-    sameAs: AUTHOR.orgSameAs,
+    sameAs: AUTHOR.orgSameAs, identifier: AUTHOR.orgIdentifiers,
   };
 
   // ── 主题聚合页（topic hub，如 /gold-storage）─────────────────────
@@ -476,7 +478,7 @@ function computeSeoMeta(url: string, origin: string): SeoMeta {
         url: origin,
         logo: { '@type': 'ImageObject', url: logoUrl },
         description: clip(d.hero.subtitle, 200),
-        sameAs: AUTHOR.orgSameAs,
+        sameAs: AUTHOR.orgSameAs, identifier: AUTHOR.orgIdentifiers,
       },
       {
         '@context': 'https://schema.org',
@@ -484,7 +486,7 @@ function computeSeoMeta(url: string, origin: string): SeoMeta {
         name: brand,
         url: origin,
         inLanguage: [...LANGS],
-        publisher: { '@type': 'Organization', name: brand, sameAs: AUTHOR.orgSameAs },
+        publisher: { '@type': 'Organization', name: brand, sameAs: AUTHOR.orgSameAs, identifier: AUTHOR.orgIdentifiers },
       },
     ],
   };
@@ -583,9 +585,9 @@ export function seoHeadNodes(url: string, origin: string): SeoHeadNode[] {
     'og:description': description,
     'og:url': canonical,
     'og:image': image,
-    // 显式声明尺寸：平台不必先抓完图才能排版，首次分享即可正确出大图卡片
-    'og:image:width': '1200',
-    'og:image:height': '630',
+    // 显式声明尺寸：平台不必先抓完图才能排版
+    'og:image:width': '720',
+    'og:image:height': '720',
   };
   for (const [property, content] of Object.entries(openGraph)) {
     nodes.push({ tag: 'meta', attrs: { property, content } });
